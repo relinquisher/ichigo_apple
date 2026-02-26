@@ -210,7 +210,7 @@ struct AssessmentQuizScreen: View {
             : isSelected ? .incorrectOrange.opacity(0.1)
             : .clear
 
-        Button(action: { if !viewModel.isAnswered { viewModel.selectAnswer(index) } }) {
+        return Button(action: { if !viewModel.isAnswered { viewModel.selectAnswer(index) } }) {
             Text(choice)
                 .font(.body)
                 .frame(maxWidth: .infinity, alignment: .leading)
