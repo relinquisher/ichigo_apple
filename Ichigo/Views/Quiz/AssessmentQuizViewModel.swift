@@ -67,7 +67,7 @@ class AssessmentQuizViewModel {
         isBeginnerMode = masteredBefore < IrtConstants.beginnerMasteryThreshold
 
         quizWords = wordSelector.selectAssessmentWords(
-            allWords: allWords, stats: userStats, progressMap: progressMap, isBeginnerMode: isBeginnerMode
+            words: allWords, stats: userStats, progressMap: progressMap, isBeginnerMode: isBeginnerMode
         )
         originalQuestionCount = quizWords.count
 
