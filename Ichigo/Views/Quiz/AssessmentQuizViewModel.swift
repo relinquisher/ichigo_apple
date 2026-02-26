@@ -33,6 +33,7 @@ class AssessmentQuizViewModel {
     var isBeginnerMode = true
     var masteredCountAfter: Int = 0
     var answerEffectsPlayed = false
+    var hasIncorrectWords: Bool { !isReviewPhase && !incorrectWords.isEmpty }
 
     private let repository: WordRepository
     private let irtEngine = IrtEngine()

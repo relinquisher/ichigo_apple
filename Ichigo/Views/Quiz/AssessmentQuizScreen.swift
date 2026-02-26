@@ -159,7 +159,9 @@ struct AssessmentQuizScreen: View {
             // Next button
             if viewModel.isAnswered {
                 Button(action: { viewModel.nextQuestion() }) {
-                    Text(viewModel.currentIndex + 1 >= viewModel.totalQuestions ? "結果を見る" : "次の問題")
+                    Text(viewModel.currentIndex + 1 >= viewModel.totalQuestions
+                         ? (viewModel.hasIncorrectWords ? "復習に行く" : "結果を見る")
+                         : "次の問題")
                         .font(.headline)
                         .frame(maxWidth: .infinity)
                         .padding(.vertical, 14)
@@ -237,6 +239,7 @@ struct AssessmentQuizScreen: View {
                     RoundedRectangle(cornerRadius: 12)
                         .stroke(borderColor, lineWidth: 2)
                 )
+                .contentShape(Rectangle())
         }
         .buttonStyle(.plain)
         .padding(.horizontal)
