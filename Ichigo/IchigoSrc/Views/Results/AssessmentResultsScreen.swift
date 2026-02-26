@@ -86,7 +86,9 @@ struct AssessmentResultsScreen: View {
                 // Buttons
                 Button {
                     path = NavigationPath()
-                    path.append(QuizRoute(grade: grade))
+                    DispatchQueue.main.asyncAfter(deadline: .now() + 0.3) {
+                        path.append(QuizRoute(grade: grade))
+                    }
                 } label: {
                     Text("続ける")
                         .font(.title2)
