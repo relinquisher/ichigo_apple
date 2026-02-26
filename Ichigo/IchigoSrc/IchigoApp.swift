@@ -5,6 +5,7 @@ import SwiftData
 
 struct QuizRoute: Hashable {
     let grade: Int
+    let id = UUID()
 }
 
 struct ResultsRoute: Hashable {
