@@ -8,6 +8,7 @@ struct AssessmentQuizScreen: View {
     @State private var timerTask: Task<Void, Never>?
     @State private var exampleRevealed: Bool
     @State private var showExample = false
+    @State private var showResults = false
 
     @AppStorage("timer_seconds") private var timerSeconds: Int = 4
     @AppStorage("show_example_default") private var showExampleByDefault: Bool = true
@@ -22,22 +23,7 @@ struct AssessmentQuizScreen: View {
 
     var body: some View {
         ZStack {
-            if viewModel.isFinished {
-                AssessmentResultsScreen(
-                    grade: viewModel.grade,
-                    passProbBefore: viewModel.passProbBefore,
-                    passProbAfter: viewModel.passProbability,
-                    score: viewModel.score,
-                    total: viewModel.originalQuestionCount,
-                    forgottenDecay: viewModel.forgottenDecay,
-                    thetaBefore: viewModel.thetaBefore,
-                    maxDiffBeaten: viewModel.maxDifficultyBeaten,
-                    masteredCountBefore: viewModel.masteredCountBefore,
-                    isBeginnerMode: viewModel.isBeginnerMode,
-                    masteredCountAfter: viewModel.masteredCountAfter,
-                    repository: WordRepository(modelContext: modelContext)
-                )
-            } else if viewModel.showDebuffOverlay {
+            if viewModel.showDebuffOverlay {
                 debuffOverlay
             } else if viewModel.isLoading {
                 ProgressView()
@@ -61,6 +47,22 @@ struct AssessmentQuizScreen: View {
                 }
             }
         }
+        .navigationDestination(isPresented: $showResults) {
+            AssessmentResultsScreen(
+                grade: viewModel.grade,
+                passProbBefore: viewModel.passProbBefore,
+                passProbAfter: viewModel.passProbability,
+                score: viewModel.score,
+                total: viewModel.originalQuestionCount,
+                forgottenDecay: viewModel.forgottenDecay,
+                thetaBefore: viewModel.thetaBefore,
+                maxDiffBeaten: viewModel.maxDifficultyBeaten,
+                masteredCountBefore: viewModel.masteredCountBefore,
+                isBeginnerMode: viewModel.isBeginnerMode,
+                masteredCountAfter: viewModel.masteredCountAfter,
+                repository: WordRepository(modelContext: modelContext)
+            )
+        }
         .onChange(of: viewModel.currentIndex) {
             showExample = showExampleByDefault
             startTimer()
@@ -74,6 +76,9 @@ struct AssessmentQuizScreen: View {
                 timerTask?.cancel()
                 playAnswerSound()
             }
+        }
+        .onChange(of: viewModel.isFinished) {
+            if viewModel.isFinished { showResults = true }
         }
         .onAppear {
             showExample = showExampleByDefault
