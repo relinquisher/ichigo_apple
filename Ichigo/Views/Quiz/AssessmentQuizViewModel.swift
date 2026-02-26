@@ -44,7 +44,7 @@ class AssessmentQuizViewModel {
     private var quizWords: [Word] = []
     private var userStats: UserStats!
     private var incorrectWords: [Word] = []
-    private var originalQuestionCount = 0
+    var originalQuestionCount = 0
     private var studiedWordIds: Set<Int> = []
 
     init(grade: Int, repository: WordRepository) {
