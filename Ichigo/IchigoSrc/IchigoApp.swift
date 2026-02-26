@@ -90,10 +90,7 @@ struct ContentView: View {
         NavigationStack(path: $path) {
             HomeScreen(repository: WordRepository(modelContext: modelContext))
                 .navigationDestination(for: QuizRoute.self) { route in
-                    AssessmentQuizScreen(grade: route.grade, repository: WordRepository(modelContext: modelContext))
-                        .onChange(of: quizFinished(route.grade)) { _, finished in
-                            // Quiz -> Results navigation is handled within the quiz screen
-                        }
+                    AssessmentQuizScreen(grade: route.grade, repository: WordRepository(modelContext: modelContext), path: $path)
                 }
                 .navigationDestination(for: ResultsRoute.self) { route in
                     AssessmentResultsScreen(
@@ -108,7 +105,8 @@ struct ContentView: View {
                         masteredCountBefore: route.masteredCountBefore,
                         isBeginnerMode: route.isBeginnerMode,
                         masteredCountAfter: route.masteredCountAfter,
-                        repository: WordRepository(modelContext: modelContext)
+                        repository: WordRepository(modelContext: modelContext),
+                        path: $path
                     )
                 }
                 .navigationDestination(for: SettingsRoute.self) { _ in
@@ -119,6 +117,4 @@ struct ContentView: View {
                 }
         }
     }
-
-    private func quizFinished(_ grade: Int) -> Bool { false }
 }

@@ -15,6 +15,7 @@ struct AssessmentResultsScreen: View {
     let masteredCountAfter: Int
 
     let repository: WordRepository
+    @Binding var path: NavigationPath
 
     @State private var animatedProgress: Float
     @State private var hasAnimated = false
@@ -23,7 +24,7 @@ struct AssessmentResultsScreen: View {
     init(grade: Int, passProbBefore: Float, passProbAfter: Float, score: Int, total: Int,
          forgottenDecay: Float, thetaBefore: Float, maxDiffBeaten: Float,
          masteredCountBefore: Int, isBeginnerMode: Bool, masteredCountAfter: Int,
-         repository: WordRepository) {
+         repository: WordRepository, path: Binding<NavigationPath>) {
         self.grade = grade
         self.passProbBefore = passProbBefore
         self.passProbAfter = passProbAfter
@@ -36,6 +37,7 @@ struct AssessmentResultsScreen: View {
         self.isBeginnerMode = isBeginnerMode
         self.masteredCountAfter = masteredCountAfter
         self.repository = repository
+        _path = path
         _animatedProgress = State(initialValue: passProbBefore)
     }
 
@@ -82,7 +84,10 @@ struct AssessmentResultsScreen: View {
                 )
 
                 // Buttons
-                NavigationLink(value: QuizRoute(grade: grade)) {
+                Button {
+                    path = NavigationPath()
+                    path.append(QuizRoute(grade: grade))
+                } label: {
                     Text("続ける")
                         .font(.title2)
                         .fontWeight(.bold)
@@ -93,7 +98,9 @@ struct AssessmentResultsScreen: View {
                         .cornerRadius(16)
                 }
 
-                NavigationLink(value: HomeRoute()) {
+                Button {
+                    path = NavigationPath()
+                } label: {
                     Text("ホームに戻る")
                         .font(.title2)
                         .frame(maxWidth: .infinity)

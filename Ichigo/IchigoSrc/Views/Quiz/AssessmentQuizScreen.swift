@@ -2,23 +2,23 @@ import SwiftUI
 import AVFoundation
 
 struct AssessmentQuizScreen: View {
-    @Environment(\.modelContext) private var modelContext
     @State var viewModel: AssessmentQuizViewModel
     @State private var timerProgress: Double = 1.0
     @State private var timerTask: Task<Void, Never>?
     @State private var exampleRevealed: Bool
     @State private var showExample = false
-    @State private var showResults = false
+    @Binding var path: NavigationPath
 
     @AppStorage("timer_seconds") private var timerSeconds: Int = 4
     @AppStorage("show_example_default") private var showExampleByDefault: Bool = true
 
     private let ttsManager = TtsManager()
 
-    init(grade: Int, repository: WordRepository) {
+    init(grade: Int, repository: WordRepository, path: Binding<NavigationPath>) {
         let vm = AssessmentQuizViewModel(grade: grade, repository: repository)
         _viewModel = State(initialValue: vm)
         _exampleRevealed = State(initialValue: false)
+        _path = path
     }
 
     var body: some View {
@@ -47,22 +47,6 @@ struct AssessmentQuizScreen: View {
                 }
             }
         }
-        .navigationDestination(isPresented: $showResults) {
-            AssessmentResultsScreen(
-                grade: viewModel.grade,
-                passProbBefore: viewModel.passProbBefore,
-                passProbAfter: viewModel.passProbability,
-                score: viewModel.score,
-                total: viewModel.originalQuestionCount,
-                forgottenDecay: viewModel.forgottenDecay,
-                thetaBefore: viewModel.thetaBefore,
-                maxDiffBeaten: viewModel.maxDifficultyBeaten,
-                masteredCountBefore: viewModel.masteredCountBefore,
-                isBeginnerMode: viewModel.isBeginnerMode,
-                masteredCountAfter: viewModel.masteredCountAfter,
-                repository: WordRepository(modelContext: modelContext)
-            )
-        }
         .onChange(of: viewModel.currentIndex) {
             showExample = showExampleByDefault
             startTimer()
@@ -78,7 +62,21 @@ struct AssessmentQuizScreen: View {
             }
         }
         .onChange(of: viewModel.isFinished) {
-            if viewModel.isFinished { showResults = true }
+            if viewModel.isFinished {
+                path.append(ResultsRoute(
+                    grade: viewModel.grade,
+                    passProbBefore: viewModel.passProbBefore,
+                    passProbAfter: viewModel.passProbability,
+                    score: viewModel.score,
+                    total: viewModel.originalQuestionCount,
+                    forgottenDecay: viewModel.forgottenDecay,
+                    thetaBefore: viewModel.thetaBefore,
+                    maxDiffBeaten: viewModel.maxDifficultyBeaten,
+                    masteredCountBefore: viewModel.masteredCountBefore,
+                    isBeginnerMode: viewModel.isBeginnerMode,
+                    masteredCountAfter: viewModel.masteredCountAfter
+                ))
+            }
         }
         .onAppear {
             showExample = showExampleByDefault
