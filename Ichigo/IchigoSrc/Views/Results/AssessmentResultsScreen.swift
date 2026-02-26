@@ -85,11 +85,17 @@ struct AssessmentResultsScreen: View {
 
                 // Buttons
                 Button {
-                    var transaction = Transaction()
-                    transaction.disablesAnimations = true
-                    withTransaction(transaction) {
+                    var t = Transaction()
+                    t.disablesAnimations = true
+                    withTransaction(t) {
                         path = NavigationPath()
-                        path.append(QuizRoute(grade: grade))
+                    }
+                    DispatchQueue.main.asyncAfter(deadline: .now() + 0.1) {
+                        var t2 = Transaction()
+                        t2.disablesAnimations = true
+                        withTransaction(t2) {
+                            path.append(QuizRoute(grade: grade))
+                        }
                     }
                 } label: {
                     Text("続ける")
