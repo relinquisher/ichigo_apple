@@ -265,9 +265,9 @@ struct AssessmentQuizScreen: View {
                         .foregroundColor(.strawberry)
                 }
             }
-            Text(highlightedEnglish(question: question))
+            Text(highlightedEnglish(question: question, font: .title3))
                 .font(.title3)
-            Text(highlightedJapanese(question: question))
+            Text(highlightedJapanese(question: question, font: .subheadline))
                 .font(.subheadline)
                 .foregroundColor(.secondary)
         }
@@ -299,9 +299,9 @@ struct AssessmentQuizScreen: View {
                             .foregroundColor(.strawberry)
                     }
                 }
-                Text(highlightedEnglish(question: question))
+                Text(highlightedEnglish(question: question, font: .title2))
                     .font(.title2)
-                Text(highlightedJapanese(question: question))
+                Text(highlightedJapanese(question: question, font: .body))
                     .font(.body)
                     .foregroundColor(.secondary)
             }
@@ -334,19 +334,19 @@ struct AssessmentQuizScreen: View {
 
     // MARK: - Helpers
 
-    private func highlightedEnglish(question: QuizQuestion) -> AttributedString {
+    private func highlightedEnglish(question: QuizQuestion, font: Font) -> AttributedString {
         let sentence = question.word.exampleEn
         var attr = AttributedString(sentence)
         if let range = PhraseExtractor.extractPhraseRange(word: question.word.word, category: question.word.category, sentence: sentence) {
             let startIdx = attr.index(attr.startIndex, offsetByCharacters: range.start)
             let endIdx = attr.index(attr.startIndex, offsetByCharacters: min(range.end + 1, sentence.count))
-            attr[startIdx..<endIdx].inlinePresentationIntent = .stronglyEmphasized
+            attr[startIdx..<endIdx].font = font.bold()
             attr[startIdx..<endIdx].foregroundColor = .primary
         }
         return attr
     }
 
-    private func highlightedJapanese(question: QuizQuestion) -> AttributedString {
+    private func highlightedJapanese(question: QuizQuestion, font: Font) -> AttributedString {
         let sentence = question.word.exampleJa
         var attr = AttributedString(sentence)
         if let range = PhraseExtractor.findMeaningRange(meaning: question.word.meaning, sentence: sentence) {
@@ -354,7 +354,7 @@ struct AssessmentQuizScreen: View {
             if range.start < endChar {
                 let startIdx = attr.index(attr.startIndex, offsetByCharacters: range.start)
                 let endIdx = attr.index(attr.startIndex, offsetByCharacters: endChar)
-                attr[startIdx..<endIdx].inlinePresentationIntent = .stronglyEmphasized
+                attr[startIdx..<endIdx].font = font.bold()
                 attr[startIdx..<endIdx].foregroundColor = .primary
             }
         }
