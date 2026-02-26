@@ -13722,10 +13722,10 @@
     "ipa": "/rɪˈzaɪnɪŋ/",
     "examFrequency": 1,
     "phrase": "resigning due to",
-    "phrase_meaning": "辞任のため",
-    "dummy1": "就任のため",
-    "dummy2": "睡眠のため",
-    "dummy3": "居住のため"
+    "phrase_meaning": "～のせいで辞任する",
+    "dummy1": "～のせいで就任する",
+    "dummy2": "～のせいで休職する",
+    "dummy3": "～のせいで着任する"
   },
   {
     "id": 859,
