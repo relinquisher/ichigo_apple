@@ -19,6 +19,7 @@ struct AssessmentResultsScreen: View {
 
     @State private var animatedProgress: Float
     @State private var hasAnimated = false
+    @State private var isFading = false
     @State private var preloadedPlayer: AVAudioPlayer?
 
     init(grade: Int, passProbBefore: Float, passProbAfter: Float, score: Int, total: Int,
@@ -85,9 +86,14 @@ struct AssessmentResultsScreen: View {
 
                 // Buttons
                 Button {
-                    path = NavigationPath()
-                    DispatchQueue.main.asyncAfter(deadline: .now() + 0.3) {
-                        path.append(QuizRoute(grade: grade))
+                    withAnimation(.easeIn(duration: 0.3)) {
+                        isFading = true
+                    }
+                    DispatchQueue.main.asyncAfter(deadline: .now() + 0.35) {
+                        path = NavigationPath()
+                        DispatchQueue.main.asyncAfter(deadline: .now() + 0.1) {
+                            path.append(QuizRoute(grade: grade))
+                        }
                     }
                 } label: {
                     Text("続ける")
@@ -114,6 +120,12 @@ struct AssessmentResultsScreen: View {
                 }
             }
             .padding(32)
+        }
+        .overlay {
+            if isFading {
+                Color.cream
+                    .ignoresSafeArea()
+            }
         }
         .navigationBarBackButtonHidden(true)
         .onAppear {
