@@ -188,7 +188,7 @@
     "phrase": "apprehend the suspect",
     "phrase_meaning": "容疑者を逮捕する",
     "dummy1": "容疑者を釈放する",
-    "dummy2": "容疑者を収容する",
+    "dummy2": "容疑者を尋問する",
     "dummy3": "容疑者を特定する"
   },
   {
@@ -556,8 +556,8 @@
     "phrase": "academic credentials",
     "phrase_meaning": "学歴",
     "dummy1": "学術的な評価",
-    "dummy2": "学術的な証明書",
-    "dummy3": "学術的な記録"
+    "dummy2": "経済的な支援",
+    "dummy3": "創造的なアイデア"
   },
   {
     "id": 36,
@@ -636,8 +636,8 @@
     "phrase": "A vitamin D deficiency",
     "phrase_meaning": "ビタミンD欠乏症",
     "dummy1": "ビタミンD過剰症",
-    "dummy2": "ビタミンD測定症",
-    "dummy3": "ビタミンD反抗症"
+    "dummy2": "ビタミンDの効率",
+    "dummy3": "ビタミンDへの抵抗"
   },
   {
     "id": 41,
@@ -844,8 +844,8 @@
     "phrase": "eligible to vote",
     "phrase_meaning": "投票資格がある",
     "dummy1": "投票資格がない",
-    "dummy2": "投票の光沢がある",
-    "dummy3": "投票に読みにくさがある"
+    "dummy2": "投票の義務がある",
+    "dummy3": "投票の経験がある"
   },
   {
     "id": 54,
@@ -892,8 +892,8 @@
     "phrase": "Scientific endeavor",
     "phrase_meaning": "科学的努力",
     "dummy1": "科学的怠惰",
-    "dummy2": "科学的色彩",
-    "dummy3": "科学的耐久"
+    "dummy2": "科学的発見",
+    "dummy3": "科学的理論"
   },
   {
     "id": 57,
@@ -925,7 +925,7 @@
     "phrase_meaning": "全体的な健康を向上させる",
     "dummy1": "全体的な健康を低下させる",
     "dummy2": "全体的な健康を破壊する",
-    "dummy3": "全体的な健康を魅了する"
+    "dummy3": "全体的な健康を維持する"
   },
   {
     "id": 59,
@@ -1917,7 +1917,7 @@
     "phrase_meaning": "主に都市部",
     "dummy1": "ほとんど都市部ではない",
     "dummy2": "偶然に都市部",
-    "dummy3": "窮地に都市部"
+    "dummy3": "一時的に都市部"
   },
   {
     "id": 121,
@@ -2157,7 +2157,7 @@
     "phrase_meaning": "道路を通行不能にした",
     "dummy1": "道路を通行不能に崩壊させた",
     "dummy2": "道路を通行不能に見せた",
-    "dummy3": "道路を通行不能に悪化させた"
+    "dummy3": "道路を通行不能に報告した"
   },
   {
     "id": 136,
@@ -2365,7 +2365,7 @@
     "phrase_meaning": "よく読む",
     "dummy1": "ざっと読む",
     "dummy2": "書く",
-    "dummy3": "通して読む"
+    "dummy3": "声に出して読む"
   },
   {
     "id": 149,
@@ -2525,7 +2525,7 @@
     "phrase_meaning": "～と知り合いである",
     "dummy1": "～と知り合いでない",
     "dummy2": "～に無関心である",
-    "dummy3": "～に疎い"
+    "dummy3": "～を尊敬している"
   },
   {
     "id": 159,
@@ -3100,7 +3100,7 @@
     "phrase": "scientific apparatus",
     "phrase_meaning": "科学機器",
     "dummy1": "科学のガラクタ",
-    "dummy2": "科学の睡眠",
+    "dummy2": "科学の論文",
     "dummy3": "科学の見かけ"
   },
   {
@@ -3164,8 +3164,8 @@
     "phrase": "erupted in applause",
     "phrase_meaning": "拍手喝采が沸き起こった",
     "dummy1": "非難が沸き起こった",
-    "dummy2": "家具が沸き起こった",
-    "dummy3": "家電が沸き起こった"
+    "dummy2": "ため息が沸き起こった",
+    "dummy3": "笑いが沸き起こった"
   },
   {
     "id": 199,
@@ -3180,8 +3180,8 @@
     "phrase": "modern appliances",
     "phrase_meaning": "現代の家電製品",
     "dummy1": "現代の手作業品",
-    "dummy2": "現代の感情製品",
-    "dummy3": "現代の同盟製品"
+    "dummy2": "現代の応用製品",
+    "dummy3": "現代の建築資材"
   },
   {
     "id": 200,
@@ -3372,8 +3372,8 @@
     "phrase": "a wide assortment of",
     "phrase_meaning": "幅広い品揃え",
     "dummy1": "狭い品揃え",
-    "dummy2": "幅広い種類",
-    "dummy3": "幅広い品目"
+    "dummy2": "幅広い知識",
+    "dummy3": "幅広い道路"
   },
   {
     "id": 212,
@@ -3388,7 +3388,7 @@
     "phrase": "His assumption that",
     "phrase_meaning": "彼の仮定は",
     "dummy1": "彼の事実は",
-    "dummy2": "彼の憶測は",
+    "dummy2": "彼の結論は",
     "dummy3": "彼の見解は"
   },
   {
@@ -3421,7 +3421,7 @@
     "phrase_meaning": "世界平和の達成",
     "dummy1": "世界平和の阻止",
     "dummy2": "世界平和の維持",
-    "dummy3": "世界平和の実現"
+    "dummy3": "世界平和の祈願"
   },
   {
     "id": 215,
@@ -3436,8 +3436,8 @@
     "phrase": "listened attentively to",
     "phrase_meaning": "注意深く聞いた",
     "dummy1": "不注意に聞いた",
-    "dummy2": "熱心に聞いた",
-    "dummy3": "真剣に聞いた"
+    "dummy2": "大声で聞いた",
+    "dummy3": "偶然に聞いた"
   },
   {
     "id": 216,
@@ -3484,7 +3484,7 @@
     "phrase": "an awkward silence",
     "phrase_meaning": "気まずい沈黙",
     "dummy1": "心地よい沈黙",
-    "dummy2": "重い沈黙",
+    "dummy2": "完全な沈黙",
     "dummy3": "長い沈黙"
   },
   {
@@ -3501,7 +3501,7 @@
     "phrase_meaning": "注文の積み残し",
     "dummy1": "注文の全品納入",
     "dummy2": "注文の処理完了",
-    "dummy3": "注文の滞留"
+    "dummy3": "注文のキャンセル"
   },
   {
     "id": 220,
@@ -3532,8 +3532,8 @@
     "phrase": "barely passed",
     "phrase_meaning": "かろうじて合格",
     "dummy1": "楽々合格",
-    "dummy2": "なんとか合格",
-    "dummy3": "ようやく合格"
+    "dummy2": "完全に合格",
+    "dummy3": "正式に合格"
   },
   {
     "id": 222,
@@ -3548,7 +3548,7 @@
     "phrase": "built a barricade",
     "phrase_meaning": "バリケードを築いた",
     "dummy1": "小屋を築いた",
-    "dummy2": "防御壁を築いた",
+    "dummy2": "橋を架けた",
     "dummy3": "要塞を築いた"
   },
   {
@@ -3565,7 +3565,7 @@
     "phrase_meaning": "恥ずかしがり屋の子供",
     "dummy1": "厚かましい子供",
     "dummy2": "おとなしい子供",
-    "dummy3": "内気な子供"
+    "dummy3": "活発な子供"
   },
   {
     "id": 224,
@@ -3596,8 +3596,8 @@
     "phrase": "barely bearable",
     "phrase_meaning": "ほとんど耐えられない",
     "dummy1": "ほとんど避けられない",
-    "dummy2": "ほとんど許容できない",
-    "dummy3": "ほとんど我慢できない"
+    "dummy2": "ほとんど理解できない",
+    "dummy3": "ほとんど信じられない"
   },
   {
     "id": 226,
@@ -3628,7 +3628,7 @@
     "phrase": "place a bid",
     "phrase_meaning": "入札する",
     "dummy1": "購入する",
-    "dummy2": "応札する",
+    "dummy2": "辞退する",
     "dummy3": "提案する"
   },
   {
@@ -3724,7 +3724,7 @@
     "phrase": "the blueprint for the new library",
     "phrase_meaning": "新しい図書館の青写真",
     "dummy1": "新しい図書館の残骸",
-    "dummy2": "新しい図書館の設計図",
+    "dummy2": "新しい図書館の模型",
     "dummy3": "新しい図書館の完成予想図"
   },
   {
@@ -3756,7 +3756,7 @@
     "phrase": "a boom",
     "phrase_meaning": "ブーム",
     "dummy1": "不況",
-    "dummy2": "流行",
+    "dummy2": "伝統",
     "dummy3": "低迷"
   },
   {
@@ -3804,8 +3804,8 @@
     "phrase": "bothersome mosquitoes",
     "phrase_meaning": "厄介な蚊",
     "dummy1": "好ましい蚊",
-    "dummy2": "迷惑な蚊",
-    "dummy3": "邪魔な蚊"
+    "dummy2": "無害な蚊",
+    "dummy3": "珍しい蚊"
   },
   {
     "id": 239,
@@ -4013,7 +4013,7 @@
     "phrase_meaning": "捕虜たちは",
     "dummy1": "解放者たちは",
     "dummy2": "未来たちは",
-    "dummy3": "見出したちは"
+    "dummy3": "船長たちは"
   },
   {
     "id": 252,
@@ -4411,7 +4411,7 @@
     "examFrequency": 1,
     "phrase": "coarse against her delicate skin",
     "phrase_meaning": "彼女の繊細な肌には粗い",
-    "dummy1": "彼女の繊細な肌には粗末な",
+    "dummy1": "彼女の繊細な肌には硬い",
     "dummy2": "彼女の繊細な肌には賢い",
     "dummy3": "彼女の繊細な肌には耐え難い"
   },
@@ -5036,8 +5036,8 @@
     "phrase": "Contrary to popular belief",
     "phrase_meaning": "一般的な考えとは反対に",
     "dummy1": "一般的な考えとは一致して",
-    "dummy2": "一般的な考えとは計算に",
-    "dummy3": "一般的な考えとは国に"
+    "dummy2": "一般的な考えとは無関係に",
+    "dummy3": "一般的な考えとは別個に"
   },
   {
     "id": 316,
@@ -5165,7 +5165,7 @@
     "phrase_meaning": "長い廊下を下って",
     "dummy1": "長い行き止まりを下って",
     "dummy2": "長い幸福を下って",
-    "dummy3": "長い心からのを下って"
+    "dummy3": "長い階段を下って"
   },
   {
     "id": 324,
@@ -5404,7 +5404,7 @@
     "phrase": "a cultivated woman",
     "phrase_meaning": "教養のある女性",
     "dummy1": "粗野な女性",
-    "dummy2": "無作法な女性",
+    "dummy2": "無知な女性",
     "dummy3": "計算された女性"
   },
   {
@@ -5836,7 +5836,7 @@
     "phrase": "densely populated",
     "phrase_meaning": "人口密度が高い",
     "dummy1": "人口密度が低い",
-    "dummy2": "人口密度が遅い",
+    "dummy2": "人口密度が平均的",
     "dummy3": "人口密度が不安定"
   },
   {
@@ -5884,7 +5884,7 @@
     "phrase": "bus depot",
     "phrase_meaning": "バス車庫",
     "dummy1": "バス解体場",
-    "dummy2": "バス鉛筆",
+    "dummy2": "バス停",
     "dummy3": "バス預金"
   },
   {
@@ -6589,7 +6589,7 @@
     "phrase_meaning": "問題について意見が分かれる",
     "dummy1": "問題について意見が一致する",
     "dummy2": "問題について意見を提出する",
-    "dummy3": "問題について意見をむさぼり食う"
+    "dummy3": "問題について意見を無視する"
   },
   {
     "id": 413,
@@ -6620,7 +6620,7 @@
     "phrase": "marketing division",
     "phrase_meaning": "マーケティング部門",
     "dummy1": "マーケティング統合",
-    "dummy2": "マーケティング雲",
+    "dummy2": "マーケティング戦略",
     "dummy3": "マーケティング献身"
   },
   {
@@ -6636,7 +6636,7 @@
     "phrase": "military doctrine",
     "phrase_meaning": "軍事教義",
     "dummy1": "軍事迷信",
-    "dummy2": "軍事風味",
+    "dummy2": "軍事戦略",
     "dummy3": "軍事医者"
   },
   {
@@ -6861,7 +6861,7 @@
     "phrase_meaning": "人口減少",
     "dummy1": "人口増加",
     "dummy2": "人口破壊",
-    "dummy3": "人口曲がりくねり"
+    "dummy3": "人口維持"
   },
   {
     "id": 430,
@@ -7037,7 +7037,7 @@
     "phrase_meaning": "雄弁に話した",
     "dummy1": "しどろもどろに話した",
     "dummy2": "機械的に話した",
-    "dummy3": "優雅に話した"
+    "dummy3": "静かに話した"
   },
   {
     "id": 441,
@@ -7228,7 +7228,7 @@
     "phrase": "Young entrepreneurs",
     "phrase_meaning": "若い起業家",
     "dummy1": "若い従業員",
-    "dummy2": "若い天気",
+    "dummy2": "若い科学者",
     "dummy3": "若い芸能人"
   },
   {
@@ -7275,9 +7275,9 @@
     "examFrequency": 1,
     "phrase": "solve the complex equation",
     "phrase_meaning": "複雑な方程式を解く",
-    "dummy1": "複雑な答えを解く",
-    "dummy2": "複雑な椅子を解く",
-    "dummy3": "複雑な赤道を解く"
+    "dummy1": "複雑な問題を解く",
+    "dummy2": "複雑なパズルを解く",
+    "dummy3": "複雑な暗号を解く"
   },
   {
     "id": 456,
@@ -7293,7 +7293,7 @@
     "phrase_meaning": "貧困を根絶する",
     "dummy1": "貧困を増加させる",
     "dummy2": "貧困を計算する",
-    "dummy3": "貧困を灌漑する"
+    "dummy3": "貧困を調査する"
   },
   {
     "id": 457,
@@ -7581,7 +7581,7 @@
     "phrase_meaning": "圧力をかける",
     "dummy1": "圧力を取り除く",
     "dummy2": "圧力を歌う",
-    "dummy3": "圧力を出る"
+    "dummy3": "圧力を測る"
   },
   {
     "id": 475,
@@ -8669,7 +8669,7 @@
     "phrase_meaning": "グロテスクな顔",
     "dummy1": "美しい顔",
     "dummy2": "静かな顔",
-    "dummy3": "卒業した顔"
+    "dummy3": "無表情な顔"
   },
   {
     "id": 543,
@@ -8732,8 +8732,8 @@
     "phrase": "habitual lateness",
     "phrase_meaning": "習慣的な遅刻",
     "dummy1": "一時的な遅刻",
-    "dummy2": "美味しい遅刻",
-    "dummy3": "居住可能な遅刻"
+    "dummy2": "意図的な遅刻",
+    "dummy3": "深刻な遅刻"
   },
   {
     "id": 547,
@@ -8893,7 +8893,7 @@
     "phrase_meaning": "霞んだ朝の空気",
     "dummy1": "澄んだ朝の空気",
     "dummy2": "重い朝の空気",
-    "dummy3": "怠惰な朝の空気"
+    "dummy3": "冷たい朝の空気"
   },
   {
     "id": 557,
@@ -8956,8 +8956,8 @@
     "phrase": "watched helplessly",
     "phrase_meaning": "無力に見守った",
     "dummy1": "力強く見守った",
-    "dummy2": "美味しく見守った",
-    "dummy3": "健康的に見守った"
+    "dummy2": "静かに見守った",
+    "dummy3": "遠くから見守った"
   },
   {
     "id": 561,
@@ -9835,7 +9835,7 @@
     "examFrequency": 1,
     "phrase": "academic institution",
     "phrase_meaning": "学術機関",
-    "dummy1": "学術無組織",
+    "dummy1": "学術論文",
     "dummy2": "学術石",
     "dummy3": "学術指示"
   },
@@ -10139,9 +10139,9 @@
     "examFrequency": 1,
     "phrase": "the question was irrelevant",
     "phrase_meaning": "その質問は無関係だった",
-    "dummy1": "その質問は適切なだった",
-    "dummy2": "その質問は美味しいだった",
-    "dummy3": "その質問は無責任なだった"
+    "dummy1": "その質問は適切だった",
+    "dummy2": "その質問は美味しかった",
+    "dummy3": "その質問は無責任だった"
   },
   {
     "id": 635,
@@ -10285,7 +10285,7 @@
     "phrase_meaning": "集中力が一瞬途切れる",
     "dummy1": "集中力が一瞬持続する",
     "dummy2": "集中力が一瞬計算する",
-    "dummy3": "集中力が一瞬賃貸する"
+    "dummy3": "集中力が一瞬増加する"
   },
   {
     "id": 644,
@@ -11404,8 +11404,8 @@
     "phrase": "needlessly worried",
     "phrase_meaning": "不必要に心配する",
     "dummy1": "入念に心配する",
-    "dummy2": "美味しく心配する",
-    "dummy3": "きれいに心配する"
+    "dummy2": "過度に心配する",
+    "dummy3": "静かに心配する"
   },
   {
     "id": 714,
@@ -11500,8 +11500,8 @@
     "phrase": "Musical notation",
     "phrase_meaning": "楽譜",
     "dummy1": "楽音",
-    "dummy2": "楽鉛筆",
-    "dummy3": "楽国"
+    "dummy2": "楽器",
+    "dummy3": "楽曲"
   },
   {
     "id": 720,
@@ -11533,7 +11533,7 @@
     "phrase_meaning": "本当に迷惑なもの",
     "dummy1": "本当に役立つな",
     "dummy2": "本当に四角いな",
-    "dummy3": "本当に多数のな"
+    "dummy3": "本当に多数のもの"
   },
   {
     "id": 722,
@@ -12157,7 +12157,7 @@
     "phrase_meaning": "有名な政治家のパロディ",
     "dummy1": "有名な政治家の原型",
     "dummy2": "有名な政治家の輸送",
-    "dummy3": "有名な政治家の同等"
+    "dummy3": "有名な政治家の伝記"
   },
   {
     "id": 761,
@@ -12492,7 +12492,7 @@
     "phrase": "pinpoint the exact cause",
     "phrase_meaning": "正確な原因を特定する",
     "dummy1": "正確な原因を曖昧にする",
-    "dummy2": "正確な原因を料理する",
+    "dummy2": "正確な原因を隠蔽する",
     "dummy3": "正確な原因を印刷する"
   },
   {
@@ -12540,8 +12540,8 @@
     "phrase": "pitched her business idea to a group of investors",
     "phrase_meaning": "彼女は投資家グループにビジネスアイデアを売り込んだ",
     "dummy1": "彼女は投資家グループにビジネスアイデアを撤回した",
-    "dummy2": "彼女は投資家グループにビジネスアイデアを運転した",
-    "dummy3": "彼女は投資家グループにビジネスアイデアをつねった"
+    "dummy2": "彼女は投資家グループにビジネスアイデアを隠した",
+    "dummy3": "彼女は投資家グループにビジネスアイデアを盗んだ"
   },
   {
     "id": 785,
@@ -12683,7 +12683,7 @@
     "examFrequency": 1,
     "phrase": "play a prank",
     "phrase_meaning": "いたずらをする",
-    "dummy1": "誠実にする",
+    "dummy1": "謝罪をする",
     "dummy2": "予約をする",
     "dummy3": "印刷をする"
   },
@@ -12699,7 +12699,7 @@
     "examFrequency": 1,
     "phrase": "be preceded by",
     "phrase_meaning": "～に先行される",
-    "dummy1": "後続する",
+    "dummy1": "先行する",
     "dummy2": "無視する",
     "dummy3": "予測する"
   },
@@ -12811,8 +12811,8 @@
     "examFrequency": 1,
     "phrase": "previously worked",
     "phrase_meaning": "以前働いていた",
-    "dummy1": "今後働いていた",
-    "dummy2": "りんご働いていた",
+    "dummy1": "最近働いていた",
+    "dummy2": "密かに働いていた",
     "dummy3": "王子で働いていた"
   },
   {
@@ -13148,7 +13148,7 @@
     "phrase": "ranking in the global survey",
     "phrase_meaning": "世界調査でのランキング",
     "dummy1": "世界調査での信頼",
-    "dummy2": "世界調査での結果",
+    "dummy2": "世界調査での目的",
     "dummy3": "世界調査での銀行業務"
   },
   {
@@ -13613,7 +13613,7 @@
     "phrase_meaning": "あまりにも遠くて",
     "dummy1": "あまりにも近くて",
     "dummy2": "あまりにも汚くて",
-    "dummy3": "あまりにも取り除いて"
+    "dummy3": "あまりにも古くて"
   },
   {
     "id": 852,
@@ -13725,7 +13725,7 @@
     "phrase_meaning": "～のせいで辞任する",
     "dummy1": "～のせいで就任する",
     "dummy2": "～のせいで休職する",
-    "dummy3": "～のせいで着任する"
+    "dummy3": "～のせいで解雇される"
   },
   {
     "id": 859,
@@ -13885,7 +13885,7 @@
     "phrase_meaning": "彼女は自分の足跡をたどった",
     "dummy1": "彼女は自分の足跡を消した",
     "dummy2": "彼女は自分の足跡を飾った",
-    "dummy3": "彼女は自分の足跡を引退した"
+    "dummy3": "彼女は自分の足跡を無視した"
   },
   {
     "id": 869,
@@ -14060,7 +14060,7 @@
     "phrase": "A riot broke out",
     "phrase_meaning": "暴動が起こった",
     "dummy1": "平穏が起こった",
-    "dummy2": "鉛筆が起こった",
+    "dummy2": "祭りが始まった",
     "dummy3": "腐敗が起こった"
   },
   {
@@ -14076,8 +14076,8 @@
     "phrase": "performs ancient rituals",
     "phrase_meaning": "古代の儀式を行う",
     "dummy1": "古代の冒涜を行う",
-    "dummy2": "古代の道路を行う",
-    "dummy3": "古代の競争相手を行う"
+    "dummy2": "古代の航海を行う",
+    "dummy3": "古代の取引を行う"
   },
   {
     "id": 881,
@@ -14269,7 +14269,7 @@
     "phrase_meaning": "信じられない",
     "dummy1": "信じられる",
     "dummy2": "忘れる",
-    "dummy3": "疑う"
+    "dummy3": "無視する"
   },
   {
     "id": 893,
@@ -14380,8 +14380,8 @@
     "phrase": "suffer a seizure",
     "phrase_meaning": "発作を起こす",
     "dummy1": "安定を起こす",
-    "dummy2": "鉛筆を起こす",
-    "dummy3": "余暇を起こす"
+    "dummy2": "議論を起こす",
+    "dummy3": "奇跡を起こす"
   },
   {
     "id": 900,
@@ -14428,8 +14428,8 @@
     "phrase": "delivered powerful sermons",
     "phrase_meaning": "力強い説教をした",
     "dummy1": "力強い冗談をした",
-    "dummy2": "力強い道路をした",
-    "dummy3": "力強い鮭をした"
+    "dummy2": "力強い工事をした",
+    "dummy3": "力強い質問をした"
   },
   {
     "id": 903,
@@ -14493,7 +14493,7 @@
     "phrase_meaning": "窓を粉々に砕いた",
     "dummy1": "窓を修復した",
     "dummy2": "窓を購入した",
-    "dummy3": "窓を散らした"
+    "dummy3": "窓を汚した"
   },
   {
     "id": 907,
@@ -14588,7 +14588,7 @@
     "phrase": "shrugged",
     "phrase_meaning": "肩をすくめた",
     "dummy1": "肩を広げた",
-    "dummy2": "肩を計算した",
+    "dummy2": "肩を痛めた",
     "dummy3": "肩を強打した"
   },
   {
@@ -14603,8 +14603,8 @@
     "examFrequency": 1,
     "phrase": "A red light signifies",
     "phrase_meaning": "赤信号は意味する",
-    "dummy1": "赤信号は警告する",
-    "dummy2": "赤信号は禁止する",
+    "dummy1": "赤信号は点滅する",
+    "dummy2": "赤信号は故障する",
     "dummy3": "赤信号は拡大する"
   },
   {
@@ -14668,8 +14668,8 @@
     "phrase": "a sip of her tea",
     "phrase_meaning": "彼女のお茶を一口",
     "dummy1": "彼女のお茶をがぶ飲み",
-    "dummy2": "彼女のお茶を修理する",
-    "dummy3": "彼女のお茶を飛ばす"
+    "dummy2": "彼女のお茶を淹れる",
+    "dummy3": "彼女のお茶をこぼす"
   },
   {
     "id": 918,
@@ -14700,7 +14700,7 @@
     "phrase": "slender figure",
     "phrase_meaning": "細身の体型",
     "dummy1": "太った体型",
-    "dummy2": "静かな体型",
+    "dummy2": "がっしりした体型",
     "dummy3": "壮麗な体型"
   },
   {
@@ -14765,7 +14765,7 @@
     "phrase_meaning": "国境を越えて麻薬を密輸する",
     "dummy1": "国境を越えて麻薬を阻止する",
     "dummy2": "国境を越えて麻薬を歌う",
-    "dummy3": "国境を越えて麻薬を奮闘する"
+    "dummy3": "国境を越えて麻薬を輸出する"
   },
   {
     "id": 924,
@@ -14892,7 +14892,7 @@
     "phrase": "Thousands of spectators",
     "phrase_meaning": "何千人もの観客",
     "dummy1": "何千人もの演者",
-    "dummy2": "何千人もの砂漠",
+    "dummy2": "何千人もの専門家",
     "dummy3": "何千人もの眼鏡"
   },
   {
@@ -15100,8 +15100,8 @@
     "phrase": "stimulus package",
     "phrase_meaning": "景気刺激策",
     "dummy1": "景気抑制策",
-    "dummy2": "景気読書策",
-    "dummy3": "景気汚名策"
+    "dummy2": "景気縮小策",
+    "dummy3": "景気分析策"
   },
   {
     "id": 945,
@@ -15531,7 +15531,7 @@
     "examFrequency": 1,
     "phrase": "find X suspicious",
     "phrase_meaning": "Xが疑わしいと思う",
-    "dummy1": "Xが確実なと思う",
+    "dummy1": "Xが確実だと思う",
     "dummy2": "Xが美味しいと思う",
     "dummy3": "Xが迷信深いと思う"
   },
@@ -15740,8 +15740,8 @@
     "phrase": "price tag",
     "phrase_meaning": "値札",
     "dummy1": "値非表示",
-    "dummy2": "値空",
-    "dummy3": "値袋"
+    "dummy2": "値引き",
+    "dummy3": "値上げ"
   },
   {
     "id": 985,
@@ -15789,7 +15789,7 @@
     "phrase_meaning": "短気",
     "dummy1": "温厚な",
     "dummy2": "破壊的な",
-    "dummy3": "温度な"
+    "dummy3": "体温"
   },
   {
     "id": 988,
@@ -16077,7 +16077,7 @@
     "phrase_meaning": "トランス状態",
     "dummy1": "正常状態",
     "dummy2": "天気状態",
-    "dummy3": "痕跡状態"
+    "dummy3": "輸送状態"
   },
   {
     "id": 1006,
@@ -16108,7 +16108,7 @@
     "phrase": "transcription of the interview",
     "phrase_meaning": "インタビューの書き起こし",
     "dummy1": "インタビューの読み上げ",
-    "dummy2": "インタビューの窓",
+    "dummy2": "インタビューの翻訳",
     "dummy3": "インタビューの取引"
   },
   {
@@ -16188,7 +16188,7 @@
     "phrase": "trembled with fear",
     "phrase_meaning": "恐怖に震えた",
     "dummy1": "恐怖に動じなかった",
-    "dummy2": "恐怖に計算した",
+    "dummy2": "恐怖に立ち向かった",
     "dummy3": "恐怖に転んだ"
   },
   {
@@ -16204,8 +16204,8 @@
     "phrase": "trespassing on private property",
     "phrase_meaning": "私有地への不法侵入",
     "dummy1": "私有地への合法的な入場",
-    "dummy2": "私有地への読書",
-    "dummy3": "私有地への強調"
+    "dummy2": "私有地の売買",
+    "dummy3": "私有地の調査"
   },
   {
     "id": 1014,
@@ -16316,8 +16316,8 @@
     "phrase": "twisted through the mountains",
     "phrase_meaning": "山々を縫うように",
     "dummy1": "山々をまっすぐに",
-    "dummy2": "山々を数えるように",
-    "dummy3": "山々を信頼するように"
+    "dummy2": "山々を登るように",
+    "dummy3": "山々を眺めるように"
   },
   {
     "id": 1021,
@@ -16476,8 +16476,8 @@
     "phrase": "uphold the original verdict",
     "phrase_meaning": "当初の判決を支持する",
     "dummy1": "当初の判決を覆す",
-    "dummy2": "当初の判決を栽培する",
-    "dummy3": "当初の判決を折りたたむ"
+    "dummy2": "当初の判決を無視する",
+    "dummy3": "当初の判決を記録する"
   },
   {
     "id": 1031,
@@ -16493,7 +16493,7 @@
     "phrase_meaning": "古い家の維持",
     "dummy1": "古い家の放棄",
     "dummy2": "古い家の売却",
-    "dummy3": "古い家の摂取"
+    "dummy3": "古い家の設計"
   },
   {
     "id": 1032,
@@ -16524,7 +16524,7 @@
     "phrase": "a vacancy for a manager",
     "phrase_meaning": "マネージャーの欠員",
     "dummy1": "マネージャーの在職",
-    "dummy2": "マネージャーの風味",
+    "dummy2": "マネージャーの昇進",
     "dummy3": "マネージャーの休暇"
   },
   {
@@ -16540,7 +16540,7 @@
     "phrase": "vacate the room",
     "phrase_meaning": "部屋を空ける",
     "dummy1": "部屋を占める",
-    "dummy2": "部屋を歌う",
+    "dummy2": "部屋を飾る",
     "dummy3": "部屋を有効にする"
   },
   {
@@ -16829,7 +16829,7 @@
     "phrase_meaning": "交通規則違反",
     "dummy1": "交通規則遵守",
     "dummy2": "交通規則評価",
-    "dummy3": "交通規則暴力的"
+    "dummy3": "交通規則の強化"
   },
   {
     "id": 1053,
@@ -16860,8 +16860,8 @@
     "phrase": "virtually deserted",
     "phrase_meaning": "事実上無人",
     "dummy1": "名目上無人",
-    "dummy2": "ゆっくり無人",
-    "dummy3": "垂直に無人"
+    "dummy2": "完全に無人",
+    "dummy3": "一時的に無人"
   },
   {
     "id": 1055,
@@ -16956,8 +16956,8 @@
     "phrase": "vulnerable to the effects of pollution",
     "phrase_meaning": "汚染の影響を受けやすい",
     "dummy1": "汚染の影響を受けにくい",
-    "dummy2": "汚染の影響が混乱する",
-    "dummy3": "汚染の影響が価値のある"
+    "dummy2": "汚染の影響を無視する",
+    "dummy3": "汚染の影響を歓迎する"
   },
   {
     "id": 1061,
@@ -17564,7 +17564,7 @@
     "phrase": "lay off hundreds of workers",
     "phrase_meaning": "数百人の労働者を解雇する",
     "dummy1": "数百人の労働者を雇用する",
-    "dummy2": "数百人の労働者を修理する",
+    "dummy2": "数百人の労働者を訓練する",
     "dummy3": "数百人の労働者を配置する"
   },
   {
@@ -17596,8 +17596,8 @@
     "phrase": "live up to",
     "phrase_meaning": "期待に応える",
     "dummy1": "期待を裏切る",
-    "dummy2": "期待を予約する",
-    "dummy3": "期待を任せる"
+    "dummy2": "期待を分析する",
+    "dummy3": "期待を伝える"
   },
   {
     "id": 1101,
