@@ -1,7 +1,9 @@
 import SwiftUI
 
 struct HomeScreen: View {
+    @Environment(StoreManager.self) private var storeManager
     @State private var viewModel: HomeViewModel
+    @State private var showPaywall = false
 
     init(repository: WordRepository) {
         _viewModel = State(initialValue: HomeViewModel(repository: repository))
@@ -14,6 +16,18 @@ struct HomeScreen: View {
                     .font(.title)
                     .fontWeight(.bold)
                     .foregroundColor(.strawberry)
+
+                // Trial badge
+                if storeManager.isTrialActive && !storeManager.isPurchased {
+                    Text("トライアル中（のこり\(storeManager.trialDaysRemaining)日）")
+                        .font(.caption)
+                        .fontWeight(.bold)
+                        .foregroundColor(.white)
+                        .padding(.horizontal, 12)
+                        .padding(.vertical, 6)
+                        .background(Color.leafGreen)
+                        .cornerRadius(12)
+                }
 
                 // Grade toggle
                 HStack(spacing: 12) {
@@ -33,15 +47,25 @@ struct HomeScreen: View {
                     categoryCard
 
                     // Start quiz button
-                    NavigationLink(value: QuizRoute(grade: viewModel.selectedGrade)) {
-                        Text("クイズを始める")
-                            .font(.title2)
-                            .fontWeight(.bold)
-                            .foregroundColor(.white)
-                            .frame(maxWidth: .infinity)
-                            .padding(.vertical, 16)
-                            .background(Color.strawberry)
-                            .cornerRadius(16)
+                    ZStack {
+                        NavigationLink(value: QuizRoute(grade: viewModel.selectedGrade)) {
+                            Text("クイズを始める")
+                                .font(.title2)
+                                .fontWeight(.bold)
+                                .foregroundColor(.white)
+                                .frame(maxWidth: .infinity)
+                                .padding(.vertical, 16)
+                                .background(Color.strawberry)
+                                .cornerRadius(16)
+                        }
+                        .disabled(!storeManager.isUnlocked)
+                        .opacity(storeManager.isUnlocked ? 1.0 : 0.6)
+
+                        if !storeManager.isUnlocked {
+                            Color.clear
+                                .contentShape(Rectangle())
+                                .onTapGesture { showPaywall = true }
+                        }
                     }
                 }
             }
@@ -51,8 +75,9 @@ struct HomeScreen: View {
         .toolbar {
             ToolbarItem(placement: .principal) {
                 HStack(spacing: 8) {
-                    Image(systemName: "leaf.fill")
-                        .foregroundColor(.strawberry)
+                    Image("IchigoIcon")
+                        .resizable()
+                        .frame(width: 28, height: 28)
                     Text("Ichigo")
                         .font(.headline)
                         .foregroundColor(.strawberry)
@@ -64,6 +89,12 @@ struct HomeScreen: View {
                         .foregroundColor(.strawberry)
                 }
             }
+        }
+        .fullScreenCover(isPresented: $showPaywall) {
+            PaywallView()
+        }
+        .task {
+            await storeManager.refreshStatus()
         }
     }
 

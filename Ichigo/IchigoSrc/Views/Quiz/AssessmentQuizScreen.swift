@@ -253,25 +253,27 @@ struct AssessmentQuizScreen: View {
     // MARK: - Example Card
 
     private func exampleCard(question: QuizQuestion) -> some View {
-        VStack(alignment: .leading, spacing: 8) {
-            HStack {
-                Text("例文")
-                    .font(.subheadline)
-                    .fontWeight(.bold)
-                    .foregroundColor(.strawberry)
-                Spacer()
-                Button(action: { ttsManager.speak(question.word.exampleEn) }) {
-                    Image(systemName: "speaker.wave.2.fill")
+        ScrollView {
+            VStack(alignment: .leading, spacing: 8) {
+                HStack {
+                    Text("例文")
+                        .font(.subheadline)
+                        .fontWeight(.bold)
                         .foregroundColor(.strawberry)
+                    Spacer()
+                    Button(action: { ttsManager.speak(question.word.exampleEn) }) {
+                        Image(systemName: "speaker.wave.2.fill")
+                            .foregroundColor(.strawberry)
+                    }
                 }
+                Text(highlightedEnglish(question: question, font: .title3))
+                    .font(.title3)
+                Text(highlightedJapanese(question: question, font: .subheadline))
+                    .font(.subheadline)
+                    .foregroundColor(.secondary)
             }
-            Text(highlightedEnglish(question: question, font: .title3))
-                .font(.title3)
-            Text(highlightedJapanese(question: question, font: .subheadline))
-                .font(.subheadline)
-                .foregroundColor(.secondary)
+            .padding(12)
         }
-        .padding(12)
         .background(Color.appLightGray)
         .cornerRadius(12)
     }

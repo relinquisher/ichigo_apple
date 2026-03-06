@@ -30,17 +30,21 @@ struct HomeRoute: Hashable {}
 @main
 struct IchigoApp: App {
     let container: ModelContainer
+    @State private var storeManager = StoreManager()
 
     init() {
         let schema = Schema([Word.self, UserStats.self, StudyProgress.self, SessionHistory.self])
         let config = ModelConfiguration(schema: schema, isStoredInMemoryOnly: false)
         container = try! ModelContainer(for: schema, configurations: [config])
         seedDataIfNeeded()
+        storeManager.ensureTrialStarted()
     }
 
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .environment(storeManager)
+                .preferredColorScheme(.light)
         }
         .modelContainer(container)
     }

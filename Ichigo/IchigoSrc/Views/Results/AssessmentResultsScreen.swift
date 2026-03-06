@@ -17,6 +17,8 @@ struct AssessmentResultsScreen: View {
     let repository: WordRepository
     @Binding var path: NavigationPath
 
+    @Environment(StoreManager.self) private var storeManager
+    @State private var showPaywall = false
     @State private var animatedProgress: Float
     @State private var hasAnimated = false
     @State private var preloadedPlayer: AVAudioPlayer?
@@ -85,17 +87,21 @@ struct AssessmentResultsScreen: View {
 
                 // Buttons
                 Button {
-                    var t = Transaction()
-                    t.disablesAnimations = true
-                    withTransaction(t) {
-                        path = NavigationPath()
-                    }
-                    DispatchQueue.main.asyncAfter(deadline: .now() + 0.1) {
-                        var t2 = Transaction()
-                        t2.disablesAnimations = true
-                        withTransaction(t2) {
-                            path.append(QuizRoute(grade: grade))
+                    if storeManager.isUnlocked {
+                        var t = Transaction()
+                        t.disablesAnimations = true
+                        withTransaction(t) {
+                            path = NavigationPath()
                         }
+                        DispatchQueue.main.asyncAfter(deadline: .now() + 0.1) {
+                            var t2 = Transaction()
+                            t2.disablesAnimations = true
+                            withTransaction(t2) {
+                                path.append(QuizRoute(grade: grade))
+                            }
+                        }
+                    } else {
+                        showPaywall = true
                     }
                 } label: {
                     Text("続ける")
@@ -124,6 +130,9 @@ struct AssessmentResultsScreen: View {
             .padding(32)
         }
         .navigationBarBackButtonHidden(true)
+        .fullScreenCover(isPresented: $showPaywall) {
+            PaywallView()
+        }
         .onAppear {
             AudioManager.shared.play("quiz_finish")
             if score == total && total > 0 {
