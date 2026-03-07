@@ -139,7 +139,7 @@
     "grade": 2,
     "phrase": "accompany you to the station",
     "phraseMeaning": "駅まで同行する",
-    "wrongChoice1": "駅まで見送りを断る",
+    "wrongChoice1": "駅まで同行しない",
     "wrongChoice2": "駅まで演奏する",
     "wrongChoice3": "駅まで案内する"
   },
@@ -571,7 +571,7 @@
     "grade": 2,
     "phrase": "this area is known for",
     "phraseMeaning": "この地域は〜で知られている",
-    "wrongChoice1": "この時代は〜で知られている",
+    "wrongChoice1": "この地域以外は〜で知られていない",
     "wrongChoice2": "この空気は〜で知られている",
     "wrongChoice3": "この施設は〜で知られている"
   },
@@ -733,7 +733,7 @@
     "grade": 2,
     "phrase": "collect your baggage",
     "phraseMeaning": "手荷物を受け取る",
-    "wrongChoice1": "大型貨物を受け取る",
+    "wrongChoice1": "手荷物を預ける",
     "wrongChoice2": "手荷物を包帯する",
     "wrongChoice3": "手荷物を検査する"
   },
@@ -770,7 +770,7 @@
     "phrase": "beat the champions",
     "phraseMeaning": "チャンピオンを負かした",
     "wrongChoice1": "チャンピオンに負けた",
-    "wrongChoice2": "チャンピオンを叩いた",
+    "wrongChoice2": "チャンピオンを真似した",
     "wrongChoice3": "チャンピオンを応援した"
   },
   {
@@ -877,7 +877,7 @@
     "grade": 2,
     "phrase": "campaign to save the forest",
     "phraseMeaning": "森を守るキャンペーン",
-    "wrongChoice1": "森を破壊する計画",
+    "wrongChoice1": "森を破壊するキャンペーン",
     "wrongChoice2": "森を野営する活動",
     "wrongChoice3": "森を調査する事業"
   },
@@ -895,7 +895,7 @@
     "grade": 2,
     "phrase": "advertising campaigns",
     "phraseMeaning": "広告キャンペーン",
-    "wrongChoice1": "広告の中止",
+    "wrongChoice1": "広告への反対運動",
     "wrongChoice2": "広告の野営",
     "wrongChoice3": "広告の契約"
   },
@@ -949,7 +949,7 @@
     "grade": 2,
     "phrase": "ten carriages full of passengers",
     "phraseMeaning": "乗客でいっぱいの車両が10両",
-    "wrongChoice1": "乗客でいっぱいの荷台が10台",
+    "wrongChoice1": "乗客のいない車両が10両",
     "wrongChoice2": "乗客でいっぱいの運搬が10回",
     "wrongChoice3": "乗客でいっぱいの客室が10室"
   },
@@ -1111,7 +1111,7 @@
     "grade": 2,
     "phrase": "edge of a cliff",
     "phraseMeaning": "崖の端",
-    "wrongChoice1": "丘の端",
+    "wrongChoice1": "崖から離れた場所",
     "wrongChoice2": "洞窟の端",
     "wrongChoice3": "谷の端"
   },
@@ -1129,7 +1129,7 @@
     "grade": 2,
     "phrase": "the climate in this region",
     "phraseMeaning": "この地域の気候",
-    "wrongChoice1": "この地域の地形",
+    "wrongChoice1": "この地域の異常気象",
     "wrongChoice2": "この地域の登山",
     "wrongChoice3": "この地域の人口"
   },
@@ -1202,7 +1202,7 @@
     "phrase": "offers comfort and luxury",
     "phraseMeaning": "快適さと贅沢を提供する",
     "wrongChoice1": "不快さと贅沢を提供する",
-    "wrongChoice2": "慰問と贅沢を提供する",
+    "wrongChoice2": "強制と贅沢を提供する",
     "wrongChoice3": "安全と贅沢を提供する"
   },
   {
@@ -1345,7 +1345,7 @@
     "grade": 2,
     "phrase": "too complicated to understand",
     "phraseMeaning": "複雑すぎて理解できない",
-    "wrongChoice1": "単純すぎて理解できない",
+    "wrongChoice1": "単純で理解する必要がない",
     "wrongChoice2": "褒められすぎて理解できない",
     "wrongChoice3": "長すぎて理解できない"
   },
@@ -1527,7 +1527,7 @@
     "phraseMeaning": "小さな檻に閉じ込められた",
     "wrongChoice1": "小さな檻から解放された",
     "wrongChoice2": "小さな檻を確認された",
-    "wrongChoice3": "小さな檻に収容された"
+    "wrongChoice3": "小さな檻に保護された"
   },
   {
     "id": 2086,
@@ -1687,7 +1687,7 @@
     "grade": 2,
     "phrase": "put the leftovers in a container",
     "phraseMeaning": "残り物を容器に入れる",
-    "wrongChoice1": "残り物を容器から出す",
+    "wrongChoice1": "残り物を容器なしで置く",
     "wrongChoice2": "残り物を内容に入れる",
     "wrongChoice3": "残り物を袋に入れる"
   },
@@ -1885,7 +1885,7 @@
     "grade": 2,
     "phrase": "a strange creature in the sea",
     "phraseMeaning": "海にいる奇妙な生き物",
-    "wrongChoice1": "海にいる普通の生き物",
+    "wrongChoice1": "海にいる無生物",
     "wrongChoice2": "海にいる奇妙な創造物",
     "wrongChoice3": "海にいる奇妙な植物"
   },
@@ -1939,7 +1939,7 @@
     "grade": 2,
     "phrase": "find a cure for the disease",
     "phraseMeaning": "病気の治療法を見つける",
-    "wrongChoice1": "病気の原因を見つける",
+    "wrongChoice1": "病気を悪化させる方法を見つける",
     "wrongChoice2": "病気の手がかりを見つける",
     "wrongChoice3": "病気の予防法を見つける"
   },
@@ -1995,7 +1995,7 @@
     "phraseMeaning": "夜明けに起きた",
     "wrongChoice1": "日没に起きた",
     "wrongChoice2": "夜明けに寝た",
-    "wrongChoice3": "早朝に起きた"
+    "wrongChoice3": "日の出に起きた"
   },
   {
     "id": 2112,
@@ -2049,7 +2049,7 @@
     "phraseMeaning": "外見は人を欺くことがある",
     "wrongChoice1": "外見は人を正すことがある",
     "wrongChoice2": "外見は人を決定することがある",
-    "wrongChoice3": "外見は人を惑わすことがある"
+    "wrongChoice3": "外見は人を誤解させることがある"
   },
   {
     "id": 2115,
@@ -2157,7 +2157,7 @@
     "phraseMeaning": "間違いなく出席する",
     "wrongChoice1": "おそらく出席しない",
     "wrongChoice2": "明確に出席する",
-    "wrongChoice3": "必ず出席する"
+    "wrongChoice3": "確かに主席する"
   },
   {
     "id": 2121,
@@ -2301,7 +2301,7 @@
     "phraseMeaning": "砂漠での生活によく適応した",
     "wrongChoice1": "砂漠での生活に適応できない",
     "wrongChoice2": "デザートでの生活によく適応した",
-    "wrongChoice3": "砂漠での生活によく順応した"
+    "wrongChoice3": "砂漠での生活に慣れた"
   },
   {
     "id": 2129,
@@ -2427,7 +2427,7 @@
     "phraseMeaning": "献身的な母親",
     "wrongChoice1": "無関心な母親",
     "wrongChoice2": "投票された母親",
-    "wrongChoice3": "熱心な母親"
+    "wrongChoice3": "愛情深い母親"
   },
   {
     "id": 2136,
@@ -2499,7 +2499,7 @@
     "phraseMeaning": "ウサギを消した",
     "wrongChoice1": "ウサギを出現させた",
     "wrongChoice2": "ウサギを不賛成にした",
-    "wrongChoice3": "ウサギを隠した"
+    "wrongChoice3": "ウサギを見えなくした"
   },
   {
     "id": 2140,
@@ -2535,7 +2535,7 @@
     "phraseMeaning": "大きな失望",
     "wrongChoice1": "大きな喜び",
     "wrongChoice2": "大きな解任",
-    "wrongChoice3": "大きな落胆"
+    "wrongChoice3": "大きな不満"
   },
   {
     "id": 2142,
@@ -2589,7 +2589,7 @@
     "phraseMeaning": "～の間の重要な区別",
     "wrongChoice1": "～の間の重要な混同",
     "wrongChoice2": "～の間の重要な消滅",
-    "wrongChoice3": "～の間の重要な違い"
+    "wrongChoice3": "～の間の重要な相違点"
   },
   {
     "id": 2145,
@@ -2607,7 +2607,7 @@
     "phraseMeaning": "気をそらされないように",
     "wrongChoice1": "集中させるように",
     "wrongChoice2": "破壊されないように",
-    "wrongChoice3": "邪魔されないように"
+    "wrongChoice3": "集中できるように"
   },
   {
     "id": 2146,
@@ -2625,7 +2625,7 @@
     "phraseMeaning": "被災者に食料を配布する",
     "wrongChoice1": "被災者から食料を回収する",
     "wrongChoice2": "被災者に食料を流通する",
-    "wrongChoice3": "被災者に食料を届ける"
+    "wrongChoice3": "被災者に食料を供給する"
   },
   {
     "id": 2147,
@@ -2715,7 +2715,7 @@
     "phraseMeaning": "寛大な寄付",
     "wrongChoice1": "寛大な徴収",
     "wrongChoice2": "寛大な支配",
-    "wrongChoice3": "寛大な援助"
+    "wrongChoice3": "寛大な支援"
   },
   {
     "id": 2152,
@@ -2731,7 +2731,7 @@
     "grade": 2,
     "phrase": "stood in the doorway",
     "phraseMeaning": "戸口に立った",
-    "wrongChoice1": "出口に立った",
+    "wrongChoice1": "戸口から離れて立った",
     "wrongChoice2": "車道に立った",
     "wrongChoice3": "廊下に立った"
   },
@@ -2749,7 +2749,7 @@
     "grade": 2,
     "phrase": "no doubt that",
     "phraseMeaning": "疑いなく",
-    "wrongChoice1": "確信をもって",
+    "wrongChoice1": "疑いをもって",
     "wrongChoice2": "負債なく",
     "wrongChoice3": "不安なく"
   },
@@ -2803,7 +2803,7 @@
     "grade": 2,
     "phrase": "her drawing of a house",
     "phraseMeaning": "彼女の家の絵",
-    "wrongChoice1": "彼女の家の設計図",
+    "wrongChoice1": "彼女の家の実物",
     "wrongChoice2": "彼女の家の引き出し",
     "wrongChoice3": "彼女の家の写真"
   },
@@ -2949,7 +2949,7 @@
     "phraseMeaning": "生計を稼ぐ",
     "wrongChoice1": "生計を失う",
     "wrongChoice2": "生計を学ぶ",
-    "wrongChoice3": "生計を支える"
+    "wrongChoice3": "生計を立てる"
   },
   {
     "id": 2165,
@@ -3235,7 +3235,7 @@
     "grade": 2,
     "phrase": "environmental pollution",
     "phraseMeaning": "環境汚染",
-    "wrongChoice1": "人工汚染",
+    "wrongChoice1": "環境浄化",
     "wrongChoice2": "娯楽汚染",
     "wrongChoice3": "産業汚染"
   },
@@ -3417,7 +3417,7 @@
     "phraseMeaning": "正当な言い訳ではない",
     "wrongChoice1": "正当な告発ではない",
     "wrongChoice2": "正当な実行ではない",
-    "wrongChoice3": "正当な理由ではない"
+    "wrongChoice3": "正当な口実ではない"
   },
   {
     "id": 2191,
@@ -3433,7 +3433,7 @@
     "grade": 2,
     "phrase": "exhibit rare paintings",
     "phraseMeaning": "珍しい絵画を展示する",
-    "wrongChoice1": "珍しい絵画を隠蔵する",
+    "wrongChoice1": "珍しい絵画を隠す",
     "wrongChoice2": "珍しい絵画を禁止する",
     "wrongChoice3": "珍しい絵画を収集する"
   },
@@ -3489,7 +3489,7 @@
     "phraseMeaning": "新しい市場に拡大する",
     "wrongChoice1": "新しい市場から撤退する",
     "wrongChoice2": "新しい市場に輸出する",
-    "wrongChoice3": "新しい市場に参入する"
+    "wrongChoice3": "新しい市場に進出する"
   },
   {
     "id": 2195,
@@ -3613,9 +3613,9 @@
     "grade": 2,
     "phrase": "several factors contributed to",
     "phraseMeaning": "いくつかの要因が～に貢献した",
-    "wrongChoice1": "いくつかの要因が～を妨げた",
+    "wrongChoice1": "いくつかの結果が～に貢献した",
     "wrongChoice2": "いくつかの工場が～に貢献した",
-    "wrongChoice3": "いくつかの結果が～に貢献した"
+    "wrongChoice3": "いくつかの障害が～に貢献した"
   },
   {
     "id": 2202,
@@ -3631,7 +3631,7 @@
     "grade": 2,
     "phrase": "has great faith in",
     "phraseMeaning": "～を大いに信頼している",
-    "wrongChoice1": "～を全く信頼していない",
+    "wrongChoice1": "～を大いに不信に思っている",
     "wrongChoice2": "～を大いに運命づけている",
     "wrongChoice3": "～を大いに期待している"
   },
@@ -3650,7 +3650,7 @@
     "phrase": "faithfully waited every day",
     "phraseMeaning": "毎日忠実に待っていた",
     "wrongChoice1": "毎日不忠実に待っていた",
-    "wrongChoice2": "毎日信仰深く待っていた",
+    "wrongChoice2": "毎日偽って待っていた",
     "wrongChoice3": "毎日辛抱強く待っていた"
   },
   {
@@ -3667,9 +3667,9 @@
     "grade": 2,
     "phrase": "rose to fame after",
     "phraseMeaning": "～の後に名声を得た",
-    "wrongChoice1": "～の後に名声を失った",
+    "wrongChoice1": "～の後に汚名を得た",
     "wrongChoice2": "～の後に炎を得た",
-    "wrongChoice3": "～の後に人気を得た"
+    "wrongChoice3": "～の後に評判を得た"
   },
   {
     "id": 2205,
@@ -3705,7 +3705,7 @@
     "phraseMeaning": "この電話の主な特徴",
     "wrongChoice1": "この電話の主な欠陥",
     "wrongChoice2": "この電話の主な偉業",
-    "wrongChoice3": "この電話の主な機能"
+    "wrongChoice3": "この電話の主な利点"
   },
   {
     "id": 2207,
@@ -3721,9 +3721,9 @@
     "grade": 2,
     "phrase": "passes through a filter",
     "phraseMeaning": "フィルターを通る",
-    "wrongChoice1": "フィルターを塞ぐ",
+    "wrongChoice1": "障害物を通る",
     "wrongChoice2": "フィルターを満たす",
-    "wrongChoice3": "フィルターで濾過される"
+    "wrongChoice3": "フィルターを通過する"
   },
   {
     "id": 2208,
@@ -3739,9 +3739,9 @@
     "grade": 2,
     "phrase": "serious financial problems",
     "phraseMeaning": "深刻な財政問題",
-    "wrongChoice1": "深刻な財政的解決",
+    "wrongChoice1": "深刻な個人的問題",
     "wrongChoice2": "深刻な最終問題",
-    "wrongChoice3": "深刻な経済問題"
+    "wrongChoice3": "深刻な金銭問題"
   },
   {
     "id": 2209,
@@ -3759,7 +3759,7 @@
     "phraseMeaning": "財政的に実行不可能だ",
     "wrongChoice1": "感情的に実行不可能だ",
     "wrongChoice2": "最終的に実行不可能だ",
-    "wrongChoice3": "経済的に実行不可能だ"
+    "wrongChoice3": "金銭的に実行不可能だ"
   },
   {
     "id": 2210,
@@ -3795,7 +3795,7 @@
     "phraseMeaning": "ろうそくの炎が揺れた",
     "wrongChoice1": "ろうそくの氷が揺れた",
     "wrongChoice2": "ろうそくの額縁が揺れた",
-    "wrongChoice3": "ろうそくの光が揺れた"
+    "wrongChoice3": "ろうそくの火が揺れた"
   },
   {
     "id": 2212,
@@ -3813,7 +3813,7 @@
     "phraseMeaning": "リサイクルのために平らにされた",
     "wrongChoice1": "リサイクルのために膨らまされた",
     "wrongChoice2": "リサイクルのためにお世辞を言われた",
-    "wrongChoice3": "リサイクルのために潰された"
+    "wrongChoice3": "リサイクルのために圧縮された"
   },
   {
     "id": 2213,
@@ -3849,7 +3849,7 @@
     "phraseMeaning": "洪水から逃げなければならなかった",
     "wrongChoice1": "洪水に留まらなければならなかった",
     "wrongChoice2": "洪水から自由にならなければならなかった",
-    "wrongChoice3": "洪水から避難しなければならなかった"
+    "wrongChoice3": "洪水から退避しなければならなかった"
   },
   {
     "id": 2215,
@@ -3885,7 +3885,7 @@
     "phraseMeaning": "フランス語を流暢に話す",
     "wrongChoice1": "フランス語をたどたどしく話す",
     "wrongChoice2": "フランス語を流動的に話す",
-    "wrongChoice3": "フランス語を上手に話す"
+    "wrongChoice3": "フランス語をぺらぺら話す"
   },
   {
     "id": 2217,
@@ -3903,7 +3903,7 @@
     "phraseMeaning": "鳥は何千マイルも飛ぶ",
     "wrongChoice1": "鳥は何千マイルも歩く",
     "wrongChoice2": "鳥は何千マイルもハエになる",
-    "wrongChoice3": "鳥は何千マイルも渡る"
+    "wrongChoice3": "鳥は何千マイルも移動する"
   },
   {
     "id": 2218,
@@ -3939,7 +3939,7 @@
     "phraseMeaning": "正式な服装を着る",
     "wrongChoice1": "普段着を着る",
     "wrongChoice2": "以前の服装を着る",
-    "wrongChoice3": "きちんとした服装を着る"
+    "wrongChoice3": "フォーマルな服装を着る"
   },
   {
     "id": 2220,
@@ -3955,8 +3955,8 @@
     "grade": 2,
     "phrase": "made a fortune in",
     "phraseMeaning": "～で財産を築いた",
-    "wrongChoice1": "～で財産を失った",
-    "wrongChoice2": "～で幸運を築いた",
+    "wrongChoice1": "～で負債を築いた",
+    "wrongChoice2": "～で要塞を築いた",
     "wrongChoice3": "～で成功を収めた"
   },
   {
@@ -3975,7 +3975,7 @@
     "phraseMeaning": "キャリアの基礎",
     "wrongChoice1": "キャリアの崩壊",
     "wrongChoice2": "キャリアの噴水",
-    "wrongChoice3": "キャリアの土台"
+    "wrongChoice3": "キャリアの基盤"
   },
   {
     "id": 2222,
@@ -4063,7 +4063,7 @@
     "grade": 2,
     "phrase": "the younger generation",
     "phraseMeaning": "若い世代",
-    "wrongChoice1": "若い老人",
+    "wrongChoice1": "古い世代",
     "wrongChoice2": "若い発電",
     "wrongChoice3": "若い集団"
   },
@@ -4117,9 +4117,9 @@
     "grade": 2,
     "phrase": "studying the geography of",
     "phraseMeaning": "～の地理を勉強している",
-    "wrongChoice1": "～の地理を無視している",
+    "wrongChoice1": "～の歴史を勉強している",
     "wrongChoice2": "～の地質学を勉強している",
-    "wrongChoice3": "～の歴史を勉強している"
+    "wrongChoice3": "～の気候を勉強している"
   },
   {
     "id": 2230,
@@ -4137,7 +4137,7 @@
     "phraseMeaning": "国を賢く統治する",
     "wrongChoice1": "国を賢く放棄する",
     "wrongChoice2": "国を賢く管理する",
-    "wrongChoice3": "国を賢く支配する"
+    "wrongChoice3": "国を賢く治める"
   },
   {
     "id": 2231,
@@ -4189,7 +4189,7 @@
     "grade": 2,
     "phrase": "could not grasp the meaning",
     "phraseMeaning": "意味を理解できなかった",
-    "wrongChoice1": "意味を即座に理解した",
+    "wrongChoice1": "意味を誤解した",
     "wrongChoice2": "意味を草で覆った",
     "wrongChoice3": "意味を記憶できなかった"
   },
@@ -4207,9 +4207,9 @@
     "grade": 2,
     "phrase": "gravity keeps us on the ground",
     "phraseMeaning": "重力が私たちを地面にとどめている",
-    "wrongChoice1": "重力が私たちを空中に浮かせている",
+    "wrongChoice1": "斥力が私たちを地面にとどめている",
     "wrongChoice2": "墓場が私たちを地面にとどめている",
-    "wrongChoice3": "引力が私たちを地面にとどめている"
+    "wrongChoice3": "万有引力が私たちを地面にとどめている"
   },
   {
     "id": 2235,
@@ -4225,9 +4225,9 @@
     "grade": 2,
     "phrase": "greeted the guests with a smile",
     "phraseMeaning": "笑顔で客を迎えた",
-    "wrongChoice1": "無愛想に客を追い返した",
+    "wrongChoice1": "笑顔で客を追い返した",
     "wrongChoice2": "笑顔で客を貪った",
-    "wrongChoice3": "笑顔で客を歓迎した"
+    "wrongChoice3": "笑顔で客を出迎えた"
   },
   {
     "id": 2236,
@@ -4245,7 +4245,7 @@
     "phraseMeaning": "ロープをしっかりつかんだ",
     "wrongChoice1": "ロープを緩く放した",
     "wrongChoice2": "ロープを不平を言った",
-    "wrongChoice3": "ロープを固く握った"
+    "wrongChoice3": "ロープを強く握った"
   },
   {
     "id": 2237,
@@ -4263,7 +4263,7 @@
     "phraseMeaning": "警備員が入口に立っていた",
     "wrongChoice1": "侵入者が入口に立っていた",
     "wrongChoice2": "案内人が入口に立っていた",
-    "wrongChoice3": "門番が入口に立っていた"
+    "wrongChoice3": "守衛が入口に立っていた"
   },
   {
     "id": 2238,
@@ -4279,9 +4279,9 @@
     "grade": 2,
     "phrase": "reading before bed is a good habit",
     "phraseMeaning": "寝る前の読書は良い習慣だ",
-    "wrongChoice1": "寝る前の読書は悪い習慣だ",
+    "wrongChoice1": "寝る前の読書は良い例外だ",
     "wrongChoice2": "寝る前の読書は良い生息地だ",
-    "wrongChoice3": "寝る前の読書は良い日課だ"
+    "wrongChoice3": "寝る前の読書は良い決まりだ"
   },
   {
     "id": 2239,
@@ -4297,7 +4297,7 @@
     "grade": 2,
     "phrase": "used a hammer to nail",
     "phraseMeaning": "ハンマーを使って釘を打った",
-    "wrongChoice1": "ハンマーを使って釘を抜いた",
+    "wrongChoice1": "ペンチを使って釘を打った",
     "wrongChoice2": "妨害者を使って釘を打った",
     "wrongChoice3": "道具を使って釘を打った"
   },
@@ -4317,7 +4317,7 @@
     "phraseMeaning": "戦争中に多くの苦難に直面した",
     "wrongChoice1": "戦争中に多くの幸運に直面した",
     "wrongChoice2": "戦争中に多くの硬さに直面した",
-    "wrongChoice3": "戦争中に多くの困難に直面した"
+    "wrongChoice3": "戦争中に多くの苦労に直面した"
   },
   {
     "id": 2241,
@@ -4335,7 +4335,7 @@
     "phraseMeaning": "深刻な害を及ぼすことがある",
     "wrongChoice1": "深刻な利益を及ぼすことがある",
     "wrongChoice2": "深刻な調和を及ぼすことがある",
-    "wrongChoice3": "深刻な損害を及ぼすことがある"
+    "wrongChoice3": "深刻な被害を及ぼすことがある"
   },
   {
     "id": 2242,
@@ -4353,7 +4353,7 @@
     "phraseMeaning": "さらされることは有害になり得る",
     "wrongChoice1": "さらされることは無害になり得る",
     "wrongChoice2": "さらされることは調和的になり得る",
-    "wrongChoice3": "さらされることは危険になり得る"
+    "wrongChoice3": "さらされることは不健康になり得る"
   },
   {
     "id": 2243,
@@ -4371,7 +4371,7 @@
     "phraseMeaning": "自然と調和して暮らしている",
     "wrongChoice1": "自然と対立して暮らしている",
     "wrongChoice2": "自然と薬局で暮らしている",
-    "wrongChoice3": "自然と共存して暮らしている"
+    "wrongChoice3": "自然と一体となって暮らしている"
   },
   {
     "id": 2244,
@@ -4389,7 +4389,7 @@
     "phraseMeaning": "傷はすぐに治る",
     "wrongChoice1": "傷はすぐに悪化する",
     "wrongChoice2": "傷はすぐにかかとになる",
-    "wrongChoice3": "傷はすぐに回復する"
+    "wrongChoice3": "傷はすぐに良くなる"
   },
   {
     "id": 2245,
@@ -4407,7 +4407,7 @@
     "phraseMeaning": "天国にいると信じている",
     "wrongChoice1": "地獄にいると信じている",
     "wrongChoice2": "重いものにいると信じている",
-    "wrongChoice3": "楽園にいると信じている"
+    "wrongChoice3": "極楽にいると信じている"
   },
   {
     "id": 2246,
@@ -4425,7 +4425,7 @@
     "phraseMeaning": "ためらいがちに手を挙げた",
     "wrongChoice1": "迷いなく手を挙げた",
     "wrongChoice2": "温かく手を挙げた",
-    "wrongChoice3": "恐る恐る手を挙げた"
+    "wrongChoice3": "おずおずと手を挙げた"
   },
   {
     "id": 2247,
@@ -4443,7 +4443,7 @@
     "phraseMeaning": "一瞬のためらいもなく",
     "wrongChoice1": "多くのためらいをもって",
     "wrongChoice2": "一瞬の暖房もなく",
-    "wrongChoice3": "一瞬の迷いもなく"
+    "wrongChoice3": "一瞬の躊躇もなく"
   },
   {
     "id": 2248,
@@ -4461,7 +4461,7 @@
     "phraseMeaning": "10人の社員を雇うことにした",
     "wrongChoice1": "10人の社員を解雇することにした",
     "wrongChoice2": "10人の社員をより高くすることにした",
-    "wrongChoice3": "10人の社員を採用することにした"
+    "wrongChoice3": "10人の社員を雇用することにした"
   },
   {
     "id": 2249,
@@ -4479,7 +4479,7 @@
     "phraseMeaning": "ボールが窓に当たった",
     "wrongChoice1": "ボールが窓を避けた",
     "wrongChoice2": "ボールが窓を暑くした",
-    "wrongChoice3": "ボールが窓にぶつかった"
+    "wrongChoice3": "ボールが窓に衝突した"
   },
   {
     "id": 2250,
@@ -4497,7 +4497,7 @@
     "phraseMeaning": "受けることは大変光栄だ",
     "wrongChoice1": "受けることは大変不名誉だ",
     "wrongChoice2": "受けることは大変時間だ",
-    "wrongChoice3": "受けることは大変名誉だ"
+    "wrongChoice3": "受けることは大変誇りだ"
   },
   {
     "id": 2251,
@@ -4515,7 +4515,7 @@
     "phraseMeaning": "招待されて光栄だ",
     "wrongChoice1": "招待されて不名誉だ",
     "wrongChoice2": "招待されて時間通りだ",
-    "wrongChoice3": "招待されて嬉しい"
+    "wrongChoice3": "招待されて名誉だ"
   },
   {
     "id": 2252,
@@ -4532,8 +4532,8 @@
     "phrase": "remained humble despite success",
     "phraseMeaning": "成功にもかかわらず謙虚なままだった",
     "wrongChoice1": "成功にもかかわらず傲慢なままだった",
-    "wrongChoice2": "成功にもかかわらず質素なままだった",
-    "wrongChoice3": "成功にもかかわらず控えめなままだった"
+    "wrongChoice2": "成功にもかかわらず口ごもったままだった",
+    "wrongChoice3": "成功にもかかわらず腰が低いままだった"
   },
   {
     "id": 2253,
@@ -4549,9 +4549,9 @@
     "grade": 2,
     "phrase": "protect the future of humanity",
     "phraseMeaning": "人類の未来を守る",
-    "wrongChoice1": "人類の未来を破壊する",
+    "wrongChoice1": "動物の未来を守る",
     "wrongChoice2": "湿度の未来を守る",
-    "wrongChoice3": "人間の未来を守る"
+    "wrongChoice3": "人々の未来を守る"
   },
   {
     "id": 2254,
@@ -4568,8 +4568,8 @@
     "phrase": "identify the person in the photo",
     "phraseMeaning": "写真の人物を特定する",
     "wrongChoice1": "写真の人物を隠す",
-    "wrongChoice2": "写真の人物を同一視する",
-    "wrongChoice3": "写真の人物を確認する"
+    "wrongChoice2": "写真の人物を理想化する",
+    "wrongChoice3": "写真の人物が誰か見分ける"
   },
   {
     "id": 2255,
@@ -4585,9 +4585,9 @@
     "grade": 2,
     "phrase": "confirmed the identity of",
     "phraseMeaning": "～の身元を確認した",
-    "wrongChoice1": "～の身元を隠蔽した",
+    "wrongChoice1": "～の匿名性を確認した",
     "wrongChoice2": "～の同一性を確認した",
-    "wrongChoice3": "～の正体を確認した"
+    "wrongChoice3": "～の個人情報を確認した"
   },
   {
     "id": 2256,
@@ -4605,7 +4605,7 @@
     "phraseMeaning": "法律を知らないこと",
     "wrongChoice1": "法律に精通していること",
     "wrongChoice2": "法律を無視すること",
-    "wrongChoice3": "法律に疎いこと"
+    "wrongChoice3": "法律に無知なこと"
   },
   {
     "id": 2257,
@@ -4623,7 +4623,7 @@
     "phraseMeaning": "前方の危険を知らなかった",
     "wrongChoice1": "前方の危険を熟知していた",
     "wrongChoice2": "前方の危険を無視した",
-    "wrongChoice3": "前方の危険に気づかなかった"
+    "wrongChoice3": "前方の危険を認識していなかった"
   },
   {
     "id": 2258,
@@ -4639,7 +4639,7 @@
     "grade": 2,
     "phrase": "recovered from a serious illness",
     "phraseMeaning": "重い病気から回復した",
-    "wrongChoice1": "重い健康から回復した",
+    "wrongChoice1": "軽い病気から回復した",
     "wrongChoice2": "重い不法行為から回復した",
     "wrongChoice3": "重い怪我から回復した"
   },
@@ -4657,7 +4657,7 @@
     "grade": 2,
     "phrase": "beautifully illustrated with pictures",
     "phraseMeaning": "絵で美しく図解された",
-    "wrongChoice1": "絵なしで味気なく書かれた",
+    "wrongChoice1": "絵で美しく説明された",
     "wrongChoice2": "絵で美しく照らされた",
     "wrongChoice3": "絵で美しく装飾された"
   },
@@ -4675,9 +4675,9 @@
     "grade": 2,
     "phrase": "many beautiful illustrations",
     "phraseMeaning": "多くの美しい挿絵",
-    "wrongChoice1": "多くの醜い挿絵",
+    "wrongChoice1": "多くの美しい文章",
     "wrongChoice2": "多くの美しい幻想",
-    "wrongChoice3": "多くの美しい図版"
+    "wrongChoice3": "多くの美しいイラスト"
   },
   {
     "id": 2261,
@@ -4693,9 +4693,9 @@
     "grade": 2,
     "phrase": "children often imitate their parents",
     "phraseMeaning": "子どもはよく親をまねる",
-    "wrongChoice1": "子どもはめったに親をまねない",
+    "wrongChoice1": "子どもはよく親に反抗する",
     "wrongChoice2": "子どもはよく親を刺激する",
-    "wrongChoice3": "子どもはよく親の真似をする"
+    "wrongChoice3": "子どもはよく親を模倣する"
   },
   {
     "id": 2262,
@@ -4729,7 +4729,7 @@
     "grade": 2,
     "phrase": "immigration has shaped the culture",
     "phraseMeaning": "移住が文化を形作ってきた",
-    "wrongChoice1": "移住が文化を破壊してきた",
+    "wrongChoice1": "停滞が文化を形作ってきた",
     "wrongChoice2": "模倣が文化を形作ってきた",
     "wrongChoice3": "移民が文化を形作ってきた"
   },
@@ -4747,9 +4747,9 @@
     "grade": 2,
     "phrase": "had a huge impact on",
     "phraseMeaning": "～に大きな影響を与えた",
-    "wrongChoice1": "～に影響を与えなかった",
+    "wrongChoice1": "～に大きな原因を与えた",
     "wrongChoice2": "～に大きな衝突を与えた",
-    "wrongChoice3": "～に大きな効果を与えた"
+    "wrongChoice3": "～に大きな刺激を与えた"
   },
   {
     "id": 2265,
@@ -4765,9 +4765,9 @@
     "grade": 2,
     "phrase": "his silence implied agreement",
     "phraseMeaning": "彼の沈黙は同意を暗示した",
-    "wrongChoice1": "彼の沈黙は反対を暗示した",
+    "wrongChoice1": "彼の沈黙は同意を明言した",
     "wrongChoice2": "彼の沈黙は同意を適用した",
-    "wrongChoice3": "彼の沈黙は同意を示唆した"
+    "wrongChoice3": "彼の沈黙は同意をほのめかした"
   },
   {
     "id": 2266,
@@ -4785,7 +4785,7 @@
     "phraseMeaning": "～をほのめかそうとしている",
     "wrongChoice1": "～を明言しようとしている",
     "wrongChoice2": "～を実行しようとしている",
-    "wrongChoice3": "～を示唆しようとしている"
+    "wrongChoice3": "～を暗示しようとしている"
   },
   {
     "id": 2267,
@@ -4839,7 +4839,7 @@
     "phraseMeaning": "彼のスピーチは聴衆に感動を与えた",
     "wrongChoice1": "彼のスピーチは聴衆を退屈させた",
     "wrongChoice2": "彼のスピーチは聴衆に圧力を与えた",
-    "wrongChoice3": "彼のスピーチは聴衆を魅了した"
+    "wrongChoice3": "彼のスピーチは聴衆に感銘を与えた"
   },
   {
     "id": 2270,
@@ -4857,7 +4857,7 @@
     "phraseMeaning": "衝動的にその靴を買った",
     "wrongChoice1": "計画的にその靴を買った",
     "wrongChoice2": "脈拍的にその靴を買った",
-    "wrongChoice3": "思いつきでその靴を買った"
+    "wrongChoice3": "深く考えずにその靴を買った"
   },
   {
     "id": 2271,
@@ -4875,7 +4875,7 @@
     "phraseMeaning": "いくつかの窃盗事件",
     "wrongChoice1": "いくつかの窃盗防止",
     "wrongChoice2": "いくつかの偶然の窃盗",
-    "wrongChoice3": "いくつかの窃盗事案"
+    "wrongChoice3": "いくつかの窃盗の件"
   },
   {
     "id": 2272,
@@ -4891,7 +4891,7 @@
     "grade": 2,
     "phrase": "her monthly income covers expenses",
     "phraseMeaning": "彼女の月収は出費をまかなう",
-    "wrongChoice1": "彼女の月収は出費に足りない",
+    "wrongChoice1": "彼女の月々の支出は出費をまかなう",
     "wrongChoice2": "彼女の月の到着は出費をまかなう",
     "wrongChoice3": "彼女の月収は生活費をまかなう"
   },
@@ -4909,9 +4909,9 @@
     "grade": 2,
     "phrase": "incredibly beautiful view",
     "phraseMeaning": "信じられないほど美しい眺め",
-    "wrongChoice1": "まったく美しくない眺め",
+    "wrongChoice1": "そこそこに美しい眺め",
     "wrongChoice2": "段階的に美しい眺め",
-    "wrongChoice3": "非常に美しい眺め"
+    "wrongChoice3": "驚くほど美しい眺め"
   },
   {
     "id": 2274,
@@ -4929,7 +4929,7 @@
     "phraseMeaning": "調査は～を示した",
     "wrongChoice1": "調査は～を隠した",
     "wrongChoice2": "調査は～を起訴した",
-    "wrongChoice3": "調査は～を明らかにした"
+    "wrongChoice3": "調査は～を裏付けた"
   },
   {
     "id": 2275,
@@ -4947,7 +4947,7 @@
     "phraseMeaning": "個別に評価される",
     "wrongChoice1": "集団で評価される",
     "wrongChoice2": "個人的に未評価のまま",
-    "wrongChoice3": "それぞれ評価される"
+    "wrongChoice3": "一人一人評価される"
   },
   {
     "id": 2276,
@@ -4963,9 +4963,9 @@
     "grade": 2,
     "phrase": "heavily influenced by Japanese culture",
     "phraseMeaning": "日本文化の影響を強く受けた",
-    "wrongChoice1": "日本文化の影響をまったく受けなかった",
+    "wrongChoice1": "日本文化の抵抗を強く受けた",
     "wrongChoice2": "日本文化の流感を強く受けた",
-    "wrongChoice3": "日本文化の感化を強く受けた"
+    "wrongChoice3": "日本文化に強く染まった"
   },
   {
     "id": 2277,
@@ -4981,9 +4981,9 @@
     "grade": 2,
     "phrase": "received a large inheritance",
     "phraseMeaning": "多額の遺産を受け取った",
-    "wrongChoice1": "多額の遺産を放棄した",
+    "wrongChoice1": "多額の負債を受け取った",
     "wrongChoice2": "多額の相続人を受け取った",
-    "wrongChoice3": "多額の財産を受け取った"
+    "wrongChoice3": "多額の資産を受け取った"
   },
   {
     "id": 2278,
@@ -5001,7 +5001,7 @@
     "phraseMeaning": "依頼人の無罪を証明した",
     "wrongChoice1": "依頼人の有罪を証明した",
     "wrongChoice2": "依頼人の革新を証明した",
-    "wrongChoice3": "依頼人の潔白を証明した"
+    "wrongChoice3": "依頼人が無実であることを証明した"
   },
   {
     "id": 2279,
@@ -5019,7 +5019,7 @@
     "phraseMeaning": "その子どもは無邪気に微笑んだ",
     "wrongChoice1": "その子どもは悪意をもって微笑んだ",
     "wrongChoice2": "その子どもは革新的に微笑んだ",
-    "wrongChoice3": "その子どもは天真爛漫に微笑んだ"
+    "wrongChoice3": "その子どもは屈託なく微笑んだ"
   },
   {
     "id": 2280,
@@ -5035,9 +5035,9 @@
     "grade": 2,
     "phrase": "launched an inquiry into",
     "phraseMeaning": "～の調査を開始した",
-    "wrongChoice1": "～の調査を中止した",
+    "wrongChoice1": "～の隠蔽を開始した",
     "wrongChoice2": "～の不平等を開始した",
-    "wrongChoice3": "～の捜査を開始した"
+    "wrongChoice3": "～の究明を開始した"
   },
   {
     "id": 2281,
@@ -5055,7 +5055,7 @@
     "phraseMeaning": "即座にエネルギーを与える",
     "wrongChoice1": "遅れてエネルギーを与える",
     "wrongChoice2": "本能的にエネルギーを与える",
-    "wrongChoice3": "すぐにエネルギーを与える"
+    "wrongChoice3": "瞬時にエネルギーを与える"
   },
   {
     "id": 2282,
@@ -5073,7 +5073,7 @@
     "phraseMeaning": "動物は本能に頼る",
     "wrongChoice1": "動物は理性に頼る",
     "wrongChoice2": "動物は教育に頼る",
-    "wrongChoice3": "動物は直感に頼る"
+    "wrongChoice3": "動物は生来の感覚に頼る"
   },
   {
     "id": 2283,
@@ -5089,9 +5089,9 @@
     "grade": 2,
     "phrase": "instructed the students to",
     "phraseMeaning": "生徒に～するよう指示した",
-    "wrongChoice1": "生徒に～しないよう指示した",
+    "wrongChoice1": "生徒に～するよう任せた",
     "wrongChoice2": "生徒に～するよう建設した",
-    "wrongChoice3": "生徒に～するよう命じた"
+    "wrongChoice3": "生徒に～するよう伝えた"
   },
   {
     "id": 2284,
@@ -5107,8 +5107,8 @@
     "grade": 2,
     "phrase": "a beautiful musical instrument",
     "phraseMeaning": "美しい楽器",
-    "wrongChoice1": "醜い楽器",
-    "wrongChoice2": "美しい器具",
+    "wrongChoice1": "美しい道具",
+    "wrongChoice2": "美しい指示",
     "wrongChoice3": "美しい弦楽器"
   },
   {
@@ -5127,7 +5127,7 @@
     "phraseMeaning": "健康保険に入っていますか",
     "wrongChoice1": "健康危険に入っていますか",
     "wrongChoice2": "健康の保証に入っていますか",
-    "wrongChoice3": "医療保険に入っていますか"
+    "wrongChoice3": "生命保険に入っていますか"
   },
   {
     "id": 2286,
@@ -5145,7 +5145,7 @@
     "phraseMeaning": "すべての質問に知的に答えた",
     "wrongChoice1": "すべての質問に愚かに答えた",
     "wrongChoice2": "すべての質問に情報的に答えた",
-    "wrongChoice3": "すべての質問に賢く答えた"
+    "wrongChoice3": "すべての質問に理路整然と答えた"
   },
   {
     "id": 2287,
@@ -5163,7 +5163,7 @@
     "phraseMeaning": "暑さが非常に激しかった",
     "wrongChoice1": "暑さが非常に穏やかだった",
     "wrongChoice2": "暑さが非常に意図的だった",
-    "wrongChoice3": "暑さが非常に厳しかった"
+    "wrongChoice3": "暑さが非常に強かった"
   },
   {
     "id": 2288,
@@ -5181,7 +5181,7 @@
     "phraseMeaning": "子どもは交流することで学ぶ",
     "wrongChoice1": "子どもは孤立することで学ぶ",
     "wrongChoice2": "子どもは妨害することで学ぶ",
-    "wrongChoice3": "子どもは関わることで学ぶ"
+    "wrongChoice3": "子どもは対話することで学ぶ"
   },
   {
     "id": 2289,
@@ -5253,7 +5253,7 @@
     "phraseMeaning": "火事の原因を調査している",
     "wrongChoice1": "火事の原因を隠蔽している",
     "wrongChoice2": "火事の原因を投資している",
-    "wrongChoice3": "火事の原因を捜査している"
+    "wrongChoice3": "火事の原因を調べている"
   },
   {
     "id": 2293,
@@ -5269,9 +5269,9 @@
     "grade": 2,
     "phrase": "investigations revealed new evidence",
     "phraseMeaning": "調査により新しい証拠が明らかになった",
-    "wrongChoice1": "調査により新しい証拠が隠された",
+    "wrongChoice1": "隠蔽により新しい証拠が明らかになった",
     "wrongChoice2": "投資により新しい証拠が明らかになった",
-    "wrongChoice3": "捜査により新しい証拠が明らかになった"
+    "wrongChoice3": "研究により新しい証拠が明らかになった"
   },
   {
     "id": 2294,
@@ -5307,7 +5307,7 @@
     "phraseMeaning": "絶え間ない騒音はうっとうしかった",
     "wrongChoice1": "絶え間ない騒音は心地よかった",
     "wrongChoice2": "絶え間ない騒音は灌漑的だった",
-    "wrongChoice3": "絶え間ない騒音は煩わしかった"
+    "wrongChoice3": "絶え間ない騒音は不快だった"
   },
   {
     "id": 2296,
@@ -5323,7 +5323,7 @@
     "grade": 2,
     "phrase": "the country's jails are overcrowded",
     "phraseMeaning": "その国の刑務所は過密状態だ",
-    "wrongChoice1": "その国の刑務所は空いている",
+    "wrongChoice1": "その国の学校は過密状態だ",
     "wrongChoice2": "その国の宝石は過密状態だ",
     "wrongChoice3": "その国の拘置所は過密状態だ"
   },
@@ -5359,7 +5359,7 @@
     "grade": 2,
     "phrase": "the court will make its judgment",
     "phraseMeaning": "裁判所は判決を下す",
-    "wrongChoice1": "裁判所は判決を取り消す",
+    "wrongChoice1": "裁判所は起訴を下す",
     "wrongChoice2": "裁判所は審判を下す",
     "wrongChoice3": "裁判所は決定を下す"
   },
@@ -5379,7 +5379,7 @@
     "phraseMeaning": "すべての人が正義を受ける資格がある",
     "wrongChoice1": "すべての人が不正義を受ける資格がある",
     "wrongChoice2": "すべての人がジュースを受ける資格がある",
-    "wrongChoice3": "すべての人が公正を受ける資格がある"
+    "wrongChoice3": "すべての人が平等を受ける資格がある"
   },
   {
     "id": 2300,
@@ -5395,9 +5395,9 @@
     "grade": 2,
     "phrase": "modern science laboratories",
     "phraseMeaning": "最新の科学実験室",
-    "wrongChoice1": "古い科学実験室",
+    "wrongChoice1": "最新の体育施設",
     "wrongChoice2": "最新の科学労働者",
-    "wrongChoice3": "最新の科学研究所"
+    "wrongChoice3": "最新の科学施設"
   },
   {
     "id": 2301,
@@ -5433,7 +5433,7 @@
     "phraseMeaning": "田園地帯の風景",
     "wrongChoice1": "田園地帯の騒音",
     "wrongChoice2": "田園地帯の着陸",
-    "wrongChoice3": "田園地帯の景観"
+    "wrongChoice3": "田園地帯の眺め"
   },
   {
     "id": 2303,
@@ -5469,7 +5469,7 @@
     "phraseMeaning": "新しい衛星を打ち上げる",
     "wrongChoice1": "新しい衛星を撤回する",
     "wrongChoice2": "新しい衛星を昼食にする",
-    "wrongChoice3": "新しい衛星を発射する"
+    "wrongChoice3": "新しい衛星を軌道に乗せる"
   },
   {
     "id": 2305,
@@ -5485,9 +5485,9 @@
     "grade": 2,
     "phrase": "gave an interesting lecture",
     "phraseMeaning": "面白い講義をした",
-    "wrongChoice1": "退屈な講義をした",
+    "wrongChoice1": "面白い雑談をした",
     "wrongChoice2": "面白い講読をした",
-    "wrongChoice3": "面白い授業をした"
+    "wrongChoice3": "面白い講演をした"
   },
   {
     "id": 2306,
@@ -5541,7 +5541,7 @@
     "phraseMeaning": "ビーチの近くに位置する",
     "wrongChoice1": "ビーチの近くに消失する",
     "wrongChoice2": "ビーチの近くに施錠する",
-    "wrongChoice3": "ビーチの近くにある"
+    "wrongChoice3": "ビーチの近くに建てられている"
   },
   {
     "id": 2309,
@@ -5611,9 +5611,9 @@
     "grade": 2,
     "phrase": "luckily no one was injured",
     "phraseMeaning": "幸運にも誰もけがをしなかった",
-    "wrongChoice1": "不運にも全員けがをした",
+    "wrongChoice1": "不運にも誰もけがをしなかった",
     "wrongChoice2": "運悪くも誰もけがをしなかった",
-    "wrongChoice3": "幸いにも誰もけがをしなかった"
+    "wrongChoice3": "運良く誰もけがをしなかった"
   },
   {
     "id": 2313,
@@ -5629,9 +5629,9 @@
     "grade": 2,
     "phrase": "take all your luggage with you",
     "phraseMeaning": "すべての手荷物を持って行く",
-    "wrongChoice1": "すべての手荷物を置いて行く",
+    "wrongChoice1": "すべての貴重品を持って行く",
     "wrongChoice2": "すべての言語を持って行く",
-    "wrongChoice3": "すべての荷物を持って行く"
+    "wrongChoice3": "すべての旅行かばんを持って行く"
   },
   {
     "id": 2314,
@@ -5647,9 +5647,9 @@
     "grade": 2,
     "phrase": "could not afford luxuries",
     "phraseMeaning": "贅沢品を買う余裕がなかった",
-    "wrongChoice1": "贅沢品を買う余裕があった",
+    "wrongChoice1": "必需品を買う余裕がなかった",
     "wrongChoice2": "贅沢な光を買う余裕がなかった",
-    "wrongChoice3": "高級品を買う余裕がなかった"
+    "wrongChoice3": "高価な物を買う余裕がなかった"
   },
   {
     "id": 2315,
@@ -5721,7 +5721,7 @@
     "phraseMeaning": "大多数の学生が合格した",
     "wrongChoice1": "少数の学生が合格した",
     "wrongChoice2": "大佐の学生が合格した",
-    "wrongChoice3": "ほとんどの学生が合格した"
+    "wrongChoice3": "学生の過半数が合格した"
   },
   {
     "id": 2319,
@@ -5737,9 +5737,9 @@
     "grade": 2,
     "phrase": "read the manual before operating",
     "phraseMeaning": "操作する前にマニュアルを読む",
-    "wrongChoice1": "操作した後にマニュアルを読む",
+    "wrongChoice1": "操作する前に小説を読む",
     "wrongChoice2": "操作する前に製造をする",
-    "wrongChoice3": "操作する前に説明書を読む"
+    "wrongChoice3": "操作する前に手引書を読む"
   },
   {
     "id": 2320,
@@ -5755,7 +5755,7 @@
     "grade": 2,
     "phrase": "a collection of ancient manuscripts",
     "phraseMeaning": "古代の写本のコレクション",
-    "wrongChoice1": "現代の写本のコレクション",
+    "wrongChoice1": "古代の印刷物のコレクション",
     "wrongChoice2": "古代の製造物のコレクション",
     "wrongChoice3": "古代の文書のコレクション"
   },
@@ -5775,7 +5775,7 @@
     "phraseMeaning": "夕日は本当に素晴らしかった",
     "wrongChoice1": "夕日は本当にひどかった",
     "wrongChoice2": "夕日は本当に大理石だった",
-    "wrongChoice3": "夕日は本当に見事だった"
+    "wrongChoice3": "夕日は本当に美しかった"
   },
   {
     "id": 2322,
@@ -5793,7 +5793,7 @@
     "phraseMeaning": "大規模な地震が襲った",
     "wrongChoice1": "小規模な地震が襲った",
     "wrongChoice2": "集団的な地震が襲った",
-    "wrongChoice3": "巨大な地震が襲った"
+    "wrongChoice3": "甚大な地震が襲った"
   },
   {
     "id": 2323,
@@ -5847,7 +5847,7 @@
     "phraseMeaning": "その経験は精神的に疲れるものだった",
     "wrongChoice1": "その経験は肉体的に疲れるものだった",
     "wrongChoice2": "その経験は金属的に疲れるものだった",
-    "wrongChoice3": "その経験は精神的に消耗するものだった"
+    "wrongChoice3": "その経験は精神的にきついものだった"
   },
   {
     "id": 2326,
@@ -5863,9 +5863,9 @@
     "grade": 2,
     "phrase": "what method do you use",
     "phraseMeaning": "どんな方法を使っていますか",
-    "wrongChoice1": "どんな方法も使っていません",
+    "wrongChoice1": "どんな目的で使っていますか",
     "wrongChoice2": "どんなメダルを使っていますか",
-    "wrongChoice3": "どんな手法を使っていますか"
+    "wrongChoice3": "どんな手段を使っていますか"
   },
   {
     "id": 2327,
@@ -5881,9 +5881,9 @@
     "grade": 2,
     "phrase": "served in the military for ten years",
     "phraseMeaning": "10年間軍に所属していた",
-    "wrongChoice1": "10年間軍を退いていた",
+    "wrongChoice1": "10年間民間企業に所属していた",
     "wrongChoice2": "10年間工場に所属していた",
-    "wrongChoice3": "10年間軍隊に所属していた"
+    "wrongChoice3": "10年間兵役に就いていた"
   },
   {
     "id": 2328,
@@ -5955,7 +5955,7 @@
     "phraseMeaning": "少数派だけが反対した",
     "wrongChoice1": "大多数が反対した",
     "wrongChoice2": "未成年者だけが反対した",
-    "wrongChoice3": "ごく一部だけが反対した"
+    "wrongChoice3": "わずかな人だけが反対した"
   },
   {
     "id": 2332,
@@ -5989,9 +5989,9 @@
     "grade": 2,
     "phrase": "completed their mission successfully",
     "phraseMeaning": "任務を無事に完了した",
-    "wrongChoice1": "任務を失敗した",
+    "wrongChoice1": "計画を無事に完了した",
     "wrongChoice2": "使命を放棄した",
-    "wrongChoice3": "任務を成功裏に達成した"
+    "wrongChoice3": "任務を予定通りに終えた"
   },
   {
     "id": 2334,
@@ -6009,7 +6009,7 @@
     "phraseMeaning": "～の混合物から作られる",
     "wrongChoice1": "～の単一物から作られる",
     "wrongChoice2": "～の謎から作られる",
-    "wrongChoice3": "～のブレンドから作られる"
+    "wrongChoice3": "～の組み合わせから作られる"
   },
   {
     "id": 2335,
@@ -6025,9 +6025,9 @@
     "grade": 2,
     "phrase": "could you wait a moment",
     "phraseMeaning": "少々お待ちいただけますか",
-    "wrongChoice1": "すぐに来ていただけますか",
+    "wrongChoice1": "長時間お待ちいただけますか",
     "wrongChoice2": "少々運動していただけますか",
-    "wrongChoice3": "少しだけお待ちいただけますか"
+    "wrongChoice3": "しばらくお待ちいただけますか"
   },
   {
     "id": 2336,
@@ -6063,7 +6063,7 @@
     "phraseMeaning": "失踪は謎のままだ",
     "wrongChoice1": "失踪は解決済みだ",
     "wrongChoice2": "失踪は省庁のままだ",
-    "wrongChoice3": "失踪は不明のままだ"
+    "wrongChoice3": "失踪は未解決のままだ"
   },
   {
     "id": 2338,
@@ -6079,9 +6079,9 @@
     "grade": 2,
     "phrase": "a national holiday is celebrated",
     "phraseMeaning": "国民の祝日が祝われる",
-    "wrongChoice1": "国民の祝日が廃止される",
+    "wrongChoice1": "個人の祝日が祝われる",
     "wrongChoice2": "自然の祝日が祝われる",
-    "wrongChoice3": "国の祝日が祝われる"
+    "wrongChoice3": "国家の祝日が祝われる"
   },
   {
     "id": 2339,
@@ -6097,7 +6097,7 @@
     "grade": 2,
     "phrase": "difficult to navigate through",
     "phraseMeaning": "～を進むのは難しい",
-    "wrongChoice1": "～を進むのは簡単だ",
+    "wrongChoice1": "～を戻るのは難しい",
     "wrongChoice2": "～を否定するのは難しい",
     "wrongChoice3": "～を通り抜けるのは難しい"
   },
@@ -6115,7 +6115,7 @@
     "grade": 2,
     "phrase": "not necessarily better",
     "phraseMeaning": "必ずしも良いとは限らない",
-    "wrongChoice1": "必ず良い",
+    "wrongChoice1": "絶対に良いとは限らない",
     "wrongChoice2": "必要的に良いとは限らない",
     "wrongChoice3": "必ずしも優れているとは限らない"
   },
@@ -6133,9 +6133,9 @@
     "grade": 2,
     "phrase": "don't worry needlessly about",
     "phraseMeaning": "～を不必要に心配するな",
-    "wrongChoice1": "～を必要な分だけ心配しろ",
+    "wrongChoice1": "～を必要以上に心配するな",
     "wrongChoice2": "～を針なしに心配するな",
-    "wrongChoice3": "～を無駄に心配するな"
+    "wrongChoice3": "～を過度に心配するな"
   },
   {
     "id": 2342,
@@ -6153,7 +6153,7 @@
     "phraseMeaning": "放置された庭は雑草だらけだった",
     "wrongChoice1": "手入れされた庭は雑草だらけだった",
     "wrongChoice2": "交渉された庭は雑草だらけだった",
-    "wrongChoice3": "荒れた庭は雑草だらけだった"
+    "wrongChoice3": "手入れされていない庭は雑草だらけだった"
   },
   {
     "id": 2343,
@@ -6171,7 +6171,7 @@
     "phraseMeaning": "和平協定を交渉することに合意した",
     "wrongChoice1": "和平協定を拒否することに合意した",
     "wrongChoice2": "和平協定を否定することに合意した",
-    "wrongChoice3": "和平協定を話し合うことに合意した"
+    "wrongChoice3": "和平協定を取り決めることに合意した"
   },
   {
     "id": 2344,
@@ -6188,7 +6188,7 @@
     "phrase": "nervously waited for the interview",
     "phraseMeaning": "緊張して面接を待った",
     "wrongChoice1": "落ち着いて面接を待った",
-    "wrongChoice2": "神経質に面接を待った",
+    "wrongChoice2": "勇敢に面接を待った",
     "wrongChoice3": "不安げに面接を待った"
   },
   {
@@ -6206,7 +6206,7 @@
     "phrase": "remained neutral during the war",
     "phraseMeaning": "戦争中中立を保った",
     "wrongChoice1": "戦争中敵対した",
-    "wrongChoice2": "戦争中中性を保った",
+    "wrongChoice2": "戦争中自然に振る舞った",
     "wrongChoice3": "戦争中公平を保った"
   },
   {
@@ -6225,7 +6225,7 @@
     "phraseMeaning": "～の見当もつかない",
     "wrongChoice1": "～を完全に理解している",
     "wrongChoice2": "～のメモもつかない",
-    "wrongChoice3": "～の考えもつかない"
+    "wrongChoice3": "～の想像もつかない"
   },
   {
     "id": 2347,
@@ -6243,7 +6243,7 @@
     "phraseMeaning": "今日ではほとんどの人がスマートフォンを使う",
     "wrongChoice1": "昔はほとんどの人がスマートフォンを使った",
     "wrongChoice2": "どこかでほとんどの人がスマートフォンを使う",
-    "wrongChoice3": "現代ではほとんどの人がスマートフォンを使う"
+    "wrongChoice3": "最近ではほとんどの人がスマートフォンを使う"
   },
   {
     "id": 2348,
@@ -6261,7 +6261,7 @@
     "phraseMeaning": "果物と野菜は栄養がある",
     "wrongChoice1": "果物と野菜は栄養がない",
     "wrongChoice2": "果物と野菜は有名だ",
-    "wrongChoice3": "果物と野菜は健康的だ"
+    "wrongChoice3": "果物と野菜は体に良い"
   },
   {
     "id": 2349,
@@ -6278,8 +6278,8 @@
     "phrase": "obeyed the commander's orders",
     "phraseMeaning": "指揮官の命令に従った",
     "wrongChoice1": "指揮官の命令に逆らった",
-    "wrongChoice2": "指揮官の命令に服従した",
-    "wrongChoice3": "指揮官の命令に応じた"
+    "wrongChoice2": "指揮官の命令を妨害した",
+    "wrongChoice3": "指揮官の命令を聞き入れた"
   },
   {
     "id": 2350,
@@ -6295,7 +6295,7 @@
     "grade": 2,
     "phrase": "careful observation is essential",
     "phraseMeaning": "注意深い観察は不可欠だ",
-    "wrongChoice1": "注意深い観察は不要だ",
+    "wrongChoice1": "注意深い無視は不可欠だ",
     "wrongChoice2": "注意深い妨害は不可欠だ",
     "wrongChoice3": "注意深い監視は不可欠だ"
   },
@@ -6315,7 +6315,7 @@
     "phraseMeaning": "彼は明らかに疲れていた",
     "wrongChoice1": "彼は密かに疲れていた",
     "wrongChoice2": "彼は忘却的に疲れていた",
-    "wrongChoice3": "彼は見るからに疲れていた"
+    "wrongChoice3": "彼は間違いなく疲れていた"
   },
   {
     "id": 2352,
@@ -6331,7 +6331,7 @@
     "grade": 2,
     "phrase": "a special occasion for families",
     "phraseMeaning": "家族にとって特別な機会",
-    "wrongChoice1": "家族にとって日常的な機会",
+    "wrongChoice1": "家族にとって特別な危機",
     "wrongChoice2": "家族にとって特別な場所",
     "wrongChoice3": "家族にとって特別な行事"
   },
@@ -6350,8 +6350,8 @@
     "phrase": "what is your occupation",
     "phraseMeaning": "あなたの職業は何ですか",
     "wrongChoice1": "あなたの失業は何ですか",
-    "wrongChoice2": "あなたの占領は何ですか",
-    "wrongChoice3": "あなたの仕事は何ですか"
+    "wrongChoice2": "あなたの強迫観念は何ですか",
+    "wrongChoice3": "あなたの専門は何ですか"
   },
   {
     "id": 2354,
@@ -6385,7 +6385,7 @@
     "grade": 2,
     "phrase": "the mother protects her offspring",
     "phraseMeaning": "母親は子孫を守る",
-    "wrongChoice1": "母親は子孫を見捨てる",
+    "wrongChoice1": "母親は先祖を守る",
     "wrongChoice2": "母親は提供物を守る",
     "wrongChoice3": "母親は子どもを守る"
   },
@@ -6403,9 +6403,9 @@
     "grade": 2,
     "phrase": "only trained staff can operate",
     "phraseMeaning": "訓練を受けたスタッフのみが操作できる",
-    "wrongChoice1": "未訓練のスタッフでも操作できる",
+    "wrongChoice1": "訓練を受けたスタッフのみが修理できる",
     "wrongChoice2": "訓練を受けたスタッフのみが手術できる",
-    "wrongChoice3": "訓練を受けたスタッフのみが使用できる"
+    "wrongChoice3": "訓練を受けたスタッフのみが扱える"
   },
   {
     "id": 2357,
@@ -6421,7 +6421,7 @@
     "grade": 2,
     "phrase": "the operation was successful",
     "phraseMeaning": "手術は成功した",
-    "wrongChoice1": "手術は失敗した",
+    "wrongChoice1": "検査は成功した",
     "wrongChoice2": "意見は成功した",
     "wrongChoice3": "処置は成功した"
   },
@@ -6439,9 +6439,9 @@
     "grade": 2,
     "phrase": "military operations were suspended",
     "phraseMeaning": "軍事作戦は中止された",
-    "wrongChoice1": "軍事作戦は開始された",
+    "wrongChoice1": "軍事訓練は中止された",
     "wrongChoice2": "軍事意見は中止された",
-    "wrongChoice3": "軍事活動は中止された"
+    "wrongChoice3": "軍事行動は中止された"
   },
   {
     "id": 2359,
@@ -6457,9 +6457,9 @@
     "grade": 2,
     "phrase": "in my opinion we should wait",
     "phraseMeaning": "私の意見ではもっと待つべきだ",
-    "wrongChoice1": "私の意見ではすぐ行動すべきだ",
+    "wrongChoice1": "私の憶測ではもっと待つべきだ",
     "wrongChoice2": "私の選択ではもっと待つべきだ",
-    "wrongChoice3": "私の考えではもっと待つべきだ"
+    "wrongChoice3": "私の見解ではもっと待つべきだ"
   },
   {
     "id": 2360,
@@ -6477,7 +6477,7 @@
     "phraseMeaning": "成長の絶好の機会",
     "wrongChoice1": "成長の最悪の障害",
     "wrongChoice2": "成長の反対の機会",
-    "wrongChoice3": "成長の素晴らしいチャンス"
+    "wrongChoice3": "成長の絶好の好機"
   },
   {
     "id": 2361,
@@ -6495,7 +6495,7 @@
     "phraseMeaning": "非営利団体で働いている",
     "wrongChoice1": "営利企業で働いている",
     "wrongChoice2": "非営利の器官で働いている",
-    "wrongChoice3": "非営利の組織で働いている"
+    "wrongChoice3": "非営利法人で働いている"
   },
   {
     "id": 2362,
@@ -6513,7 +6513,7 @@
     "phraseMeaning": "この伝統の起源",
     "wrongChoice1": "この伝統の終焉",
     "wrongChoice2": "この伝統のオリジナル",
-    "wrongChoice3": "この伝統の由来"
+    "wrongChoice3": "この伝統の始まり"
   },
   {
     "id": 2363,
@@ -6549,7 +6549,7 @@
     "phraseMeaning": "恐怖を克服することができた",
     "wrongChoice1": "恐怖に屈することができた",
     "wrongChoice2": "恐怖を超過することができた",
-    "wrongChoice3": "恐怖に打ち勝つことができた"
+    "wrongChoice3": "恐怖を乗り越えることができた"
   },
   {
     "id": 2365,
@@ -6567,7 +6567,7 @@
     "phraseMeaning": "二つのコースは内容が重複している",
     "wrongChoice1": "二つのコースは内容が異なっている",
     "wrongChoice2": "二つのコースは内容を上に重ねている",
-    "wrongChoice3": "二つのコースは内容が共通している"
+    "wrongChoice3": "二つのコースは内容が似ている"
   },
   {
     "id": 2366,
@@ -6601,9 +6601,9 @@
     "grade": 2,
     "phrase": "received a package in the mail",
     "phraseMeaning": "郵便で小包を受け取った",
-    "wrongChoice1": "郵便で小包を送り返した",
+    "wrongChoice1": "郵便で手紙を受け取った",
     "wrongChoice2": "郵便で包装を受け取った",
-    "wrongChoice3": "郵便で荷物を受け取った"
+    "wrongChoice3": "郵便で箱を受け取った"
   },
   {
     "id": 2368,
@@ -6619,7 +6619,7 @@
     "grade": 2,
     "phrase": "ancient palaces attract tourists",
     "phraseMeaning": "古代の宮殿は観光客を引きつける",
-    "wrongChoice1": "古代の宮殿は観光客を遠ざける",
+    "wrongChoice1": "古代の廃墟は観光客を引きつける",
     "wrongChoice2": "古代の味覚は観光客を引きつける",
     "wrongChoice3": "古代の城は観光客を引きつける"
   },
@@ -6655,9 +6655,9 @@
     "grade": 2,
     "phrase": "I beg your pardon",
     "phraseMeaning": "すみません（許しを請う）",
-    "wrongChoice1": "どういたしまして",
+    "wrongChoice1": "ありがとう",
     "wrongChoice2": "庭をお願いします",
-    "wrongChoice3": "失礼しました"
+    "wrongChoice3": "ごめんなさい"
   },
   {
     "id": 2371,
@@ -6675,7 +6675,7 @@
     "phraseMeaning": "道路は部分的にふさがれていた",
     "wrongChoice1": "道路は完全にふさがれていた",
     "wrongChoice2": "道路はパーティーでふさがれていた",
-    "wrongChoice3": "道路は一部ふさがれていた"
+    "wrongChoice3": "道路は半分ふさがれていた"
   },
   {
     "id": 2372,
@@ -6691,7 +6691,7 @@
     "grade": 2,
     "phrase": "the doctor examined the patient",
     "phraseMeaning": "医者は患者を診察した",
-    "wrongChoice1": "医者は患者を無視した",
+    "wrongChoice1": "医者は健康な人を診察した",
     "wrongChoice2": "医者は忍耐を診察した",
     "wrongChoice3": "医者は病人を診察した"
   },
@@ -6710,7 +6710,7 @@
     "phrase": "peeled the potatoes for dinner",
     "phraseMeaning": "夕食のためにジャガイモの皮をむいた",
     "wrongChoice1": "夕食のためにジャガイモの皮を残した",
-    "wrongChoice2": "夕食のためにジャガイモを剥離した",
+    "wrongChoice2": "夕食のためにジャガイモをアピールした",
     "wrongChoice3": "夕食のためにジャガイモを切った"
   },
   {
@@ -6729,7 +6729,7 @@
     "phraseMeaning": "正社員のポジションを得た",
     "wrongChoice1": "一時的なポジションを得た",
     "wrongChoice2": "パーマのポジションを得た",
-    "wrongChoice3": "常勤のポジションを得た"
+    "wrongChoice3": "終身雇用のポジションを得た"
   },
   {
     "id": 2375,
@@ -6747,7 +6747,7 @@
     "phraseMeaning": "工場は永久に閉鎖された",
     "wrongChoice1": "工場は一時的に閉鎖された",
     "wrongChoice2": "工場はパーマで閉鎖された",
-    "wrongChoice3": "工場は恒久的に閉鎖された"
+    "wrongChoice3": "工場は完全に閉鎖された"
   },
   {
     "id": 2376,
@@ -6765,7 +6765,7 @@
     "phraseMeaning": "入るには許可が必要だ",
     "wrongChoice1": "入るには禁止が必要だ",
     "wrongChoice2": "入るには使命が必要だ",
-    "wrongChoice3": "入るには承認が必要だ"
+    "wrongChoice3": "入るには同意が必要だ"
   },
   {
     "id": 2377,
@@ -6783,7 +6783,7 @@
     "phraseMeaning": "建物内での喫煙は許可されていない",
     "wrongChoice1": "建物内での喫煙は許可されている",
     "wrongChoice2": "建物内での喫煙は持続されていない",
-    "wrongChoice3": "建物内での喫煙は禁止されている"
+    "wrongChoice3": "建物内での喫煙は推奨されていない"
   },
   {
     "id": 2378,
@@ -6801,7 +6801,7 @@
     "phraseMeaning": "かなりの説得の後に同意した",
     "wrongChoice1": "かなりの強制の後に同意した",
     "wrongChoice2": "かなりの侵入の後に同意した",
-    "wrongChoice3": "長い話し合いの後に同意した"
+    "wrongChoice3": "何度も頼まれた後に同意した"
   },
   {
     "id": 2379,
@@ -6819,7 +6819,7 @@
     "phraseMeaning": "有名なギリシャの哲学者",
     "wrongChoice1": "有名なギリシャの無学者",
     "wrongChoice2": "有名なギリシャの写真家",
-    "wrongChoice3": "有名なギリシャの思想家"
+    "wrongChoice3": "有名なギリシャの学者"
   },
   {
     "id": 2380,
@@ -6853,7 +6853,7 @@
     "grade": 2,
     "phrase": "translate this phrase into Japanese",
     "phraseMeaning": "このフレーズを日本語に訳す",
-    "wrongChoice1": "このフレーズを日本語から訳す",
+    "wrongChoice1": "この単語を日本語に訳す",
     "wrongChoice2": "この段階を日本語に訳す",
     "wrongChoice3": "この表現を日本語に訳す"
   },
@@ -6873,7 +6873,7 @@
     "phraseMeaning": "磨かれた床が光を反射した",
     "wrongChoice1": "汚れた床が光を反射した",
     "wrongChoice2": "ポーランドの床が光を反射した",
-    "wrongChoice3": "光沢のある床が光を反射した"
+    "wrongChoice3": "きれいな床が光を反射した"
   },
   {
     "id": 2383,
@@ -6891,7 +6891,7 @@
     "phraseMeaning": "丁寧に招待を辞退した",
     "wrongChoice1": "無礼に招待を辞退した",
     "wrongChoice2": "政治的に招待を辞退した",
-    "wrongChoice3": "礼儀正しく招待を辞退した"
+    "wrongChoice3": "丁重に招待を辞退した"
   },
   {
     "id": 2384,
@@ -6909,7 +6909,7 @@
     "phraseMeaning": "その川はひどく汚染されている",
     "wrongChoice1": "その川はきれいに浄化されている",
     "wrongChoice2": "その川はひどく研磨されている",
-    "wrongChoice3": "その川はひどく汚れている"
+    "wrongChoice3": "その川はひどく濁っている"
   },
   {
     "id": 2385,
@@ -6945,7 +6945,7 @@
     "phraseMeaning": "この持ち運びできるスピーカーは最適だ",
     "wrongChoice1": "この据え置きのスピーカーは最適だ",
     "wrongChoice2": "この港のスピーカーは最適だ",
-    "wrongChoice3": "この携帯用スピーカーは最適だ"
+    "wrongChoice3": "この小型のスピーカーは最適だ"
   },
   {
     "id": 2387,
@@ -6963,7 +6963,7 @@
     "phraseMeaning": "明日までに終わらせることは可能ですか",
     "wrongChoice1": "明日までに終わらせることは不可能ですか",
     "wrongChoice2": "明日までに磨くことは可能ですか",
-    "wrongChoice3": "明日までに終わらせられますか"
+    "wrongChoice3": "明日までに終わらせる見込みはありますか"
   },
   {
     "id": 2388,
@@ -6999,7 +6999,7 @@
     "phraseMeaning": "水を一杯注いでください",
     "wrongChoice1": "水を一杯こぼしてください",
     "wrongChoice2": "水を一杯貧しくしてください",
-    "wrongChoice3": "水を一杯入れてください"
+    "wrongChoice3": "水を一杯汲んでください"
   },
   {
     "id": 2390,
@@ -7017,7 +7017,7 @@
     "phraseMeaning": "多くの子どもが貧困の中で暮らしている",
     "wrongChoice1": "多くの子どもが裕福の中で暮らしている",
     "wrongChoice2": "多くの子どもが陶器の中で暮らしている",
-    "wrongChoice3": "多くの子どもが困窮の中で暮らしている"
+    "wrongChoice3": "多くの子どもが貧しい暮らしをしている"
   },
   {
     "id": 2391,
@@ -7035,7 +7035,7 @@
     "phraseMeaning": "努力を称賛した",
     "wrongChoice1": "努力を批判した",
     "wrongChoice2": "努力を昇給した",
-    "wrongChoice3": "努力を褒めた"
+    "wrongChoice3": "努力を評価した"
   },
   {
     "id": 2392,
@@ -7053,7 +7053,7 @@
     "phraseMeaning": "測定は正確でなければならない",
     "wrongChoice1": "測定は大雑把でよい",
     "wrongChoice2": "測定は貴重でなければならない",
-    "wrongChoice3": "測定は精密でなければならない"
+    "wrongChoice3": "測定は厳密でなければならない"
   },
   {
     "id": 2393,
@@ -7071,7 +7071,7 @@
     "phraseMeaning": "文化遺産を保存する",
     "wrongChoice1": "文化遺産を破壊する",
     "wrongChoice2": "文化遺産を大統領にする",
-    "wrongChoice3": "文化遺産を保護する"
+    "wrongChoice3": "文化遺産を守る"
   },
   {
     "id": 2394,
@@ -7087,7 +7087,7 @@
     "grade": 2,
     "phrase": "the president gave a speech",
     "phraseMeaning": "大統領がスピーチをした",
-    "wrongChoice1": "大統領がスピーチを拒否した",
+    "wrongChoice1": "国民がスピーチをした",
     "wrongChoice2": "先例がスピーチをした",
     "wrongChoice3": "首相がスピーチをした"
   },
@@ -7105,7 +7105,7 @@
     "grade": 2,
     "phrase": "stop pretending you don't know",
     "phraseMeaning": "知らないふりをするのはやめなさい",
-    "wrongChoice1": "知らないふりを続けなさい",
+    "wrongChoice1": "正直に話すのはやめなさい",
     "wrongChoice2": "知らない見せかけをするのはやめなさい",
     "wrongChoice3": "知らないふりをやめなさい"
   },
@@ -7141,7 +7141,7 @@
     "grade": 2,
     "phrase": "more experience than the previous employee",
     "phraseMeaning": "前任者より経験が豊富だ",
-    "wrongChoice1": "前任者より経験が乏しい",
+    "wrongChoice1": "後任者より経験が豊富だ",
     "wrongChoice2": "前任者より予防が豊富だ",
     "wrongChoice3": "前任者より経験が多い"
   },
@@ -7177,7 +7177,7 @@
     "grade": 2,
     "phrase": "always follows his principles",
     "phraseMeaning": "常に自分の原則に従う",
-    "wrongChoice1": "常に自分の原則に反する",
+    "wrongChoice1": "常に自分の例外に従う",
     "wrongChoice2": "常に自分の校長に従う",
     "wrongChoice3": "常に自分の信念に従う"
   },
@@ -7195,7 +7195,7 @@
     "grade": 2,
     "phrase": "everyone has the right to privacy",
     "phraseMeaning": "すべての人にプライバシーの権利がある",
-    "wrongChoice1": "すべての人にプライバシーの権利がない",
+    "wrongChoice1": "すべての人に公開の権利がある",
     "wrongChoice2": "すべての人に私的な権利がある",
     "wrongChoice3": "すべての人に個人情報保護の権利がある"
   },
@@ -7215,7 +7215,7 @@
     "phraseMeaning": "彼はおそらく遅く到着する",
     "wrongChoice1": "彼は絶対に遅く到着しない",
     "wrongChoice2": "彼は問題的に遅く到着する",
-    "wrongChoice3": "彼はたぶん遅く到着する"
+    "wrongChoice3": "彼はきっと遅く到着する"
   },
   {
     "id": 2402,
@@ -7233,7 +7233,7 @@
     "phraseMeaning": "プレゼンを続けた",
     "wrongChoice1": "プレゼンを中断した",
     "wrongChoice2": "プレゼンを処理した",
-    "wrongChoice3": "プレゼンを進めた"
+    "wrongChoice3": "プレゼンを再開した"
   },
   {
     "id": 2403,
@@ -7269,7 +7269,7 @@
     "phraseMeaning": "健康的な食習慣を促進する",
     "wrongChoice1": "健康的な食習慣を妨害する",
     "wrongChoice2": "健康的な食習慣を約束する",
-    "wrongChoice3": "健康的な食習慣を推進する"
+    "wrongChoice3": "健康的な食習慣を奨励する"
   },
   {
     "id": 2405,
@@ -7303,7 +7303,7 @@
     "grade": 2,
     "phrase": "they own several properties",
     "phraseMeaning": "彼らはいくつかの不動産を所有している",
-    "wrongChoice1": "彼らはいくつかの不動産を失った",
+    "wrongChoice1": "彼らはいくつかの負債を所有している",
     "wrongChoice2": "彼らはいくつかの適切さを所有している",
     "wrongChoice3": "彼らはいくつかの物件を所有している"
   },
@@ -7321,7 +7321,7 @@
     "grade": 2,
     "phrase": "a large proportion of the budget",
     "phraseMeaning": "予算の大きな割合",
-    "wrongChoice1": "予算の小さな割合",
+    "wrongChoice1": "予算の大きな固定費",
     "wrongChoice2": "予算の大きな提案",
     "wrongChoice3": "予算の大きな部分"
   },
@@ -7357,7 +7357,7 @@
     "grade": 2,
     "phrase": "joined the protest against",
     "phraseMeaning": "～に対する抗議に参加した",
-    "wrongChoice1": "～に対する抗議を無視した",
+    "wrongChoice1": "～に対する賛同に参加した",
     "wrongChoice2": "～に対する保護に参加した",
     "wrongChoice3": "～に対するデモに参加した"
   },
@@ -7377,7 +7377,7 @@
     "phraseMeaning": "実験は理論が正しいと証明した",
     "wrongChoice1": "実験は理論が正しいと否定した",
     "wrongChoice2": "実験は理論が改善されたと証明した",
-    "wrongChoice3": "実験は理論の正しさを示した"
+    "wrongChoice3": "実験は理論が正しいと裏付けた"
   },
   {
     "id": 2411,
@@ -7393,7 +7393,7 @@
     "grade": 2,
     "phrase": "an old proverb that says",
     "phraseMeaning": "～ということわざがある",
-    "wrongChoice1": "～ということわざはない",
+    "wrongChoice1": "～という作り話がある",
     "wrongChoice2": "～という動詞がある",
     "wrongChoice3": "～という格言がある"
   },
@@ -7449,7 +7449,7 @@
     "phraseMeaning": "不正行為で罰せられた",
     "wrongChoice1": "不正行為で褒められた",
     "wrongChoice2": "不正行為でパンチされた",
-    "wrongChoice3": "不正行為で処分された"
+    "wrongChoice3": "不正行為で警告された"
   },
   {
     "id": 2415,
@@ -7467,7 +7467,7 @@
     "phraseMeaning": "その犯罪に対する刑罰",
     "wrongChoice1": "その犯罪に対する報酬",
     "wrongChoice2": "その犯罪に対するパンチ",
-    "wrongChoice3": "その犯罪に対する処罰"
+    "wrongChoice3": "その犯罪に対する罰金"
   },
   {
     "id": 2416,
@@ -7483,7 +7483,7 @@
     "grade": 2,
     "phrase": "enjoys solving crossword puzzles",
     "phraseMeaning": "クロスワードパズルを解くのが好きだ",
-    "wrongChoice1": "クロスワードパズルを解くのが嫌いだ",
+    "wrongChoice1": "クロスワードの問題を解くのが好きだ",
     "wrongChoice2": "クロスワードの困惑を解くのが好きだ",
     "wrongChoice3": "クロスワードパズルを楽しんでいる"
   },
@@ -7521,7 +7521,7 @@
     "phraseMeaning": "大量の紙",
     "wrongChoice1": "少量の紙",
     "wrongChoice2": "大質の紙",
-    "wrongChoice3": "たくさんの紙"
+    "wrongChoice3": "数枚の紙"
   },
   {
     "id": 2419,
@@ -7539,7 +7539,7 @@
     "phraseMeaning": "聞いて激怒した",
     "wrongChoice1": "聞いて落ち着いた",
     "wrongChoice2": "聞いて年齢を感じた",
-    "wrongChoice3": "聞いて憤慨した"
+    "wrongChoice3": "聞いて驚いた"
   },
   {
     "id": 2420,
@@ -7575,7 +7575,7 @@
     "phraseMeaning": "法律へのいくつかの最近の変更",
     "wrongChoice1": "法律へのいくつかの古い変更",
     "wrongChoice2": "法律へのいくつかの不在の変更",
-    "wrongChoice3": "法律へのいくつかの近年の変更"
+    "wrongChoice3": "法律へのいくつかの過去の変更"
   },
   {
     "id": 2422,
@@ -7629,7 +7629,7 @@
     "phraseMeaning": "病気から完全に回復した",
     "wrongChoice1": "病気から完全に悪化した",
     "wrongChoice2": "病気から完全に覆った",
-    "wrongChoice3": "病気から完全に治った"
+    "wrongChoice3": "病気から少し良くなった"
   },
   {
     "id": 2425,
@@ -7647,7 +7647,7 @@
     "phraseMeaning": "エネルギー消費を減らす必要がある",
     "wrongChoice1": "エネルギー消費を増やす必要がある",
     "wrongChoice2": "エネルギー消費を再利用する必要がある",
-    "wrongChoice3": "エネルギー消費を削減する必要がある"
+    "wrongChoice3": "エネルギー消費を記録する必要がある"
   },
   {
     "id": 2426,
@@ -7665,7 +7665,7 @@
     "phraseMeaning": "湖は山々を映し出した",
     "wrongChoice1": "湖は山々を隠した",
     "wrongChoice2": "湖は山々を屈折させた",
-    "wrongChoice3": "湖は山々を反射した"
+    "wrongChoice3": "湖は山々を吸収した"
   },
   {
     "id": 2427,
@@ -7682,7 +7682,7 @@
     "phrase": "her success reflected years of effort",
     "phraseMeaning": "彼女の成功は何年もの努力を反映した",
     "wrongChoice1": "彼女の成功は何年もの努力と無関係だった",
-    "wrongChoice2": "彼女の成功は何年もの努力を反射した",
+    "wrongChoice2": "彼女の成功は何年もの努力を屈折させた",
     "wrongChoice3": "彼女の成功は何年もの努力を示した"
   },
   {
@@ -7701,7 +7701,7 @@
     "phraseMeaning": "会社は全額を返金した",
     "wrongChoice1": "会社は全額を請求した",
     "wrongChoice2": "会社は全額を拒否した",
-    "wrongChoice3": "会社は全額を払い戻した"
+    "wrongChoice3": "会社は全額を寄付した"
   },
   {
     "id": 2429,
@@ -7719,7 +7719,7 @@
     "phraseMeaning": "地域限定で販売されている",
     "wrongChoice1": "全国で販売されている",
     "wrongChoice2": "登録的に販売されている",
-    "wrongChoice3": "地方限定で販売されている"
+    "wrongChoice3": "海外限定で販売されている"
   },
   {
     "id": 2430,
@@ -7737,7 +7737,7 @@
     "phraseMeaning": "講座に登録してください",
     "wrongChoice1": "講座から退会してください",
     "wrongChoice2": "講座にレジを打ってください",
-    "wrongChoice3": "講座に申し込んでください"
+    "wrongChoice3": "講座を見学してください"
   },
   {
     "id": 2431,
@@ -7773,7 +7773,7 @@
     "phraseMeaning": "もっと勉強しなかったことを後悔した",
     "wrongChoice1": "もっと勉強しなかったことを満足した",
     "wrongChoice2": "もっと勉強しなかったことを規制した",
-    "wrongChoice3": "もっと勉強しなかったことを悔やんだ"
+    "wrongChoice3": "もっと勉強しなかったことを忘れた"
   },
   {
     "id": 2433,
@@ -7809,7 +7809,7 @@
     "phraseMeaning": "大学から不合格を受けた",
     "wrongChoice1": "大学から合格を受けた",
     "wrongChoice2": "大学から注入を受けた",
-    "wrongChoice3": "大学から拒否を受けた"
+    "wrongChoice3": "大学から通知を受けた"
   },
   {
     "id": 2435,
@@ -7825,7 +7825,7 @@
     "grade": 2,
     "phrase": "freedom of religion is a right",
     "phraseMeaning": "信教の自由は権利だ",
-    "wrongChoice1": "信教の自由は義務だ",
+    "wrongChoice1": "科学の自由は権利だ",
     "wrongChoice2": "地域の自由は権利だ",
     "wrongChoice3": "宗教の自由は権利だ"
   },
@@ -7845,7 +7845,7 @@
     "phraseMeaning": "着席したままでいてください",
     "wrongChoice1": "すぐに立ち上がってください",
     "wrongChoice2": "名前を変えたままでいてください",
-    "wrongChoice3": "座ったままでいてください"
+    "wrongChoice3": "静かなままでいてください"
   },
   {
     "id": 2437,
@@ -7863,7 +7863,7 @@
     "phraseMeaning": "今年目覚ましい進歩を遂げた",
     "wrongChoice1": "今年わずかな進歩しか遂げなかった",
     "wrongChoice2": "今年注目のマーケットを遂げた",
-    "wrongChoice3": "今年著しい進歩を遂げた"
+    "wrongChoice3": "今年大きな進歩を遂げた"
   },
   {
     "id": 2438,
@@ -7879,7 +7879,7 @@
     "grade": 2,
     "phrase": "recovered remarkably quickly",
     "phraseMeaning": "驚くほど早く回復した",
-    "wrongChoice1": "驚くほど遅く回復した",
+    "wrongChoice1": "予想通り早く回復した",
     "wrongChoice2": "注目すべきほど早く回復した",
     "wrongChoice3": "非常に早く回復した"
   },
@@ -7899,7 +7899,7 @@
     "phraseMeaning": "電話するのを思い出させてください",
     "wrongChoice1": "電話するのを忘れさせてください",
     "wrongChoice2": "電話するのを精神を込めてください",
-    "wrongChoice3": "電話するのを忘れないようにしてください"
+    "wrongChoice3": "電話するのを手伝ってください"
   },
   {
     "id": 2440,
@@ -7917,7 +7917,7 @@
     "phraseMeaning": "写真は彼女に子ども時代を思い出させた",
     "wrongChoice1": "写真は彼女に子ども時代を忘れさせた",
     "wrongChoice2": "写真は彼女に子ども時代を残した",
-    "wrongChoice3": "写真は彼女に子ども時代を想起させた"
+    "wrongChoice3": "写真は彼女に子ども時代を夢見させた"
   },
   {
     "id": 2441,
@@ -7935,7 +7935,7 @@
     "phraseMeaning": "古い家具は取り除かれた",
     "wrongChoice1": "古い家具は追加された",
     "wrongChoice2": "古い家具は引っ越された",
-    "wrongChoice3": "古い家具は撤去された"
+    "wrongChoice3": "古い家具は修理された"
   },
   {
     "id": 2442,
@@ -7953,7 +7953,7 @@
     "phraseMeaning": "壊れた窓を取り替える必要がある",
     "wrongChoice1": "壊れた窓をそのままにする必要がある",
     "wrongChoice2": "壊れた窓を再生する必要がある",
-    "wrongChoice3": "壊れた窓を交換する必要がある"
+    "wrongChoice3": "壊れた窓を掃除する必要がある"
   },
   {
     "id": 2443,
@@ -7971,7 +7971,7 @@
     "phraseMeaning": "旗は国を代表する",
     "wrongChoice1": "旗は国を裏切る",
     "wrongChoice2": "旗は国を再現する",
-    "wrongChoice3": "旗は国を象徴する"
+    "wrongChoice3": "旗は国を示している"
   },
   {
     "id": 2444,
@@ -7987,7 +7987,7 @@
     "grade": 2,
     "phrase": "elected a representative for council",
     "phraseMeaning": "議会の代表者を選出した",
-    "wrongChoice1": "議会の代表者を解任した",
+    "wrongChoice1": "議会の反対者を選出した",
     "wrongChoice2": "議会の再現者を選出した",
     "wrongChoice3": "議会の代理人を選出した"
   },
@@ -8007,7 +8007,7 @@
     "phraseMeaning": "これらの動物は急速に繁殖する",
     "wrongChoice1": "これらの動物は急速に絶滅する",
     "wrongChoice2": "これらの動物は急速に再生産する",
-    "wrongChoice3": "これらの動物は急速に増殖する"
+    "wrongChoice3": "これらの動物は急速に移動する"
   },
   {
     "id": 2446,
@@ -8023,7 +8023,7 @@
     "grade": 2,
     "phrase": "has an excellent reputation",
     "phraseMeaning": "優れた評判がある",
-    "wrongChoice1": "悪い評判がある",
+    "wrongChoice1": "優れた悪評がある",
     "wrongChoice2": "優れた繰り返しがある",
     "wrongChoice3": "優れた名声がある"
   },
@@ -8041,7 +8041,7 @@
     "grade": 2,
     "phrase": "received many requests for information",
     "phraseMeaning": "多くの情報提供の依頼を受けた",
-    "wrongChoice1": "多くの情報提供の依頼を拒否した",
+    "wrongChoice1": "多くの情報提供の命令を受けた",
     "wrongChoice2": "多くの情報提供の要求を受けた",
     "wrongChoice3": "多くの情報提供の問い合わせを受けた"
   },
@@ -8061,7 +8061,7 @@
     "phraseMeaning": "学位は～の必要条件だ",
     "wrongChoice1": "学位は～の不要条件だ",
     "wrongChoice2": "学位は～の引退だ",
-    "wrongChoice3": "学位は～の前提条件だ"
+    "wrongChoice3": "学位は～の推奨条件だ"
   },
   {
     "id": 2449,
@@ -8079,7 +8079,7 @@
     "phraseMeaning": "地震の生存者を救助している",
     "wrongChoice1": "地震の生存者を見捨てている",
     "wrongChoice2": "地震の生存者を再キューしている",
-    "wrongChoice3": "地震の生存者を助けている"
+    "wrongChoice3": "地震の生存者を励ましている"
   },
   {
     "id": 2450,
@@ -8113,7 +8113,7 @@
     "grade": 2,
     "phrase": "made a reservation at the restaurant",
     "phraseMeaning": "レストランの予約をした",
-    "wrongChoice1": "レストランの予約を取り消した",
+    "wrongChoice1": "レストランの飛び込みをした",
     "wrongChoice2": "レストランの保護区をした",
     "wrongChoice3": "レストランの予約を入れた"
   },
@@ -8133,7 +8133,7 @@
     "phraseMeaning": "その職を辞任することを決めた",
     "wrongChoice1": "その職に就くことを決めた",
     "wrongChoice2": "その職を再署名することを決めた",
-    "wrongChoice3": "その職を辞職することを決めた"
+    "wrongChoice3": "その職を希望することを決めた"
   },
   {
     "id": 2453,
@@ -8151,7 +8151,7 @@
     "phraseMeaning": "～までにこの問題を解決しなければならない",
     "wrongChoice1": "～までにこの問題を放置しなければならない",
     "wrongChoice2": "～までにこの問題を決意しなければならない",
-    "wrongChoice3": "～までにこの問題を片付けなければならない"
+    "wrongChoice3": "～までにこの問題を報告しなければならない"
   },
   {
     "id": 2454,
@@ -8167,7 +8167,7 @@
     "grade": 2,
     "phrase": "stayed at a beach resort",
     "phraseMeaning": "ビーチリゾートに滞在した",
-    "wrongChoice1": "ビーチリゾートを避けた",
+    "wrongChoice1": "ビーチの自宅に滞在した",
     "wrongChoice2": "ビーチの手段に滞在した",
     "wrongChoice3": "ビーチの宿泊施設に滞在した"
   },
@@ -8185,7 +8185,7 @@
     "grade": 2,
     "phrase": "water is a precious natural resource",
     "phraseMeaning": "水は貴重な天然資源だ",
-    "wrongChoice1": "水は無価値な天然資源だ",
+    "wrongChoice1": "水は貴重な天然の廃棄物だ",
     "wrongChoice2": "水は貴重な天然リゾートだ",
     "wrongChoice3": "水は貴重な天然の財産だ"
   },
@@ -8205,7 +8205,7 @@
     "phraseMeaning": "年長者に敬意を示す",
     "wrongChoice1": "年長者に無礼を示す",
     "wrongChoice2": "年長者に再検査を示す",
-    "wrongChoice3": "年長者に尊敬を示す"
+    "wrongChoice3": "年長者に感謝を示す"
   },
   {
     "id": 2457,
@@ -8241,7 +8241,7 @@
     "phraseMeaning": "私のメールに返答しなかった",
     "wrongChoice1": "私のメールにすぐ返答した",
     "wrongChoice2": "私のメールに対応しなかった",
-    "wrongChoice3": "私のメールに回答しなかった"
+    "wrongChoice3": "私のメールを無視した"
   },
   {
     "id": 2459,
@@ -8259,7 +8259,7 @@
     "phraseMeaning": "法律は～の販売を制限している",
     "wrongChoice1": "法律は～の販売を許可している",
     "wrongChoice2": "法律は～の販売を再構築している",
-    "wrongChoice3": "法律は～の販売を禁止している"
+    "wrongChoice3": "法律は～の販売を推奨している"
   },
   {
     "id": 2460,
@@ -8277,7 +8277,7 @@
     "phraseMeaning": "65歳で引退する予定だ",
     "wrongChoice1": "65歳で就職する予定だ",
     "wrongChoice2": "65歳でタイヤを替える予定だ",
-    "wrongChoice3": "65歳で退職する予定だ"
+    "wrongChoice3": "65歳で昇進する予定だ"
   },
   {
     "id": 2461,
@@ -8295,7 +8295,7 @@
     "phraseMeaning": "車をバックさせてもらえますか",
     "wrongChoice1": "車を前進させてもらえますか",
     "wrongChoice2": "車をリハーサルしてもらえますか",
-    "wrongChoice3": "車を後退させてもらえますか"
+    "wrongChoice3": "車を停止させてもらえますか"
   },
   {
     "id": 2462,
@@ -8313,7 +8313,7 @@
     "phraseMeaning": "裁判所は判決を取り消した",
     "wrongChoice1": "裁判所は判決を維持した",
     "wrongChoice2": "裁判所は判決をリハーサルした",
-    "wrongChoice3": "裁判所は判決を覆した"
+    "wrongChoice3": "裁判所は判決を支持した"
   },
   {
     "id": 2463,
@@ -8365,7 +8365,7 @@
     "grade": 2,
     "phrase": "moved to the rhythm of the music",
     "phraseMeaning": "音楽のリズムに合わせて動いた",
-    "wrongChoice1": "音楽のリズムに逆らって動いた",
+    "wrongChoice1": "音楽の不協和音に合わせて動いた",
     "wrongChoice2": "音楽の韻に合わせて動いた",
     "wrongChoice3": "音楽のテンポに合わせて動いた"
   },
@@ -8385,7 +8385,7 @@
     "phraseMeaning": "二つの会社はライバルだった",
     "wrongChoice1": "二つの会社は協力者だった",
     "wrongChoice2": "二つの会社は到着者だった",
-    "wrongChoice3": "二つの会社は競争相手だった"
+    "wrongChoice3": "二つの会社は提携相手だった"
   },
   {
     "id": 2467,
@@ -8403,7 +8403,7 @@
     "phraseMeaning": "銀行は今朝強盗に遭った",
     "wrongChoice1": "銀行は今朝警備された",
     "wrongChoice2": "銀行は今朝ローブを着た",
-    "wrongChoice3": "銀行は今朝襲われた"
+    "wrongChoice3": "銀行は今朝放火された"
   },
   {
     "id": 2468,
@@ -8421,7 +8421,7 @@
     "phraseMeaning": "屋上から花火を見た",
     "wrongChoice1": "地下室から花火を見た",
     "wrongChoice2": "根っこから花火を見た",
-    "wrongChoice3": "屋根の上から花火を見た"
+    "wrongChoice3": "路上から花火を見た"
   },
   {
     "id": 2469,
@@ -8437,7 +8437,7 @@
     "grade": 2,
     "phrase": "the fastest route to the airport",
     "phraseMeaning": "空港への最速のルート",
-    "wrongChoice1": "空港への最遅のルート",
+    "wrongChoice1": "空港への最速の迂回路",
     "wrongChoice2": "空港への最速の根",
     "wrongChoice3": "空港への最速の道"
   },
@@ -8455,7 +8455,7 @@
     "grade": 2,
     "phrase": "follows the same routine every morning",
     "phraseMeaning": "毎朝同じ日課に従う",
-    "wrongChoice1": "毎朝違う日課に従う",
+    "wrongChoice1": "毎朝同じ気まぐれに従う",
     "wrongChoice2": "毎朝同じルートに従う",
     "wrongChoice3": "毎朝同じ習慣に従う"
   },
@@ -8473,7 +8473,7 @@
     "grade": 2,
     "phrase": "sat in the front row",
     "phraseMeaning": "最前列に座った",
-    "wrongChoice1": "最後列に座った",
+    "wrongChoice1": "最前の空間に座った",
     "wrongChoice2": "最前の漕ぎに座った",
     "wrongChoice3": "一番前の席に座った"
   },
@@ -8511,7 +8511,7 @@
     "phraseMeaning": "食事はみんなを満足させるのに十分だった",
     "wrongChoice1": "食事はみんなを不満にさせるのに十分だった",
     "wrongChoice2": "食事はみんなを土曜日にさせるのに十分だった",
-    "wrongChoice3": "食事はみんなを満たすのに十分だった"
+    "wrongChoice3": "食事はみんなを驚かせるのに十分だった"
   },
   {
     "id": 2474,
@@ -8529,7 +8529,7 @@
     "phraseMeaning": "理論は科学的に証明された",
     "wrongChoice1": "理論は迷信的に証明された",
     "wrongChoice2": "理論は犠牲的に証明された",
-    "wrongChoice3": "理論は科学的に立証された"
+    "wrongChoice3": "理論は経験的に証明された"
   },
   {
     "id": 2475,
@@ -8546,8 +8546,8 @@
     "phrase": "the company secured a large contract",
     "phraseMeaning": "会社は大きな契約を獲得した",
     "wrongChoice1": "会社は大きな契約を失った",
-    "wrongChoice2": "会社は大きな契約を安全にした",
-    "wrongChoice3": "会社は大きな契約を確保した"
+    "wrongChoice2": "会社は大きな契約を秘密にした",
+    "wrongChoice3": "会社は大きな契約を提案した"
   },
   {
     "id": 2476,
@@ -8563,7 +8563,7 @@
     "grade": 2,
     "phrase": "airport security has been tightened",
     "phraseMeaning": "空港の警備が強化された",
-    "wrongChoice1": "空港の警備が緩和された",
+    "wrongChoice1": "空港の危険が強化された",
     "wrongChoice2": "空港の証券が強化された",
     "wrongChoice3": "空港の安全対策が強化された"
   },
@@ -8583,7 +8583,7 @@
     "phraseMeaning": "警察は違法な商品を押収した",
     "wrongChoice1": "警察は違法な商品を見逃した",
     "wrongChoice2": "警察は違法な商品をくしゃみした",
-    "wrongChoice3": "警察は違法な商品を没収した"
+    "wrongChoice3": "警察は違法な商品を販売した"
   },
   {
     "id": 2478,
@@ -8600,7 +8600,7 @@
     "phrase": "the movie became a worldwide sensation",
     "phraseMeaning": "映画は世界的な大騒ぎとなった",
     "wrongChoice1": "映画は世界的に無視された",
-    "wrongChoice2": "映画は世界的な感覚となった",
+    "wrongChoice2": "映画は世界的な駅となった",
     "wrongChoice3": "映画は世界的な話題となった"
   },
   {
@@ -8618,8 +8618,8 @@
     "phrase": "the twins were educated separately",
     "phraseMeaning": "双子は別々に教育された",
     "wrongChoice1": "双子は一緒に教育された",
-    "wrongChoice2": "双子は分離して教育された",
-    "wrongChoice3": "双子は個別に教育された"
+    "wrongChoice2": "双子は節約して教育された",
+    "wrongChoice3": "双子は交互に教育された"
   },
   {
     "id": 2480,
@@ -8637,7 +8637,7 @@
     "phraseMeaning": "嵐は深刻な被害を与えた",
     "wrongChoice1": "嵐は軽微な被害を与えた",
     "wrongChoice2": "嵐はサービス的な被害を与えた",
-    "wrongChoice3": "嵐は甚大な被害を与えた"
+    "wrongChoice3": "嵐は予期せぬ被害を与えた"
   },
   {
     "id": 2481,
@@ -8673,7 +8673,7 @@
     "phraseMeaning": "日陰に座ろう",
     "wrongChoice1": "日なたに座ろう",
     "wrongChoice2": "影に座ろう",
-    "wrongChoice3": "木陰に座ろう"
+    "wrongChoice3": "砂浜に座ろう"
   },
   {
     "id": 2483,
@@ -8691,7 +8691,7 @@
     "phraseMeaning": "彼女は黙って手紙を読んだ",
     "wrongChoice1": "彼女は声に出して手紙を読んだ",
     "wrongChoice2": "彼女は銀色に手紙を読んだ",
-    "wrongChoice3": "彼女は静かに手紙を読んだ"
+    "wrongChoice3": "彼女は急いで手紙を読んだ"
   },
   {
     "id": 2484,
@@ -8709,7 +8709,7 @@
     "phraseMeaning": "二つの間の強い類似性",
     "wrongChoice1": "二つの間の強い相違性",
     "wrongChoice2": "二つの間の強い模擬",
-    "wrongChoice3": "二つの間の強い類似点"
+    "wrongChoice3": "二つの間の強い相違点"
   },
   {
     "id": 2485,
@@ -8727,7 +8727,7 @@
     "phraseMeaning": "ピザを一切れいかがですか",
     "wrongChoice1": "ピザを丸ごといかがですか",
     "wrongChoice2": "ピザを一滑りいかがですか",
-    "wrongChoice3": "ピザを一枚いかがですか"
+    "wrongChoice3": "ピザを全部いかがですか"
   },
   {
     "id": 2486,
@@ -8745,7 +8745,7 @@
     "phraseMeaning": "気温がわずかに下がった",
     "wrongChoice1": "気温が大幅に下がった",
     "wrongChoice2": "気温がスライド的に下がった",
-    "wrongChoice3": "気温が少し下がった"
+    "wrongChoice3": "気温が急に下がった"
   },
   {
     "id": 2487,
@@ -8779,7 +8779,7 @@
     "grade": 2,
     "phrase": "different societies have different customs",
     "phraseMeaning": "異なる社会には異なる習慣がある",
-    "wrongChoice1": "同じ社会には同じ習慣がある",
+    "wrongChoice1": "異なる個人には異なる習慣がある",
     "wrongChoice2": "異なる結社には異なる習慣がある",
     "wrongChoice3": "異なる文化には異なる習慣がある"
   },
@@ -8797,7 +8797,7 @@
     "grade": 2,
     "phrase": "within the specified time",
     "phraseMeaning": "指定された時間内に",
-    "wrongChoice1": "指定された時間外に",
+    "wrongChoice1": "任意の時間内に",
     "wrongChoice2": "種類の時間内に",
     "wrongChoice3": "決められた時間内に"
   },
@@ -8815,7 +8815,7 @@
     "grade": 2,
     "phrase": "thousands of spectators watched",
     "phraseMeaning": "何千人もの観客が見た",
-    "wrongChoice1": "ほとんど観客がいなかった",
+    "wrongChoice1": "何千人もの選手が見た",
     "wrongChoice2": "何千人もの眼鏡が見た",
     "wrongChoice3": "何千人もの見物人が見た"
   },
@@ -8835,7 +8835,7 @@
     "phraseMeaning": "こぼさないように気をつけて",
     "wrongChoice1": "こぼすように気をつけて",
     "wrongChoice2": "回転しないように気をつけて",
-    "wrongChoice3": "零さないように気をつけて"
+    "wrongChoice3": "飲み干さないように気をつけて"
   },
   {
     "id": 2492,
@@ -8851,7 +8851,7 @@
     "grade": 2,
     "phrase": "the trip was spiritually enriching",
     "phraseMeaning": "その旅は精神的に豊かだった",
-    "wrongChoice1": "その旅は精神的に貧しかった",
+    "wrongChoice1": "その旅は物質的に豊かだった",
     "wrongChoice2": "その旅はスパイラル的に豊かだった",
     "wrongChoice3": "その旅は心霊的に豊かだった"
   },
@@ -8871,7 +8871,7 @@
     "phraseMeaning": "勘定を均等に分けよう",
     "wrongChoice1": "勘定を一人で払おう",
     "wrongChoice2": "勘定を唾を吐いて分けよう",
-    "wrongChoice3": "勘定を割り勘にしよう"
+    "wrongChoice3": "勘定を忘れないようにしよう"
   },
   {
     "id": 2494,
@@ -8889,7 +8889,7 @@
     "phraseMeaning": "雨がピクニック計画を台無しにした",
     "wrongChoice1": "雨がピクニック計画を盛り上げた",
     "wrongChoice2": "雨がピクニック計画をスポーツにした",
-    "wrongChoice3": "雨がピクニック計画をダメにした"
+    "wrongChoice3": "雨がピクニック計画を遅らせた"
   },
   {
     "id": 2495,
@@ -8907,7 +8907,7 @@
     "phraseMeaning": "手首に香水を吹きかけた",
     "wrongChoice1": "手首から香水を拭き取った",
     "wrongChoice2": "手首に香水を広げた",
-    "wrongChoice3": "手首に香水をつけた"
+    "wrongChoice3": "手首に時計をつけた"
   },
   {
     "id": 2496,
@@ -8959,7 +8959,7 @@
     "grade": 2,
     "phrase": "need more storage space",
     "phraseMeaning": "もっと保管スペースが必要だ",
-    "wrongChoice1": "もっと保管スペースを減らす必要がある",
+    "wrongChoice1": "もっと展示スペースが必要だ",
     "wrongChoice2": "もっと物語スペースが必要だ",
     "wrongChoice3": "もっと収納スペースが必要だ"
   },
@@ -8979,7 +8979,7 @@
     "phraseMeaning": "締め切りにストレスを感じた",
     "wrongChoice1": "締め切りにリラックスを感じた",
     "wrongChoice2": "締め切りに伸びを感じた",
-    "wrongChoice3": "締め切りにプレッシャーを感じた"
+    "wrongChoice3": "締め切りに喜びを感じた"
   },
   {
     "id": 2500,
@@ -8996,8 +8996,8 @@
     "phrase": "the bridge is an impressive structure",
     "phraseMeaning": "その橋は印象的な建造物だ",
     "wrongChoice1": "その橋は取るに足らない建造物だ",
-    "wrongChoice2": "その橋は印象的な構造だ",
-    "wrongChoice3": "その橋は見事な建造物だ"
+    "wrongChoice2": "その橋は印象的な彫刻だ",
+    "wrongChoice3": "その橋は印象的な絵画だ"
   },
   {
     "id": 2501,
@@ -9015,7 +9015,7 @@
     "phraseMeaning": "山を登るのに苦闘した",
     "wrongChoice1": "山を登るのに楽だった",
     "wrongChoice2": "山を登るのに密輸した",
-    "wrongChoice3": "山を登るのに苦労した"
+    "wrongChoice3": "山を登るのを楽しんだ"
   },
   {
     "id": 2502,
@@ -9032,8 +9032,8 @@
     "phrase": "please submit your report by Friday",
     "phraseMeaning": "金曜日までにレポートを提出してください",
     "wrongChoice1": "金曜日までにレポートを撤回してください",
-    "wrongChoice2": "金曜日までにレポートを服従してください",
-    "wrongChoice3": "金曜日までにレポートを出してください"
+    "wrongChoice2": "金曜日までにレポートを要約してください",
+    "wrongChoice3": "金曜日までにレポートを読んでください"
   },
   {
     "id": 2503,
@@ -9051,7 +9051,7 @@
     "phraseMeaning": "雑誌の定期購読を解約した",
     "wrongChoice1": "雑誌の定期購読を始めた",
     "wrongChoice2": "雑誌の記述を解約した",
-    "wrongChoice3": "雑誌の購読を解約した"
+    "wrongChoice3": "雑誌の広告を解約した"
   },
   {
     "id": 2504,
@@ -9067,7 +9067,7 @@
     "grade": 2,
     "phrase": "this substance is harmful",
     "phraseMeaning": "この物質は有害だ",
-    "wrongChoice1": "この物質は無害だ",
+    "wrongChoice1": "この空間は有害だ",
     "wrongChoice2": "この実質は有害だ",
     "wrongChoice3": "この化学物質は有害だ"
   },
@@ -9087,7 +9087,7 @@
     "phraseMeaning": "突然電気が消えた",
     "wrongChoice1": "徐々に電気が消えた",
     "wrongChoice2": "日曜日に電気が消えた",
-    "wrongChoice3": "急に電気が消えた"
+    "wrongChoice3": "ゆっくり電気が消えた"
   },
   {
     "id": 2506,
@@ -9103,7 +9103,7 @@
     "grade": 2,
     "phrase": "suffered heavy damage from the typhoon",
     "phraseMeaning": "台風で甚大な被害を受けた",
-    "wrongChoice1": "台風で軽微な被害を受けた",
+    "wrongChoice1": "台風で甚大な被害を免れた",
     "wrongChoice2": "台風で十分な被害を受けた",
     "wrongChoice3": "台風で大きな被害を受けた"
   },
@@ -9123,7 +9123,7 @@
     "phraseMeaning": "十分な証拠がある",
     "wrongChoice1": "不十分な証拠がある",
     "wrongChoice2": "効率的な証拠がある",
-    "wrongChoice3": "十分な根拠がある"
+    "wrongChoice3": "圧倒的な証拠がある"
   },
   {
     "id": 2508,
@@ -9141,7 +9141,7 @@
     "phraseMeaning": "旅行前にスーツケースを詰めた",
     "wrongChoice1": "旅行前にスーツケースを空にした",
     "wrongChoice2": "旅行前にスーツを着た",
-    "wrongChoice3": "旅行前に荷物を詰めた"
+    "wrongChoice3": "旅行前に地図を詰めた"
   },
   {
     "id": 2509,
@@ -9158,8 +9158,8 @@
     "phrase": "the factory supplies parts to",
     "phraseMeaning": "工場は～に部品を供給している",
     "wrongChoice1": "工場は～から部品を受け取っている",
-    "wrongChoice2": "工場は～に驚きを供給している",
-    "wrongChoice3": "工場は～に部品を提供している"
+    "wrongChoice2": "工場は～に部品を要求している",
+    "wrongChoice3": "工場は～から部品を購入している"
   },
   {
     "id": 2510,
@@ -9175,7 +9175,7 @@
     "grade": 2,
     "phrase": "the doctor recommended surgery",
     "phraseMeaning": "医者は手術を勧めた",
-    "wrongChoice1": "医者は手術を拒否した",
+    "wrongChoice1": "医者は薬物治療を勧めた",
     "wrongChoice2": "医者は外科学を勧めた",
     "wrongChoice3": "医者は手術を提案した"
   },
@@ -9193,9 +9193,9 @@
     "grade": 2,
     "phrase": "the test was surprisingly easy",
     "phraseMeaning": "テストは意外にも簡単だった",
-    "wrongChoice1": "テストは予想通り難しかった",
+    "wrongChoice1": "テストは予想通り簡単だった",
     "wrongChoice2": "テストは調査的に簡単だった",
-    "wrongChoice3": "テストは驚くほど簡単だった"
+    "wrongChoice3": "テストは案の定簡単だった"
   },
   {
     "id": 2512,
@@ -9211,7 +9211,7 @@
     "grade": 2,
     "phrase": "survival in the wilderness requires skills",
     "phraseMeaning": "荒野での生存には技術が必要だ",
-    "wrongChoice1": "荒野での生存には技術が不要だ",
+    "wrongChoice1": "荒野での絶滅には技術が必要だ",
     "wrongChoice2": "荒野での調査には技術が必要だ",
     "wrongChoice3": "荒野でのサバイバルには技術が必要だ"
   },
@@ -9229,7 +9229,7 @@
     "grade": 2,
     "phrase": "police arrested the main suspect",
     "phraseMeaning": "警察は主要容疑者を逮捕した",
-    "wrongChoice1": "警察は主要容疑者を釈放した",
+    "wrongChoice1": "警察は主要な目撃者を逮捕した",
     "wrongChoice2": "警察は主要な中断を逮捕した",
     "wrongChoice3": "警察は主要容疑者を拘束した"
   },
@@ -9247,9 +9247,9 @@
     "grade": 2,
     "phrase": "arrested on suspicion of theft",
     "phraseMeaning": "窃盗の疑いで逮捕された",
-    "wrongChoice1": "窃盗の疑いで釈放された",
+    "wrongChoice1": "窃盗の確証で逮捕された",
     "wrongChoice2": "窃盗の中止で逮捕された",
-    "wrongChoice3": "窃盗の容疑で逮捕された"
+    "wrongChoice3": "窃盗の証拠で逮捕された"
   },
   {
     "id": 2515,
@@ -9285,7 +9285,7 @@
     "phraseMeaning": "彼女は海で泳ぐのが好きだ",
     "wrongChoice1": "彼女は海で溺れるのが好きだ",
     "wrongChoice2": "彼女は海で振るのが好きだ",
-    "wrongChoice3": "彼女は海で泳ぐのを楽しむ"
+    "wrongChoice3": "彼女は海で散歩するのが好きだ"
   },
   {
     "id": 2517,
@@ -9303,7 +9303,7 @@
     "phraseMeaning": "9つの交響曲を作曲した",
     "wrongChoice1": "9つの独奏曲を作曲した",
     "wrongChoice2": "9つの同情を作曲した",
-    "wrongChoice3": "9つの交響曲を演奏した"
+    "wrongChoice3": "9つのオペラを作曲した"
   },
   {
     "id": 2518,
@@ -9319,7 +9319,7 @@
     "grade": 2,
     "phrase": "a common symptom of the flu",
     "phraseMeaning": "インフルエンザの一般的な症状",
-    "wrongChoice1": "インフルエンザの珍しい症状",
+    "wrongChoice1": "インフルエンザの一般的な治療法",
     "wrongChoice2": "インフルエンザの一般的な同情",
     "wrongChoice3": "インフルエンザの典型的な症状"
   },
@@ -9339,7 +9339,7 @@
     "phraseMeaning": "道路は一時的に閉鎖されている",
     "wrongChoice1": "道路は永久に閉鎖されている",
     "wrongChoice2": "道路は気性的に閉鎖されている",
-    "wrongChoice3": "道路は当面閉鎖されている"
+    "wrongChoice3": "道路は部分的に閉鎖されている"
   },
   {
     "id": 2520,
@@ -9355,7 +9355,7 @@
     "grade": 2,
     "phrase": "growing tension between the two countries",
     "phraseMeaning": "二国間の緊張が高まっている",
-    "wrongChoice1": "二国間の緊張が和らいでいる",
+    "wrongChoice1": "二国間の協力が高まっている",
     "wrongChoice2": "二国間の傾向が高まっている",
     "wrongChoice3": "二国間の対立が高まっている"
   },
@@ -9374,8 +9374,8 @@
     "phrase": "I'm terribly sorry for",
     "phraseMeaning": "～について大変申し訳ない",
     "wrongChoice1": "～について全く申し訳なくない",
-    "wrongChoice2": "～について恐ろしく申し訳ない",
-    "wrongChoice3": "～についてとても申し訳ない"
+    "wrongChoice2": "～について奇妙に申し訳ない",
+    "wrongChoice3": "～について少し申し訳ない"
   },
   {
     "id": 2522,
@@ -9392,8 +9392,8 @@
     "phrase": "thankfully no one was hurt",
     "phraseMeaning": "ありがたいことに誰もけがをしなかった",
     "wrongChoice1": "残念ながら誰もけがをしなかった",
-    "wrongChoice2": "感謝的に誰もけがをしなかった",
-    "wrongChoice3": "幸いにも誰もけがをしなかった"
+    "wrongChoice2": "考え深く誰もけがをしなかった",
+    "wrongChoice3": "案の定誰もけがをしなかった"
   },
   {
     "id": 2523,
@@ -9410,8 +9410,8 @@
     "phrase": "learned how to tie his shoes",
     "phraseMeaning": "靴ひもの結び方を覚えた",
     "wrongChoice1": "靴ひもの解き方を覚えた",
-    "wrongChoice2": "靴ひものネクタイ方を覚えた",
-    "wrongChoice3": "靴ひもの締め方を覚えた"
+    "wrongChoice2": "靴ひもの染め方を覚えた",
+    "wrongChoice3": "靴ひものほどき方を覚えた"
   },
   {
     "id": 2524,
@@ -9427,7 +9427,7 @@
     "grade": 2,
     "phrase": "train timetables are available online",
     "phraseMeaning": "列車の時刻表はオンラインで見られる",
-    "wrongChoice1": "列車の時刻表はオンラインで見られない",
+    "wrongChoice1": "列車の運賃表はオンラインで見られる",
     "wrongChoice2": "列車のタイムテーブルはオンラインで見られる",
     "wrongChoice3": "列車のスケジュールはオンラインで見られる"
   },
@@ -9447,7 +9447,7 @@
     "phraseMeaning": "伝統的に正月に出される",
     "wrongChoice1": "最近になって正月に出される",
     "wrongChoice2": "取引的に正月に出される",
-    "wrongChoice3": "慣例的に正月に出される"
+    "wrongChoice3": "特別に正月に出される"
   },
   {
     "id": 2526,
@@ -9465,7 +9465,7 @@
     "phraseMeaning": "地震はひどい悲劇だった",
     "wrongChoice1": "地震は素晴らしい祝福だった",
     "wrongChoice2": "地震はひどい軌道だった",
-    "wrongChoice3": "地震はひどい惨事だった"
+    "wrongChoice3": "地震はひどい出来事だった"
   },
   {
     "id": 2527,
@@ -9483,7 +9483,7 @@
     "phraseMeaning": "テクノロジーはコミュニケーションを一変させた",
     "wrongChoice1": "テクノロジーはコミュニケーションを変えなかった",
     "wrongChoice2": "テクノロジーはコミュニケーションを輸送させた",
-    "wrongChoice3": "テクノロジーはコミュニケーションを変革した"
+    "wrongChoice3": "テクノロジーはコミュニケーションを記録した"
   },
   {
     "id": 2528,
@@ -9501,7 +9501,7 @@
     "phraseMeaning": "この文を英語に翻訳する",
     "wrongChoice1": "この文を英語に誤訳する",
     "wrongChoice2": "この文を英語に移転する",
-    "wrongChoice3": "この文を英語に訳す"
+    "wrongChoice3": "この文を英語で音読する"
   },
   {
     "id": 2529,
@@ -9519,7 +9519,7 @@
     "phraseMeaning": "その小説の翻訳",
     "wrongChoice1": "その小説の原作",
     "wrongChoice2": "その小説の移転",
-    "wrongChoice3": "その小説の訳"
+    "wrongChoice3": "その小説の要約"
   },
   {
     "id": 2530,
@@ -9535,7 +9535,7 @@
     "grade": 2,
     "phrase": "the children drew triangles",
     "phraseMeaning": "子どもたちは三角形を描いた",
-    "wrongChoice1": "子どもたちは三角形を消した",
+    "wrongChoice1": "子どもたちは円を描いた",
     "wrongChoice2": "子どもたちは試験を描いた",
     "wrongChoice3": "子どもたちは三角を描いた"
   },
@@ -9555,7 +9555,7 @@
     "phraseMeaning": "だまされてパスワードを教えた",
     "wrongChoice1": "自らパスワードを教えた",
     "wrongChoice2": "騙されてパスワードを治療した",
-    "wrongChoice3": "騙されてパスワードを渡した"
+    "wrongChoice3": "説得されてパスワードを教えた"
   },
   {
     "id": 2532,
@@ -9573,7 +9573,7 @@
     "phraseMeaning": "チームにとって大きな勝利",
     "wrongChoice1": "チームにとって大きな敗北",
     "wrongChoice2": "チームにとって大きなトランペット",
-    "wrongChoice3": "チームにとって大きな成功"
+    "wrongChoice3": "チームにとって大きな課題"
   },
   {
     "id": 2533,
@@ -9589,7 +9589,7 @@
     "grade": 2,
     "phrase": "a troop of soldiers marched",
     "phraseMeaning": "一隊の兵士が行進した",
-    "wrongChoice1": "一隊の兵士が退却した",
+    "wrongChoice1": "一人の兵士が行進した",
     "wrongChoice2": "一つの騙しが行進した",
     "wrongChoice3": "一団の兵士が行進した"
   },
@@ -9607,7 +9607,7 @@
     "grade": 2,
     "phrase": "the experiment required glass tubes",
     "phraseMeaning": "実験にはガラス管が必要だった",
-    "wrongChoice1": "実験にはガラス管が不要だった",
+    "wrongChoice1": "実験にはガラス板が必要だった",
     "wrongChoice2": "実験にはガラスチューブが必要だった",
     "wrongChoice3": "実験にはガラス容器が必要だった"
   },
@@ -9627,7 +9627,7 @@
     "phraseMeaning": "その椅子はとても座り心地が悪かった",
     "wrongChoice1": "その椅子はとても座り心地が良かった",
     "wrongChoice2": "その椅子はとても異常だった",
-    "wrongChoice3": "その椅子はとても不快だった"
+    "wrongChoice3": "その椅子はとても高価だった"
   },
   {
     "id": 2536,
@@ -9645,7 +9645,7 @@
     "phraseMeaning": "猫はベッドの下に隠れていた",
     "wrongChoice1": "猫はベッドの上に隠れていた",
     "wrongChoice2": "猫はベッドの下着に隠れていた",
-    "wrongChoice3": "猫はベッドの下に潜んでいた"
+    "wrongChoice3": "猫はベッドの横に隠れていた"
   },
   {
     "id": 2537,
@@ -9663,7 +9663,7 @@
     "phraseMeaning": "不正義と戦うために団結しなければならない",
     "wrongChoice1": "不正義と戦うために分裂しなければならない",
     "wrongChoice2": "不正義と戦うために単位にならなければならない",
-    "wrongChoice3": "不正義と戦うために結束しなければならない"
+    "wrongChoice3": "不正義と戦うために独立しなければならない"
   },
   {
     "id": 2538,
@@ -9681,7 +9681,7 @@
     "phraseMeaning": "上層階は素晴らしい眺めだ",
     "wrongChoice1": "下層階は素晴らしい眺めだ",
     "wrongChoice2": "アッパーの階は素晴らしい眺めだ",
-    "wrongChoice3": "高層階は素晴らしい眺めだ"
+    "wrongChoice3": "地下階は素晴らしい眺めだ"
   },
   {
     "id": 2539,
@@ -9699,7 +9699,7 @@
     "phraseMeaning": "寝室は二階にある",
     "wrongChoice1": "寝室は一階にある",
     "wrongChoice2": "寝室は階段の上にある",
-    "wrongChoice3": "寝室は上の階にある"
+    "wrongChoice3": "寝室は奥にある"
   },
   {
     "id": 2540,
@@ -9717,7 +9717,7 @@
     "phraseMeaning": "この問題に緊急性がある",
     "wrongChoice1": "この問題に余裕がある",
     "wrongChoice2": "この問題に衝動がある",
-    "wrongChoice3": "この問題に切迫感がある"
+    "wrongChoice3": "この問題に既視感がある"
   },
   {
     "id": 2541,
@@ -9735,7 +9735,7 @@
     "phraseMeaning": "彼の答えは非常に曖昧だった",
     "wrongChoice1": "彼の答えは非常に明確だった",
     "wrongChoice2": "彼の答えは非常に流行だった",
-    "wrongChoice3": "彼の答えは非常に漠然としていた"
+    "wrongChoice3": "彼の答えは非常に簡潔だった"
   },
   {
     "id": 2542,
@@ -9751,7 +9751,7 @@
     "grade": 2,
     "phrase": "electric vehicles are becoming popular",
     "phraseMeaning": "電気自動車がますます人気になっている",
-    "wrongChoice1": "電気自動車がますます不人気になっている",
+    "wrongChoice1": "電気自転車がますます人気になっている",
     "wrongChoice2": "電気の乗り物がますます人気になっている",
     "wrongChoice3": "電気自動車がますます普及している"
   },
@@ -9771,7 +9771,7 @@
     "phraseMeaning": "被害者は病院に運ばれた",
     "wrongChoice1": "加害者は病院に運ばれた",
     "wrongChoice2": "勝利者は病院に運ばれた",
-    "wrongChoice3": "けが人は病院に運ばれた"
+    "wrongChoice3": "目撃者は病院に運ばれた"
   },
   {
     "id": 2544,
@@ -9787,7 +9787,7 @@
     "grade": 2,
     "phrase": "aid was sent to the victims",
     "phraseMeaning": "被災者に援助が送られた",
-    "wrongChoice1": "被災者から援助が奪われた",
+    "wrongChoice1": "加害者に援助が送られた",
     "wrongChoice2": "勝利者に援助が送られた",
     "wrongChoice3": "被災者に支援が送られた"
   },
@@ -9807,7 +9807,7 @@
     "phraseMeaning": "暴力は決して解決策にならない",
     "wrongChoice1": "平和は決して解決策にならない",
     "wrongChoice2": "バイオリンは決して解決策にならない",
-    "wrongChoice3": "暴力は決して正解ではない"
+    "wrongChoice3": "対話は決して解決策にならない"
   },
   {
     "id": 2546,
@@ -9825,7 +9825,7 @@
     "phraseMeaning": "風が激しく吹いた",
     "wrongChoice1": "風が穏やかに吹いた",
     "wrongChoice2": "風がバイオリン的に吹いた",
-    "wrongChoice3": "風が猛烈に吹いた"
+    "wrongChoice3": "風が静かに吹いた"
   },
   {
     "id": 2547,
@@ -9843,7 +9843,7 @@
     "phraseMeaning": "星がはっきりと見える",
     "wrongChoice1": "星が全く見えない",
     "wrongChoice2": "星がはっきりと訪問できる",
-    "wrongChoice3": "星がくっきりと見える"
+    "wrongChoice3": "星がぼんやりと見える"
   },
   {
     "id": 2548,
@@ -9859,7 +9859,7 @@
     "grade": 2,
     "phrase": "his wealth grew through investments",
     "phraseMeaning": "投資により彼の財産が増えた",
-    "wrongChoice1": "投資により彼の財産が減った",
+    "wrongChoice1": "投資により彼の負債が増えた",
     "wrongChoice2": "投資により彼の健康が増えた",
     "wrongChoice3": "投資により彼の資産が増えた"
   },
@@ -9877,7 +9877,7 @@
     "grade": 2,
     "phrase": "weighed the ingredients carefully",
     "phraseMeaning": "材料の重さを注意深く量った",
-    "wrongChoice1": "材料の重さを無頓着に量った",
+    "wrongChoice1": "材料の重さを注意深く推測した",
     "wrongChoice2": "材料の重さを注意深く待った",
     "wrongChoice3": "材料の分量を注意深く量った"
   },
@@ -9895,7 +9895,7 @@
     "grade": 2,
     "phrase": "provides welfare services to the poor",
     "phraseMeaning": "貧困者に福祉サービスを提供する",
-    "wrongChoice1": "貧困者から福祉サービスを奪う",
+    "wrongChoice1": "貧困者に有料サービスを提供する",
     "wrongChoice2": "貧困者に富裕サービスを提供する",
     "wrongChoice3": "貧困者に社会サービスを提供する"
   },
@@ -9933,7 +9933,7 @@
     "phraseMeaning": "実験は興味深い結果をもたらした",
     "wrongChoice1": "実験は興味深い結果を隠した",
     "wrongChoice2": "実験は興味深い結果を叫んだ",
-    "wrongChoice3": "実験は興味深い結果を生んだ"
+    "wrongChoice3": "実験は予期せぬ結果をもたらした"
   },
   {
     "id": 2553,
@@ -9949,7 +9949,7 @@
     "grade": 2,
     "phrase": "the industrial revolution changed society",
     "phraseMeaning": "産業革命は社会を変えた",
-    "wrongChoice1": "産業革命は社会を変えなかった",
+    "wrongChoice1": "農業革命は社会を変えた",
     "wrongChoice2": "勤勉な革命は社会を変えた",
     "wrongChoice3": "産業革命は社会を一変させた"
   },
@@ -9969,6 +9969,6 @@
     "phraseMeaning": "第一印象は非常に重要だ",
     "wrongChoice1": "第一無関心は非常に重要だ",
     "wrongChoice2": "第一圧力は非常に重要だ",
-    "wrongChoice3": "第一印象はとても大切だ"
+    "wrongChoice3": "第一の見た目は非常に重要だ"
   }
 ]
