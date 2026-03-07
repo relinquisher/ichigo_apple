@@ -115,24 +115,8 @@ class AssessmentQuizViewModel {
 
     private func buildQuestion(index: Int) -> QuizQuestion {
         let word = quizWords[index]
-        let usePhrase = !word.phrase.isEmpty && !word.phraseMeaning.isEmpty
-        let correctAnswer = usePhrase ? word.phraseMeaning : word.meaning
-
-        let wrongChoices: [String]
-        if usePhrase && !word.wrongChoice1.isEmpty {
-            wrongChoices = [word.wrongChoice1, word.wrongChoice2, word.wrongChoice3]
-        } else {
-            let sameCat = allWords.filter { $0.id != word.id && $0.category == word.category }
-            if sameCat.count >= 3 {
-                wrongChoices = Array(sameCat.shuffled().prefix(3)).map { $0.meaning }
-            } else {
-                let others = allWords.filter { $0.id != word.id && $0.category != word.category }.shuffled()
-                let combined = (sameCat + others)
-                var seen = Set<String>()
-                let unique = combined.filter { seen.insert($0.meaning).inserted }.prefix(3)
-                wrongChoices = unique.map { $0.meaning }
-            }
-        }
+        let correctAnswer = word.phraseMeaning
+        let wrongChoices = [word.wrongChoice1, word.wrongChoice2, word.wrongChoice3]
 
         var allChoices = wrongChoices + [correctAnswer]
         allChoices.shuffle()

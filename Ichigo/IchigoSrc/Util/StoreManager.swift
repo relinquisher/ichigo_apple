@@ -12,7 +12,11 @@ final class StoreManager {
 
     // MARK: - Published State
 
+    #if targetEnvironment(simulator)
+    var isUnlocked: Bool { true }
+    #else
     var isUnlocked: Bool { isPurchased || isTrialActive }
+    #endif
     private(set) var isTrialActive = false
     private(set) var isPurchased = false
     private(set) var trialDaysRemaining = 0

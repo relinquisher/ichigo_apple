@@ -3,7 +3,7 @@ import SwiftUI
 struct SettingsScreen: View {
     @Environment(StoreManager.self) private var storeManager
     @State private var viewModel: SettingsViewModel
-    @AppStorage("timer_seconds") private var timerSeconds: Int = 4
+    @AppStorage("timer_seconds") private var timerSeconds: Int = 10
     @AppStorage("show_example_default") private var showExampleByDefault: Bool = true
     @State private var showResetAlert = false
     @State private var showFinalConfirm = false

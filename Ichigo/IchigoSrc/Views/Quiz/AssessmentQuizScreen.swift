@@ -9,7 +9,7 @@ struct AssessmentQuizScreen: View {
     @State private var showExample = false
     @Binding var path: NavigationPath
 
-    @AppStorage("timer_seconds") private var timerSeconds: Int = 4
+    @AppStorage("timer_seconds") private var timerSeconds: Int = 10
     @AppStorage("show_example_default") private var showExampleByDefault: Bool = true
 
     private let ttsManager = TtsManager()
@@ -182,37 +182,21 @@ struct AssessmentQuizScreen: View {
 
     private func wordDisplay(question: QuizQuestion) -> some View {
         VStack(spacing: 8) {
-            if !question.word.phrase.isEmpty {
-                // 準1級: phrase + word
-                Text(question.word.phrase)
-                    .font(.system(size: 32, weight: .bold))
-                    .foregroundColor(.strawberry)
-                    .multilineTextAlignment(.center)
-                    .onTapGesture { ttsManager.speak(question.word.phrase) }
+            Text(question.word.phrase)
+                .font(.system(size: 32, weight: .bold))
+                .foregroundColor(.strawberry)
+                .multilineTextAlignment(.center)
+                .onTapGesture { ttsManager.speak(question.word.phrase) }
 
-                if !question.word.ipa.isEmpty {
-                    Text(question.word.ipa)
-                        .font(.title2)
-                        .foregroundColor(.secondary)
-                }
-
-                Text(question.word.word)
-                    .font(.title3)
+            if !question.word.ipa.isEmpty {
+                Text(question.word.ipa)
+                    .font(.title2)
                     .foregroundColor(.secondary)
-            } else {
-                // 2級: word only
-                Text(question.word.word)
-                    .font(.system(size: 40, weight: .bold))
-                    .foregroundColor(.strawberry)
-                    .multilineTextAlignment(.center)
-                    .onTapGesture { ttsManager.speak(question.word.word) }
-
-                if !question.word.ipa.isEmpty {
-                    Text(question.word.ipa)
-                        .font(.title2)
-                        .foregroundColor(.secondary)
-                }
             }
+
+            Text(question.word.word)
+                .font(.title3)
+                .foregroundColor(.secondary)
         }
         .padding(.horizontal)
     }
