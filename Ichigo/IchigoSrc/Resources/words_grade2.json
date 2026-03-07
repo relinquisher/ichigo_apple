@@ -49,7 +49,7 @@
     "grade": 2,
     "phrase": "performed academically well",
     "phraseMeaning": "学問的に優秀な成績を収めた",
-    "wrongChoice1": "学問的に劣った成績を収めた",
+    "wrongChoice1": "実務的に優秀な成績を収めた",
     "wrongChoice2": "偶発的に優秀な成績を収めた",
     "wrongChoice3": "体育的に優秀な成績を収めた"
   },
@@ -733,7 +733,7 @@
     "grade": 2,
     "phrase": "collect your baggage",
     "phraseMeaning": "手荷物を受け取る",
-    "wrongChoice1": "手荷物を放棄する",
+    "wrongChoice1": "大型貨物を受け取る",
     "wrongChoice2": "手荷物を包帯する",
     "wrongChoice3": "手荷物を検査する"
   },
@@ -2137,7 +2137,7 @@
     "grade": 2,
     "phrase": "define success clearly",
     "phraseMeaning": "成功を明確に定義する",
-    "wrongChoice1": "成功を曖昧に定義する",
+    "wrongChoice1": "成功を明確に混同する",
     "wrongChoice2": "成功を明確に拒否する",
     "wrongChoice3": "成功を明確に説明する"
   },
@@ -3757,7 +3757,7 @@
     "grade": 2,
     "phrase": "not financially viable",
     "phraseMeaning": "財政的に実行不可能だ",
-    "wrongChoice1": "財政的に実行可能だ",
+    "wrongChoice1": "感情的に実行不可能だ",
     "wrongChoice2": "最終的に実行不可能だ",
     "wrongChoice3": "経済的に実行不可能だ"
   },
@@ -3775,7 +3775,7 @@
     "grade": 2,
     "phrase": "sat by the fireplace",
     "phraseMeaning": "暖炉のそばに座った",
-    "wrongChoice1": "暖炉から離れて座った",
+    "wrongChoice1": "冷蔵庫のそばに座った",
     "wrongChoice2": "火事場のそばに座った",
     "wrongChoice3": "ストーブのそばに座った"
   },
@@ -3793,7 +3793,7 @@
     "grade": 2,
     "phrase": "the candle flame flickered",
     "phraseMeaning": "ろうそくの炎が揺れた",
-    "wrongChoice1": "ろうそくの炎が消えた",
+    "wrongChoice1": "ろうそくの氷が揺れた",
     "wrongChoice2": "ろうそくの額縁が揺れた",
     "wrongChoice3": "ろうそくの光が揺れた"
   },
@@ -4063,7 +4063,7 @@
     "grade": 2,
     "phrase": "the younger generation",
     "phraseMeaning": "若い世代",
-    "wrongChoice1": "年老いた世代",
+    "wrongChoice1": "若い老人",
     "wrongChoice2": "若い発電",
     "wrongChoice3": "若い集団"
   },
@@ -4191,7 +4191,7 @@
     "phraseMeaning": "意味を理解できなかった",
     "wrongChoice1": "意味を即座に理解した",
     "wrongChoice2": "意味を草で覆った",
-    "wrongChoice3": "意味を把握できなかった"
+    "wrongChoice3": "意味を記憶できなかった"
   },
   {
     "id": 2234,
@@ -4639,7 +4639,7 @@
     "grade": 2,
     "phrase": "recovered from a serious illness",
     "phraseMeaning": "重い病気から回復した",
-    "wrongChoice1": "重い病気に罹った",
+    "wrongChoice1": "重い健康から回復した",
     "wrongChoice2": "重い不法行為から回復した",
     "wrongChoice3": "重い怪我から回復した"
   },
@@ -4711,7 +4711,7 @@
     "grade": 2,
     "phrase": "many immigrants came seeking",
     "phraseMeaning": "多くの移民が求めてやって来た",
-    "wrongChoice1": "多くの移民が逃げ出した",
+    "wrongChoice1": "多くの帰国者が求めてやって来た",
     "wrongChoice2": "多くの模倣者が求めてやって来た",
     "wrongChoice3": "多くの外国人が求めてやって来た"
   },
@@ -4819,7 +4819,7 @@
     "grade": 2,
     "phrase": "made a good impression at",
     "phraseMeaning": "～で良い印象を与えた",
-    "wrongChoice1": "～で悪い印象を与えた",
+    "wrongChoice1": "～で良い無関心を与えた",
     "wrongChoice2": "～で良い圧迫を与えた",
     "wrongChoice3": "～で良い評価を与えた"
   },
@@ -5125,7 +5125,7 @@
     "grade": 2,
     "phrase": "do you have health insurance",
     "phraseMeaning": "健康保険に入っていますか",
-    "wrongChoice1": "健康保険を解約しましたか",
+    "wrongChoice1": "健康危険に入っていますか",
     "wrongChoice2": "健康の保証に入っていますか",
     "wrongChoice3": "医療保険に入っていますか"
   },
@@ -5503,7 +5503,7 @@
     "grade": 2,
     "phrase": "not legally allowed to park here",
     "phraseMeaning": "ここに駐車することは法的に許可されていない",
-    "wrongChoice1": "ここに駐車することは法的に許可されている",
+    "wrongChoice1": "ここに駐車することは感情的に許可されていない",
     "wrongChoice2": "ここに駐車することは同盟的に許可されていない",
     "wrongChoice3": "ここに駐車することは公式に許可されていない"
   },
@@ -5539,7 +5539,7 @@
     "grade": 2,
     "phrase": "located near the beach",
     "phraseMeaning": "ビーチの近くに位置する",
-    "wrongChoice1": "ビーチから遠くに位置する",
+    "wrongChoice1": "ビーチの近くに消失する",
     "wrongChoice2": "ビーチの近くに施錠する",
     "wrongChoice3": "ビーチの近くにある"
   },
@@ -5667,7 +5667,7 @@
     "phraseMeaning": "健康的な生活を維持する",
     "wrongChoice1": "健康的な生活を放棄する",
     "wrongChoice2": "健康的な生活を主に行う",
-    "wrongChoice3": "健康的な生活を保つ"
+    "wrongChoice3": "健康的な生活を計画する"
   },
   {
     "id": 2316,
@@ -5685,7 +5685,7 @@
     "phraseMeaning": "良い関係を維持すること",
     "wrongChoice1": "良い関係を断つこと",
     "wrongChoice2": "良い関係を主として行うこと",
-    "wrongChoice3": "良い関係を保つこと"
+    "wrongChoice3": "良い関係を構築すること"
   },
   {
     "id": 2317,
@@ -5845,7 +5845,7 @@
     "grade": 2,
     "phrase": "the experience was mentally exhausting",
     "phraseMeaning": "その経験は精神的に疲れるものだった",
-    "wrongChoice1": "その経験は精神的に活力を与えるものだった",
+    "wrongChoice1": "その経験は肉体的に疲れるものだった",
     "wrongChoice2": "その経験は金属的に疲れるものだった",
     "wrongChoice3": "その経験は精神的に消耗するものだった"
   },
@@ -6313,7 +6313,7 @@
     "grade": 2,
     "phrase": "he was obviously tired",
     "phraseMeaning": "彼は明らかに疲れていた",
-    "wrongChoice1": "彼は明らかに元気だった",
+    "wrongChoice1": "彼は密かに疲れていた",
     "wrongChoice2": "彼は忘却的に疲れていた",
     "wrongChoice3": "彼は見るからに疲れていた"
   },
@@ -6763,7 +6763,7 @@
     "grade": 2,
     "phrase": "you need permission to enter",
     "phraseMeaning": "入るには許可が必要だ",
-    "wrongChoice1": "入るのに許可は不要だ",
+    "wrongChoice1": "入るには禁止が必要だ",
     "wrongChoice2": "入るには使命が必要だ",
     "wrongChoice3": "入るには承認が必要だ"
   },
@@ -6799,7 +6799,7 @@
     "grade": 2,
     "phrase": "after much persuasion he agreed",
     "phraseMeaning": "かなりの説得の後に同意した",
-    "wrongChoice1": "少しの説得で拒否した",
+    "wrongChoice1": "かなりの強制の後に同意した",
     "wrongChoice2": "かなりの侵入の後に同意した",
     "wrongChoice3": "長い話し合いの後に同意した"
   },
@@ -6817,7 +6817,7 @@
     "grade": 2,
     "phrase": "a famous Greek philosopher",
     "phraseMeaning": "有名なギリシャの哲学者",
-    "wrongChoice1": "無名なギリシャの哲学者",
+    "wrongChoice1": "有名なギリシャの無学者",
     "wrongChoice2": "有名なギリシャの写真家",
     "wrongChoice3": "有名なギリシャの思想家"
   },
@@ -6835,7 +6835,7 @@
     "grade": 2,
     "phrase": "studied philosophy at university",
     "phraseMeaning": "大学で哲学を学んだ",
-    "wrongChoice1": "大学で哲学を教えた",
+    "wrongChoice1": "大学で無学を学んだ",
     "wrongChoice2": "大学で写真を学んだ",
     "wrongChoice3": "大学で思想を学んだ"
   },
@@ -6943,7 +6943,7 @@
     "grade": 2,
     "phrase": "this portable speaker is perfect",
     "phraseMeaning": "この持ち運びできるスピーカーは最適だ",
-    "wrongChoice1": "この持ち運びできないスピーカーは最適だ",
+    "wrongChoice1": "この据え置きのスピーカーは最適だ",
     "wrongChoice2": "この港のスピーカーは最適だ",
     "wrongChoice3": "この携帯用スピーカーは最適だ"
   },
@@ -7249,7 +7249,7 @@
     "grade": 2,
     "phrase": "promised to help with homework",
     "phraseMeaning": "宿題を手伝うと約束した",
-    "wrongChoice1": "宿題を手伝わないと約束した",
+    "wrongChoice1": "宿題を手伝うと拒否した",
     "wrongChoice2": "宿題を促進すると約束した",
     "wrongChoice3": "宿題を手伝うと誓った"
   },
@@ -7375,7 +7375,7 @@
     "grade": 2,
     "phrase": "the experiment proved the theory",
     "phraseMeaning": "実験は理論が正しいと証明した",
-    "wrongChoice1": "実験は理論が間違いだと証明した",
+    "wrongChoice1": "実験は理論が正しいと否定した",
     "wrongChoice2": "実験は理論が改善されたと証明した",
     "wrongChoice3": "実験は理論の正しさを示した"
   },
@@ -7411,7 +7411,7 @@
     "grade": 2,
     "phrase": "majoring in psychology",
     "phraseMeaning": "心理学を専攻している",
-    "wrongChoice1": "心理学を中退している",
+    "wrongChoice1": "体育を専攻している",
     "wrongChoice2": "物理学を専攻している",
     "wrongChoice3": "心理学を勉強している"
   },
@@ -7429,7 +7429,7 @@
     "grade": 2,
     "phrase": "should not punish children harshly",
     "phraseMeaning": "子どもを厳しく罰すべきではない",
-    "wrongChoice1": "子どもを厳しく罰すべきだ",
+    "wrongChoice1": "子どもを厳しく褒めるべきではない",
     "wrongChoice2": "子どもを厳しくパンチすべきではない",
     "wrongChoice3": "子どもを厳しく叱るべきではない"
   },
@@ -7771,7 +7771,7 @@
     "grade": 2,
     "phrase": "regretted not studying harder",
     "phraseMeaning": "もっと勉強しなかったことを後悔した",
-    "wrongChoice1": "もっと勉強したことを後悔した",
+    "wrongChoice1": "もっと勉強しなかったことを満足した",
     "wrongChoice2": "もっと勉強しなかったことを規制した",
     "wrongChoice3": "もっと勉強しなかったことを悔やんだ"
   },
@@ -8527,7 +8527,7 @@
     "grade": 2,
     "phrase": "the theory was scientifically proven",
     "phraseMeaning": "理論は科学的に証明された",
-    "wrongChoice1": "理論は科学的に否定された",
+    "wrongChoice1": "理論は迷信的に証明された",
     "wrongChoice2": "理論は犠牲的に証明された",
     "wrongChoice3": "理論は科学的に立証された"
   },
@@ -8761,7 +8761,7 @@
     "grade": 2,
     "phrase": "he is socially active",
     "phraseMeaning": "彼は社会的に活動的だ",
-    "wrongChoice1": "彼は社会的に孤立している",
+    "wrongChoice1": "彼は個人的に活動的だ",
     "wrongChoice2": "彼は靴下的に活動的だ",
     "wrongChoice3": "彼は社交的に活動的だ"
   },
@@ -9283,7 +9283,7 @@
     "grade": 2,
     "phrase": "she likes to swim in the ocean",
     "phraseMeaning": "彼女は海で泳ぐのが好きだ",
-    "wrongChoice1": "彼女は海で泳ぐのが嫌いだ",
+    "wrongChoice1": "彼女は海で溺れるのが好きだ",
     "wrongChoice2": "彼女は海で振るのが好きだ",
     "wrongChoice3": "彼女は海で泳ぐのを楽しむ"
   },
@@ -9301,7 +9301,7 @@
     "grade": 2,
     "phrase": "composed nine symphonies",
     "phraseMeaning": "9つの交響曲を作曲した",
-    "wrongChoice1": "9つの交響曲を破棄した",
+    "wrongChoice1": "9つの独奏曲を作曲した",
     "wrongChoice2": "9つの同情を作曲した",
     "wrongChoice3": "9つの交響曲を演奏した"
   },
@@ -9499,7 +9499,7 @@
     "grade": 2,
     "phrase": "translate this sentence into English",
     "phraseMeaning": "この文を英語に翻訳する",
-    "wrongChoice1": "この文を英語から翻訳する",
+    "wrongChoice1": "この文を英語に誤訳する",
     "wrongChoice2": "この文を英語に移転する",
     "wrongChoice3": "この文を英語に訳す"
   },
@@ -9805,7 +9805,7 @@
     "grade": 2,
     "phrase": "violence is never the answer",
     "phraseMeaning": "暴力は決して解決策にならない",
-    "wrongChoice1": "暴力は常に解決策になる",
+    "wrongChoice1": "平和は決して解決策にならない",
     "wrongChoice2": "バイオリンは決して解決策にならない",
     "wrongChoice3": "暴力は決して正解ではない"
   },
@@ -9967,7 +9967,7 @@
     "grade": 2,
     "phrase": "first impressions are very important",
     "phraseMeaning": "第一印象は非常に重要だ",
-    "wrongChoice1": "第一印象は全く重要でない",
+    "wrongChoice1": "第一無関心は非常に重要だ",
     "wrongChoice2": "第一圧力は非常に重要だ",
     "wrongChoice3": "第一印象はとても大切だ"
   }
