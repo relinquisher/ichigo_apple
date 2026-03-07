@@ -10,7 +10,12 @@
     "difficulty": -0.1,
     "ipa": "/əˈbændən/",
     "examFrequency": 2,
-    "grade": 2
+    "grade": 2,
+    "phrase": "abandon the sinking ship",
+    "phraseMeaning": "沈みゆく船を放棄する",
+    "wrongChoice1": "沈みゆく船を守護する",
+    "wrongChoice2": "沈みゆく船を豊富にする",
+    "wrongChoice3": "沈みゆく船を修理する"
   },
   {
     "id": 2002,
@@ -23,7 +28,12 @@
     "difficulty": 0.3,
     "ipa": "/əˈbjuːzd/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "abused animals",
+    "phraseMeaning": "虐待された動物たち",
+    "wrongChoice1": "保護された動物たち",
+    "wrongChoice2": "娯楽用の動物たち",
+    "wrongChoice3": "訓練された動物たち"
   },
   {
     "id": 2003,
@@ -36,7 +46,12 @@
     "difficulty": 1.3,
     "ipa": "/ˌækəˈdɛmɪkli/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "performed academically well",
+    "phraseMeaning": "学問的に優秀な成績を収めた",
+    "wrongChoice1": "学問的に劣った成績を収めた",
+    "wrongChoice2": "偶発的に優秀な成績を収めた",
+    "wrongChoice3": "体育的に優秀な成績を収めた"
   },
   {
     "id": 2004,
@@ -49,7 +64,12 @@
     "difficulty": 0.6,
     "ipa": "/əkˈsɛləˌreɪt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "accelerate the development process",
+    "phraseMeaning": "開発プロセスを加速させる",
+    "wrongChoice1": "開発プロセスを減速させる",
+    "wrongChoice2": "開発プロセスを蓄積させる",
+    "wrongChoice3": "開発プロセスを中断させる"
   },
   {
     "id": 2005,
@@ -62,7 +82,12 @@
     "difficulty": 0.6,
     "ipa": "/əkˈsɛləˌreɪts/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "accelerates your metabolism",
+    "phraseMeaning": "新陳代謝を促進する",
+    "wrongChoice1": "新陳代謝を抑制する",
+    "wrongChoice2": "新陳代謝を蓄積する",
+    "wrongChoice3": "新陳代謝を測定する"
   },
   {
     "id": 2006,
@@ -75,7 +100,12 @@
     "difficulty": -0.4,
     "ipa": "/əkˈsɛptɪd/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "accepted by the committee",
+    "phraseMeaning": "委員会に受け入れられた",
+    "wrongChoice1": "委員会に拒否された",
+    "wrongChoice2": "委員会に期待された",
+    "wrongChoice3": "委員会に提案された"
   },
   {
     "id": 2007,
@@ -88,7 +118,12 @@
     "difficulty": 0.1,
     "ipa": "/ˌæksɪˈdɛntəli/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "accidentally deleted",
+    "phraseMeaning": "誤って削除した",
+    "wrongChoice1": "意図的に削除した",
+    "wrongChoice2": "学術的に削除した",
+    "wrongChoice3": "部分的に削除した"
   },
   {
     "id": 2008,
@@ -101,7 +136,12 @@
     "difficulty": 0.1,
     "ipa": "/əˈkʌmpəni/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "accompany you to the station",
+    "phraseMeaning": "駅まで同行する",
+    "wrongChoice1": "駅まで見送りを断る",
+    "wrongChoice2": "駅まで演奏する",
+    "wrongChoice3": "駅まで案内する"
   },
   {
     "id": 2009,
@@ -114,7 +154,12 @@
     "difficulty": 0.1,
     "ipa": "/əˈkɑːmplɪʃ/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "accomplish all her goals",
+    "phraseMeaning": "すべての目標を達成する",
+    "wrongChoice1": "すべての目標を放棄する",
+    "wrongChoice2": "すべての目標を付随する",
+    "wrongChoice3": "すべての目標を延期する"
   },
   {
     "id": 2010,
@@ -127,7 +172,12 @@
     "difficulty": 0.3,
     "ipa": "/əˈkjuːzd/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "accused man",
+    "phraseMeaning": "告発された男",
+    "wrongChoice1": "釈放された男",
+    "wrongChoice2": "困惑した男",
+    "wrongChoice3": "負傷した男"
   },
   {
     "id": 2011,
@@ -140,7 +190,12 @@
     "difficulty": -0.4,
     "ipa": "/əˈtʃiːvmənt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "a great achievement",
+    "phraseMeaning": "大きな業績",
+    "wrongChoice1": "大きな失敗",
+    "wrongChoice2": "大きな愛着",
+    "wrongChoice3": "大きな負担"
   },
   {
     "id": 2012,
@@ -153,7 +208,12 @@
     "difficulty": 0.1,
     "ipa": "/ədˈmɪʃən/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "admission to the museum",
+    "phraseMeaning": "博物館への入場",
+    "wrongChoice1": "博物館からの退場",
+    "wrongChoice2": "博物館への送信",
+    "wrongChoice3": "博物館への寄付"
   },
   {
     "id": 2013,
@@ -166,7 +226,12 @@
     "difficulty": 0.1,
     "ipa": "/ˈædvərˌtaɪzd/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "advertised price",
+    "phraseMeaning": "広告された価格",
+    "wrongChoice1": "隠蔽された価格",
+    "wrongChoice2": "助言された価格",
+    "wrongChoice3": "推定された価格"
   },
   {
     "id": 2014,
@@ -179,7 +244,12 @@
     "difficulty": -0.4,
     "ipa": "/ˌædvərˈtaɪzmənt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "an advertisement for a new smartphone",
+    "phraseMeaning": "新しいスマートフォンの広告",
+    "wrongChoice1": "新しいスマートフォンの苦情",
+    "wrongChoice2": "新しいスマートフォンの冒険",
+    "wrongChoice3": "新しいスマートフォンの保証"
   },
   {
     "id": 2015,
@@ -192,7 +262,12 @@
     "difficulty": 0.1,
     "ipa": "/əˈfɛr/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "a national affair",
+    "phraseMeaning": "国家的な事件",
+    "wrongChoice1": "国家的な平穏",
+    "wrongChoice2": "国家的な大気",
+    "wrongChoice3": "国家的な祝典"
   },
   {
     "id": 2016,
@@ -205,7 +280,12 @@
     "difficulty": -0.4,
     "ipa": "/əˈfɛkt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "affect our travel plans",
+    "phraseMeaning": "旅行計画に影響を与える",
+    "wrongChoice1": "旅行計画を無視する",
+    "wrongChoice2": "旅行計画を実行する",
+    "wrongChoice3": "旅行計画を記録する"
   },
   {
     "id": 2017,
@@ -218,7 +298,12 @@
     "difficulty": 0.3,
     "ipa": "/əˈfɛkʃən/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "great affection for her grandchildren",
+    "phraseMeaning": "孫たちへの大きな愛情",
+    "wrongChoice1": "孫たちへの大きな嫌悪",
+    "wrongChoice2": "孫たちへの大きな影響",
+    "wrongChoice3": "孫たちへの大きな期待"
   },
   {
     "id": 2018,
@@ -231,7 +316,12 @@
     "difficulty": 0.1,
     "ipa": "/əˈlɜːrtɪd/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "alerted the police",
+    "phraseMeaning": "警察に通報した",
+    "wrongChoice1": "警察を回避した",
+    "wrongChoice2": "警察を変更した",
+    "wrongChoice3": "警察を称賛した"
   },
   {
     "id": 2019,
@@ -244,7 +334,12 @@
     "difficulty": 0.1,
     "ipa": "/ˈɔːltər/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "alter our strategy",
+    "phraseMeaning": "戦略を変更する",
+    "wrongChoice1": "戦略を維持する",
+    "wrongChoice2": "戦略を祭壇に置く",
+    "wrongChoice3": "戦略を実行する"
   },
   {
     "id": 2020,
@@ -257,7 +352,12 @@
     "difficulty": -0.1,
     "ipa": "/əˈmjuːzɪŋ/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "an amusing story",
+    "phraseMeaning": "面白い話",
+    "wrongChoice1": "退屈な話",
+    "wrongChoice2": "驚嘆する話",
+    "wrongChoice3": "悲しい話"
   },
   {
     "id": 2021,
@@ -270,7 +370,12 @@
     "difficulty": 0.1,
     "ipa": "/ˈænsɛstərz/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "our ancestors",
+    "phraseMeaning": "私たちの祖先",
+    "wrongChoice1": "私たちの子孫",
+    "wrongChoice2": "私たちの回答",
+    "wrongChoice3": "私たちの隣人"
   },
   {
     "id": 2022,
@@ -283,7 +388,12 @@
     "difficulty": -0.7,
     "ipa": "/ˈeɪndʒəlz/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "dressed up as angels",
+    "phraseMeaning": "天使の衣装を着た",
+    "wrongChoice1": "悪魔の衣装を着た",
+    "wrongChoice2": "角度の衣装を着た",
+    "wrongChoice3": "騎士の衣装を着た"
   },
   {
     "id": 2023,
@@ -296,7 +406,12 @@
     "difficulty": 0.3,
     "ipa": "/ˈænjuəli/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "held annually",
+    "phraseMeaning": "毎年開催される",
+    "wrongChoice1": "一度も開催されない",
+    "wrongChoice2": "匿名で開催される",
+    "wrongChoice3": "不定期に開催される"
   },
   {
     "id": 2024,
@@ -309,7 +424,12 @@
     "difficulty": 0.6,
     "ipa": "/ænˌtɪsɪˈpeɪʃən/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "in anticipation of the concert",
+    "phraseMeaning": "コンサートを期待して",
+    "wrongChoice1": "コンサートを嫌悪して",
+    "wrongChoice2": "コンサートを参加して",
+    "wrongChoice3": "コンサートを回想して"
   },
   {
     "id": 2025,
@@ -322,7 +442,12 @@
     "difficulty": 0.1,
     "ipa": "/æŋˈzaɪəti/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "felt anxiety",
+    "phraseMeaning": "不安を感じた",
+    "wrongChoice1": "安心を感じた",
+    "wrongChoice2": "食欲を感じた",
+    "wrongChoice3": "興奮を感じた"
   },
   {
     "id": 2026,
@@ -335,7 +460,12 @@
     "difficulty": 0.3,
     "ipa": "/ˈæŋkʃəsli/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "anxiously waited",
+    "phraseMeaning": "不安げに待った",
+    "wrongChoice1": "平然と待った",
+    "wrongChoice2": "怒りっぽく待った",
+    "wrongChoice3": "楽しげに待った"
   },
   {
     "id": 2027,
@@ -348,7 +478,12 @@
     "difficulty": -0.4,
     "ipa": "/əˈpɑːlədʒaɪz/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "apologize for my rude behavior",
+    "phraseMeaning": "無礼な振る舞いを謝罪する",
+    "wrongChoice1": "無礼な振る舞いを正当化する",
+    "wrongChoice2": "無礼な振る舞いを称賛する",
+    "wrongChoice3": "無礼な振る舞いを記録する"
   },
   {
     "id": 2028,
@@ -361,7 +496,12 @@
     "difficulty": 0.1,
     "ipa": "/ˈæpɪtaɪt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "a huge appetite",
+    "phraseMeaning": "旺盛な食欲",
+    "wrongChoice1": "食欲の喪失",
+    "wrongChoice2": "旺盛な適性",
+    "wrongChoice3": "旺盛な好奇心"
   },
   {
     "id": 2029,
@@ -374,7 +514,12 @@
     "difficulty": 0.3,
     "ipa": "/əˈplɔːz/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "burst into applause",
+    "phraseMeaning": "拍手喝采した",
+    "wrongChoice1": "沈黙に包まれた",
+    "wrongChoice2": "器具を取り出した",
+    "wrongChoice3": "野次を飛ばした"
   },
   {
     "id": 2030,
@@ -387,7 +532,12 @@
     "difficulty": -0.1,
     "ipa": "/əˈproʊpriət/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "appropriate clothing",
+    "phraseMeaning": "適切な服装",
+    "wrongChoice1": "不適切な服装",
+    "wrongChoice2": "おおよその服装",
+    "wrongChoice3": "高価な服装"
   },
   {
     "id": 2031,
@@ -400,7 +550,12 @@
     "difficulty": -0.1,
     "ipa": "/əˈpruːv/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "approve the new budget",
+    "phraseMeaning": "新しい予算を承認する",
+    "wrongChoice1": "新しい予算を却下する",
+    "wrongChoice2": "新しい予算を改善する",
+    "wrongChoice3": "新しい予算を計算する"
   },
   {
     "id": 2032,
@@ -413,7 +568,12 @@
     "difficulty": -0.9,
     "ipa": "/ˈɛriə/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "this area is known for",
+    "phraseMeaning": "この地域は〜で知られている",
+    "wrongChoice1": "この時代は〜で知られている",
+    "wrongChoice2": "この空気は〜で知られている",
+    "wrongChoice3": "この施設は〜で知られている"
   },
   {
     "id": 2033,
@@ -426,7 +586,12 @@
     "difficulty": -0.4,
     "ipa": "/ˈɑːrɡjuɪŋ/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "arguing about politics",
+    "phraseMeaning": "政治について議論している",
+    "wrongChoice1": "政治について同意している",
+    "wrongChoice2": "政治について整理している",
+    "wrongChoice3": "政治について無関心でいる"
   },
   {
     "id": 2034,
@@ -439,7 +604,12 @@
     "difficulty": -0.4,
     "ipa": "/ˈɑːrɡjəmənt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "a heated argument",
+    "phraseMeaning": "激しい口論",
+    "wrongChoice1": "穏やかな合意",
+    "wrongChoice2": "激しい装飾",
+    "wrongChoice3": "激しい運動"
   },
   {
     "id": 2035,
@@ -452,7 +622,12 @@
     "difficulty": -0.1,
     "ipa": "/əˈrɛst/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "arrest the suspect",
+    "phraseMeaning": "容疑者を逮捕する",
+    "wrongChoice1": "容疑者を釈放する",
+    "wrongChoice2": "容疑者を休息させる",
+    "wrongChoice3": "容疑者を尋問する"
   },
   {
     "id": 2036,
@@ -465,7 +640,12 @@
     "difficulty": -0.1,
     "ipa": "/əˈrɛstɪd/",
     "examFrequency": 2,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the arrested man",
+    "phraseMeaning": "逮捕された男",
+    "wrongChoice1": "釈放された男",
+    "wrongChoice2": "到着した男",
+    "wrongChoice3": "指名された男"
   },
   {
     "id": 2037,
@@ -478,7 +658,12 @@
     "difficulty": 0.1,
     "ipa": "/ˌɑːrtɪˈfɪʃəl/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "they were artificial",
+    "phraseMeaning": "人工的なものだった",
+    "wrongChoice1": "天然のものだった",
+    "wrongChoice2": "芸術的なものだった",
+    "wrongChoice3": "装飾的なものだった"
   },
   {
     "id": 2038,
@@ -491,7 +676,12 @@
     "difficulty": 0.1,
     "ipa": "/əˈtɛndəns/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "attendance at the meeting",
+    "phraseMeaning": "会議への出席",
+    "wrongChoice1": "会議の欠席",
+    "wrongChoice2": "会議への注意",
+    "wrongChoice3": "会議の延期"
   },
   {
     "id": 2039,
@@ -504,7 +694,12 @@
     "difficulty": -0.4,
     "ipa": "/əˈtræktɪv/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "attractive tourist spots",
+    "phraseMeaning": "魅力的な観光地",
+    "wrongChoice1": "退屈な観光地",
+    "wrongChoice2": "攻撃的な観光地",
+    "wrongChoice3": "有名な観光地"
   },
   {
     "id": 2040,
@@ -517,7 +712,12 @@
     "difficulty": -0.1,
     "ipa": "/əˈwɔːrdɪd/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "awarded a scholarship",
+    "phraseMeaning": "奨学金を授与された",
+    "wrongChoice1": "奨学金を剥奪された",
+    "wrongChoice2": "奨学金を認識された",
+    "wrongChoice3": "奨学金を申請した"
   },
   {
     "id": 2041,
@@ -530,7 +730,12 @@
     "difficulty": -0.1,
     "ipa": "/ˈbæɡɪdʒ/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "collect your baggage",
+    "phraseMeaning": "手荷物を受け取る",
+    "wrongChoice1": "手荷物を放棄する",
+    "wrongChoice2": "手荷物を包帯する",
+    "wrongChoice3": "手荷物を検査する"
   },
   {
     "id": 2042,
@@ -543,7 +748,12 @@
     "difficulty": -0.4,
     "ipa": "/ˈbæləns/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "maintain a balance",
+    "phraseMeaning": "バランスを保つ",
+    "wrongChoice1": "バランスを崩す",
+    "wrongChoice2": "風船を保つ",
+    "wrongChoice3": "距離を保つ"
   },
   {
     "id": 2043,
@@ -556,7 +766,12 @@
     "difficulty": -0.7,
     "ipa": "/biːt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "beat the champions",
+    "phraseMeaning": "チャンピオンを負かした",
+    "wrongChoice1": "チャンピオンに負けた",
+    "wrongChoice2": "チャンピオンを叩いた",
+    "wrongChoice3": "チャンピオンを応援した"
   },
   {
     "id": 2044,
@@ -569,7 +784,12 @@
     "difficulty": -0.4,
     "ipa": "/bɪˈheɪvjər/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "his behavior at the party",
+    "phraseMeaning": "パーティーでの彼の振る舞い",
+    "wrongChoice1": "パーティーでの彼の不在",
+    "wrongChoice2": "パーティーでの彼の信念",
+    "wrongChoice3": "パーティーでの彼の衣装"
   },
   {
     "id": 2045,
@@ -582,7 +802,12 @@
     "difficulty": 0.3,
     "ipa": "/bɪˈtreɪ/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "betray his best friend",
+    "phraseMeaning": "親友を裏切る",
+    "wrongChoice1": "親友を守る",
+    "wrongChoice2": "親友を描写する",
+    "wrongChoice3": "親友を称える"
   },
   {
     "id": 2046,
@@ -595,7 +820,12 @@
     "difficulty": 0.3,
     "ipa": "/baɪˈɑːɡrəfi/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "a biography of Albert Einstein",
+    "phraseMeaning": "アインシュタインの伝記",
+    "wrongChoice1": "アインシュタインの空想",
+    "wrongChoice2": "アインシュタインの生物学",
+    "wrongChoice3": "アインシュタインの自叙伝"
   },
   {
     "id": 2047,
@@ -608,7 +838,12 @@
     "difficulty": -0.1,
     "ipa": "/bleɪm/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "blame others for your mistakes",
+    "phraseMeaning": "自分の間違いを他人のせいにする",
+    "wrongChoice1": "自分の間違いの責任を取る",
+    "wrongChoice2": "自分の間違いを炎上させる",
+    "wrongChoice3": "自分の間違いを隠蔽する"
   },
   {
     "id": 2048,
@@ -621,7 +856,12 @@
     "difficulty": -0.1,
     "ipa": "/ˈbɛrid/",
     "examFrequency": 2,
-    "grade": 2
+    "grade": 2,
+    "phrase": "buried deep underground",
+    "phraseMeaning": "地中深くに埋められた",
+    "wrongChoice1": "地中深くから掘り出された",
+    "wrongChoice2": "地中深くで急いだ",
+    "wrongChoice3": "地中深くに沈められた"
   },
   {
     "id": 2049,
@@ -634,7 +874,12 @@
     "difficulty": -0.1,
     "ipa": "/kæmˈpeɪn/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "campaign to save the forest",
+    "phraseMeaning": "森を守るキャンペーン",
+    "wrongChoice1": "森を破壊する計画",
+    "wrongChoice2": "森を野営する活動",
+    "wrongChoice3": "森を調査する事業"
   },
   {
     "id": 2050,
@@ -647,7 +892,12 @@
     "difficulty": -0.1,
     "ipa": "/kæmˈpeɪnz/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "advertising campaigns",
+    "phraseMeaning": "広告キャンペーン",
+    "wrongChoice1": "広告の中止",
+    "wrongChoice2": "広告の野営",
+    "wrongChoice3": "広告の契約"
   },
   {
     "id": 2051,
@@ -660,7 +910,12 @@
     "difficulty": 0.1,
     "ipa": "/ˈkæptʃərd/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "captured soldiers",
+    "phraseMeaning": "捕虜となった兵士たち",
+    "wrongChoice1": "解放された兵士たち",
+    "wrongChoice2": "魅了された兵士たち",
+    "wrongChoice3": "負傷した兵士たち"
   },
   {
     "id": 2052,
@@ -673,7 +928,12 @@
     "difficulty": -0.7,
     "ipa": "/ˈkɛrfəli/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "read the instructions carefully",
+    "phraseMeaning": "説明書を注意深く読む",
+    "wrongChoice1": "説明書を無頓着に読む",
+    "wrongChoice2": "説明書を気楽に読む",
+    "wrongChoice3": "説明書を素早く読む"
   },
   {
     "id": 2053,
@@ -686,7 +946,12 @@
     "difficulty": 0.6,
     "ipa": "/ˈkærɪdʒɪz/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "ten carriages full of passengers",
+    "phraseMeaning": "乗客でいっぱいの車両が10両",
+    "wrongChoice1": "乗客でいっぱいの荷台が10台",
+    "wrongChoice2": "乗客でいっぱいの運搬が10回",
+    "wrongChoice3": "乗客でいっぱいの客室が10室"
   },
   {
     "id": 2054,
@@ -699,7 +964,12 @@
     "difficulty": 0.6,
     "ipa": "/kɑːrvz/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "carves beautiful figures",
+    "phraseMeaning": "美しい彫像を彫る",
+    "wrongChoice1": "美しい彫像を壊す",
+    "wrongChoice2": "美しい曲線を描く",
+    "wrongChoice3": "美しい彫像を磨く"
   },
   {
     "id": 2055,
@@ -712,7 +982,12 @@
     "difficulty": 0.6,
     "ipa": "/ˈkɔːʃəsli/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "cautiously opened the door",
+    "phraseMeaning": "慎重にドアを開けた",
+    "wrongChoice1": "大胆にドアを開けた",
+    "wrongChoice2": "原因としてドアを開けた",
+    "wrongChoice3": "急いでドアを開けた"
   },
   {
     "id": 2056,
@@ -725,7 +1000,12 @@
     "difficulty": -0.4,
     "ipa": "/ˌsɛlɪˈbreɪʃən/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the celebration lasted",
+    "phraseMeaning": "お祝いは続いた",
+    "wrongChoice1": "お葬式は続いた",
+    "wrongChoice2": "有名人は続いた",
+    "wrongChoice3": "会議は続いた"
   },
   {
     "id": 2057,
@@ -738,7 +1018,12 @@
     "difficulty": -0.7,
     "ipa": "/ˈsɜːrtn/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "I am certain that",
+    "phraseMeaning": "～は確かだ",
+    "wrongChoice1": "～は疑わしい",
+    "wrongChoice2": "～は認定された",
+    "wrongChoice3": "～は不明だ"
   },
   {
     "id": 2058,
@@ -751,7 +1036,12 @@
     "difficulty": 0.3,
     "ipa": "/ˌkærɪktəˈrɪstɪks/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "main characteristics of this species",
+    "phraseMeaning": "この種の主な特徴",
+    "wrongChoice1": "この種の主な欠点",
+    "wrongChoice2": "この種の主な登場人物",
+    "wrongChoice3": "この種の主な生息地"
   },
   {
     "id": 2059,
@@ -764,7 +1054,12 @@
     "difficulty": -0.4,
     "ipa": "/tʃiːt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "cheat on exams",
+    "phraseMeaning": "試験で不正をする",
+    "wrongChoice1": "試験で正直にやる",
+    "wrongChoice2": "試験で安くする",
+    "wrongChoice3": "試験で失敗する"
   },
   {
     "id": 2060,
@@ -777,7 +1072,12 @@
     "difficulty": 0.3,
     "ipa": "/ˌsɪvɪlɪˈzeɪʃən/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "ancient Greek civilization",
+    "phraseMeaning": "古代ギリシャ文明",
+    "wrongChoice1": "古代ギリシャの野蛮",
+    "wrongChoice2": "古代ギリシャの市民",
+    "wrongChoice3": "古代ギリシャの宗教"
   },
   {
     "id": 2061,
@@ -790,7 +1090,12 @@
     "difficulty": 0.3,
     "ipa": "/ˈklæsɪfaɪd/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "classified as top secret",
+    "phraseMeaning": "極秘に分類された",
+    "wrongChoice1": "公開として分類された",
+    "wrongChoice2": "古典的に分類された",
+    "wrongChoice3": "重要として分類された"
   },
   {
     "id": 2062,
@@ -803,7 +1108,12 @@
     "difficulty": 0.1,
     "ipa": "/klɪf/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "edge of a cliff",
+    "phraseMeaning": "崖の端",
+    "wrongChoice1": "丘の端",
+    "wrongChoice2": "洞窟の端",
+    "wrongChoice3": "谷の端"
   },
   {
     "id": 2063,
@@ -816,7 +1126,12 @@
     "difficulty": -0.1,
     "ipa": "/ˈklaɪmɪt/",
     "examFrequency": 2,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the climate in this region",
+    "phraseMeaning": "この地域の気候",
+    "wrongChoice1": "この地域の地形",
+    "wrongChoice2": "この地域の登山",
+    "wrongChoice3": "この地域の人口"
   },
   {
     "id": 2064,
@@ -829,7 +1144,12 @@
     "difficulty": 0.3,
     "ipa": "/kəˈlæps/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "collapse at any moment",
+    "phraseMeaning": "いつ崩壊してもおかしくない",
+    "wrongChoice1": "いつ再建されてもおかしくない",
+    "wrongChoice2": "いつ首輪をつけてもおかしくない",
+    "wrongChoice3": "いつ完成してもおかしくない"
   },
   {
     "id": 2065,
@@ -842,7 +1162,12 @@
     "difficulty": -0.1,
     "ipa": "/ˌkɑːmbɪˈneɪʃən/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "a combination of spices",
+    "phraseMeaning": "スパイスの組み合わせ",
+    "wrongChoice1": "スパイスの分離",
+    "wrongChoice2": "スパイスの燃焼",
+    "wrongChoice3": "スパイスの種類"
   },
   {
     "id": 2066,
@@ -855,7 +1180,12 @@
     "difficulty": -0.1,
     "ipa": "/kəmˈbaɪn/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "combine our efforts",
+    "phraseMeaning": "努力を合わせる",
+    "wrongChoice1": "努力を分散させる",
+    "wrongChoice2": "努力を戦わせる",
+    "wrongChoice3": "努力を記録する"
   },
   {
     "id": 2067,
@@ -868,7 +1198,12 @@
     "difficulty": -0.4,
     "ipa": "/ˈkʌmfərt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "offers comfort and luxury",
+    "phraseMeaning": "快適さと贅沢を提供する",
+    "wrongChoice1": "不快さと贅沢を提供する",
+    "wrongChoice2": "慰問と贅沢を提供する",
+    "wrongChoice3": "安全と贅沢を提供する"
   },
   {
     "id": 2068,
@@ -881,7 +1216,12 @@
     "difficulty": -0.1,
     "ipa": "/kəˈmɜːrʃəl/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the commercial district",
+    "phraseMeaning": "商業地区",
+    "wrongChoice1": "住宅地区",
+    "wrongChoice2": "宣伝地区",
+    "wrongChoice3": "工業地区"
   },
   {
     "id": 2069,
@@ -894,7 +1234,12 @@
     "difficulty": 0.1,
     "ipa": "/kəˈmɪtɪd/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "committed to improving education",
+    "phraseMeaning": "教育の改善に献身的な",
+    "wrongChoice1": "教育の改善に無関心な",
+    "wrongChoice2": "教育の改善に委託された",
+    "wrongChoice3": "教育の改善に消極的な"
   },
   {
     "id": 2070,
@@ -907,7 +1252,12 @@
     "difficulty": -0.1,
     "ipa": "/ˈkɑːmənli/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "commonly found in tropical regions",
+    "phraseMeaning": "熱帯地域でよく見られる",
+    "wrongChoice1": "熱帯地域でめったに見られない",
+    "wrongChoice2": "熱帯地域で共同で見られる",
+    "wrongChoice3": "熱帯地域で最近見られる"
   },
   {
     "id": 2071,
@@ -920,7 +1270,12 @@
     "difficulty": 0.1,
     "ipa": "/kəmˈpækt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "compact camera",
+    "phraseMeaning": "小型のカメラ",
+    "wrongChoice1": "巨大なカメラ",
+    "wrongChoice2": "契約のカメラ",
+    "wrongChoice3": "防水のカメラ"
   },
   {
     "id": 2072,
@@ -933,7 +1288,12 @@
     "difficulty": -0.4,
     "ipa": "/kəmˈpɛr/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "compare the prices",
+    "phraseMeaning": "値段を比較する",
+    "wrongChoice1": "値段を無視する",
+    "wrongChoice2": "値段を準備する",
+    "wrongChoice3": "値段を交渉する"
   },
   {
     "id": 2073,
@@ -946,7 +1306,12 @@
     "difficulty": -0.4,
     "ipa": "/kəmˈpɛrd/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "compared to last year",
+    "phraseMeaning": "昨年と比較して",
+    "wrongChoice1": "昨年と無関係に",
+    "wrongChoice2": "昨年と比例して",
+    "wrongChoice3": "昨年と対照的に"
   },
   {
     "id": 2074,
@@ -959,7 +1324,12 @@
     "difficulty": -0.1,
     "ipa": "/kəmˈpleɪnt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "filed a complaint",
+    "phraseMeaning": "苦情を申し立てた",
+    "wrongChoice1": "称賛を申し立てた",
+    "wrongChoice2": "完了を申し立てた",
+    "wrongChoice3": "提案を申し立てた"
   },
   {
     "id": 2075,
@@ -972,7 +1342,12 @@
     "difficulty": 0.1,
     "ipa": "/ˈkɑːmplɪˌkeɪtɪd/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "too complicated to understand",
+    "phraseMeaning": "複雑すぎて理解できない",
+    "wrongChoice1": "単純すぎて理解できない",
+    "wrongChoice2": "褒められすぎて理解できない",
+    "wrongChoice3": "長すぎて理解できない"
   },
   {
     "id": 2076,
@@ -985,7 +1360,12 @@
     "difficulty": 0.3,
     "ipa": "/kəmˈpoʊz/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "compose music",
+    "phraseMeaning": "音楽を作曲する",
+    "wrongChoice1": "音楽を破壊する",
+    "wrongChoice2": "音楽を堆肥にする",
+    "wrongChoice3": "音楽を演奏する"
   },
   {
     "id": 2077,
@@ -998,7 +1378,12 @@
     "difficulty": 0.3,
     "ipa": "/kəmˈpoʊzd/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "composed of experts",
+    "phraseMeaning": "専門家で構成された",
+    "wrongChoice1": "専門家を排除された",
+    "wrongChoice2": "専門家で落ち着いた",
+    "wrongChoice3": "専門家を募集した"
   },
   {
     "id": 2078,
@@ -1011,7 +1396,12 @@
     "difficulty": 0.3,
     "ipa": "/kəmˈpoʊzɪŋ/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "composing a new song",
+    "phraseMeaning": "新しい曲を作曲すること",
+    "wrongChoice1": "新しい曲を破棄すること",
+    "wrongChoice2": "新しい曲を堆肥にすること",
+    "wrongChoice3": "新しい曲を録音すること"
   },
   {
     "id": 2079,
@@ -1024,7 +1414,12 @@
     "difficulty": 0.3,
     "ipa": "/ˌkɑːmpəˈzɪʃən/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the composition of the painting",
+    "phraseMeaning": "絵画の構図",
+    "wrongChoice1": "絵画の破壊",
+    "wrongChoice2": "絵画の位置",
+    "wrongChoice3": "絵画の価格"
   },
   {
     "id": 2080,
@@ -1037,7 +1432,12 @@
     "difficulty": 0.1,
     "ipa": "/ˌkɑːnsənˈtreɪʃən/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "requires a lot of concentration",
+    "phraseMeaning": "多くの集中力が必要だ",
+    "wrongChoice1": "多くの怠慢が必要だ",
+    "wrongChoice2": "多くの凝縮が必要だ",
+    "wrongChoice3": "多くの忍耐が必要だ"
   },
   {
     "id": 2081,
@@ -1050,7 +1450,12 @@
     "difficulty": 0.1,
     "ipa": "/kənˈkluːʒənz/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "drew important conclusions",
+    "phraseMeaning": "重要な結論を導き出した",
+    "wrongChoice1": "重要な混乱を導き出した",
+    "wrongChoice2": "重要な含蓄を導き出した",
+    "wrongChoice3": "重要な仮説を導き出した"
   },
   {
     "id": 2082,
@@ -1063,7 +1468,12 @@
     "difficulty": 0.1,
     "ipa": "/kənˈdʌkt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "conduct a survey",
+    "phraseMeaning": "アンケートを実施する",
+    "wrongChoice1": "アンケートを中止する",
+    "wrongChoice2": "アンケートを指揮する",
+    "wrongChoice3": "アンケートを配布する"
   },
   {
     "id": 2083,
@@ -1076,7 +1486,12 @@
     "difficulty": 0.1,
     "ipa": "/kənˈdʌktər/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the conductor raised his baton",
+    "phraseMeaning": "指揮者がタクトを上げた",
+    "wrongChoice1": "演奏者がタクトを上げた",
+    "wrongChoice2": "導体がタクトを上げた",
+    "wrongChoice3": "車掌がタクトを上げた"
   },
   {
     "id": 2084,
@@ -1089,7 +1504,12 @@
     "difficulty": -0.1,
     "ipa": "/ˈkɑːnfɪdəns/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "spoke with confidence",
+    "phraseMeaning": "自信を持って話した",
+    "wrongChoice1": "不安を持って話した",
+    "wrongChoice2": "秘密を持って話した",
+    "wrongChoice3": "遠慮を持って話した"
   },
   {
     "id": 2085,
@@ -1102,7 +1522,12 @@
     "difficulty": 0.6,
     "ipa": "/kənˈfaɪn/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "confined to small cages",
+    "phraseMeaning": "小さな檻に閉じ込められた",
+    "wrongChoice1": "小さな檻から解放された",
+    "wrongChoice2": "小さな檻を確認された",
+    "wrongChoice3": "小さな檻に収容された"
   },
   {
     "id": 2086,
@@ -1115,7 +1540,12 @@
     "difficulty": 0.1,
     "ipa": "/ˈkɑːnflɪkt/",
     "examFrequency": 2,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the conflict between the two countries",
+    "phraseMeaning": "二国間の紛争",
+    "wrongChoice1": "二国間の協力",
+    "wrongChoice2": "二国間の合流",
+    "wrongChoice3": "二国間の貿易"
   },
   {
     "id": 2087,
@@ -1128,7 +1558,12 @@
     "difficulty": 0.6,
     "ipa": "/kənˈfrʌnt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "confront your fears",
+    "phraseMeaning": "恐怖に立ち向かう",
+    "wrongChoice1": "恐怖から逃げる",
+    "wrongChoice2": "恐怖を混同する",
+    "wrongChoice3": "恐怖を無視する"
   },
   {
     "id": 2088,
@@ -1141,7 +1576,12 @@
     "difficulty": -0.4,
     "ipa": "/kənˈfjuːzd/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "confused by the difficult question",
+    "phraseMeaning": "難しい問題に困惑した",
+    "wrongChoice1": "難しい問題に納得した",
+    "wrongChoice2": "難しい問題に合流した",
+    "wrongChoice3": "難しい問題に感動した"
   },
   {
     "id": 2089,
@@ -1154,7 +1594,12 @@
     "difficulty": -0.7,
     "ipa": "/kəˈnɛkt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "connects the two islands",
+    "phraseMeaning": "二つの島をつないでいる",
+    "wrongChoice1": "二つの島を分断している",
+    "wrongChoice2": "二つの島を征服している",
+    "wrongChoice3": "二つの島を囲んでいる"
   },
   {
     "id": 2090,
@@ -1167,7 +1612,12 @@
     "difficulty": 0.3,
     "ipa": "/ˈkɑːnsɪˌkwɛnsɪz/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "consequences of your actions",
+    "phraseMeaning": "行動の結果",
+    "wrongChoice1": "行動の原因",
+    "wrongChoice2": "行動の会議",
+    "wrongChoice3": "行動の計画"
   },
   {
     "id": 2091,
@@ -1180,7 +1630,12 @@
     "difficulty": 0.6,
     "ipa": "/ˈkɑːnsɪˌkwɛntli/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "consequently failed the exam",
+    "phraseMeaning": "結果として試験に落ちた",
+    "wrongChoice1": "偶然に試験に落ちた",
+    "wrongChoice2": "連続して試験に落ちた",
+    "wrongChoice3": "意図的に試験に落ちた"
   },
   {
     "id": 2092,
@@ -1193,7 +1648,12 @@
     "difficulty": 0.3,
     "ipa": "/kənˈsɪstənt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "consistent throughout the season",
+    "phraseMeaning": "シーズンを通して一貫した",
+    "wrongChoice1": "シーズンを通して不安定な",
+    "wrongChoice2": "シーズンを通して固執した",
+    "wrongChoice3": "シーズンを通して目立った"
   },
   {
     "id": 2093,
@@ -1206,7 +1666,12 @@
     "difficulty": -0.7,
     "ipa": "/ˈkɑːntækt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "please contact us",
+    "phraseMeaning": "ご連絡ください",
+    "wrongChoice1": "ご無視ください",
+    "wrongChoice2": "ご契約ください",
+    "wrongChoice3": "ご確認ください"
   },
   {
     "id": 2094,
@@ -1219,7 +1684,12 @@
     "difficulty": -0.1,
     "ipa": "/kənˈteɪnər/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "put the leftovers in a container",
+    "phraseMeaning": "残り物を容器に入れる",
+    "wrongChoice1": "残り物を容器から出す",
+    "wrongChoice2": "残り物を内容に入れる",
+    "wrongChoice3": "残り物を袋に入れる"
   },
   {
     "id": 2095,
@@ -1232,7 +1702,12 @@
     "difficulty": 0.6,
     "ipa": "/kənˈtɪnjuəsli/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "runs continuously for 24 hours",
+    "phraseMeaning": "24時間連続で動いている",
+    "wrongChoice1": "24時間断続的に動いている",
+    "wrongChoice2": "24時間満足して動いている",
+    "wrongChoice3": "24時間自動で動いている"
   },
   {
     "id": 2096,
@@ -1245,7 +1720,12 @@
     "difficulty": 0.1,
     "ipa": "/ˌkɑːntrɪˈbjuːʃən/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "contribution to science",
+    "phraseMeaning": "科学への貢献",
+    "wrongChoice1": "科学への妨害",
+    "wrongChoice2": "科学への流通",
+    "wrongChoice3": "科学への投資"
   },
   {
     "id": 2097,
@@ -1258,7 +1738,12 @@
     "difficulty": 0.1,
     "ipa": "/ˌkɑːntrɪˈbjuːʃənz/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "contributions from the public",
+    "phraseMeaning": "一般からの寄付",
+    "wrongChoice1": "一般からの搾取",
+    "wrongChoice2": "一般からの流通",
+    "wrongChoice3": "一般からの批判"
   },
   {
     "id": 2098,
@@ -1271,7 +1756,12 @@
     "difficulty": 0.3,
     "ipa": "/kənˈvɛnʃən/",
     "examFrequency": 2,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the annual convention",
+    "phraseMeaning": "年次大会",
+    "wrongChoice1": "年次解散",
+    "wrongChoice2": "年次慣習",
+    "wrongChoice3": "年次会議"
   },
   {
     "id": 2099,
@@ -1284,7 +1774,12 @@
     "difficulty": 0.1,
     "ipa": "/kənˈvɜːrt/",
     "examFrequency": 2,
-    "grade": 2
+    "grade": 2,
+    "phrase": "convert the file to a different format",
+    "phraseMeaning": "ファイルを別の形式に変換する",
+    "wrongChoice1": "ファイルを別の形式に固定する",
+    "wrongChoice2": "ファイルを別の形式に会話する",
+    "wrongChoice3": "ファイルを別の形式に圧縮する"
   },
   {
     "id": 2100,
@@ -1297,7 +1792,12 @@
     "difficulty": 0.1,
     "ipa": "/kənˈvɜːrtɪŋ/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "converting the old factory",
+    "phraseMeaning": "古い工場を改装している",
+    "wrongChoice1": "古い工場を解体している",
+    "wrongChoice2": "古い工場を会話している",
+    "wrongChoice3": "古い工場を修繕している"
   },
   {
     "id": 2101,
@@ -1310,7 +1810,12 @@
     "difficulty": 0.3,
     "ipa": "/kənˈvɪnsɪŋ/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "a convincing argument",
+    "phraseMeaning": "説得力のある議論",
+    "wrongChoice1": "説得力のない議論",
+    "wrongChoice2": "便利な議論",
+    "wrongChoice3": "論理的な議論"
   },
   {
     "id": 2102,
@@ -1323,7 +1828,12 @@
     "difficulty": -0.4,
     "ipa": "/kəˈrɛktli/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "answered the questions correctly",
+    "phraseMeaning": "問題に正しく答えた",
+    "wrongChoice1": "問題に間違って答えた",
+    "wrongChoice2": "問題に修正して答えた",
+    "wrongChoice3": "問題に素早く答えた"
   },
   {
     "id": 2103,
@@ -1336,7 +1846,12 @@
     "difficulty": -0.1,
     "ipa": "/ˈkɜːrɪdʒ/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "showed great courage",
+    "phraseMeaning": "大きな勇気を示した",
+    "wrongChoice1": "大きな臆病さを示した",
+    "wrongChoice2": "大きな講座を示した",
+    "wrongChoice3": "大きな忍耐を示した"
   },
   {
     "id": 2104,
@@ -1349,7 +1864,12 @@
     "difficulty": -0.9,
     "ipa": "/kriˈeɪt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "create a new masterpiece",
+    "phraseMeaning": "新しい傑作を創造する",
+    "wrongChoice1": "新しい傑作を破壊する",
+    "wrongChoice2": "新しい傑作を木箱に入れる",
+    "wrongChoice3": "新しい傑作を展示する"
   },
   {
     "id": 2105,
@@ -1362,7 +1882,12 @@
     "difficulty": 0.1,
     "ipa": "/ˈkriːtʃər/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "a strange creature in the sea",
+    "phraseMeaning": "海にいる奇妙な生き物",
+    "wrongChoice1": "海にいる普通の生き物",
+    "wrongChoice2": "海にいる奇妙な創造物",
+    "wrongChoice3": "海にいる奇妙な植物"
   },
   {
     "id": 2106,
@@ -1375,7 +1900,12 @@
     "difficulty": -0.1,
     "ipa": "/ˈkrɪmɪnəl/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the criminal was sentenced",
+    "phraseMeaning": "犯罪者は判決を受けた",
+    "wrongChoice1": "無罪の人は判決を受けた",
+    "wrongChoice2": "批判者は判決を受けた",
+    "wrongChoice3": "容疑者は判決を受けた"
   },
   {
     "id": 2107,
@@ -1388,7 +1918,12 @@
     "difficulty": 0.3,
     "ipa": "/ˈkrɪtɪˌsɪzəm/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "received harsh criticism",
+    "phraseMeaning": "厳しい批判を受けた",
+    "wrongChoice1": "厳しい称賛を受けた",
+    "wrongChoice2": "厳しい危機を受けた",
+    "wrongChoice3": "厳しい指導を受けた"
   },
   {
     "id": 2108,
@@ -1401,7 +1936,12 @@
     "difficulty": -0.1,
     "ipa": "/kjʊr/",
     "examFrequency": 2,
-    "grade": 2
+    "grade": 2,
+    "phrase": "find a cure for the disease",
+    "phraseMeaning": "病気の治療法を見つける",
+    "wrongChoice1": "病気の原因を見つける",
+    "wrongChoice2": "病気の手がかりを見つける",
+    "wrongChoice3": "病気の予防法を見つける"
   },
   {
     "id": 2109,
@@ -1414,7 +1954,12 @@
     "difficulty": 0.1,
     "ipa": "/kjʊrd/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "cured after months of treatment",
+    "phraseMeaning": "数ヶ月の治療後に治った",
+    "wrongChoice1": "数ヶ月の治療後に悪化した",
+    "wrongChoice2": "数ヶ月の治療後に世話された",
+    "wrongChoice3": "数ヶ月の治療後に退院した"
   },
   {
     "id": 2110,
@@ -1427,7 +1972,12 @@
     "difficulty": -0.4,
     "ipa": "/ˈkɜːrəntli/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "currently studying abroad",
+    "phraseMeaning": "現在留学中だ",
+    "wrongChoice1": "以前留学中だった",
+    "wrongChoice2": "通貨で留学中だ",
+    "wrongChoice3": "最近留学中だ"
   },
   {
     "id": 2111,
@@ -1440,7 +1990,12 @@
     "difficulty": 0.1,
     "ipa": "/dɔːn/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "woke up at dawn",
+    "phraseMeaning": "夜明けに起きた",
+    "wrongChoice1": "日没に起きた",
+    "wrongChoice2": "夜明けに寝た",
+    "wrongChoice3": "早朝に起きた"
   },
   {
     "id": 2112,
@@ -1453,7 +2008,12 @@
     "difficulty": 0.1,
     "ipa": "/ˈdɛkeɪdz/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "lasted for decades",
+    "phraseMeaning": "数十年続いた",
+    "wrongChoice1": "数日だけ続いた",
+    "wrongChoice2": "十進法で続いた",
+    "wrongChoice3": "数世紀続いた"
   },
   {
     "id": 2113,
@@ -1466,7 +2026,12 @@
     "difficulty": 0.6,
     "ipa": "/dɪˈsiːvd/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "deceived by false promises",
+    "phraseMeaning": "偽りの約束にだまされた",
+    "wrongChoice1": "偽りの約束に気づいた",
+    "wrongChoice2": "偽りの約束に決意した",
+    "wrongChoice3": "偽りの約束に失望した"
   },
   {
     "id": 2114,
@@ -1479,7 +2044,12 @@
     "difficulty": 0.6,
     "ipa": "/dɪˈsiːvɪŋ/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "appearances can be deceiving",
+    "phraseMeaning": "外見は人を欺くことがある",
+    "wrongChoice1": "外見は人を正すことがある",
+    "wrongChoice2": "外見は人を決定することがある",
+    "wrongChoice3": "外見は人を惑わすことがある"
   },
   {
     "id": 2115,
@@ -1492,7 +2062,12 @@
     "difficulty": -0.1,
     "ipa": "/dɪˈkriːs/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "a decrease in crime",
+    "phraseMeaning": "犯罪の減少",
+    "wrongChoice1": "犯罪の増加",
+    "wrongChoice2": "犯罪の布告",
+    "wrongChoice3": "犯罪の変化"
   },
   {
     "id": 2116,
@@ -1505,7 +2080,12 @@
     "difficulty": -0.1,
     "ipa": "/dɪˈkriːst/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "decreased significantly",
+    "phraseMeaning": "大幅に減少した",
+    "wrongChoice1": "大幅に増加した",
+    "wrongChoice2": "大幅に装飾された",
+    "wrongChoice3": "大幅に変動した"
   },
   {
     "id": 2117,
@@ -1518,7 +2098,12 @@
     "difficulty": 0.1,
     "ipa": "/dɪˈfiːt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "suffered a crushing defeat",
+    "phraseMeaning": "大敗を喫した",
+    "wrongChoice1": "大勝利を収めた",
+    "wrongChoice2": "大きな業績を喫した",
+    "wrongChoice3": "大きな損失を喫した"
   },
   {
     "id": 2118,
@@ -1531,7 +2116,12 @@
     "difficulty": -0.1,
     "ipa": "/dɪˈfɛndɪd/",
     "examFrequency": 2,
-    "grade": 2
+    "grade": 2,
+    "phrase": "defended his client passionately",
+    "phraseMeaning": "依頼人を情熱的に弁護した",
+    "wrongChoice1": "依頼人を情熱的に攻撃した",
+    "wrongChoice2": "依頼人を情熱的に拒否した",
+    "wrongChoice3": "依頼人を情熱的に支援した"
   },
   {
     "id": 2119,
@@ -1544,7 +2134,12 @@
     "difficulty": 0.1,
     "ipa": "/dɪˈfaɪn/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "define success clearly",
+    "phraseMeaning": "成功を明確に定義する",
+    "wrongChoice1": "成功を曖昧に定義する",
+    "wrongChoice2": "成功を明確に拒否する",
+    "wrongChoice3": "成功を明確に説明する"
   },
   {
     "id": 2120,
@@ -1557,7 +2152,12 @@
     "difficulty": -0.1,
     "ipa": "/ˈdɛfɪnɪtli/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "will definitely attend",
+    "phraseMeaning": "間違いなく出席する",
+    "wrongChoice1": "おそらく出席しない",
+    "wrongChoice2": "明確に出席する",
+    "wrongChoice3": "必ず出席する"
   },
   {
     "id": 2121,
@@ -1570,7 +2170,12 @@
     "difficulty": -0.1,
     "ipa": "/ˌdɛfɪˈnɪʃən/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the definition of this word",
+    "phraseMeaning": "この言葉の定義",
+    "wrongChoice1": "この言葉の混乱",
+    "wrongChoice2": "この言葉の確定",
+    "wrongChoice3": "この言葉の由来"
   },
   {
     "id": 2122,
@@ -1583,7 +2188,12 @@
     "difficulty": 0.3,
     "ipa": "/ˈdɛlɪkɪt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "a delicate glass vase",
+    "phraseMeaning": "繊細なガラスの花瓶",
+    "wrongChoice1": "頑丈なガラスの花瓶",
+    "wrongChoice2": "美味なガラスの花瓶",
+    "wrongChoice3": "透明なガラスの花瓶"
   },
   {
     "id": 2123,
@@ -1596,7 +2206,12 @@
     "difficulty": -0.1,
     "ipa": "/dɪˈmændɪd/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "demanded higher wages",
+    "phraseMeaning": "より高い賃金を要求した",
+    "wrongChoice1": "より高い賃金を辞退した",
+    "wrongChoice2": "より高い賃金を命令した",
+    "wrongChoice3": "より高い賃金を提案した"
   },
   {
     "id": 2124,
@@ -1609,7 +2224,12 @@
     "difficulty": 0.3,
     "ipa": "/dɪˈmɑːkrəsi/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "democracy allows citizens to vote",
+    "phraseMeaning": "民主主義は市民の投票を可能にする",
+    "wrongChoice1": "独裁は市民の投票を可能にする",
+    "wrongChoice2": "人口統計は市民の投票を可能にする",
+    "wrongChoice3": "共和制は市民の投票を可能にする"
   },
   {
     "id": 2125,
@@ -1622,7 +2242,12 @@
     "difficulty": 0.6,
     "ipa": "/dɪˈnaɪəl/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "his denial of the accusations",
+    "phraseMeaning": "彼の容疑の否定",
+    "wrongChoice1": "彼の容疑の肯定",
+    "wrongChoice2": "彼の容疑のデニム",
+    "wrongChoice3": "彼の容疑の弁明"
   },
   {
     "id": 2126,
@@ -1635,7 +2260,12 @@
     "difficulty": 0.6,
     "ipa": "/dɪˈraɪv/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "many words derive from Latin",
+    "phraseMeaning": "多くの単語はラテン語に由来する",
+    "wrongChoice1": "多くの単語はラテン語と無関係だ",
+    "wrongChoice2": "多くの単語はラテン語を運転する",
+    "wrongChoice3": "多くの単語はラテン語から翻訳された"
   },
   {
     "id": 2127,
@@ -1648,7 +2278,12 @@
     "difficulty": -0.4,
     "ipa": "/dɪˈskrɪpʃən/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "gave a detailed description",
+    "phraseMeaning": "詳しい描写をした",
+    "wrongChoice1": "曖昧な描写をした",
+    "wrongChoice2": "詳しい処方箋をした",
+    "wrongChoice3": "詳しい説明をした"
   },
   {
     "id": 2128,
@@ -1661,7 +2296,12 @@
     "difficulty": -0.1,
     "ipa": "/ˈdɛzərts/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "well adapted to living in deserts",
+    "phraseMeaning": "砂漠での生活によく適応した",
+    "wrongChoice1": "砂漠での生活に適応できない",
+    "wrongChoice2": "デザートでの生活によく適応した",
+    "wrongChoice3": "砂漠での生活によく順応した"
   },
   {
     "id": 2129,
@@ -1674,7 +2314,12 @@
     "difficulty": 0.1,
     "ipa": "/dɪˈzɜːrv/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "you deserve a break",
+    "phraseMeaning": "あなたは休む資格がある",
+    "wrongChoice1": "あなたは休む資格がない",
+    "wrongChoice2": "あなたは休みを蓄えている",
+    "wrongChoice3": "あなたは休む必要がある"
   },
   {
     "id": 2130,
@@ -1687,7 +2332,12 @@
     "difficulty": 0.6,
     "ipa": "/dɪˈspɛr/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "filled with despair",
+    "phraseMeaning": "絶望に満たされた",
+    "wrongChoice1": "希望に満たされた",
+    "wrongChoice2": "修理に満たされた",
+    "wrongChoice3": "悲しみに満たされた"
   },
   {
     "id": 2131,
@@ -1700,7 +2350,12 @@
     "difficulty": -0.1,
     "ipa": "/ˌdɛstɪˈneɪʃən/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "finally reached our destination",
+    "phraseMeaning": "ようやく目的地に着いた",
+    "wrongChoice1": "ようやく出発地に着いた",
+    "wrongChoice2": "ようやく運命に着いた",
+    "wrongChoice3": "ようやく中継地に着いた"
   },
   {
     "id": 2132,
@@ -1713,7 +2368,12 @@
     "difficulty": 0.6,
     "ipa": "/dɪˈtɛktɪŋ/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "capable of detecting small changes",
+    "phraseMeaning": "小さな変化を検出できる",
+    "wrongChoice1": "小さな変化を見逃す",
+    "wrongChoice2": "小さな変化を探偵できる",
+    "wrongChoice3": "小さな変化を記録できる"
   },
   {
     "id": 2133,
@@ -1726,7 +2386,12 @@
     "difficulty": 0.1,
     "ipa": "/dɪˈtɜːrmɪn/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "determine the cause of the problem",
+    "phraseMeaning": "問題の原因を特定する",
+    "wrongChoice1": "問題の原因を隠蔽する",
+    "wrongChoice2": "問題の原因を決心する",
+    "wrongChoice3": "問題の原因を調査する"
   },
   {
     "id": 2134,
@@ -1739,7 +2404,12 @@
     "difficulty": -0.1,
     "ipa": "/dɪˈvaɪs/",
     "examFrequency": 2,
-    "grade": 2
+    "grade": 2,
+    "phrase": "a device that measures air quality",
+    "phraseMeaning": "空気の質を測定する装置",
+    "wrongChoice1": "空気の質を悪化させる装置",
+    "wrongChoice2": "空気の質を考案する装置",
+    "wrongChoice3": "空気の質を改善する装置"
   },
   {
     "id": 2135,
@@ -1752,7 +2422,12 @@
     "difficulty": 0.3,
     "ipa": "/dɪˈvoʊtɪd/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "a devoted mother",
+    "phraseMeaning": "献身的な母親",
+    "wrongChoice1": "無関心な母親",
+    "wrongChoice2": "投票された母親",
+    "wrongChoice3": "熱心な母親"
   },
   {
     "id": 2136,
@@ -1765,7 +2440,12 @@
     "difficulty": -0.7,
     "ipa": "/dɪˈrɛkt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "a direct flight to London",
+    "phraseMeaning": "ロンドンへの直行便",
+    "wrongChoice1": "ロンドンへの経由便",
+    "wrongChoice2": "ロンドンへの監督便",
+    "wrongChoice3": "ロンドンへの早朝便"
   },
   {
     "id": 2137,
@@ -1778,7 +2458,12 @@
     "difficulty": -0.4,
     "ipa": "/dɪˈrɛktli/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "go directly to the reception",
+    "phraseMeaning": "受付に直接行く",
+    "wrongChoice1": "受付に遠回りして行く",
+    "wrongChoice2": "受付に方向を決めて行く",
+    "wrongChoice3": "受付にすぐ行く"
   },
   {
     "id": 2138,
@@ -1791,7 +2476,12 @@
     "difficulty": 0.1,
     "ipa": "/ˌdɪsədˈvæntɪdʒ/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the main disadvantage of the plan",
+    "phraseMeaning": "その計画の主な不利な点",
+    "wrongChoice1": "その計画の主な有利な点",
+    "wrongChoice2": "その計画の主な消失点",
+    "wrongChoice3": "その計画の主な問題点"
   },
   {
     "id": 2139,
@@ -1804,7 +2494,12 @@
     "difficulty": -0.4,
     "ipa": "/ˌdɪsəˈpɪr/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "made the rabbit disappear",
+    "phraseMeaning": "ウサギを消した",
+    "wrongChoice1": "ウサギを出現させた",
+    "wrongChoice2": "ウサギを不賛成にした",
+    "wrongChoice3": "ウサギを隠した"
   },
   {
     "id": 2140,
@@ -1817,7 +2512,12 @@
     "difficulty": -0.4,
     "ipa": "/ˌdɪsəˈpɪrd/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "disappeared and was never found",
+    "phraseMeaning": "姿を消し二度と見つからなかった",
+    "wrongChoice1": "姿を現し二度と見つからなかった",
+    "wrongChoice2": "姿を不承認にされ二度と見つからなかった",
+    "wrongChoice3": "逃げ出し二度と見つからなかった"
   },
   {
     "id": 2141,
@@ -1830,7 +2530,12 @@
     "difficulty": 0.1,
     "ipa": "/ˌdɪsəˈpɔɪntmənt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "a big disappointment",
+    "phraseMeaning": "大きな失望",
+    "wrongChoice1": "大きな喜び",
+    "wrongChoice2": "大きな解任",
+    "wrongChoice3": "大きな落胆"
   },
   {
     "id": 2142,
@@ -1843,7 +2548,12 @@
     "difficulty": 0.1,
     "ipa": "/dɪˈspleɪd/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "displayed in the gallery",
+    "phraseMeaning": "ギャラリーに展示された",
+    "wrongChoice1": "ギャラリーから撤去された",
+    "wrongChoice2": "ギャラリーに置換された",
+    "wrongChoice3": "ギャラリーに保管された"
   },
   {
     "id": 2143,
@@ -1856,7 +2566,12 @@
     "difficulty": 0.1,
     "ipa": "/ˈdɪstənt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the distant mountains",
+    "phraseMeaning": "遠くの山々",
+    "wrongChoice1": "近くの山々",
+    "wrongChoice2": "独特の山々",
+    "wrongChoice3": "高い山々"
   },
   {
     "id": 2144,
@@ -1869,7 +2584,12 @@
     "difficulty": 0.6,
     "ipa": "/dɪˈstɪŋkʃən/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "an important distinction between",
+    "phraseMeaning": "～の間の重要な区別",
+    "wrongChoice1": "～の間の重要な混同",
+    "wrongChoice2": "～の間の重要な消滅",
+    "wrongChoice3": "～の間の重要な違い"
   },
   {
     "id": 2145,
@@ -1882,7 +2602,12 @@
     "difficulty": 0.3,
     "ipa": "/dɪˈstrækt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "don't let it distract you",
+    "phraseMeaning": "気をそらされないように",
+    "wrongChoice1": "集中させるように",
+    "wrongChoice2": "破壊されないように",
+    "wrongChoice3": "邪魔されないように"
   },
   {
     "id": 2146,
@@ -1895,7 +2620,12 @@
     "difficulty": 0.1,
     "ipa": "/dɪˈstrɪbjuːt/",
     "examFrequency": 2,
-    "grade": 2
+    "grade": 2,
+    "phrase": "distribute food to the victims",
+    "phraseMeaning": "被災者に食料を配布する",
+    "wrongChoice1": "被災者から食料を回収する",
+    "wrongChoice2": "被災者に食料を流通する",
+    "wrongChoice3": "被災者に食料を届ける"
   },
   {
     "id": 2147,
@@ -1908,7 +2638,12 @@
     "difficulty": -0.1,
     "ipa": "/dɪˈstɜːrb/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "please do not disturb",
+    "phraseMeaning": "邪魔しないでください",
+    "wrongChoice1": "邪魔してください",
+    "wrongChoice2": "配布しないでください",
+    "wrongChoice3": "騒がないでください"
   },
   {
     "id": 2148,
@@ -1921,7 +2656,12 @@
     "difficulty": -0.1,
     "ipa": "/dɪˈvaɪdɪd/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "divided into two regions",
+    "phraseMeaning": "二つの地域に分割された",
+    "wrongChoice1": "二つの地域に統合された",
+    "wrongChoice2": "二つの地域に潜水された",
+    "wrongChoice3": "二つの地域に分類された"
   },
   {
     "id": 2149,
@@ -1934,7 +2674,12 @@
     "difficulty": 0.3,
     "ipa": "/dɪˈvɔːrsɪz/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the number of divorces increased",
+    "phraseMeaning": "離婚の数が増加した",
+    "wrongChoice1": "結婚の数が増加した",
+    "wrongChoice2": "多様性の数が増加した",
+    "wrongChoice3": "離婚の数が減少した"
   },
   {
     "id": 2150,
@@ -1947,7 +2692,12 @@
     "difficulty": 0.1,
     "ipa": "/dəˈmɛstɪk/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "domestic flights are cheaper",
+    "phraseMeaning": "国内線はより安い",
+    "wrongChoice1": "国際線はより安い",
+    "wrongChoice2": "家庭用飛行機はより安い",
+    "wrongChoice3": "短距離便はより安い"
   },
   {
     "id": 2151,
@@ -1960,7 +2710,12 @@
     "difficulty": 0.1,
     "ipa": "/doʊˈneɪʃən/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "a generous donation",
+    "phraseMeaning": "寛大な寄付",
+    "wrongChoice1": "寛大な徴収",
+    "wrongChoice2": "寛大な支配",
+    "wrongChoice3": "寛大な援助"
   },
   {
     "id": 2152,
@@ -1973,7 +2728,12 @@
     "difficulty": -0.1,
     "ipa": "/ˈdɔːrweɪ/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "stood in the doorway",
+    "phraseMeaning": "戸口に立った",
+    "wrongChoice1": "出口に立った",
+    "wrongChoice2": "車道に立った",
+    "wrongChoice3": "廊下に立った"
   },
   {
     "id": 2153,
@@ -1986,7 +2746,12 @@
     "difficulty": -0.4,
     "ipa": "/daʊt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "no doubt that",
+    "phraseMeaning": "疑いなく",
+    "wrongChoice1": "確信をもって",
+    "wrongChoice2": "負債なく",
+    "wrongChoice3": "不安なく"
   },
   {
     "id": 2154,
@@ -1999,7 +2764,12 @@
     "difficulty": 0.1,
     "ipa": "/ˈdaʊnˌhɪl/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "goes downhill from here",
+    "phraseMeaning": "ここから下り坂になる",
+    "wrongChoice1": "ここから上り坂になる",
+    "wrongChoice2": "ここから丘の上になる",
+    "wrongChoice3": "ここから平坦になる"
   },
   {
     "id": 2155,
@@ -2012,7 +2782,12 @@
     "difficulty": -0.1,
     "ipa": "/dræɡ/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "drag the heavy box",
+    "phraseMeaning": "重い箱を引きずる",
+    "wrongChoice1": "重い箱を押し出す",
+    "wrongChoice2": "重い箱を飾る",
+    "wrongChoice3": "重い箱を持ち上げる"
   },
   {
     "id": 2156,
@@ -2025,7 +2800,12 @@
     "difficulty": -0.7,
     "ipa": "/ˈdrɔːɪŋ/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "her drawing of a house",
+    "phraseMeaning": "彼女の家の絵",
+    "wrongChoice1": "彼女の家の設計図",
+    "wrongChoice2": "彼女の家の引き出し",
+    "wrongChoice3": "彼女の家の写真"
   },
   {
     "id": 2157,
@@ -2038,7 +2818,12 @@
     "difficulty": 0.3,
     "ipa": "/drɪft/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "drift away from",
+    "phraseMeaning": "～から漂い離れる",
+    "wrongChoice1": "～から固定される",
+    "wrongChoice2": "～から移動する",
+    "wrongChoice3": "～から沈んでいく"
   },
   {
     "id": 2158,
@@ -2051,7 +2836,12 @@
     "difficulty": -0.9,
     "ipa": "/drɑːp/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "not to drop the glass",
+    "phraseMeaning": "グラスを落とさないように",
+    "wrongChoice1": "グラスを拾わないように",
+    "wrongChoice2": "グラスを滴らせないように",
+    "wrongChoice3": "グラスを割らないように"
   },
   {
     "id": 2159,
@@ -2064,7 +2854,12 @@
     "difficulty": 0.3,
     "ipa": "/draʊn/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "almost drowned in",
+    "phraseMeaning": "～でほとんど溺れかけた",
+    "wrongChoice1": "～でほとんど浮かびかけた",
+    "wrongChoice2": "～でほとんど眠りかけた",
+    "wrongChoice3": "～でほとんど流されかけた"
   },
   {
     "id": 2160,
@@ -2077,7 +2872,12 @@
     "difficulty": 0.3,
     "ipa": "/ˈdraʊnɪŋ/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "saved the child from drowning",
+    "phraseMeaning": "子どもを溺れることから救った",
+    "wrongChoice1": "子どもを浮かぶことから救った",
+    "wrongChoice2": "子どもを居眠りから救った",
+    "wrongChoice3": "子どもを転落から救った"
   },
   {
     "id": 2161,
@@ -2090,7 +2890,12 @@
     "difficulty": -0.4,
     "ipa": "/ˈduːti/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "it is our duty",
+    "phraseMeaning": "それは私たちの義務だ",
+    "wrongChoice1": "それは私たちの権利だ",
+    "wrongChoice2": "それは私たちの関税だ",
+    "wrongChoice3": "それは私たちの目標だ"
   },
   {
     "id": 2162,
@@ -2103,7 +2908,12 @@
     "difficulty": 0.1,
     "ipa": "/daɪd/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "dyed her hair",
+    "phraseMeaning": "髪を染めた",
+    "wrongChoice1": "髪を脱色した",
+    "wrongChoice2": "髪を乾かした",
+    "wrongChoice3": "髪を切った"
   },
   {
     "id": 2163,
@@ -2116,7 +2926,12 @@
     "difficulty": 0.3,
     "ipa": "/ˈiːɡərli/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "eagerly opened their presents",
+    "phraseMeaning": "待ちかねてプレゼントを開けた",
+    "wrongChoice1": "嫌々プレゼントを開けた",
+    "wrongChoice2": "早々にプレゼントを開けた",
+    "wrongChoice3": "慎重にプレゼントを開けた"
   },
   {
     "id": 2164,
@@ -2129,7 +2944,12 @@
     "difficulty": -0.4,
     "ipa": "/ɜːrn/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "earn a living",
+    "phraseMeaning": "生計を稼ぐ",
+    "wrongChoice1": "生計を失う",
+    "wrongChoice2": "生計を学ぶ",
+    "wrongChoice3": "生計を支える"
   },
   {
     "id": 2165,
@@ -2142,7 +2962,12 @@
     "difficulty": 0.1,
     "ipa": "/ɪˈdɪʃən/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the latest edition",
+    "phraseMeaning": "最新版",
+    "wrongChoice1": "最新の廃版",
+    "wrongChoice2": "最新の編集",
+    "wrongChoice3": "最新の翻訳"
   },
   {
     "id": 2166,
@@ -2155,7 +2980,12 @@
     "difficulty": 0.1,
     "ipa": "/ˈɛdʒuˌkeɪtɪŋ/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "educating young people",
+    "phraseMeaning": "若者を教育すること",
+    "wrongChoice1": "若者を無視すること",
+    "wrongChoice2": "若者を避難させること",
+    "wrongChoice3": "若者を支援すること"
   },
   {
     "id": 2167,
@@ -2168,7 +2998,12 @@
     "difficulty": 0.6,
     "ipa": "/ɪˈlæstɪk/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "elastic material",
+    "phraseMeaning": "伸縮性のある素材",
+    "wrongChoice1": "硬直した素材",
+    "wrongChoice2": "電気を通す素材",
+    "wrongChoice3": "防水性のある素材"
   },
   {
     "id": 2168,
@@ -2181,7 +3016,12 @@
     "difficulty": 0.1,
     "ipa": "/ɪˈlɛkt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "elect a new president",
+    "phraseMeaning": "新しい大統領を選出する",
+    "wrongChoice1": "新しい大統領を解任する",
+    "wrongChoice2": "新しい大統領を建設する",
+    "wrongChoice3": "新しい大統領を任命する"
   },
   {
     "id": 2169,
@@ -2194,7 +3034,12 @@
     "difficulty": -0.1,
     "ipa": "/ˈɛlɪmənt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "composed of two elements",
+    "phraseMeaning": "二つの元素から成る",
+    "wrongChoice1": "二つの混合物から成る",
+    "wrongChoice2": "二つの象から成る",
+    "wrongChoice3": "二つの成分から成る"
   },
   {
     "id": 2170,
@@ -2207,7 +3052,12 @@
     "difficulty": 0.3,
     "ipa": "/ɪˈlɪmɪˌneɪtɪd/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "eliminated in the first round",
+    "phraseMeaning": "初戦で敗退した",
+    "wrongChoice1": "初戦で勝ち進んだ",
+    "wrongChoice2": "初戦で照らされた",
+    "wrongChoice3": "初戦で棄権した"
   },
   {
     "id": 2171,
@@ -2220,7 +3070,12 @@
     "difficulty": -0.1,
     "ipa": "/ɪˈmɜːrdʒənsi/",
     "examFrequency": 2,
-    "grade": 2
+    "grade": 2,
+    "phrase": "in case of emergency",
+    "phraseMeaning": "緊急時に",
+    "wrongChoice1": "平常時に",
+    "wrongChoice2": "出現時に",
+    "wrongChoice3": "災害時に"
   },
   {
     "id": 2172,
@@ -2233,7 +3088,12 @@
     "difficulty": 0.1,
     "ipa": "/ˈɛmpərər/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the emperor ruled",
+    "phraseMeaning": "皇帝が治めた",
+    "wrongChoice1": "奴隷が治めた",
+    "wrongChoice2": "雇用者が治めた",
+    "wrongChoice3": "将軍が治めた"
   },
   {
     "id": 2173,
@@ -2246,7 +3106,12 @@
     "difficulty": 0.1,
     "ipa": "/ˈɛmpaɪər/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the Roman Empire",
+    "phraseMeaning": "ローマ帝国",
+    "wrongChoice1": "ローマ共和国",
+    "wrongChoice2": "ローマ炎",
+    "wrongChoice3": "ローマ王国"
   },
   {
     "id": 2174,
@@ -2259,7 +3124,12 @@
     "difficulty": -0.4,
     "ipa": "/ɪmˈplɔɪiːz/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "over 500 employees",
+    "phraseMeaning": "500人以上の従業員",
+    "wrongChoice1": "500人以上の経営者",
+    "wrongChoice2": "500人以上の雇用主",
+    "wrongChoice3": "500人以上の顧客"
   },
   {
     "id": 2175,
@@ -2272,7 +3142,12 @@
     "difficulty": 0.1,
     "ipa": "/ˈɛndlɪs/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the desert seemed endless",
+    "phraseMeaning": "砂漠は果てしなく見えた",
+    "wrongChoice1": "砂漠は限りあるように見えた",
+    "wrongChoice2": "砂漠は目的なく見えた",
+    "wrongChoice3": "砂漠は広大に見えた"
   },
   {
     "id": 2176,
@@ -2285,7 +3160,12 @@
     "difficulty": -0.4,
     "ipa": "/ˈɛnəmiz/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "were enemies for years",
+    "phraseMeaning": "長年敵同士だった",
+    "wrongChoice1": "長年味方同士だった",
+    "wrongChoice2": "長年エネルギー源だった",
+    "wrongChoice3": "長年競争相手だった"
   },
   {
     "id": 2177,
@@ -2298,7 +3178,12 @@
     "difficulty": 0.1,
     "ipa": "/ɪnˈɡeɪdʒd/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "got engaged last summer",
+    "phraseMeaning": "昨夏婚約した",
+    "wrongChoice1": "昨夏離婚した",
+    "wrongChoice2": "昨夏参加した",
+    "wrongChoice3": "昨夏結婚した"
   },
   {
     "id": 2178,
@@ -2311,7 +3196,12 @@
     "difficulty": 0.1,
     "ipa": "/ɪnˈtaɪərli/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "entirely different from",
+    "phraseMeaning": "～とはまったく異なる",
+    "wrongChoice1": "～とはわずかに異なる",
+    "wrongChoice2": "～とは内面的に異なる",
+    "wrongChoice3": "～とはほぼ異なる"
   },
   {
     "id": 2179,
@@ -2324,7 +3214,12 @@
     "difficulty": -0.4,
     "ipa": "/ˈɛntri/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "entry to the park",
+    "phraseMeaning": "公園への入場",
+    "wrongChoice1": "公園からの退場",
+    "wrongChoice2": "公園への記入",
+    "wrongChoice3": "公園への案内"
   },
   {
     "id": 2180,
@@ -2337,7 +3232,12 @@
     "difficulty": 0.1,
     "ipa": "/ɪnˌvaɪrənˈmɛntəl/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "environmental pollution",
+    "phraseMeaning": "環境汚染",
+    "wrongChoice1": "人工汚染",
+    "wrongChoice2": "娯楽汚染",
+    "wrongChoice3": "産業汚染"
   },
   {
     "id": 2181,
@@ -2350,7 +3250,12 @@
     "difficulty": 0.1,
     "ipa": "/ɪˈstæblɪʃt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "established in 1985",
+    "phraseMeaning": "1985年に設立された",
+    "wrongChoice1": "1985年に廃止された",
+    "wrongChoice2": "1985年に推定された",
+    "wrongChoice3": "1985年に移転された"
   },
   {
     "id": 2182,
@@ -2363,7 +3268,12 @@
     "difficulty": -0.1,
     "ipa": "/ɪˈvɛntʃuəli/",
     "examFrequency": 2,
-    "grade": 2
+    "grade": 2,
+    "phrase": "eventually found a job",
+    "phraseMeaning": "最終的に仕事を見つけた",
+    "wrongChoice1": "最初に仕事を見つけた",
+    "wrongChoice2": "均等に仕事を見つけた",
+    "wrongChoice3": "偶然に仕事を見つけた"
   },
   {
     "id": 2183,
@@ -2376,7 +3286,12 @@
     "difficulty": 0.1,
     "ipa": "/ˈɛvɪdəns/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "found evidence at",
+    "phraseMeaning": "～で証拠を見つけた",
+    "wrongChoice1": "～で隠蔽を見つけた",
+    "wrongChoice2": "～で悪意を見つけた",
+    "wrongChoice3": "～で手がかりを見つけた"
   },
   {
     "id": 2184,
@@ -2389,7 +3304,12 @@
     "difficulty": 0.3,
     "ipa": "/ˌɛvəˈluːʃən/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "theory of evolution",
+    "phraseMeaning": "進化論",
+    "wrongChoice1": "退化論",
+    "wrongChoice2": "評価論",
+    "wrongChoice3": "変異論"
   },
   {
     "id": 2185,
@@ -2402,7 +3322,12 @@
     "difficulty": -0.4,
     "ipa": "/ɪɡˈzækt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the exact time",
+    "phraseMeaning": "正確な時間",
+    "wrongChoice1": "曖昧な時間",
+    "wrongChoice2": "追加の時間",
+    "wrongChoice3": "おおよその時間"
   },
   {
     "id": 2186,
@@ -2415,7 +3340,12 @@
     "difficulty": -0.4,
     "ipa": "/ɪɡˌzæmɪˈneɪʃən/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the final examination",
+    "phraseMeaning": "期末試験",
+    "wrongChoice1": "期末休暇",
+    "wrongChoice2": "期末審査",
+    "wrongChoice3": "期末発表"
   },
   {
     "id": 2187,
@@ -2428,7 +3358,12 @@
     "difficulty": 0.3,
     "ipa": "/ɪkˈsɛpʃən/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "with no exception",
+    "phraseMeaning": "例外なく",
+    "wrongChoice1": "規則どおりに",
+    "wrongChoice2": "期待なく",
+    "wrongChoice3": "条件なく"
   },
   {
     "id": 2188,
@@ -2441,7 +3376,12 @@
     "difficulty": -0.4,
     "ipa": "/ɪksˈtʃeɪndʒ/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "exchanged gifts during",
+    "phraseMeaning": "～の間にプレゼントを交換した",
+    "wrongChoice1": "～の間にプレゼントを独占した",
+    "wrongChoice2": "～の間にプレゼントを排除した",
+    "wrongChoice3": "～の間にプレゼントを配った"
   },
   {
     "id": 2189,
@@ -2454,7 +3394,12 @@
     "difficulty": -0.4,
     "ipa": "/ɪksˈtʃeɪndʒɪŋ/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "exchanging ideas about",
+    "phraseMeaning": "～についてアイデアを交換していた",
+    "wrongChoice1": "～についてアイデアを隠していた",
+    "wrongChoice2": "～についてアイデアを消耗していた",
+    "wrongChoice3": "～についてアイデアを発表していた"
   },
   {
     "id": 2190,
@@ -2467,7 +3412,12 @@
     "difficulty": -0.4,
     "ipa": "/ɪkˈskjuːs/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "not a valid excuse",
+    "phraseMeaning": "正当な言い訳ではない",
+    "wrongChoice1": "正当な告発ではない",
+    "wrongChoice2": "正当な実行ではない",
+    "wrongChoice3": "正当な理由ではない"
   },
   {
     "id": 2191,
@@ -2480,7 +3430,12 @@
     "difficulty": 0.3,
     "ipa": "/ɪɡˈzɪbɪt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "exhibit rare paintings",
+    "phraseMeaning": "珍しい絵画を展示する",
+    "wrongChoice1": "珍しい絵画を隠蔵する",
+    "wrongChoice2": "珍しい絵画を禁止する",
+    "wrongChoice3": "珍しい絵画を収集する"
   },
   {
     "id": 2192,
@@ -2493,7 +3448,12 @@
     "difficulty": 0.3,
     "ipa": "/ˌɛksɪˈbɪʃənz/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "several art exhibitions",
+    "phraseMeaning": "いくつかの美術展",
+    "wrongChoice1": "いくつかの美術倉庫",
+    "wrongChoice2": "いくつかの美術遠征",
+    "wrongChoice3": "いくつかの美術講座"
   },
   {
     "id": 2193,
@@ -2506,7 +3466,12 @@
     "difficulty": -0.4,
     "ipa": "/ɪɡˈzɪst/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "do aliens really exist",
+    "phraseMeaning": "宇宙人は本当に存在するのか",
+    "wrongChoice1": "宇宙人は本当に消滅するのか",
+    "wrongChoice2": "宇宙人は本当に退出するのか",
+    "wrongChoice3": "宇宙人は本当に来訪するのか"
   },
   {
     "id": 2194,
@@ -2519,7 +3484,12 @@
     "difficulty": 0.1,
     "ipa": "/ɪkˈspænd/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "expand into new markets",
+    "phraseMeaning": "新しい市場に拡大する",
+    "wrongChoice1": "新しい市場から撤退する",
+    "wrongChoice2": "新しい市場に輸出する",
+    "wrongChoice3": "新しい市場に参入する"
   },
   {
     "id": 2195,
@@ -2532,7 +3502,12 @@
     "difficulty": 0.1,
     "ipa": "/ɪkˈspændɪd/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the expanded airport",
+    "phraseMeaning": "拡張された空港",
+    "wrongChoice1": "縮小された空港",
+    "wrongChoice2": "期限の切れた空港",
+    "wrongChoice3": "改装された空港"
   },
   {
     "id": 2196,
@@ -2545,7 +3520,12 @@
     "difficulty": -0.7,
     "ipa": "/ɪkˈspɛkt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "expect the package to arrive",
+    "phraseMeaning": "荷物が届くと予期する",
+    "wrongChoice1": "荷物が届くと諦める",
+    "wrongChoice2": "荷物が届くと調査する",
+    "wrongChoice3": "荷物が届くと確認する"
   },
   {
     "id": 2197,
@@ -2558,7 +3538,12 @@
     "difficulty": 0.1,
     "ipa": "/ɪkˈspɛns/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "travel expenses will be",
+    "phraseMeaning": "旅費は～になる",
+    "wrongChoice1": "旅の収入は～になる",
+    "wrongChoice2": "旅の経験は～になる",
+    "wrongChoice3": "旅の予算は～になる"
   },
   {
     "id": 2198,
@@ -2571,7 +3556,12 @@
     "difficulty": 0.1,
     "ipa": "/ɪkˈspɔːrtɪŋ/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "exporting electronics worldwide",
+    "phraseMeaning": "世界中に電子機器を輸出すること",
+    "wrongChoice1": "世界中に電子機器を輸入すること",
+    "wrongChoice2": "世界中に電子機器を探索すること",
+    "wrongChoice3": "世界中に電子機器を製造すること"
   },
   {
     "id": 2199,
@@ -2584,7 +3574,12 @@
     "difficulty": 0.3,
     "ipa": "/ɪkˈspoʊz/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "exposed the corruption",
+    "phraseMeaning": "汚職を暴露した",
+    "wrongChoice1": "汚職を隠蔽した",
+    "wrongChoice2": "汚職を放置した",
+    "wrongChoice3": "汚職を調査した"
   },
   {
     "id": 2200,
@@ -2597,7 +3592,12 @@
     "difficulty": 0.1,
     "ipa": "/ɪkˈstɛndɪd/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "extended opening hours",
+    "phraseMeaning": "延長された営業時間",
+    "wrongChoice1": "短縮された営業時間",
+    "wrongChoice2": "消滅した営業時間",
+    "wrongChoice3": "変更された営業時間"
   },
   {
     "id": 2201,
@@ -2610,7 +3610,12 @@
     "difficulty": 0.1,
     "ipa": "/ˈfæktərz/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "several factors contributed to",
+    "phraseMeaning": "いくつかの要因が～に貢献した",
+    "wrongChoice1": "いくつかの要因が～を妨げた",
+    "wrongChoice2": "いくつかの工場が～に貢献した",
+    "wrongChoice3": "いくつかの結果が～に貢献した"
   },
   {
     "id": 2202,
@@ -2623,7 +3628,12 @@
     "difficulty": 0.1,
     "ipa": "/feɪθ/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "has great faith in",
+    "phraseMeaning": "～を大いに信頼している",
+    "wrongChoice1": "～を全く信頼していない",
+    "wrongChoice2": "～を大いに運命づけている",
+    "wrongChoice3": "～を大いに期待している"
   },
   {
     "id": 2203,
@@ -2636,7 +3646,12 @@
     "difficulty": 0.6,
     "ipa": "/ˈfeɪθfəli/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "faithfully waited every day",
+    "phraseMeaning": "毎日忠実に待っていた",
+    "wrongChoice1": "毎日不忠実に待っていた",
+    "wrongChoice2": "毎日信仰深く待っていた",
+    "wrongChoice3": "毎日辛抱強く待っていた"
   },
   {
     "id": 2204,
@@ -2649,7 +3664,12 @@
     "difficulty": 0.1,
     "ipa": "/feɪm/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "rose to fame after",
+    "phraseMeaning": "～の後に名声を得た",
+    "wrongChoice1": "～の後に名声を失った",
+    "wrongChoice2": "～の後に炎を得た",
+    "wrongChoice3": "～の後に人気を得た"
   },
   {
     "id": 2205,
@@ -2662,7 +3682,12 @@
     "difficulty": 0.6,
     "ipa": "/ˈfæntəsiz/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "fantasies about becoming a hero",
+    "phraseMeaning": "ヒーローになる空想",
+    "wrongChoice1": "ヒーローになる現実",
+    "wrongChoice2": "ヒーローになるファン意識",
+    "wrongChoice3": "ヒーローになる願望"
   },
   {
     "id": 2206,
@@ -2675,7 +3700,12 @@
     "difficulty": -0.1,
     "ipa": "/ˈfiːtʃər/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the main feature of this phone",
+    "phraseMeaning": "この電話の主な特徴",
+    "wrongChoice1": "この電話の主な欠陥",
+    "wrongChoice2": "この電話の主な偉業",
+    "wrongChoice3": "この電話の主な機能"
   },
   {
     "id": 2207,
@@ -2688,7 +3718,12 @@
     "difficulty": -0.1,
     "ipa": "/ˈfɪltər/",
     "examFrequency": 2,
-    "grade": 2
+    "grade": 2,
+    "phrase": "passes through a filter",
+    "phraseMeaning": "フィルターを通る",
+    "wrongChoice1": "フィルターを塞ぐ",
+    "wrongChoice2": "フィルターを満たす",
+    "wrongChoice3": "フィルターで濾過される"
   },
   {
     "id": 2208,
@@ -2701,7 +3736,12 @@
     "difficulty": 0.1,
     "ipa": "/faɪˈnænʃəl/",
     "examFrequency": 2,
-    "grade": 2
+    "grade": 2,
+    "phrase": "serious financial problems",
+    "phraseMeaning": "深刻な財政問題",
+    "wrongChoice1": "深刻な財政的解決",
+    "wrongChoice2": "深刻な最終問題",
+    "wrongChoice3": "深刻な経済問題"
   },
   {
     "id": 2209,
@@ -2714,7 +3754,12 @@
     "difficulty": 0.6,
     "ipa": "/faɪˈnænʃəli/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "not financially viable",
+    "phraseMeaning": "財政的に実行不可能だ",
+    "wrongChoice1": "財政的に実行可能だ",
+    "wrongChoice2": "最終的に実行不可能だ",
+    "wrongChoice3": "経済的に実行不可能だ"
   },
   {
     "id": 2210,
@@ -2727,7 +3772,12 @@
     "difficulty": -0.1,
     "ipa": "/ˈfaɪərˌpleɪs/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "sat by the fireplace",
+    "phraseMeaning": "暖炉のそばに座った",
+    "wrongChoice1": "暖炉から離れて座った",
+    "wrongChoice2": "火事場のそばに座った",
+    "wrongChoice3": "ストーブのそばに座った"
   },
   {
     "id": 2211,
@@ -2740,7 +3790,12 @@
     "difficulty": -0.1,
     "ipa": "/fleɪm/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the candle flame flickered",
+    "phraseMeaning": "ろうそくの炎が揺れた",
+    "wrongChoice1": "ろうそくの炎が消えた",
+    "wrongChoice2": "ろうそくの額縁が揺れた",
+    "wrongChoice3": "ろうそくの光が揺れた"
   },
   {
     "id": 2212,
@@ -2753,7 +3808,12 @@
     "difficulty": 0.6,
     "ipa": "/ˈflætn̩d/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "flattened for recycling",
+    "phraseMeaning": "リサイクルのために平らにされた",
+    "wrongChoice1": "リサイクルのために膨らまされた",
+    "wrongChoice2": "リサイクルのためにお世辞を言われた",
+    "wrongChoice3": "リサイクルのために潰された"
   },
   {
     "id": 2213,
@@ -2766,7 +3826,12 @@
     "difficulty": 0.8,
     "ipa": "/ˈflætərɪŋ/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "received many flattering comments",
+    "phraseMeaning": "多くのお世辞の言葉をもらった",
+    "wrongChoice1": "多くの批判的な言葉をもらった",
+    "wrongChoice2": "多くの平坦な言葉をもらった",
+    "wrongChoice3": "多くの好意的な言葉をもらった"
   },
   {
     "id": 2214,
@@ -2779,7 +3844,12 @@
     "difficulty": 0.6,
     "ipa": "/fliː/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "had to flee from the flood",
+    "phraseMeaning": "洪水から逃げなければならなかった",
+    "wrongChoice1": "洪水に留まらなければならなかった",
+    "wrongChoice2": "洪水から自由にならなければならなかった",
+    "wrongChoice3": "洪水から避難しなければならなかった"
   },
   {
     "id": 2215,
@@ -2792,7 +3862,12 @@
     "difficulty": 0.6,
     "ipa": "/ˌflɛksɪˈbɪlɪti/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "offers a lot of flexibility",
+    "phraseMeaning": "かなりの柔軟性がある",
+    "wrongChoice1": "かなりの硬直性がある",
+    "wrongChoice2": "かなりの反射がある",
+    "wrongChoice3": "かなりの自由度がある"
   },
   {
     "id": 2216,
@@ -2805,7 +3880,12 @@
     "difficulty": 0.1,
     "ipa": "/ˈfluːəntli/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "speaks French fluently",
+    "phraseMeaning": "フランス語を流暢に話す",
+    "wrongChoice1": "フランス語をたどたどしく話す",
+    "wrongChoice2": "フランス語を流動的に話す",
+    "wrongChoice3": "フランス語を上手に話す"
   },
   {
     "id": 2217,
@@ -2818,7 +3898,12 @@
     "difficulty": -0.9,
     "ipa": "/flaɪ/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "birds fly thousands of miles",
+    "phraseMeaning": "鳥は何千マイルも飛ぶ",
+    "wrongChoice1": "鳥は何千マイルも歩く",
+    "wrongChoice2": "鳥は何千マイルもハエになる",
+    "wrongChoice3": "鳥は何千マイルも渡る"
   },
   {
     "id": 2218,
@@ -2831,7 +3916,12 @@
     "difficulty": -0.1,
     "ipa": "/fərˈɡɪv/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "please forgive me for",
+    "phraseMeaning": "～について許してください",
+    "wrongChoice1": "～について恨んでください",
+    "wrongChoice2": "～について忘れてください",
+    "wrongChoice3": "～について理解してください"
   },
   {
     "id": 2219,
@@ -2844,7 +3934,12 @@
     "difficulty": -0.4,
     "ipa": "/ˈfɔːrməl/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "wear formal clothes",
+    "phraseMeaning": "正式な服装を着る",
+    "wrongChoice1": "普段着を着る",
+    "wrongChoice2": "以前の服装を着る",
+    "wrongChoice3": "きちんとした服装を着る"
   },
   {
     "id": 2220,
@@ -2857,7 +3952,12 @@
     "difficulty": 0.1,
     "ipa": "/ˈfɔːrtʃən/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "made a fortune in",
+    "phraseMeaning": "～で財産を築いた",
+    "wrongChoice1": "～で財産を失った",
+    "wrongChoice2": "～で幸運を築いた",
+    "wrongChoice3": "～で成功を収めた"
   },
   {
     "id": 2221,
@@ -2870,7 +3970,12 @@
     "difficulty": 0.3,
     "ipa": "/faʊnˈdeɪʃən/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the foundation of a career",
+    "phraseMeaning": "キャリアの基礎",
+    "wrongChoice1": "キャリアの崩壊",
+    "wrongChoice2": "キャリアの噴水",
+    "wrongChoice3": "キャリアの土台"
   },
   {
     "id": 2222,
@@ -2883,7 +3988,12 @@
     "difficulty": 0.1,
     "ipa": "/ˈfriːkwənt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "frequent exercise is good",
+    "phraseMeaning": "頻繁な運動は良い",
+    "wrongChoice1": "まれな運動は良い",
+    "wrongChoice2": "自由な運動は良い",
+    "wrongChoice3": "定期的な運動は良い"
   },
   {
     "id": 2223,
@@ -2896,7 +4006,12 @@
     "difficulty": 0.1,
     "ipa": "/ˈfriːkwəntli/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "frequently visits his grandparents",
+    "phraseMeaning": "頻繁に祖父母を訪ねる",
+    "wrongChoice1": "めったに祖父母を訪ねない",
+    "wrongChoice2": "自由に祖父母を訪ねる",
+    "wrongChoice3": "定期的に祖父母を訪ねる"
   },
   {
     "id": 2224,
@@ -2909,7 +4024,12 @@
     "difficulty": -0.1,
     "ipa": "/ˈfraɪtn/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "loud noises frighten children",
+    "phraseMeaning": "大きな音が子どもを怖がらせる",
+    "wrongChoice1": "大きな音が子どもを安心させる",
+    "wrongChoice2": "大きな音が子どもを強くさせる",
+    "wrongChoice3": "大きな音が子どもを驚かせる"
   },
   {
     "id": 2225,
@@ -2922,7 +4042,12 @@
     "difficulty": 0.3,
     "ipa": "/fʊlˈfɪl/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "worked hard to fulfill his dream",
+    "phraseMeaning": "夢を実現するために懸命に働いた",
+    "wrongChoice1": "夢を放棄するために懸命に働いた",
+    "wrongChoice2": "夢を満タンにするために懸命に働いた",
+    "wrongChoice3": "夢を追うために懸命に働いた"
   },
   {
     "id": 2226,
@@ -2935,7 +4060,12 @@
     "difficulty": -0.1,
     "ipa": "/ˌdʒɛnəˈreɪʃən/",
     "examFrequency": 2,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the younger generation",
+    "phraseMeaning": "若い世代",
+    "wrongChoice1": "年老いた世代",
+    "wrongChoice2": "若い発電",
+    "wrongChoice3": "若い集団"
   },
   {
     "id": 2227,
@@ -2948,7 +4078,12 @@
     "difficulty": 0.3,
     "ipa": "/ˈdʒiːniəs/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "considered a genius in physics",
+    "phraseMeaning": "物理学の天才と見なされた",
+    "wrongChoice1": "物理学の凡人と見なされた",
+    "wrongChoice2": "物理学の精霊と見なされた",
+    "wrongChoice3": "物理学の専門家と見なされた"
   },
   {
     "id": 2228,
@@ -2961,7 +4096,12 @@
     "difficulty": 0.3,
     "ipa": "/ˈdʒɛnjuɪn/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "is this painting genuine",
+    "phraseMeaning": "この絵画は本物ですか",
+    "wrongChoice1": "この絵画は偽物ですか",
+    "wrongChoice2": "この絵画は一般的ですか",
+    "wrongChoice3": "この絵画は貴重ですか"
   },
   {
     "id": 2229,
@@ -2974,7 +4114,12 @@
     "difficulty": 0.1,
     "ipa": "/dʒiˈɑːɡrəfi/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "studying the geography of",
+    "phraseMeaning": "～の地理を勉強している",
+    "wrongChoice1": "～の地理を無視している",
+    "wrongChoice2": "～の地質学を勉強している",
+    "wrongChoice3": "～の歴史を勉強している"
   },
   {
     "id": 2230,
@@ -2987,7 +4132,12 @@
     "difficulty": 0.3,
     "ipa": "/ˈɡʌvərn/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "govern the country wisely",
+    "phraseMeaning": "国を賢く統治する",
+    "wrongChoice1": "国を賢く放棄する",
+    "wrongChoice2": "国を賢く管理する",
+    "wrongChoice3": "国を賢く支配する"
   },
   {
     "id": 2231,
@@ -3000,7 +4150,12 @@
     "difficulty": -0.4,
     "ipa": "/ɡræb/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "grabbed her bag and rushed out",
+    "phraseMeaning": "バッグをつかんで飛び出した",
+    "wrongChoice1": "バッグを手放して飛び出した",
+    "wrongChoice2": "バッグを墓場に飛び出した",
+    "wrongChoice3": "バッグを拾って飛び出した"
   },
   {
     "id": 2232,
@@ -3013,7 +4168,12 @@
     "difficulty": 0.3,
     "ipa": "/ɡrænt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "granted a research grant",
+    "phraseMeaning": "研究助成金を与えた",
+    "wrongChoice1": "研究助成金を拒否した",
+    "wrongChoice2": "研究を祖父に与えた",
+    "wrongChoice3": "研究助成金を申請した"
   },
   {
     "id": 2233,
@@ -3026,7 +4186,12 @@
     "difficulty": 0.3,
     "ipa": "/ɡræsp/",
     "examFrequency": 2,
-    "grade": 2
+    "grade": 2,
+    "phrase": "could not grasp the meaning",
+    "phraseMeaning": "意味を理解できなかった",
+    "wrongChoice1": "意味を即座に理解した",
+    "wrongChoice2": "意味を草で覆った",
+    "wrongChoice3": "意味を把握できなかった"
   },
   {
     "id": 2234,
@@ -3039,7 +4204,12 @@
     "difficulty": 0.1,
     "ipa": "/ˈɡrævɪti/",
     "examFrequency": 2,
-    "grade": 2
+    "grade": 2,
+    "phrase": "gravity keeps us on the ground",
+    "phraseMeaning": "重力が私たちを地面にとどめている",
+    "wrongChoice1": "重力が私たちを空中に浮かせている",
+    "wrongChoice2": "墓場が私たちを地面にとどめている",
+    "wrongChoice3": "引力が私たちを地面にとどめている"
   },
   {
     "id": 2235,
@@ -3052,7 +4222,12 @@
     "difficulty": -0.4,
     "ipa": "/ɡriːt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "greeted the guests with a smile",
+    "phraseMeaning": "笑顔で客を迎えた",
+    "wrongChoice1": "無愛想に客を追い返した",
+    "wrongChoice2": "笑顔で客を貪った",
+    "wrongChoice3": "笑顔で客を歓迎した"
   },
   {
     "id": 2236,
@@ -3065,7 +4240,12 @@
     "difficulty": 0.6,
     "ipa": "/ɡrɪpt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "gripped the rope tightly",
+    "phraseMeaning": "ロープをしっかりつかんだ",
+    "wrongChoice1": "ロープを緩く放した",
+    "wrongChoice2": "ロープを不平を言った",
+    "wrongChoice3": "ロープを固く握った"
   },
   {
     "id": 2237,
@@ -3078,7 +4258,12 @@
     "difficulty": -0.4,
     "ipa": "/ɡɑːrdz/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the guards stood at the entrance",
+    "phraseMeaning": "警備員が入口に立っていた",
+    "wrongChoice1": "侵入者が入口に立っていた",
+    "wrongChoice2": "案内人が入口に立っていた",
+    "wrongChoice3": "門番が入口に立っていた"
   },
   {
     "id": 2238,
@@ -3091,7 +4276,12 @@
     "difficulty": -0.7,
     "ipa": "/ˈhæbɪt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "reading before bed is a good habit",
+    "phraseMeaning": "寝る前の読書は良い習慣だ",
+    "wrongChoice1": "寝る前の読書は悪い習慣だ",
+    "wrongChoice2": "寝る前の読書は良い生息地だ",
+    "wrongChoice3": "寝る前の読書は良い日課だ"
   },
   {
     "id": 2239,
@@ -3104,7 +4294,12 @@
     "difficulty": -0.4,
     "ipa": "/ˈhæmər/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "used a hammer to nail",
+    "phraseMeaning": "ハンマーを使って釘を打った",
+    "wrongChoice1": "ハンマーを使って釘を抜いた",
+    "wrongChoice2": "妨害者を使って釘を打った",
+    "wrongChoice3": "道具を使って釘を打った"
   },
   {
     "id": 2240,
@@ -3117,7 +4312,12 @@
     "difficulty": 0.6,
     "ipa": "/ˈhɑːrdʃɪp/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "faced many hardships during the war",
+    "phraseMeaning": "戦争中に多くの苦難に直面した",
+    "wrongChoice1": "戦争中に多くの幸運に直面した",
+    "wrongChoice2": "戦争中に多くの硬さに直面した",
+    "wrongChoice3": "戦争中に多くの困難に直面した"
   },
   {
     "id": 2241,
@@ -3130,7 +4330,12 @@
     "difficulty": -0.1,
     "ipa": "/hɑːrm/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "can cause serious harm",
+    "phraseMeaning": "深刻な害を及ぼすことがある",
+    "wrongChoice1": "深刻な利益を及ぼすことがある",
+    "wrongChoice2": "深刻な調和を及ぼすことがある",
+    "wrongChoice3": "深刻な損害を及ぼすことがある"
   },
   {
     "id": 2242,
@@ -3143,7 +4348,12 @@
     "difficulty": -0.1,
     "ipa": "/ˈhɑːrmfəl/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "exposure can be harmful",
+    "phraseMeaning": "さらされることは有害になり得る",
+    "wrongChoice1": "さらされることは無害になり得る",
+    "wrongChoice2": "さらされることは調和的になり得る",
+    "wrongChoice3": "さらされることは危険になり得る"
   },
   {
     "id": 2243,
@@ -3156,7 +4366,12 @@
     "difficulty": 0.3,
     "ipa": "/ˈhɑːrməni/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "lives in harmony with nature",
+    "phraseMeaning": "自然と調和して暮らしている",
+    "wrongChoice1": "自然と対立して暮らしている",
+    "wrongChoice2": "自然と薬局で暮らしている",
+    "wrongChoice3": "自然と共存して暮らしている"
   },
   {
     "id": 2244,
@@ -3169,7 +4384,12 @@
     "difficulty": -0.1,
     "ipa": "/hiːl/",
     "examFrequency": 2,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the wound will heal soon",
+    "phraseMeaning": "傷はすぐに治る",
+    "wrongChoice1": "傷はすぐに悪化する",
+    "wrongChoice2": "傷はすぐにかかとになる",
+    "wrongChoice3": "傷はすぐに回復する"
   },
   {
     "id": 2245,
@@ -3182,7 +4402,12 @@
     "difficulty": -0.4,
     "ipa": "/ˈhɛvən/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "believes she is in heaven",
+    "phraseMeaning": "天国にいると信じている",
+    "wrongChoice1": "地獄にいると信じている",
+    "wrongChoice2": "重いものにいると信じている",
+    "wrongChoice3": "楽園にいると信じている"
   },
   {
     "id": 2246,
@@ -3195,7 +4420,12 @@
     "difficulty": 1.3,
     "ipa": "/ˈhɛzɪtəntli/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "hesitantly raised her hand",
+    "phraseMeaning": "ためらいがちに手を挙げた",
+    "wrongChoice1": "迷いなく手を挙げた",
+    "wrongChoice2": "温かく手を挙げた",
+    "wrongChoice3": "恐る恐る手を挙げた"
   },
   {
     "id": 2247,
@@ -3208,7 +4438,12 @@
     "difficulty": 0.8,
     "ipa": "/ˌhɛzɪˈteɪʃən/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "without any hesitation",
+    "phraseMeaning": "一瞬のためらいもなく",
+    "wrongChoice1": "多くのためらいをもって",
+    "wrongChoice2": "一瞬の暖房もなく",
+    "wrongChoice3": "一瞬の迷いもなく"
   },
   {
     "id": 2248,
@@ -3221,7 +4456,12 @@
     "difficulty": -0.4,
     "ipa": "/haɪər/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "decided to hire ten employees",
+    "phraseMeaning": "10人の社員を雇うことにした",
+    "wrongChoice1": "10人の社員を解雇することにした",
+    "wrongChoice2": "10人の社員をより高くすることにした",
+    "wrongChoice3": "10人の社員を採用することにした"
   },
   {
     "id": 2249,
@@ -3234,7 +4474,12 @@
     "difficulty": -0.9,
     "ipa": "/hɪt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the ball hit the window",
+    "phraseMeaning": "ボールが窓に当たった",
+    "wrongChoice1": "ボールが窓を避けた",
+    "wrongChoice2": "ボールが窓を暑くした",
+    "wrongChoice3": "ボールが窓にぶつかった"
   },
   {
     "id": 2250,
@@ -3247,7 +4492,12 @@
     "difficulty": 0.1,
     "ipa": "/ˈɑːnər/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "a great honor to receive",
+    "phraseMeaning": "受けることは大変光栄だ",
+    "wrongChoice1": "受けることは大変不名誉だ",
+    "wrongChoice2": "受けることは大変時間だ",
+    "wrongChoice3": "受けることは大変名誉だ"
   },
   {
     "id": 2251,
@@ -3260,7 +4510,12 @@
     "difficulty": 0.1,
     "ipa": "/ˈɑːnərd/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "honored to be invited",
+    "phraseMeaning": "招待されて光栄だ",
+    "wrongChoice1": "招待されて不名誉だ",
+    "wrongChoice2": "招待されて時間通りだ",
+    "wrongChoice3": "招待されて嬉しい"
   },
   {
     "id": 2252,
@@ -3273,7 +4528,12 @@
     "difficulty": 0.3,
     "ipa": "/ˈhʌmbl/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "remained humble despite success",
+    "phraseMeaning": "成功にもかかわらず謙虚なままだった",
+    "wrongChoice1": "成功にもかかわらず傲慢なままだった",
+    "wrongChoice2": "成功にもかかわらず質素なままだった",
+    "wrongChoice3": "成功にもかかわらず控えめなままだった"
   },
   {
     "id": 2253,
@@ -3286,7 +4546,12 @@
     "difficulty": 0.3,
     "ipa": "/hjuːˈmænɪti/",
     "examFrequency": 2,
-    "grade": 2
+    "grade": 2,
+    "phrase": "protect the future of humanity",
+    "phraseMeaning": "人類の未来を守る",
+    "wrongChoice1": "人類の未来を破壊する",
+    "wrongChoice2": "湿度の未来を守る",
+    "wrongChoice3": "人間の未来を守る"
   },
   {
     "id": 2254,
@@ -3299,7 +4564,12 @@
     "difficulty": 0.1,
     "ipa": "/aɪˈdɛntɪfaɪ/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "identify the person in the photo",
+    "phraseMeaning": "写真の人物を特定する",
+    "wrongChoice1": "写真の人物を隠す",
+    "wrongChoice2": "写真の人物を同一視する",
+    "wrongChoice3": "写真の人物を確認する"
   },
   {
     "id": 2255,
@@ -3312,7 +4582,12 @@
     "difficulty": 0.3,
     "ipa": "/aɪˈdɛntɪti/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "confirmed the identity of",
+    "phraseMeaning": "～の身元を確認した",
+    "wrongChoice1": "～の身元を隠蔽した",
+    "wrongChoice2": "～の同一性を確認した",
+    "wrongChoice3": "～の正体を確認した"
   },
   {
     "id": 2256,
@@ -3325,7 +4600,12 @@
     "difficulty": 0.6,
     "ipa": "/ˈɪɡnərəns/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "his ignorance of the law",
+    "phraseMeaning": "法律を知らないこと",
+    "wrongChoice1": "法律に精通していること",
+    "wrongChoice2": "法律を無視すること",
+    "wrongChoice3": "法律に疎いこと"
   },
   {
     "id": 2257,
@@ -3338,7 +4618,12 @@
     "difficulty": 0.6,
     "ipa": "/ˈɪɡnərənt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "ignorant of the dangers ahead",
+    "phraseMeaning": "前方の危険を知らなかった",
+    "wrongChoice1": "前方の危険を熟知していた",
+    "wrongChoice2": "前方の危険を無視した",
+    "wrongChoice3": "前方の危険に気づかなかった"
   },
   {
     "id": 2258,
@@ -3351,7 +4636,12 @@
     "difficulty": -0.4,
     "ipa": "/ˈɪlnɪs/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "recovered from a serious illness",
+    "phraseMeaning": "重い病気から回復した",
+    "wrongChoice1": "重い病気に罹った",
+    "wrongChoice2": "重い不法行為から回復した",
+    "wrongChoice3": "重い怪我から回復した"
   },
   {
     "id": 2259,
@@ -3364,7 +4654,12 @@
     "difficulty": 0.3,
     "ipa": "/ˈɪləˌstreɪtɪd/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "beautifully illustrated with pictures",
+    "phraseMeaning": "絵で美しく図解された",
+    "wrongChoice1": "絵なしで味気なく書かれた",
+    "wrongChoice2": "絵で美しく照らされた",
+    "wrongChoice3": "絵で美しく装飾された"
   },
   {
     "id": 2260,
@@ -3377,7 +4672,12 @@
     "difficulty": 0.3,
     "ipa": "/ˌɪləˈstreɪʃənz/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "many beautiful illustrations",
+    "phraseMeaning": "多くの美しい挿絵",
+    "wrongChoice1": "多くの醜い挿絵",
+    "wrongChoice2": "多くの美しい幻想",
+    "wrongChoice3": "多くの美しい図版"
   },
   {
     "id": 2261,
@@ -3390,7 +4690,12 @@
     "difficulty": 0.3,
     "ipa": "/ˈɪmɪˌteɪt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "children often imitate their parents",
+    "phraseMeaning": "子どもはよく親をまねる",
+    "wrongChoice1": "子どもはめったに親をまねない",
+    "wrongChoice2": "子どもはよく親を刺激する",
+    "wrongChoice3": "子どもはよく親の真似をする"
   },
   {
     "id": 2262,
@@ -3403,7 +4708,12 @@
     "difficulty": 0.3,
     "ipa": "/ˈɪmɪɡrənt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "many immigrants came seeking",
+    "phraseMeaning": "多くの移民が求めてやって来た",
+    "wrongChoice1": "多くの移民が逃げ出した",
+    "wrongChoice2": "多くの模倣者が求めてやって来た",
+    "wrongChoice3": "多くの外国人が求めてやって来た"
   },
   {
     "id": 2263,
@@ -3416,7 +4726,12 @@
     "difficulty": 0.3,
     "ipa": "/ˌɪmɪˈɡreɪʃən/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "immigration has shaped the culture",
+    "phraseMeaning": "移住が文化を形作ってきた",
+    "wrongChoice1": "移住が文化を破壊してきた",
+    "wrongChoice2": "模倣が文化を形作ってきた",
+    "wrongChoice3": "移民が文化を形作ってきた"
   },
   {
     "id": 2264,
@@ -3429,7 +4744,12 @@
     "difficulty": 0.1,
     "ipa": "/ˈɪmpækt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "had a huge impact on",
+    "phraseMeaning": "～に大きな影響を与えた",
+    "wrongChoice1": "～に影響を与えなかった",
+    "wrongChoice2": "～に大きな衝突を与えた",
+    "wrongChoice3": "～に大きな効果を与えた"
   },
   {
     "id": 2265,
@@ -3442,7 +4762,12 @@
     "difficulty": 0.8,
     "ipa": "/ɪmˈplaɪd/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "his silence implied agreement",
+    "phraseMeaning": "彼の沈黙は同意を暗示した",
+    "wrongChoice1": "彼の沈黙は反対を暗示した",
+    "wrongChoice2": "彼の沈黙は同意を適用した",
+    "wrongChoice3": "彼の沈黙は同意を示唆した"
   },
   {
     "id": 2266,
@@ -3455,7 +4780,12 @@
     "difficulty": 0.6,
     "ipa": "/ɪmˈplaɪ/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "trying to imply that",
+    "phraseMeaning": "～をほのめかそうとしている",
+    "wrongChoice1": "～を明言しようとしている",
+    "wrongChoice2": "～を実行しようとしている",
+    "wrongChoice3": "～を示唆しようとしている"
   },
   {
     "id": 2267,
@@ -3468,7 +4798,12 @@
     "difficulty": 0.1,
     "ipa": "/ɪmˈpɔːrtɪd/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "sells imported goods from Italy",
+    "phraseMeaning": "イタリアからの輸入品を販売している",
+    "wrongChoice1": "イタリアへの輸出品を販売している",
+    "wrongChoice2": "イタリアからの重要品を販売している",
+    "wrongChoice3": "イタリアからの特産品を販売している"
   },
   {
     "id": 2268,
@@ -3481,7 +4816,12 @@
     "difficulty": -0.1,
     "ipa": "/ɪmˈprɛʃən/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "made a good impression at",
+    "phraseMeaning": "～で良い印象を与えた",
+    "wrongChoice1": "～で悪い印象を与えた",
+    "wrongChoice2": "～で良い圧迫を与えた",
+    "wrongChoice3": "～で良い評価を与えた"
   },
   {
     "id": 2269,
@@ -3494,7 +4834,12 @@
     "difficulty": 0.1,
     "ipa": "/ɪmˈprɛs/",
     "examFrequency": 2,
-    "grade": 2
+    "grade": 2,
+    "phrase": "his speech impressed the audience",
+    "phraseMeaning": "彼のスピーチは聴衆に感動を与えた",
+    "wrongChoice1": "彼のスピーチは聴衆を退屈させた",
+    "wrongChoice2": "彼のスピーチは聴衆に圧力を与えた",
+    "wrongChoice3": "彼のスピーチは聴衆を魅了した"
   },
   {
     "id": 2270,
@@ -3507,7 +4852,12 @@
     "difficulty": 0.6,
     "ipa": "/ˈɪmpʌls/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "bought the shoes on impulse",
+    "phraseMeaning": "衝動的にその靴を買った",
+    "wrongChoice1": "計画的にその靴を買った",
+    "wrongChoice2": "脈拍的にその靴を買った",
+    "wrongChoice3": "思いつきでその靴を買った"
   },
   {
     "id": 2271,
@@ -3520,7 +4870,12 @@
     "difficulty": 0.3,
     "ipa": "/ˈɪnsɪdənts/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "several incidents of theft",
+    "phraseMeaning": "いくつかの窃盗事件",
+    "wrongChoice1": "いくつかの窃盗防止",
+    "wrongChoice2": "いくつかの偶然の窃盗",
+    "wrongChoice3": "いくつかの窃盗事案"
   },
   {
     "id": 2272,
@@ -3533,7 +4888,12 @@
     "difficulty": -0.1,
     "ipa": "/ˈɪnkʌm/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "her monthly income covers expenses",
+    "phraseMeaning": "彼女の月収は出費をまかなう",
+    "wrongChoice1": "彼女の月収は出費に足りない",
+    "wrongChoice2": "彼女の月の到着は出費をまかなう",
+    "wrongChoice3": "彼女の月収は生活費をまかなう"
   },
   {
     "id": 2273,
@@ -3546,7 +4906,12 @@
     "difficulty": 0.1,
     "ipa": "/ɪnˈkrɛdɪbli/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "incredibly beautiful view",
+    "phraseMeaning": "信じられないほど美しい眺め",
+    "wrongChoice1": "まったく美しくない眺め",
+    "wrongChoice2": "段階的に美しい眺め",
+    "wrongChoice3": "非常に美しい眺め"
   },
   {
     "id": 2274,
@@ -3559,7 +4924,12 @@
     "difficulty": 0.3,
     "ipa": "/ˈɪndɪˌkeɪtɪd/",
     "examFrequency": 2,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the survey indicated that",
+    "phraseMeaning": "調査は～を示した",
+    "wrongChoice1": "調査は～を隠した",
+    "wrongChoice2": "調査は～を起訴した",
+    "wrongChoice3": "調査は～を明らかにした"
   },
   {
     "id": 2275,
@@ -3572,7 +4942,12 @@
     "difficulty": 0.6,
     "ipa": "/ˌɪndɪˈvɪdʒuəli/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "assessed individually",
+    "phraseMeaning": "個別に評価される",
+    "wrongChoice1": "集団で評価される",
+    "wrongChoice2": "個人的に未評価のまま",
+    "wrongChoice3": "それぞれ評価される"
   },
   {
     "id": 2276,
@@ -3585,7 +4960,12 @@
     "difficulty": 0.1,
     "ipa": "/ˈɪnfluənst/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "heavily influenced by Japanese culture",
+    "phraseMeaning": "日本文化の影響を強く受けた",
+    "wrongChoice1": "日本文化の影響をまったく受けなかった",
+    "wrongChoice2": "日本文化の流感を強く受けた",
+    "wrongChoice3": "日本文化の感化を強く受けた"
   },
   {
     "id": 2277,
@@ -3598,7 +4978,12 @@
     "difficulty": 0.6,
     "ipa": "/ɪnˈhɛrɪtəns/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "received a large inheritance",
+    "phraseMeaning": "多額の遺産を受け取った",
+    "wrongChoice1": "多額の遺産を放棄した",
+    "wrongChoice2": "多額の相続人を受け取った",
+    "wrongChoice3": "多額の財産を受け取った"
   },
   {
     "id": 2278,
@@ -3611,7 +4996,12 @@
     "difficulty": 0.6,
     "ipa": "/ˈɪnəsəns/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "proved his client's innocence",
+    "phraseMeaning": "依頼人の無罪を証明した",
+    "wrongChoice1": "依頼人の有罪を証明した",
+    "wrongChoice2": "依頼人の革新を証明した",
+    "wrongChoice3": "依頼人の潔白を証明した"
   },
   {
     "id": 2279,
@@ -3624,7 +5014,12 @@
     "difficulty": 0.8,
     "ipa": "/ˈɪnəsəntli/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the child smiled innocently",
+    "phraseMeaning": "その子どもは無邪気に微笑んだ",
+    "wrongChoice1": "その子どもは悪意をもって微笑んだ",
+    "wrongChoice2": "その子どもは革新的に微笑んだ",
+    "wrongChoice3": "その子どもは天真爛漫に微笑んだ"
   },
   {
     "id": 2280,
@@ -3637,7 +5032,12 @@
     "difficulty": 0.6,
     "ipa": "/ɪnˈkwaɪəri/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "launched an inquiry into",
+    "phraseMeaning": "～の調査を開始した",
+    "wrongChoice1": "～の調査を中止した",
+    "wrongChoice2": "～の不平等を開始した",
+    "wrongChoice3": "～の捜査を開始した"
   },
   {
     "id": 2281,
@@ -3650,7 +5050,12 @@
     "difficulty": -0.1,
     "ipa": "/ˈɪnstənt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "gives you an instant boost",
+    "phraseMeaning": "即座にエネルギーを与える",
+    "wrongChoice1": "遅れてエネルギーを与える",
+    "wrongChoice2": "本能的にエネルギーを与える",
+    "wrongChoice3": "すぐにエネルギーを与える"
   },
   {
     "id": 2282,
@@ -3663,7 +5068,12 @@
     "difficulty": 0.6,
     "ipa": "/ˈɪnstɪŋkt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "animals rely on instinct",
+    "phraseMeaning": "動物は本能に頼る",
+    "wrongChoice1": "動物は理性に頼る",
+    "wrongChoice2": "動物は教育に頼る",
+    "wrongChoice3": "動物は直感に頼る"
   },
   {
     "id": 2283,
@@ -3676,7 +5086,12 @@
     "difficulty": 0.3,
     "ipa": "/ɪnˈstrʌkt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "instructed the students to",
+    "phraseMeaning": "生徒に～するよう指示した",
+    "wrongChoice1": "生徒に～しないよう指示した",
+    "wrongChoice2": "生徒に～するよう建設した",
+    "wrongChoice3": "生徒に～するよう命じた"
   },
   {
     "id": 2284,
@@ -3689,7 +5104,12 @@
     "difficulty": -0.4,
     "ipa": "/ˈɪnstrəmənt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "a beautiful musical instrument",
+    "phraseMeaning": "美しい楽器",
+    "wrongChoice1": "醜い楽器",
+    "wrongChoice2": "美しい器具",
+    "wrongChoice3": "美しい弦楽器"
   },
   {
     "id": 2285,
@@ -3702,7 +5122,12 @@
     "difficulty": 0.1,
     "ipa": "/ɪnˈʃʊrəns/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "do you have health insurance",
+    "phraseMeaning": "健康保険に入っていますか",
+    "wrongChoice1": "健康保険を解約しましたか",
+    "wrongChoice2": "健康の保証に入っていますか",
+    "wrongChoice3": "医療保険に入っていますか"
   },
   {
     "id": 2286,
@@ -3715,7 +5140,12 @@
     "difficulty": 0.8,
     "ipa": "/ɪnˈtɛlɪdʒəntli/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "answered all questions intelligently",
+    "phraseMeaning": "すべての質問に知的に答えた",
+    "wrongChoice1": "すべての質問に愚かに答えた",
+    "wrongChoice2": "すべての質問に情報的に答えた",
+    "wrongChoice3": "すべての質問に賢く答えた"
   },
   {
     "id": 2287,
@@ -3728,7 +5158,12 @@
     "difficulty": 0.3,
     "ipa": "/ɪnˈtɛns/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the heat was so intense",
+    "phraseMeaning": "暑さが非常に激しかった",
+    "wrongChoice1": "暑さが非常に穏やかだった",
+    "wrongChoice2": "暑さが非常に意図的だった",
+    "wrongChoice3": "暑さが非常に厳しかった"
   },
   {
     "id": 2288,
@@ -3741,7 +5176,12 @@
     "difficulty": 0.3,
     "ipa": "/ˌɪntərˈækt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "children learn by interacting",
+    "phraseMeaning": "子どもは交流することで学ぶ",
+    "wrongChoice1": "子どもは孤立することで学ぶ",
+    "wrongChoice2": "子どもは妨害することで学ぶ",
+    "wrongChoice3": "子どもは関わることで学ぶ"
   },
   {
     "id": 2289,
@@ -3754,7 +5194,12 @@
     "difficulty": 0.3,
     "ipa": "/ɪnˈtɜːrnəl/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "dealing with internal problems",
+    "phraseMeaning": "内部問題に対処している",
+    "wrongChoice1": "外部問題に対処している",
+    "wrongChoice2": "国際問題に対処している",
+    "wrongChoice3": "社内問題に対処している"
   },
   {
     "id": 2290,
@@ -3767,7 +5212,12 @@
     "difficulty": 0.6,
     "ipa": "/ɪnˈtɜːrprɪt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "how do you interpret this poem",
+    "phraseMeaning": "この詩をどう解釈しますか",
+    "wrongChoice1": "この詩をどう無視しますか",
+    "wrongChoice2": "この詩をどう中断しますか",
+    "wrongChoice3": "この詩をどう理解しますか"
   },
   {
     "id": 2291,
@@ -3780,7 +5230,12 @@
     "difficulty": 0.1,
     "ipa": "/ɪnˈvɛntɪŋ/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "spent years inventing a new engine",
+    "phraseMeaning": "新しいエンジンの発明に何年も費やした",
+    "wrongChoice1": "新しいエンジンの破壊に何年も費やした",
+    "wrongChoice2": "新しいエンジンの在庫に何年も費やした",
+    "wrongChoice3": "新しいエンジンの開発に何年も費やした"
   },
   {
     "id": 2292,
@@ -3793,7 +5248,12 @@
     "difficulty": 0.3,
     "ipa": "/ɪnˈvɛstɪˌɡeɪt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "investigating the cause of the fire",
+    "phraseMeaning": "火事の原因を調査している",
+    "wrongChoice1": "火事の原因を隠蔽している",
+    "wrongChoice2": "火事の原因を投資している",
+    "wrongChoice3": "火事の原因を捜査している"
   },
   {
     "id": 2293,
@@ -3806,7 +5266,12 @@
     "difficulty": 0.3,
     "ipa": "/ɪnˌvɛstɪˈɡeɪʃənz/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "investigations revealed new evidence",
+    "phraseMeaning": "調査により新しい証拠が明らかになった",
+    "wrongChoice1": "調査により新しい証拠が隠された",
+    "wrongChoice2": "投資により新しい証拠が明らかになった",
+    "wrongChoice3": "捜査により新しい証拠が明らかになった"
   },
   {
     "id": 2294,
@@ -3819,7 +5284,12 @@
     "difficulty": 0.6,
     "ipa": "/ˈɪrɪˌteɪt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "loud music can irritate neighbors",
+    "phraseMeaning": "大音量の音楽は近所の人をいらだたせる",
+    "wrongChoice1": "大音量の音楽は近所の人を喜ばせる",
+    "wrongChoice2": "大音量の音楽は近所の人を灌漑する",
+    "wrongChoice3": "大音量の音楽は近所の人を困らせる"
   },
   {
     "id": 2295,
@@ -3832,7 +5302,12 @@
     "difficulty": 0.6,
     "ipa": "/ˈɪrɪˌteɪtɪŋ/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the constant noise was irritating",
+    "phraseMeaning": "絶え間ない騒音はうっとうしかった",
+    "wrongChoice1": "絶え間ない騒音は心地よかった",
+    "wrongChoice2": "絶え間ない騒音は灌漑的だった",
+    "wrongChoice3": "絶え間ない騒音は煩わしかった"
   },
   {
     "id": 2296,
@@ -3845,7 +5320,12 @@
     "difficulty": 0.1,
     "ipa": "/dʒeɪlz/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the country's jails are overcrowded",
+    "phraseMeaning": "その国の刑務所は過密状態だ",
+    "wrongChoice1": "その国の刑務所は空いている",
+    "wrongChoice2": "その国の宝石は過密状態だ",
+    "wrongChoice3": "その国の拘置所は過密状態だ"
   },
   {
     "id": 2297,
@@ -3858,7 +5338,12 @@
     "difficulty": 0.1,
     "ipa": "/ˈdʒʌdʒɪŋ/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "judging by his expression",
+    "phraseMeaning": "彼の表情から判断すると",
+    "wrongChoice1": "彼の表情を無視すると",
+    "wrongChoice2": "彼の表情からジュースを作ると",
+    "wrongChoice3": "彼の表情から推測すると"
   },
   {
     "id": 2298,
@@ -3871,7 +5356,12 @@
     "difficulty": 0.1,
     "ipa": "/ˈdʒʌdʒmənt/",
     "examFrequency": 2,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the court will make its judgment",
+    "phraseMeaning": "裁判所は判決を下す",
+    "wrongChoice1": "裁判所は判決を取り消す",
+    "wrongChoice2": "裁判所は審判を下す",
+    "wrongChoice3": "裁判所は決定を下す"
   },
   {
     "id": 2299,
@@ -3884,7 +5374,12 @@
     "difficulty": 0.1,
     "ipa": "/ˈdʒʌstɪs/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "everyone deserves justice",
+    "phraseMeaning": "すべての人が正義を受ける資格がある",
+    "wrongChoice1": "すべての人が不正義を受ける資格がある",
+    "wrongChoice2": "すべての人がジュースを受ける資格がある",
+    "wrongChoice3": "すべての人が公正を受ける資格がある"
   },
   {
     "id": 2300,
@@ -3897,7 +5392,12 @@
     "difficulty": 0.6,
     "ipa": "/ˈlæbrəˌtɔːriz/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "modern science laboratories",
+    "phraseMeaning": "最新の科学実験室",
+    "wrongChoice1": "古い科学実験室",
+    "wrongChoice2": "最新の科学労働者",
+    "wrongChoice3": "最新の科学研究所"
   },
   {
     "id": 2301,
@@ -3910,7 +5410,12 @@
     "difficulty": -0.1,
     "ipa": "/læk/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "failed due to a lack of funding",
+    "phraseMeaning": "資金不足で失敗した",
+    "wrongChoice1": "資金過多で失敗した",
+    "wrongChoice2": "資金の湖で失敗した",
+    "wrongChoice3": "資金不足で中断した"
   },
   {
     "id": 2302,
@@ -3923,7 +5428,12 @@
     "difficulty": 0.1,
     "ipa": "/ˈlændˌskeɪp/",
     "examFrequency": 2,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the landscape of the countryside",
+    "phraseMeaning": "田園地帯の風景",
+    "wrongChoice1": "田園地帯の騒音",
+    "wrongChoice2": "田園地帯の着陸",
+    "wrongChoice3": "田園地帯の景観"
   },
   {
     "id": 2303,
@@ -3936,7 +5446,12 @@
     "difficulty": -0.1,
     "ipa": "/ˈlæftər/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the room was filled with laughter",
+    "phraseMeaning": "部屋は笑い声で満たされた",
+    "wrongChoice1": "部屋は沈黙で満たされた",
+    "wrongChoice2": "部屋は洗濯で満たされた",
+    "wrongChoice3": "部屋は歓声で満たされた"
   },
   {
     "id": 2304,
@@ -3949,7 +5464,12 @@
     "difficulty": 0.1,
     "ipa": "/lɔːntʃ/",
     "examFrequency": 2,
-    "grade": 2
+    "grade": 2,
+    "phrase": "launch a new satellite",
+    "phraseMeaning": "新しい衛星を打ち上げる",
+    "wrongChoice1": "新しい衛星を撤回する",
+    "wrongChoice2": "新しい衛星を昼食にする",
+    "wrongChoice3": "新しい衛星を発射する"
   },
   {
     "id": 2305,
@@ -3962,7 +5482,12 @@
     "difficulty": -0.4,
     "ipa": "/ˈlɛktʃər/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "gave an interesting lecture",
+    "phraseMeaning": "面白い講義をした",
+    "wrongChoice1": "退屈な講義をした",
+    "wrongChoice2": "面白い講読をした",
+    "wrongChoice3": "面白い授業をした"
   },
   {
     "id": 2306,
@@ -3975,7 +5500,12 @@
     "difficulty": 0.3,
     "ipa": "/ˈliːɡəli/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "not legally allowed to park here",
+    "phraseMeaning": "ここに駐車することは法的に許可されていない",
+    "wrongChoice1": "ここに駐車することは法的に許可されている",
+    "wrongChoice2": "ここに駐車することは同盟的に許可されていない",
+    "wrongChoice3": "ここに駐車することは公式に許可されていない"
   },
   {
     "id": 2307,
@@ -3988,7 +5518,12 @@
     "difficulty": 0.3,
     "ipa": "/ˈlɪbərti/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the Statue of Liberty",
+    "phraseMeaning": "自由の女神像",
+    "wrongChoice1": "束縛の女神像",
+    "wrongChoice2": "図書館の女神像",
+    "wrongChoice3": "解放の女神像"
   },
   {
     "id": 2308,
@@ -4001,7 +5536,12 @@
     "difficulty": -0.4,
     "ipa": "/ˈloʊkeɪtɪd/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "located near the beach",
+    "phraseMeaning": "ビーチの近くに位置する",
+    "wrongChoice1": "ビーチから遠くに位置する",
+    "wrongChoice2": "ビーチの近くに施錠する",
+    "wrongChoice3": "ビーチの近くにある"
   },
   {
     "id": 2309,
@@ -4014,7 +5554,12 @@
     "difficulty": 0.3,
     "ipa": "/ˈlɑːdʒɪkəl/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "his argument was logical",
+    "phraseMeaning": "彼の議論は論理的だった",
+    "wrongChoice1": "彼の議論は非論理的だった",
+    "wrongChoice2": "彼の議論は物流的だった",
+    "wrongChoice3": "彼の議論は合理的だった"
   },
   {
     "id": 2310,
@@ -4027,7 +5572,12 @@
     "difficulty": -0.4,
     "ipa": "/ˈlaʊdli/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "spoke loudly so everyone could hear",
+    "phraseMeaning": "皆に聞こえるように大声で話した",
+    "wrongChoice1": "誰にも聞こえないように小声で話した",
+    "wrongChoice2": "皆に聞こえるように愛情深く話した",
+    "wrongChoice3": "皆に聞こえるようにはっきり話した"
   },
   {
     "id": 2311,
@@ -4040,7 +5590,12 @@
     "difficulty": 0.3,
     "ipa": "/ˈlɔɪəlti/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "showed great loyalty to",
+    "phraseMeaning": "～に大きな忠誠を示した",
+    "wrongChoice1": "～に大きな裏切りを示した",
+    "wrongChoice2": "～に大きな王族を示した",
+    "wrongChoice3": "～に大きな献身を示した"
   },
   {
     "id": 2312,
@@ -4053,7 +5608,12 @@
     "difficulty": -0.1,
     "ipa": "/ˈlʌkɪli/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "luckily no one was injured",
+    "phraseMeaning": "幸運にも誰もけがをしなかった",
+    "wrongChoice1": "不運にも全員けがをした",
+    "wrongChoice2": "運悪くも誰もけがをしなかった",
+    "wrongChoice3": "幸いにも誰もけがをしなかった"
   },
   {
     "id": 2313,
@@ -4066,7 +5626,12 @@
     "difficulty": -0.1,
     "ipa": "/ˈlʌɡɪdʒ/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "take all your luggage with you",
+    "phraseMeaning": "すべての手荷物を持って行く",
+    "wrongChoice1": "すべての手荷物を置いて行く",
+    "wrongChoice2": "すべての言語を持って行く",
+    "wrongChoice3": "すべての荷物を持って行く"
   },
   {
     "id": 2314,
@@ -4079,7 +5644,12 @@
     "difficulty": 0.6,
     "ipa": "/ˈlʌɡʒəriz/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "could not afford luxuries",
+    "phraseMeaning": "贅沢品を買う余裕がなかった",
+    "wrongChoice1": "贅沢品を買う余裕があった",
+    "wrongChoice2": "贅沢な光を買う余裕がなかった",
+    "wrongChoice3": "高級品を買う余裕がなかった"
   },
   {
     "id": 2315,
@@ -4092,7 +5662,12 @@
     "difficulty": 0.1,
     "ipa": "/meɪnˈteɪn/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "maintain a healthy lifestyle",
+    "phraseMeaning": "健康的な生活を維持する",
+    "wrongChoice1": "健康的な生活を放棄する",
+    "wrongChoice2": "健康的な生活を主に行う",
+    "wrongChoice3": "健康的な生活を保つ"
   },
   {
     "id": 2316,
@@ -4105,7 +5680,12 @@
     "difficulty": 0.1,
     "ipa": "/meɪnˈteɪnɪŋ/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "maintaining good relationships",
+    "phraseMeaning": "良い関係を維持すること",
+    "wrongChoice1": "良い関係を断つこと",
+    "wrongChoice2": "良い関係を主として行うこと",
+    "wrongChoice3": "良い関係を保つこと"
   },
   {
     "id": 2317,
@@ -4118,7 +5698,12 @@
     "difficulty": -0.7,
     "ipa": "/ˈmeɪdʒər/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "this is a major issue",
+    "phraseMeaning": "これは主要な問題だ",
+    "wrongChoice1": "これは些細な問題だ",
+    "wrongChoice2": "これは市長の問題だ",
+    "wrongChoice3": "これは重大な問題だ"
   },
   {
     "id": 2318,
@@ -4131,7 +5716,12 @@
     "difficulty": 0.1,
     "ipa": "/məˈdʒɔːrɪti/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the majority of students passed",
+    "phraseMeaning": "大多数の学生が合格した",
+    "wrongChoice1": "少数の学生が合格した",
+    "wrongChoice2": "大佐の学生が合格した",
+    "wrongChoice3": "ほとんどの学生が合格した"
   },
   {
     "id": 2319,
@@ -4144,7 +5734,12 @@
     "difficulty": 0.1,
     "ipa": "/ˈmænjuəl/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "read the manual before operating",
+    "phraseMeaning": "操作する前にマニュアルを読む",
+    "wrongChoice1": "操作した後にマニュアルを読む",
+    "wrongChoice2": "操作する前に製造をする",
+    "wrongChoice3": "操作する前に説明書を読む"
   },
   {
     "id": 2320,
@@ -4157,7 +5752,12 @@
     "difficulty": 0.8,
     "ipa": "/ˈmænjuˌskrɪpts/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "a collection of ancient manuscripts",
+    "phraseMeaning": "古代の写本のコレクション",
+    "wrongChoice1": "現代の写本のコレクション",
+    "wrongChoice2": "古代の製造物のコレクション",
+    "wrongChoice3": "古代の文書のコレクション"
   },
   {
     "id": 2321,
@@ -4170,7 +5770,12 @@
     "difficulty": 0.3,
     "ipa": "/ˈmɑːrvələs/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the sunset was absolutely marvelous",
+    "phraseMeaning": "夕日は本当に素晴らしかった",
+    "wrongChoice1": "夕日は本当にひどかった",
+    "wrongChoice2": "夕日は本当に大理石だった",
+    "wrongChoice3": "夕日は本当に見事だった"
   },
   {
     "id": 2322,
@@ -4183,7 +5788,12 @@
     "difficulty": 0.1,
     "ipa": "/ˈmæsɪv/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "a massive earthquake struck",
+    "phraseMeaning": "大規模な地震が襲った",
+    "wrongChoice1": "小規模な地震が襲った",
+    "wrongChoice2": "集団的な地震が襲った",
+    "wrongChoice3": "巨大な地震が襲った"
   },
   {
     "id": 2323,
@@ -4196,7 +5806,12 @@
     "difficulty": 0.1,
     "ipa": "/ˈmiːnˌwaɪl/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "meanwhile you can set the table",
+    "phraseMeaning": "その間にテーブルを用意して",
+    "wrongChoice1": "その後にテーブルを用意して",
+    "wrongChoice2": "意地悪にテーブルを用意して",
+    "wrongChoice3": "一方でテーブルを用意して"
   },
   {
     "id": 2324,
@@ -4209,7 +5824,12 @@
     "difficulty": -0.1,
     "ipa": "/ˈmɛmbərʃɪp/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the gym membership costs",
+    "phraseMeaning": "ジムの会員費がかかる",
+    "wrongChoice1": "ジムの退会費がかかる",
+    "wrongChoice2": "ジムの記憶力がかかる",
+    "wrongChoice3": "ジムの入会金がかかる"
   },
   {
     "id": 2325,
@@ -4222,7 +5842,12 @@
     "difficulty": 0.3,
     "ipa": "/ˈmɛntəli/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the experience was mentally exhausting",
+    "phraseMeaning": "その経験は精神的に疲れるものだった",
+    "wrongChoice1": "その経験は精神的に活力を与えるものだった",
+    "wrongChoice2": "その経験は金属的に疲れるものだった",
+    "wrongChoice3": "その経験は精神的に消耗するものだった"
   },
   {
     "id": 2326,
@@ -4235,7 +5860,12 @@
     "difficulty": -0.4,
     "ipa": "/ˈmɛθəd/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "what method do you use",
+    "phraseMeaning": "どんな方法を使っていますか",
+    "wrongChoice1": "どんな方法も使っていません",
+    "wrongChoice2": "どんなメダルを使っていますか",
+    "wrongChoice3": "どんな手法を使っていますか"
   },
   {
     "id": 2327,
@@ -4248,7 +5878,12 @@
     "difficulty": 0.1,
     "ipa": "/ˈmɪlɪˌtɛri/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "served in the military for ten years",
+    "phraseMeaning": "10年間軍に所属していた",
+    "wrongChoice1": "10年間軍を退いていた",
+    "wrongChoice2": "10年間工場に所属していた",
+    "wrongChoice3": "10年間軍隊に所属していた"
   },
   {
     "id": 2328,
@@ -4261,7 +5896,12 @@
     "difficulty": 0.1,
     "ipa": "/ˈmɪnərəl/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "this water is rich in minerals",
+    "phraseMeaning": "この水はミネラルが豊富だ",
+    "wrongChoice1": "この水はミネラルが不足している",
+    "wrongChoice2": "この水は鉱山が豊富だ",
+    "wrongChoice3": "この水は栄養が豊富だ"
   },
   {
     "id": 2329,
@@ -4274,7 +5914,12 @@
     "difficulty": 0.1,
     "ipa": "/ˈmɪnərəlz/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "contains important vitamins and minerals",
+    "phraseMeaning": "重要なビタミンとミネラルが含まれている",
+    "wrongChoice1": "重要なビタミンとミネラルが欠けている",
+    "wrongChoice2": "重要なビタミンと鉱物が含まれている",
+    "wrongChoice3": "重要な栄養素とミネラルが含まれている"
   },
   {
     "id": 2330,
@@ -4287,7 +5932,12 @@
     "difficulty": 0.1,
     "ipa": "/ˈmɪnɪstər/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the prime minister addressed the nation",
+    "phraseMeaning": "首相が国民に演説した",
+    "wrongChoice1": "首相が国民を無視した",
+    "wrongChoice2": "主要な牧師が国民に演説した",
+    "wrongChoice3": "大臣が国民に演説した"
   },
   {
     "id": 2331,
@@ -4300,7 +5950,12 @@
     "difficulty": 0.3,
     "ipa": "/maɪˈnɔːrɪti/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "only a minority opposed",
+    "phraseMeaning": "少数派だけが反対した",
+    "wrongChoice1": "大多数が反対した",
+    "wrongChoice2": "未成年者だけが反対した",
+    "wrongChoice3": "ごく一部だけが反対した"
   },
   {
     "id": 2332,
@@ -4313,7 +5968,12 @@
     "difficulty": 0.1,
     "ipa": "/ˈmɪrəkl/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "it was a miracle that",
+    "phraseMeaning": "～は奇跡だった",
+    "wrongChoice1": "～は当然だった",
+    "wrongChoice2": "～は障害だった",
+    "wrongChoice3": "～は幸運だった"
   },
   {
     "id": 2333,
@@ -4326,7 +5986,12 @@
     "difficulty": -0.1,
     "ipa": "/ˈmɪʃən/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "completed their mission successfully",
+    "phraseMeaning": "任務を無事に完了した",
+    "wrongChoice1": "任務を失敗した",
+    "wrongChoice2": "使命を放棄した",
+    "wrongChoice3": "任務を成功裏に達成した"
   },
   {
     "id": 2334,
@@ -4339,7 +6004,12 @@
     "difficulty": 0.1,
     "ipa": "/ˈmɪkstʃər/",
     "examFrequency": 2,
-    "grade": 2
+    "grade": 2,
+    "phrase": "made from a mixture of",
+    "phraseMeaning": "～の混合物から作られる",
+    "wrongChoice1": "～の単一物から作られる",
+    "wrongChoice2": "～の謎から作られる",
+    "wrongChoice3": "～のブレンドから作られる"
   },
   {
     "id": 2335,
@@ -4352,7 +6022,12 @@
     "difficulty": -0.7,
     "ipa": "/ˈmoʊmənt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "could you wait a moment",
+    "phraseMeaning": "少々お待ちいただけますか",
+    "wrongChoice1": "すぐに来ていただけますか",
+    "wrongChoice2": "少々運動していただけますか",
+    "wrongChoice3": "少しだけお待ちいただけますか"
   },
   {
     "id": 2336,
@@ -4365,7 +6040,12 @@
     "difficulty": 0.3,
     "ipa": "/ˈmɑːnjumənt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "built a monument to honor",
+    "phraseMeaning": "～を称える記念碑を建てた",
+    "wrongChoice1": "～を侮辱する記念碑を建てた",
+    "wrongChoice2": "～を称える瞬間を建てた",
+    "wrongChoice3": "～を称える記念像を建てた"
   },
   {
     "id": 2337,
@@ -4378,7 +6058,12 @@
     "difficulty": -0.4,
     "ipa": "/ˈmɪstəri/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the disappearance remains a mystery",
+    "phraseMeaning": "失踪は謎のままだ",
+    "wrongChoice1": "失踪は解決済みだ",
+    "wrongChoice2": "失踪は省庁のままだ",
+    "wrongChoice3": "失踪は不明のままだ"
   },
   {
     "id": 2338,
@@ -4391,7 +6076,12 @@
     "difficulty": -0.7,
     "ipa": "/ˈnæʃənəl/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "a national holiday is celebrated",
+    "phraseMeaning": "国民の祝日が祝われる",
+    "wrongChoice1": "国民の祝日が廃止される",
+    "wrongChoice2": "自然の祝日が祝われる",
+    "wrongChoice3": "国の祝日が祝われる"
   },
   {
     "id": 2339,
@@ -4404,7 +6094,12 @@
     "difficulty": 0.6,
     "ipa": "/ˈnævɪˌɡeɪt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "difficult to navigate through",
+    "phraseMeaning": "～を進むのは難しい",
+    "wrongChoice1": "～を進むのは簡単だ",
+    "wrongChoice2": "～を否定するのは難しい",
+    "wrongChoice3": "～を通り抜けるのは難しい"
   },
   {
     "id": 2340,
@@ -4417,7 +6112,12 @@
     "difficulty": 0.3,
     "ipa": "/ˌnɛsɪˈsɛrɪli/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "not necessarily better",
+    "phraseMeaning": "必ずしも良いとは限らない",
+    "wrongChoice1": "必ず良い",
+    "wrongChoice2": "必要的に良いとは限らない",
+    "wrongChoice3": "必ずしも優れているとは限らない"
   },
   {
     "id": 2341,
@@ -4430,7 +6130,12 @@
     "difficulty": 0.8,
     "ipa": "/ˈniːdlɪsli/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "don't worry needlessly about",
+    "phraseMeaning": "～を不必要に心配するな",
+    "wrongChoice1": "～を必要な分だけ心配しろ",
+    "wrongChoice2": "～を針なしに心配するな",
+    "wrongChoice3": "～を無駄に心配するな"
   },
   {
     "id": 2342,
@@ -4443,7 +6148,12 @@
     "difficulty": 0.6,
     "ipa": "/nɪˈɡlɛktɪd/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the neglected garden was full of weeds",
+    "phraseMeaning": "放置された庭は雑草だらけだった",
+    "wrongChoice1": "手入れされた庭は雑草だらけだった",
+    "wrongChoice2": "交渉された庭は雑草だらけだった",
+    "wrongChoice3": "荒れた庭は雑草だらけだった"
   },
   {
     "id": 2343,
@@ -4456,7 +6166,12 @@
     "difficulty": 0.3,
     "ipa": "/nɪˈɡoʊʃiˌeɪt/",
     "examFrequency": 2,
-    "grade": 2
+    "grade": 2,
+    "phrase": "agreed to negotiate a peace deal",
+    "phraseMeaning": "和平協定を交渉することに合意した",
+    "wrongChoice1": "和平協定を拒否することに合意した",
+    "wrongChoice2": "和平協定を否定することに合意した",
+    "wrongChoice3": "和平協定を話し合うことに合意した"
   },
   {
     "id": 2344,
@@ -4469,7 +6184,12 @@
     "difficulty": 0.3,
     "ipa": "/ˈnɜːrvəsli/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "nervously waited for the interview",
+    "phraseMeaning": "緊張して面接を待った",
+    "wrongChoice1": "落ち着いて面接を待った",
+    "wrongChoice2": "神経質に面接を待った",
+    "wrongChoice3": "不安げに面接を待った"
   },
   {
     "id": 2345,
@@ -4482,7 +6202,12 @@
     "difficulty": 0.3,
     "ipa": "/ˈnuːtrəl/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "remained neutral during the war",
+    "phraseMeaning": "戦争中中立を保った",
+    "wrongChoice1": "戦争中敵対した",
+    "wrongChoice2": "戦争中中性を保った",
+    "wrongChoice3": "戦争中公平を保った"
   },
   {
     "id": 2346,
@@ -4495,7 +6220,12 @@
     "difficulty": 0.6,
     "ipa": "/ˈnoʊʃən/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "I have no notion of",
+    "phraseMeaning": "～の見当もつかない",
+    "wrongChoice1": "～を完全に理解している",
+    "wrongChoice2": "～のメモもつかない",
+    "wrongChoice3": "～の考えもつかない"
   },
   {
     "id": 2347,
@@ -4508,7 +6238,12 @@
     "difficulty": -0.1,
     "ipa": "/ˈnaʊəˌdeɪz/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "nowadays most people use smartphones",
+    "phraseMeaning": "今日ではほとんどの人がスマートフォンを使う",
+    "wrongChoice1": "昔はほとんどの人がスマートフォンを使った",
+    "wrongChoice2": "どこかでほとんどの人がスマートフォンを使う",
+    "wrongChoice3": "現代ではほとんどの人がスマートフォンを使う"
   },
   {
     "id": 2348,
@@ -4521,7 +6256,12 @@
     "difficulty": 0.6,
     "ipa": "/nuˈtrɪʃəs/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "fruits and vegetables are nutritious",
+    "phraseMeaning": "果物と野菜は栄養がある",
+    "wrongChoice1": "果物と野菜は栄養がない",
+    "wrongChoice2": "果物と野菜は有名だ",
+    "wrongChoice3": "果物と野菜は健康的だ"
   },
   {
     "id": 2349,
@@ -4534,7 +6274,12 @@
     "difficulty": 0.1,
     "ipa": "/oʊˈbeɪd/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "obeyed the commander's orders",
+    "phraseMeaning": "指揮官の命令に従った",
+    "wrongChoice1": "指揮官の命令に逆らった",
+    "wrongChoice2": "指揮官の命令に服従した",
+    "wrongChoice3": "指揮官の命令に応じた"
   },
   {
     "id": 2350,
@@ -4547,7 +6292,12 @@
     "difficulty": 0.3,
     "ipa": "/ˌɑːbzərˈveɪʃən/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "careful observation is essential",
+    "phraseMeaning": "注意深い観察は不可欠だ",
+    "wrongChoice1": "注意深い観察は不要だ",
+    "wrongChoice2": "注意深い妨害は不可欠だ",
+    "wrongChoice3": "注意深い監視は不可欠だ"
   },
   {
     "id": 2351,
@@ -4560,7 +6310,12 @@
     "difficulty": -0.1,
     "ipa": "/ˈɑːbviəsli/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "he was obviously tired",
+    "phraseMeaning": "彼は明らかに疲れていた",
+    "wrongChoice1": "彼は明らかに元気だった",
+    "wrongChoice2": "彼は忘却的に疲れていた",
+    "wrongChoice3": "彼は見るからに疲れていた"
   },
   {
     "id": 2352,
@@ -4573,7 +6328,12 @@
     "difficulty": 0.1,
     "ipa": "/əˈkeɪʒən/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "a special occasion for families",
+    "phraseMeaning": "家族にとって特別な機会",
+    "wrongChoice1": "家族にとって日常的な機会",
+    "wrongChoice2": "家族にとって特別な場所",
+    "wrongChoice3": "家族にとって特別な行事"
   },
   {
     "id": 2353,
@@ -4586,7 +6346,12 @@
     "difficulty": 0.3,
     "ipa": "/ˌɑːkjuˈpeɪʃən/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "what is your occupation",
+    "phraseMeaning": "あなたの職業は何ですか",
+    "wrongChoice1": "あなたの失業は何ですか",
+    "wrongChoice2": "あなたの占領は何ですか",
+    "wrongChoice3": "あなたの仕事は何ですか"
   },
   {
     "id": 2354,
@@ -4599,7 +6364,12 @@
     "difficulty": 0.6,
     "ipa": "/əˈfɛnd/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "didn't mean to offend anyone",
+    "phraseMeaning": "誰の気分も害するつもりはなかった",
+    "wrongChoice1": "誰の気分も良くするつもりはなかった",
+    "wrongChoice2": "誰の防御も害するつもりはなかった",
+    "wrongChoice3": "誰も怒らせるつもりはなかった"
   },
   {
     "id": 2355,
@@ -4612,7 +6382,12 @@
     "difficulty": 1.3,
     "ipa": "/ˈɔːfˌsprɪŋ/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the mother protects her offspring",
+    "phraseMeaning": "母親は子孫を守る",
+    "wrongChoice1": "母親は子孫を見捨てる",
+    "wrongChoice2": "母親は提供物を守る",
+    "wrongChoice3": "母親は子どもを守る"
   },
   {
     "id": 2356,
@@ -4625,7 +6400,12 @@
     "difficulty": -0.1,
     "ipa": "/ˈɑːpəˌreɪt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "only trained staff can operate",
+    "phraseMeaning": "訓練を受けたスタッフのみが操作できる",
+    "wrongChoice1": "未訓練のスタッフでも操作できる",
+    "wrongChoice2": "訓練を受けたスタッフのみが手術できる",
+    "wrongChoice3": "訓練を受けたスタッフのみが使用できる"
   },
   {
     "id": 2357,
@@ -4638,7 +6418,12 @@
     "difficulty": -0.1,
     "ipa": "/ˌɑːpəˈreɪʃən/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the operation was successful",
+    "phraseMeaning": "手術は成功した",
+    "wrongChoice1": "手術は失敗した",
+    "wrongChoice2": "意見は成功した",
+    "wrongChoice3": "処置は成功した"
   },
   {
     "id": 2358,
@@ -4651,7 +6436,12 @@
     "difficulty": 0.1,
     "ipa": "/ˌɑːpəˈreɪʃənz/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "military operations were suspended",
+    "phraseMeaning": "軍事作戦は中止された",
+    "wrongChoice1": "軍事作戦は開始された",
+    "wrongChoice2": "軍事意見は中止された",
+    "wrongChoice3": "軍事活動は中止された"
   },
   {
     "id": 2359,
@@ -4664,7 +6454,12 @@
     "difficulty": -0.4,
     "ipa": "/əˈpɪnjən/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "in my opinion we should wait",
+    "phraseMeaning": "私の意見ではもっと待つべきだ",
+    "wrongChoice1": "私の意見ではすぐ行動すべきだ",
+    "wrongChoice2": "私の選択ではもっと待つべきだ",
+    "wrongChoice3": "私の考えではもっと待つべきだ"
   },
   {
     "id": 2360,
@@ -4677,7 +6472,12 @@
     "difficulty": -0.1,
     "ipa": "/ˌɑːpərˈtuːnɪti/",
     "examFrequency": 2,
-    "grade": 2
+    "grade": 2,
+    "phrase": "a great opportunity for growth",
+    "phraseMeaning": "成長の絶好の機会",
+    "wrongChoice1": "成長の最悪の障害",
+    "wrongChoice2": "成長の反対の機会",
+    "wrongChoice3": "成長の素晴らしいチャンス"
   },
   {
     "id": 2361,
@@ -4690,7 +6490,12 @@
     "difficulty": -0.1,
     "ipa": "/ˌɔːrɡənɪˈzeɪʃən/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "works for a non-profit organization",
+    "phraseMeaning": "非営利団体で働いている",
+    "wrongChoice1": "営利企業で働いている",
+    "wrongChoice2": "非営利の器官で働いている",
+    "wrongChoice3": "非営利の組織で働いている"
   },
   {
     "id": 2362,
@@ -4703,7 +6508,12 @@
     "difficulty": 0.3,
     "ipa": "/ˈɔːrɪdʒɪn/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the origin of this tradition",
+    "phraseMeaning": "この伝統の起源",
+    "wrongChoice1": "この伝統の終焉",
+    "wrongChoice2": "この伝統のオリジナル",
+    "wrongChoice3": "この伝統の由来"
   },
   {
     "id": 2363,
@@ -4716,7 +6526,12 @@
     "difficulty": 0.3,
     "ipa": "/ˈaʊtˌkʌm/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the outcome of the election",
+    "phraseMeaning": "選挙の結果",
+    "wrongChoice1": "選挙の原因",
+    "wrongChoice2": "選挙の外出",
+    "wrongChoice3": "選挙の成果"
   },
   {
     "id": 2364,
@@ -4729,7 +6544,12 @@
     "difficulty": 0.3,
     "ipa": "/ˌoʊvərˈkʌm/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "managed to overcome her fear",
+    "phraseMeaning": "恐怖を克服することができた",
+    "wrongChoice1": "恐怖に屈することができた",
+    "wrongChoice2": "恐怖を超過することができた",
+    "wrongChoice3": "恐怖に打ち勝つことができた"
   },
   {
     "id": 2365,
@@ -4742,7 +6562,12 @@
     "difficulty": 0.8,
     "ipa": "/ˌoʊvərˈlæp/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the two courses overlap in content",
+    "phraseMeaning": "二つのコースは内容が重複している",
+    "wrongChoice1": "二つのコースは内容が異なっている",
+    "wrongChoice2": "二つのコースは内容を上に重ねている",
+    "wrongChoice3": "二つのコースは内容が共通している"
   },
   {
     "id": 2366,
@@ -4755,7 +6580,12 @@
     "difficulty": 0.6,
     "ipa": "/ˌoʊvərˈwɛlm/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the workload can overwhelm employees",
+    "phraseMeaning": "仕事量が社員を圧倒することがある",
+    "wrongChoice1": "仕事量が社員を活気づけることがある",
+    "wrongChoice2": "仕事量が社員を覆い尽くすことがある",
+    "wrongChoice3": "仕事量が社員を打ちのめすことがある"
   },
   {
     "id": 2367,
@@ -4768,7 +6598,12 @@
     "difficulty": -0.4,
     "ipa": "/ˈpækɪdʒ/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "received a package in the mail",
+    "phraseMeaning": "郵便で小包を受け取った",
+    "wrongChoice1": "郵便で小包を送り返した",
+    "wrongChoice2": "郵便で包装を受け取った",
+    "wrongChoice3": "郵便で荷物を受け取った"
   },
   {
     "id": 2368,
@@ -4781,7 +6616,12 @@
     "difficulty": 0.3,
     "ipa": "/ˈpælɪsɪz/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "ancient palaces attract tourists",
+    "phraseMeaning": "古代の宮殿は観光客を引きつける",
+    "wrongChoice1": "古代の宮殿は観光客を遠ざける",
+    "wrongChoice2": "古代の味覚は観光客を引きつける",
+    "wrongChoice3": "古代の城は観光客を引きつける"
   },
   {
     "id": 2369,
@@ -4794,7 +6634,12 @@
     "difficulty": -0.1,
     "ipa": "/ˈpænɪk/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the alarm caused panic among",
+    "phraseMeaning": "警報が～の間にパニックを引き起こした",
+    "wrongChoice1": "警報が～の間に安心を引き起こした",
+    "wrongChoice2": "警報が～の間にピクニックを引き起こした",
+    "wrongChoice3": "警報が～の間に混乱を引き起こした"
   },
   {
     "id": 2370,
@@ -4807,7 +6652,12 @@
     "difficulty": -0.1,
     "ipa": "/ˈpɑːrdn/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "I beg your pardon",
+    "phraseMeaning": "すみません（許しを請う）",
+    "wrongChoice1": "どういたしまして",
+    "wrongChoice2": "庭をお願いします",
+    "wrongChoice3": "失礼しました"
   },
   {
     "id": 2371,
@@ -4820,7 +6670,12 @@
     "difficulty": 0.3,
     "ipa": "/ˈpɑːrʃəli/",
     "examFrequency": 2,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the road was partially blocked",
+    "phraseMeaning": "道路は部分的にふさがれていた",
+    "wrongChoice1": "道路は完全にふさがれていた",
+    "wrongChoice2": "道路はパーティーでふさがれていた",
+    "wrongChoice3": "道路は一部ふさがれていた"
   },
   {
     "id": 2372,
@@ -4833,7 +6688,12 @@
     "difficulty": -0.4,
     "ipa": "/ˈpeɪʃənt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the doctor examined the patient",
+    "phraseMeaning": "医者は患者を診察した",
+    "wrongChoice1": "医者は患者を無視した",
+    "wrongChoice2": "医者は忍耐を診察した",
+    "wrongChoice3": "医者は病人を診察した"
   },
   {
     "id": 2373,
@@ -4846,7 +6706,12 @@
     "difficulty": 0.1,
     "ipa": "/piːld/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "peeled the potatoes for dinner",
+    "phraseMeaning": "夕食のためにジャガイモの皮をむいた",
+    "wrongChoice1": "夕食のためにジャガイモの皮を残した",
+    "wrongChoice2": "夕食のためにジャガイモを剥離した",
+    "wrongChoice3": "夕食のためにジャガイモを切った"
   },
   {
     "id": 2374,
@@ -4859,7 +6724,12 @@
     "difficulty": 0.3,
     "ipa": "/ˈpɜːrmənənt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "got a permanent position",
+    "phraseMeaning": "正社員のポジションを得た",
+    "wrongChoice1": "一時的なポジションを得た",
+    "wrongChoice2": "パーマのポジションを得た",
+    "wrongChoice3": "常勤のポジションを得た"
   },
   {
     "id": 2375,
@@ -4872,7 +6742,12 @@
     "difficulty": 0.3,
     "ipa": "/ˈpɜːrmənəntli/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the factory was permanently closed",
+    "phraseMeaning": "工場は永久に閉鎖された",
+    "wrongChoice1": "工場は一時的に閉鎖された",
+    "wrongChoice2": "工場はパーマで閉鎖された",
+    "wrongChoice3": "工場は恒久的に閉鎖された"
   },
   {
     "id": 2376,
@@ -4885,7 +6760,12 @@
     "difficulty": -0.1,
     "ipa": "/pərˈmɪʃən/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "you need permission to enter",
+    "phraseMeaning": "入るには許可が必要だ",
+    "wrongChoice1": "入るのに許可は不要だ",
+    "wrongChoice2": "入るには使命が必要だ",
+    "wrongChoice3": "入るには承認が必要だ"
   },
   {
     "id": 2377,
@@ -4898,7 +6778,12 @@
     "difficulty": 0.1,
     "ipa": "/pərˈmɪt/",
     "examFrequency": 2,
-    "grade": 2
+    "grade": 2,
+    "phrase": "smoking is not permitted inside",
+    "phraseMeaning": "建物内での喫煙は許可されていない",
+    "wrongChoice1": "建物内での喫煙は許可されている",
+    "wrongChoice2": "建物内での喫煙は持続されていない",
+    "wrongChoice3": "建物内での喫煙は禁止されている"
   },
   {
     "id": 2378,
@@ -4911,7 +6796,12 @@
     "difficulty": 0.6,
     "ipa": "/pərˈsweɪʒən/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "after much persuasion he agreed",
+    "phraseMeaning": "かなりの説得の後に同意した",
+    "wrongChoice1": "少しの説得で拒否した",
+    "wrongChoice2": "かなりの侵入の後に同意した",
+    "wrongChoice3": "長い話し合いの後に同意した"
   },
   {
     "id": 2379,
@@ -4924,7 +6814,12 @@
     "difficulty": 0.6,
     "ipa": "/fɪˈlɑːsəfər/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "a famous Greek philosopher",
+    "phraseMeaning": "有名なギリシャの哲学者",
+    "wrongChoice1": "無名なギリシャの哲学者",
+    "wrongChoice2": "有名なギリシャの写真家",
+    "wrongChoice3": "有名なギリシャの思想家"
   },
   {
     "id": 2380,
@@ -4937,7 +6832,12 @@
     "difficulty": 0.6,
     "ipa": "/fɪˈlɑːsəfi/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "studied philosophy at university",
+    "phraseMeaning": "大学で哲学を学んだ",
+    "wrongChoice1": "大学で哲学を教えた",
+    "wrongChoice2": "大学で写真を学んだ",
+    "wrongChoice3": "大学で思想を学んだ"
   },
   {
     "id": 2381,
@@ -4950,7 +6850,12 @@
     "difficulty": -0.1,
     "ipa": "/freɪz/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "translate this phrase into Japanese",
+    "phraseMeaning": "このフレーズを日本語に訳す",
+    "wrongChoice1": "このフレーズを日本語から訳す",
+    "wrongChoice2": "この段階を日本語に訳す",
+    "wrongChoice3": "この表現を日本語に訳す"
   },
   {
     "id": 2382,
@@ -4963,7 +6868,12 @@
     "difficulty": 0.6,
     "ipa": "/ˈpɑːlɪʃt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the polished floor reflected light",
+    "phraseMeaning": "磨かれた床が光を反射した",
+    "wrongChoice1": "汚れた床が光を反射した",
+    "wrongChoice2": "ポーランドの床が光を反射した",
+    "wrongChoice3": "光沢のある床が光を反射した"
   },
   {
     "id": 2383,
@@ -4976,7 +6886,12 @@
     "difficulty": -0.1,
     "ipa": "/pəˈlaɪtli/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "politely declined the invitation",
+    "phraseMeaning": "丁寧に招待を辞退した",
+    "wrongChoice1": "無礼に招待を辞退した",
+    "wrongChoice2": "政治的に招待を辞退した",
+    "wrongChoice3": "礼儀正しく招待を辞退した"
   },
   {
     "id": 2384,
@@ -4989,7 +6904,12 @@
     "difficulty": 0.1,
     "ipa": "/pəˈluːtɪd/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the river is heavily polluted",
+    "phraseMeaning": "その川はひどく汚染されている",
+    "wrongChoice1": "その川はきれいに浄化されている",
+    "wrongChoice2": "その川はひどく研磨されている",
+    "wrongChoice3": "その川はひどく汚れている"
   },
   {
     "id": 2385,
@@ -5002,7 +6922,12 @@
     "difficulty": -0.1,
     "ipa": "/pəˈluːʃən/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "air pollution is a major problem",
+    "phraseMeaning": "大気汚染は大きな問題だ",
+    "wrongChoice1": "大気浄化は大きな問題だ",
+    "wrongChoice2": "大気研磨は大きな問題だ",
+    "wrongChoice3": "大気汚染は深刻な問題だ"
   },
   {
     "id": 2386,
@@ -5015,7 +6940,12 @@
     "difficulty": 0.1,
     "ipa": "/ˈpɔːrtəbl/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "this portable speaker is perfect",
+    "phraseMeaning": "この持ち運びできるスピーカーは最適だ",
+    "wrongChoice1": "この持ち運びできないスピーカーは最適だ",
+    "wrongChoice2": "この港のスピーカーは最適だ",
+    "wrongChoice3": "この携帯用スピーカーは最適だ"
   },
   {
     "id": 2387,
@@ -5028,7 +6958,12 @@
     "difficulty": -0.9,
     "ipa": "/ˈpɑːsɪbl/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "is it possible to finish by tomorrow",
+    "phraseMeaning": "明日までに終わらせることは可能ですか",
+    "wrongChoice1": "明日までに終わらせることは不可能ですか",
+    "wrongChoice2": "明日までに磨くことは可能ですか",
+    "wrongChoice3": "明日までに終わらせられますか"
   },
   {
     "id": 2388,
@@ -5041,7 +6976,12 @@
     "difficulty": 0.3,
     "ipa": "/poʊstˈpoʊnd/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the game was postponed due to rain",
+    "phraseMeaning": "試合は雨のため延期された",
+    "wrongChoice1": "試合は雨のため前倒しされた",
+    "wrongChoice2": "試合は雨のため郵便にされた",
+    "wrongChoice3": "試合は雨のため中止された"
   },
   {
     "id": 2389,
@@ -5054,7 +6994,12 @@
     "difficulty": -0.4,
     "ipa": "/pɔːr/",
     "examFrequency": 2,
-    "grade": 2
+    "grade": 2,
+    "phrase": "pour me a glass of water",
+    "phraseMeaning": "水を一杯注いでください",
+    "wrongChoice1": "水を一杯こぼしてください",
+    "wrongChoice2": "水を一杯貧しくしてください",
+    "wrongChoice3": "水を一杯入れてください"
   },
   {
     "id": 2390,
@@ -5067,7 +7012,12 @@
     "difficulty": 0.3,
     "ipa": "/ˈpɑːvərti/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "many children live in poverty",
+    "phraseMeaning": "多くの子どもが貧困の中で暮らしている",
+    "wrongChoice1": "多くの子どもが裕福の中で暮らしている",
+    "wrongChoice2": "多くの子どもが陶器の中で暮らしている",
+    "wrongChoice3": "多くの子どもが困窮の中で暮らしている"
   },
   {
     "id": 2391,
@@ -5080,7 +7030,12 @@
     "difficulty": 0.1,
     "ipa": "/preɪz/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "praised the student for hard work",
+    "phraseMeaning": "努力を称賛した",
+    "wrongChoice1": "努力を批判した",
+    "wrongChoice2": "努力を昇給した",
+    "wrongChoice3": "努力を褒めた"
   },
   {
     "id": 2392,
@@ -5093,7 +7048,12 @@
     "difficulty": 0.6,
     "ipa": "/prɪˈsaɪs/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the measurements must be precise",
+    "phraseMeaning": "測定は正確でなければならない",
+    "wrongChoice1": "測定は大雑把でよい",
+    "wrongChoice2": "測定は貴重でなければならない",
+    "wrongChoice3": "測定は精密でなければならない"
   },
   {
     "id": 2393,
@@ -5106,7 +7066,12 @@
     "difficulty": 0.3,
     "ipa": "/prɪˈzɜːrv/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "preserve our cultural heritage",
+    "phraseMeaning": "文化遺産を保存する",
+    "wrongChoice1": "文化遺産を破壊する",
+    "wrongChoice2": "文化遺産を大統領にする",
+    "wrongChoice3": "文化遺産を保護する"
   },
   {
     "id": 2394,
@@ -5119,7 +7084,12 @@
     "difficulty": -0.7,
     "ipa": "/ˈprɛzɪdənt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the president gave a speech",
+    "phraseMeaning": "大統領がスピーチをした",
+    "wrongChoice1": "大統領がスピーチを拒否した",
+    "wrongChoice2": "先例がスピーチをした",
+    "wrongChoice3": "首相がスピーチをした"
   },
   {
     "id": 2395,
@@ -5132,7 +7102,12 @@
     "difficulty": 0.1,
     "ipa": "/prɪˈtɛndɪŋ/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "stop pretending you don't know",
+    "phraseMeaning": "知らないふりをするのはやめなさい",
+    "wrongChoice1": "知らないふりを続けなさい",
+    "wrongChoice2": "知らない見せかけをするのはやめなさい",
+    "wrongChoice3": "知らないふりをやめなさい"
   },
   {
     "id": 2396,
@@ -5145,7 +7120,12 @@
     "difficulty": -0.1,
     "ipa": "/prɪˈvɛnt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "seatbelts can prevent serious injuries",
+    "phraseMeaning": "シートベルトは重傷を防ぐことができる",
+    "wrongChoice1": "シートベルトは重傷を引き起こすことができる",
+    "wrongChoice2": "シートベルトは重傷を発明することができる",
+    "wrongChoice3": "シートベルトは重傷を避けることができる"
   },
   {
     "id": 2397,
@@ -5158,7 +7138,12 @@
     "difficulty": -0.1,
     "ipa": "/ˈpriːviəs/",
     "examFrequency": 2,
-    "grade": 2
+    "grade": 2,
+    "phrase": "more experience than the previous employee",
+    "phraseMeaning": "前任者より経験が豊富だ",
+    "wrongChoice1": "前任者より経験が乏しい",
+    "wrongChoice2": "前任者より予防が豊富だ",
+    "wrongChoice3": "前任者より経験が多い"
   },
   {
     "id": 2398,
@@ -5171,7 +7156,12 @@
     "difficulty": -0.1,
     "ipa": "/ˈpraɪˌmɛri/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the primary goal is safety",
+    "phraseMeaning": "主要な目標は安全性だ",
+    "wrongChoice1": "副次的な目標は安全性だ",
+    "wrongChoice2": "霊長類の目標は安全性だ",
+    "wrongChoice3": "第一の目標は安全性だ"
   },
   {
     "id": 2399,
@@ -5184,7 +7174,12 @@
     "difficulty": 0.3,
     "ipa": "/ˈprɪnsɪplz/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "always follows his principles",
+    "phraseMeaning": "常に自分の原則に従う",
+    "wrongChoice1": "常に自分の原則に反する",
+    "wrongChoice2": "常に自分の校長に従う",
+    "wrongChoice3": "常に自分の信念に従う"
   },
   {
     "id": 2400,
@@ -5197,7 +7192,12 @@
     "difficulty": 0.1,
     "ipa": "/ˈpraɪvəsi/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "everyone has the right to privacy",
+    "phraseMeaning": "すべての人にプライバシーの権利がある",
+    "wrongChoice1": "すべての人にプライバシーの権利がない",
+    "wrongChoice2": "すべての人に私的な権利がある",
+    "wrongChoice3": "すべての人に個人情報保護の権利がある"
   },
   {
     "id": 2401,
@@ -5210,7 +7210,12 @@
     "difficulty": -0.7,
     "ipa": "/ˈprɑːbəbli/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "he will probably arrive late",
+    "phraseMeaning": "彼はおそらく遅く到着する",
+    "wrongChoice1": "彼は絶対に遅く到着しない",
+    "wrongChoice2": "彼は問題的に遅く到着する",
+    "wrongChoice3": "彼はたぶん遅く到着する"
   },
   {
     "id": 2402,
@@ -5223,7 +7228,12 @@
     "difficulty": 0.6,
     "ipa": "/prəˈsiːdɪd/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "proceeded with her presentation",
+    "phraseMeaning": "プレゼンを続けた",
+    "wrongChoice1": "プレゼンを中断した",
+    "wrongChoice2": "プレゼンを処理した",
+    "wrongChoice3": "プレゼンを進めた"
   },
   {
     "id": 2403,
@@ -5236,7 +7246,12 @@
     "difficulty": -0.4,
     "ipa": "/ˈprɑːmɪst/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "promised to help with homework",
+    "phraseMeaning": "宿題を手伝うと約束した",
+    "wrongChoice1": "宿題を手伝わないと約束した",
+    "wrongChoice2": "宿題を促進すると約束した",
+    "wrongChoice3": "宿題を手伝うと誓った"
   },
   {
     "id": 2404,
@@ -5249,7 +7264,12 @@
     "difficulty": 0.1,
     "ipa": "/prəˈmoʊt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "promote healthy eating habits",
+    "phraseMeaning": "健康的な食習慣を促進する",
+    "wrongChoice1": "健康的な食習慣を妨害する",
+    "wrongChoice2": "健康的な食習慣を約束する",
+    "wrongChoice3": "健康的な食習慣を推進する"
   },
   {
     "id": 2405,
@@ -5262,7 +7282,12 @@
     "difficulty": 0.1,
     "ipa": "/prəˈmoʊtɪd/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "was promoted to manager",
+    "phraseMeaning": "マネージャーに昇進した",
+    "wrongChoice1": "マネージャーから降格した",
+    "wrongChoice2": "マネージャーに約束した",
+    "wrongChoice3": "マネージャーに任命された"
   },
   {
     "id": 2406,
@@ -5275,7 +7300,12 @@
     "difficulty": 0.1,
     "ipa": "/ˈprɑːpərti/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "they own several properties",
+    "phraseMeaning": "彼らはいくつかの不動産を所有している",
+    "wrongChoice1": "彼らはいくつかの不動産を失った",
+    "wrongChoice2": "彼らはいくつかの適切さを所有している",
+    "wrongChoice3": "彼らはいくつかの物件を所有している"
   },
   {
     "id": 2407,
@@ -5288,7 +7318,12 @@
     "difficulty": 0.6,
     "ipa": "/prəˈpɔːrʃən/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "a large proportion of the budget",
+    "phraseMeaning": "予算の大きな割合",
+    "wrongChoice1": "予算の小さな割合",
+    "wrongChoice2": "予算の大きな提案",
+    "wrongChoice3": "予算の大きな部分"
   },
   {
     "id": 2408,
@@ -5301,7 +7336,12 @@
     "difficulty": 0.3,
     "ipa": "/prəˈpoʊzɪŋ/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "proposing a new plan",
+    "phraseMeaning": "新しい計画を提案している",
+    "wrongChoice1": "新しい計画を撤回している",
+    "wrongChoice2": "新しい計画をプロポーズしている",
+    "wrongChoice3": "新しい計画を考案している"
   },
   {
     "id": 2409,
@@ -5314,7 +7354,12 @@
     "difficulty": 0.1,
     "ipa": "/ˈproʊtɛst/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "joined the protest against",
+    "phraseMeaning": "～に対する抗議に参加した",
+    "wrongChoice1": "～に対する抗議を無視した",
+    "wrongChoice2": "～に対する保護に参加した",
+    "wrongChoice3": "～に対するデモに参加した"
   },
   {
     "id": 2410,
@@ -5327,7 +7372,12 @@
     "difficulty": -0.1,
     "ipa": "/pruːvd/",
     "examFrequency": 2,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the experiment proved the theory",
+    "phraseMeaning": "実験は理論が正しいと証明した",
+    "wrongChoice1": "実験は理論が間違いだと証明した",
+    "wrongChoice2": "実験は理論が改善されたと証明した",
+    "wrongChoice3": "実験は理論の正しさを示した"
   },
   {
     "id": 2411,
@@ -5340,7 +7390,12 @@
     "difficulty": 0.8,
     "ipa": "/ˈprɑːvɜːrb/",
     "examFrequency": 2,
-    "grade": 2
+    "grade": 2,
+    "phrase": "an old proverb that says",
+    "phraseMeaning": "～ということわざがある",
+    "wrongChoice1": "～ということわざはない",
+    "wrongChoice2": "～という動詞がある",
+    "wrongChoice3": "～という格言がある"
   },
   {
     "id": 2412,
@@ -5353,7 +7408,12 @@
     "difficulty": 0.6,
     "ipa": "/saɪˈkɑːlədʒi/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "majoring in psychology",
+    "phraseMeaning": "心理学を専攻している",
+    "wrongChoice1": "心理学を中退している",
+    "wrongChoice2": "物理学を専攻している",
+    "wrongChoice3": "心理学を勉強している"
   },
   {
     "id": 2413,
@@ -5366,7 +7426,12 @@
     "difficulty": -0.1,
     "ipa": "/ˈpʌnɪʃ/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "should not punish children harshly",
+    "phraseMeaning": "子どもを厳しく罰すべきではない",
+    "wrongChoice1": "子どもを厳しく罰すべきだ",
+    "wrongChoice2": "子どもを厳しくパンチすべきではない",
+    "wrongChoice3": "子どもを厳しく叱るべきではない"
   },
   {
     "id": 2414,
@@ -5379,7 +7444,12 @@
     "difficulty": -0.1,
     "ipa": "/ˈpʌnɪʃt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "punished for cheating",
+    "phraseMeaning": "不正行為で罰せられた",
+    "wrongChoice1": "不正行為で褒められた",
+    "wrongChoice2": "不正行為でパンチされた",
+    "wrongChoice3": "不正行為で処分された"
   },
   {
     "id": 2415,
@@ -5392,7 +7462,12 @@
     "difficulty": 0.1,
     "ipa": "/ˈpʌnɪʃmənt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the punishment for the crime",
+    "phraseMeaning": "その犯罪に対する刑罰",
+    "wrongChoice1": "その犯罪に対する報酬",
+    "wrongChoice2": "その犯罪に対するパンチ",
+    "wrongChoice3": "その犯罪に対する処罰"
   },
   {
     "id": 2416,
@@ -5405,7 +7480,12 @@
     "difficulty": -0.4,
     "ipa": "/ˈpʌzlz/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "enjoys solving crossword puzzles",
+    "phraseMeaning": "クロスワードパズルを解くのが好きだ",
+    "wrongChoice1": "クロスワードパズルを解くのが嫌いだ",
+    "wrongChoice2": "クロスワードの困惑を解くのが好きだ",
+    "wrongChoice3": "クロスワードパズルを楽しんでいる"
   },
   {
     "id": 2417,
@@ -5418,7 +7498,12 @@
     "difficulty": 0.3,
     "ipa": "/ˈkwɑːlɪfaɪd/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "only qualified candidates",
+    "phraseMeaning": "資格のある候補者のみ",
+    "wrongChoice1": "資格のない候補者のみ",
+    "wrongChoice2": "品質のある候補者のみ",
+    "wrongChoice3": "適任の候補者のみ"
   },
   {
     "id": 2418,
@@ -5431,7 +7516,12 @@
     "difficulty": 0.1,
     "ipa": "/ˈkwɑːntɪti/",
     "examFrequency": 2,
-    "grade": 2
+    "grade": 2,
+    "phrase": "a large quantity of paper",
+    "phraseMeaning": "大量の紙",
+    "wrongChoice1": "少量の紙",
+    "wrongChoice2": "大質の紙",
+    "wrongChoice3": "たくさんの紙"
   },
   {
     "id": 2419,
@@ -5444,7 +7534,12 @@
     "difficulty": 0.6,
     "ipa": "/reɪdʒ/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "filled with rage when he heard",
+    "phraseMeaning": "聞いて激怒した",
+    "wrongChoice1": "聞いて落ち着いた",
+    "wrongChoice2": "聞いて年齢を感じた",
+    "wrongChoice3": "聞いて憤慨した"
   },
   {
     "id": 2420,
@@ -5457,7 +7552,12 @@
     "difficulty": -0.1,
     "ipa": "/riˈækt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "how did she react to the news",
+    "phraseMeaning": "彼女はその知らせにどう反応したか",
+    "wrongChoice1": "彼女はその知らせを無視したか",
+    "wrongChoice2": "彼女はその知らせにどう再演したか",
+    "wrongChoice3": "彼女はその知らせにどう対応したか"
   },
   {
     "id": 2421,
@@ -5470,7 +7570,12 @@
     "difficulty": -0.4,
     "ipa": "/ˈriːsənt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "several recent changes to the law",
+    "phraseMeaning": "法律へのいくつかの最近の変更",
+    "wrongChoice1": "法律へのいくつかの古い変更",
+    "wrongChoice2": "法律へのいくつかの不在の変更",
+    "wrongChoice3": "法律へのいくつかの近年の変更"
   },
   {
     "id": 2422,
@@ -5483,7 +7588,12 @@
     "difficulty": 0.6,
     "ipa": "/ˌrɛkəɡˈnɪʃən/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "received recognition for outstanding work",
+    "phraseMeaning": "優れた仕事で表彰を受けた",
+    "wrongChoice1": "優れた仕事で批判を受けた",
+    "wrongChoice2": "優れた仕事で偵察を受けた",
+    "wrongChoice3": "優れた仕事で評価を受けた"
   },
   {
     "id": 2423,
@@ -5496,7 +7606,12 @@
     "difficulty": -0.1,
     "ipa": "/rɪˈkʌvər/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "took months to recover from surgery",
+    "phraseMeaning": "手術から回復するのに数ヶ月かかった",
+    "wrongChoice1": "手術から悪化するのに数ヶ月かかった",
+    "wrongChoice2": "手術から覆うのに数ヶ月かかった",
+    "wrongChoice3": "手術から立ち直るのに数ヶ月かかった"
   },
   {
     "id": 2424,
@@ -5509,7 +7624,12 @@
     "difficulty": -0.1,
     "ipa": "/rɪˈkʌvərd/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "fully recovered from his illness",
+    "phraseMeaning": "病気から完全に回復した",
+    "wrongChoice1": "病気から完全に悪化した",
+    "wrongChoice2": "病気から完全に覆った",
+    "wrongChoice3": "病気から完全に治った"
   },
   {
     "id": 2425,
@@ -5522,7 +7642,12 @@
     "difficulty": -0.4,
     "ipa": "/rɪˈduːs/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "need to reduce energy consumption",
+    "phraseMeaning": "エネルギー消費を減らす必要がある",
+    "wrongChoice1": "エネルギー消費を増やす必要がある",
+    "wrongChoice2": "エネルギー消費を再利用する必要がある",
+    "wrongChoice3": "エネルギー消費を削減する必要がある"
   },
   {
     "id": 2426,
@@ -5535,7 +7660,12 @@
     "difficulty": 0.1,
     "ipa": "/rɪˈflɛkt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the lake reflected the mountains",
+    "phraseMeaning": "湖は山々を映し出した",
+    "wrongChoice1": "湖は山々を隠した",
+    "wrongChoice2": "湖は山々を屈折させた",
+    "wrongChoice3": "湖は山々を反射した"
   },
   {
     "id": 2427,
@@ -5548,7 +7678,12 @@
     "difficulty": 0.1,
     "ipa": "/rɪˈflɛktɪd/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "her success reflected years of effort",
+    "phraseMeaning": "彼女の成功は何年もの努力を反映した",
+    "wrongChoice1": "彼女の成功は何年もの努力と無関係だった",
+    "wrongChoice2": "彼女の成功は何年もの努力を反射した",
+    "wrongChoice3": "彼女の成功は何年もの努力を示した"
   },
   {
     "id": 2428,
@@ -5561,7 +7696,12 @@
     "difficulty": 0.3,
     "ipa": "/rɪˈfʌndɪd/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the company refunded the full amount",
+    "phraseMeaning": "会社は全額を返金した",
+    "wrongChoice1": "会社は全額を請求した",
+    "wrongChoice2": "会社は全額を拒否した",
+    "wrongChoice3": "会社は全額を払い戻した"
   },
   {
     "id": 2429,
@@ -5574,7 +7714,12 @@
     "difficulty": 0.8,
     "ipa": "/ˈriːdʒənəli/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "only available regionally",
+    "phraseMeaning": "地域限定で販売されている",
+    "wrongChoice1": "全国で販売されている",
+    "wrongChoice2": "登録的に販売されている",
+    "wrongChoice3": "地方限定で販売されている"
   },
   {
     "id": 2430,
@@ -5587,7 +7732,12 @@
     "difficulty": -0.1,
     "ipa": "/ˈrɛdʒɪstər/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "please register for the course",
+    "phraseMeaning": "講座に登録してください",
+    "wrongChoice1": "講座から退会してください",
+    "wrongChoice2": "講座にレジを打ってください",
+    "wrongChoice3": "講座に申し込んでください"
   },
   {
     "id": 2431,
@@ -5600,7 +7750,12 @@
     "difficulty": -0.1,
     "ipa": "/ˈrɛdʒɪstərd/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "only registered members can access",
+    "phraseMeaning": "登録されたメンバーのみがアクセスできる",
+    "wrongChoice1": "未登録のメンバーもアクセスできる",
+    "wrongChoice2": "記録されたメンバーのみがアクセスできる",
+    "wrongChoice3": "認定されたメンバーのみがアクセスできる"
   },
   {
     "id": 2432,
@@ -5613,7 +7768,12 @@
     "difficulty": 0.3,
     "ipa": "/rɪˈɡrɛtɪd/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "regretted not studying harder",
+    "phraseMeaning": "もっと勉強しなかったことを後悔した",
+    "wrongChoice1": "もっと勉強したことを後悔した",
+    "wrongChoice2": "もっと勉強しなかったことを規制した",
+    "wrongChoice3": "もっと勉強しなかったことを悔やんだ"
   },
   {
     "id": 2433,
@@ -5626,7 +7786,12 @@
     "difficulty": 0.6,
     "ipa": "/ˈrɛɡjuˌleɪt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the government needs to regulate",
+    "phraseMeaning": "政府は～を規制する必要がある",
+    "wrongChoice1": "政府は～を放任する必要がある",
+    "wrongChoice2": "政府は～を後悔する必要がある",
+    "wrongChoice3": "政府は～を管理する必要がある"
   },
   {
     "id": 2434,
@@ -5639,7 +7804,12 @@
     "difficulty": 0.6,
     "ipa": "/rɪˈdʒɛkʃən/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "faced rejection from universities",
+    "phraseMeaning": "大学から不合格を受けた",
+    "wrongChoice1": "大学から合格を受けた",
+    "wrongChoice2": "大学から注入を受けた",
+    "wrongChoice3": "大学から拒否を受けた"
   },
   {
     "id": 2435,
@@ -5652,7 +7822,12 @@
     "difficulty": 0.1,
     "ipa": "/rɪˈlɪdʒən/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "freedom of religion is a right",
+    "phraseMeaning": "信教の自由は権利だ",
+    "wrongChoice1": "信教の自由は義務だ",
+    "wrongChoice2": "地域の自由は権利だ",
+    "wrongChoice3": "宗教の自由は権利だ"
   },
   {
     "id": 2436,
@@ -5665,7 +7840,12 @@
     "difficulty": -0.1,
     "ipa": "/rɪˈmeɪn/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "please remain seated",
+    "phraseMeaning": "着席したままでいてください",
+    "wrongChoice1": "すぐに立ち上がってください",
+    "wrongChoice2": "名前を変えたままでいてください",
+    "wrongChoice3": "座ったままでいてください"
   },
   {
     "id": 2437,
@@ -5678,7 +7858,12 @@
     "difficulty": 0.3,
     "ipa": "/rɪˈmɑːrkəbl/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "made remarkable progress this year",
+    "phraseMeaning": "今年目覚ましい進歩を遂げた",
+    "wrongChoice1": "今年わずかな進歩しか遂げなかった",
+    "wrongChoice2": "今年注目のマーケットを遂げた",
+    "wrongChoice3": "今年著しい進歩を遂げた"
   },
   {
     "id": 2438,
@@ -5691,7 +7876,12 @@
     "difficulty": 0.6,
     "ipa": "/rɪˈmɑːrkəbli/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "recovered remarkably quickly",
+    "phraseMeaning": "驚くほど早く回復した",
+    "wrongChoice1": "驚くほど遅く回復した",
+    "wrongChoice2": "注目すべきほど早く回復した",
+    "wrongChoice3": "非常に早く回復した"
   },
   {
     "id": 2439,
@@ -5704,7 +7894,12 @@
     "difficulty": -0.4,
     "ipa": "/rɪˈmaɪnd/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "please remind me to call",
+    "phraseMeaning": "電話するのを思い出させてください",
+    "wrongChoice1": "電話するのを忘れさせてください",
+    "wrongChoice2": "電話するのを精神を込めてください",
+    "wrongChoice3": "電話するのを忘れないようにしてください"
   },
   {
     "id": 2440,
@@ -5717,7 +7912,12 @@
     "difficulty": -0.4,
     "ipa": "/rɪˈmaɪndɪd/",
     "examFrequency": 2,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the photo reminded her of childhood",
+    "phraseMeaning": "写真は彼女に子ども時代を思い出させた",
+    "wrongChoice1": "写真は彼女に子ども時代を忘れさせた",
+    "wrongChoice2": "写真は彼女に子ども時代を残した",
+    "wrongChoice3": "写真は彼女に子ども時代を想起させた"
   },
   {
     "id": 2441,
@@ -5730,7 +7930,12 @@
     "difficulty": -0.1,
     "ipa": "/rɪˈmuːvd/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the old furniture was removed",
+    "phraseMeaning": "古い家具は取り除かれた",
+    "wrongChoice1": "古い家具は追加された",
+    "wrongChoice2": "古い家具は引っ越された",
+    "wrongChoice3": "古い家具は撤去された"
   },
   {
     "id": 2442,
@@ -5743,7 +7948,12 @@
     "difficulty": -0.1,
     "ipa": "/rɪˈpleɪs/",
     "examFrequency": 2,
-    "grade": 2
+    "grade": 2,
+    "phrase": "need to replace the broken window",
+    "phraseMeaning": "壊れた窓を取り替える必要がある",
+    "wrongChoice1": "壊れた窓をそのままにする必要がある",
+    "wrongChoice2": "壊れた窓を再生する必要がある",
+    "wrongChoice3": "壊れた窓を交換する必要がある"
   },
   {
     "id": 2443,
@@ -5756,7 +7966,12 @@
     "difficulty": 0.1,
     "ipa": "/ˌrɛprɪˈzɛnt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the flag represents the nation",
+    "phraseMeaning": "旗は国を代表する",
+    "wrongChoice1": "旗は国を裏切る",
+    "wrongChoice2": "旗は国を再現する",
+    "wrongChoice3": "旗は国を象徴する"
   },
   {
     "id": 2444,
@@ -5769,7 +7984,12 @@
     "difficulty": 0.3,
     "ipa": "/ˌrɛprɪˈzɛntətɪv/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "elected a representative for council",
+    "phraseMeaning": "議会の代表者を選出した",
+    "wrongChoice1": "議会の代表者を解任した",
+    "wrongChoice2": "議会の再現者を選出した",
+    "wrongChoice3": "議会の代理人を選出した"
   },
   {
     "id": 2445,
@@ -5782,7 +8002,12 @@
     "difficulty": 0.6,
     "ipa": "/ˌriːprəˈduːs/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "these animals reproduce rapidly",
+    "phraseMeaning": "これらの動物は急速に繁殖する",
+    "wrongChoice1": "これらの動物は急速に絶滅する",
+    "wrongChoice2": "これらの動物は急速に再生産する",
+    "wrongChoice3": "これらの動物は急速に増殖する"
   },
   {
     "id": 2446,
@@ -5795,7 +8020,12 @@
     "difficulty": 0.3,
     "ipa": "/ˌrɛpjuˈteɪʃən/",
     "examFrequency": 2,
-    "grade": 2
+    "grade": 2,
+    "phrase": "has an excellent reputation",
+    "phraseMeaning": "優れた評判がある",
+    "wrongChoice1": "悪い評判がある",
+    "wrongChoice2": "優れた繰り返しがある",
+    "wrongChoice3": "優れた名声がある"
   },
   {
     "id": 2447,
@@ -5808,7 +8038,12 @@
     "difficulty": -0.1,
     "ipa": "/rɪˈkwɛsts/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "received many requests for information",
+    "phraseMeaning": "多くの情報提供の依頼を受けた",
+    "wrongChoice1": "多くの情報提供の依頼を拒否した",
+    "wrongChoice2": "多くの情報提供の要求を受けた",
+    "wrongChoice3": "多くの情報提供の問い合わせを受けた"
   },
   {
     "id": 2448,
@@ -5821,7 +8056,12 @@
     "difficulty": 0.1,
     "ipa": "/rɪˈkwaɪərmənt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "a degree is a requirement for",
+    "phraseMeaning": "学位は～の必要条件だ",
+    "wrongChoice1": "学位は～の不要条件だ",
+    "wrongChoice2": "学位は～の引退だ",
+    "wrongChoice3": "学位は～の前提条件だ"
   },
   {
     "id": 2449,
@@ -5834,7 +8074,12 @@
     "difficulty": 0.1,
     "ipa": "/ˈrɛskjuːɪŋ/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "rescuing survivors from the earthquake",
+    "phraseMeaning": "地震の生存者を救助している",
+    "wrongChoice1": "地震の生存者を見捨てている",
+    "wrongChoice2": "地震の生存者を再キューしている",
+    "wrongChoice3": "地震の生存者を助けている"
   },
   {
     "id": 2450,
@@ -5847,7 +8092,12 @@
     "difficulty": 1.1,
     "ipa": "/rɪˈzɛntfəli/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "looked at him resentfully",
+    "phraseMeaning": "彼を恨めしそうに見た",
+    "wrongChoice1": "彼を好意的に見た",
+    "wrongChoice2": "彼を敬意をもって見た",
+    "wrongChoice3": "彼を憤りをもって見た"
   },
   {
     "id": 2451,
@@ -5860,7 +8110,12 @@
     "difficulty": -0.1,
     "ipa": "/ˌrɛzərˈveɪʃən/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "made a reservation at the restaurant",
+    "phraseMeaning": "レストランの予約をした",
+    "wrongChoice1": "レストランの予約を取り消した",
+    "wrongChoice2": "レストランの保護区をした",
+    "wrongChoice3": "レストランの予約を入れた"
   },
   {
     "id": 2452,
@@ -5873,7 +8128,12 @@
     "difficulty": 0.6,
     "ipa": "/rɪˈzaɪn/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "decided to resign from his position",
+    "phraseMeaning": "その職を辞任することを決めた",
+    "wrongChoice1": "その職に就くことを決めた",
+    "wrongChoice2": "その職を再署名することを決めた",
+    "wrongChoice3": "その職を辞職することを決めた"
   },
   {
     "id": 2453,
@@ -5886,7 +8146,12 @@
     "difficulty": 0.6,
     "ipa": "/rɪˈzɑːlv/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "must resolve this issue before",
+    "phraseMeaning": "～までにこの問題を解決しなければならない",
+    "wrongChoice1": "～までにこの問題を放置しなければならない",
+    "wrongChoice2": "～までにこの問題を決意しなければならない",
+    "wrongChoice3": "～までにこの問題を片付けなければならない"
   },
   {
     "id": 2454,
@@ -5899,7 +8164,12 @@
     "difficulty": 0.1,
     "ipa": "/rɪˈzɔːrt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "stayed at a beach resort",
+    "phraseMeaning": "ビーチリゾートに滞在した",
+    "wrongChoice1": "ビーチリゾートを避けた",
+    "wrongChoice2": "ビーチの手段に滞在した",
+    "wrongChoice3": "ビーチの宿泊施設に滞在した"
   },
   {
     "id": 2455,
@@ -5912,7 +8182,12 @@
     "difficulty": 0.1,
     "ipa": "/ˈriːsɔːrs/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "water is a precious natural resource",
+    "phraseMeaning": "水は貴重な天然資源だ",
+    "wrongChoice1": "水は無価値な天然資源だ",
+    "wrongChoice2": "水は貴重な天然リゾートだ",
+    "wrongChoice3": "水は貴重な天然の財産だ"
   },
   {
     "id": 2456,
@@ -5925,7 +8200,12 @@
     "difficulty": -0.4,
     "ipa": "/rɪˈspɛkt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "show respect for our elders",
+    "phraseMeaning": "年長者に敬意を示す",
+    "wrongChoice1": "年長者に無礼を示す",
+    "wrongChoice2": "年長者に再検査を示す",
+    "wrongChoice3": "年長者に尊敬を示す"
   },
   {
     "id": 2457,
@@ -5938,7 +8218,12 @@
     "difficulty": 0.8,
     "ipa": "/rɪˈspɛktəbli/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "dressed respectably for the interview",
+    "phraseMeaning": "面接のためにきちんとした服装をした",
+    "wrongChoice1": "面接のためにだらしない服装をした",
+    "wrongChoice2": "面接のためにそれぞれ服装をした",
+    "wrongChoice3": "面接のために立派な服装をした"
   },
   {
     "id": 2458,
@@ -5951,7 +8236,12 @@
     "difficulty": -0.1,
     "ipa": "/rɪˈspɑːnd/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "did not respond to my email",
+    "phraseMeaning": "私のメールに返答しなかった",
+    "wrongChoice1": "私のメールにすぐ返答した",
+    "wrongChoice2": "私のメールに対応しなかった",
+    "wrongChoice3": "私のメールに回答しなかった"
   },
   {
     "id": 2459,
@@ -5964,7 +8254,12 @@
     "difficulty": 0.6,
     "ipa": "/rɪˈstrɪkt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the law restricts the sale of",
+    "phraseMeaning": "法律は～の販売を制限している",
+    "wrongChoice1": "法律は～の販売を許可している",
+    "wrongChoice2": "法律は～の販売を再構築している",
+    "wrongChoice3": "法律は～の販売を禁止している"
   },
   {
     "id": 2460,
@@ -5977,7 +8272,12 @@
     "difficulty": -0.1,
     "ipa": "/rɪˈtaɪər/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "plans to retire at age 65",
+    "phraseMeaning": "65歳で引退する予定だ",
+    "wrongChoice1": "65歳で就職する予定だ",
+    "wrongChoice2": "65歳でタイヤを替える予定だ",
+    "wrongChoice3": "65歳で退職する予定だ"
   },
   {
     "id": 2461,
@@ -5990,7 +8290,12 @@
     "difficulty": 0.3,
     "ipa": "/rɪˈvɜːrs/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "can you reverse the car",
+    "phraseMeaning": "車をバックさせてもらえますか",
+    "wrongChoice1": "車を前進させてもらえますか",
+    "wrongChoice2": "車をリハーサルしてもらえますか",
+    "wrongChoice3": "車を後退させてもらえますか"
   },
   {
     "id": 2462,
@@ -6003,7 +8308,12 @@
     "difficulty": 0.3,
     "ipa": "/rɪˈvɜːrst/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the court reversed the decision",
+    "phraseMeaning": "裁判所は判決を取り消した",
+    "wrongChoice1": "裁判所は判決を維持した",
+    "wrongChoice2": "裁判所は判決をリハーサルした",
+    "wrongChoice3": "裁判所は判決を覆した"
   },
   {
     "id": 2463,
@@ -6016,7 +8326,12 @@
     "difficulty": -0.4,
     "ipa": "/rɪˈvjuː/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "let's review the main points",
+    "phraseMeaning": "要点を復習しましょう",
+    "wrongChoice1": "要点を忘れましょう",
+    "wrongChoice2": "要点を再見しましょう",
+    "wrongChoice3": "要点を確認しましょう"
   },
   {
     "id": 2464,
@@ -6029,7 +8344,12 @@
     "difficulty": 0.3,
     "ipa": "/rɪˈvaɪz/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "needs to revise her essay",
+    "phraseMeaning": "エッセイを修正する必要がある",
+    "wrongChoice1": "エッセイをそのまま出す必要がある",
+    "wrongChoice2": "エッセイを再訪問する必要がある",
+    "wrongChoice3": "エッセイを見直す必要がある"
   },
   {
     "id": 2465,
@@ -6042,7 +8362,12 @@
     "difficulty": 0.1,
     "ipa": "/ˈrɪðəm/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "moved to the rhythm of the music",
+    "phraseMeaning": "音楽のリズムに合わせて動いた",
+    "wrongChoice1": "音楽のリズムに逆らって動いた",
+    "wrongChoice2": "音楽の韻に合わせて動いた",
+    "wrongChoice3": "音楽のテンポに合わせて動いた"
   },
   {
     "id": 2466,
@@ -6055,7 +8380,12 @@
     "difficulty": 0.1,
     "ipa": "/ˈraɪvəlz/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the two companies have been rivals",
+    "phraseMeaning": "二つの会社はライバルだった",
+    "wrongChoice1": "二つの会社は協力者だった",
+    "wrongChoice2": "二つの会社は到着者だった",
+    "wrongChoice3": "二つの会社は競争相手だった"
   },
   {
     "id": 2467,
@@ -6068,7 +8398,12 @@
     "difficulty": 0.1,
     "ipa": "/rɑːbd/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the bank was robbed this morning",
+    "phraseMeaning": "銀行は今朝強盗に遭った",
+    "wrongChoice1": "銀行は今朝警備された",
+    "wrongChoice2": "銀行は今朝ローブを着た",
+    "wrongChoice3": "銀行は今朝襲われた"
   },
   {
     "id": 2468,
@@ -6081,7 +8416,12 @@
     "difficulty": 0.1,
     "ipa": "/ˈruːfˌtɑːp/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "watched fireworks from the rooftop",
+    "phraseMeaning": "屋上から花火を見た",
+    "wrongChoice1": "地下室から花火を見た",
+    "wrongChoice2": "根っこから花火を見た",
+    "wrongChoice3": "屋根の上から花火を見た"
   },
   {
     "id": 2469,
@@ -6094,7 +8434,12 @@
     "difficulty": -0.4,
     "ipa": "/ruːt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the fastest route to the airport",
+    "phraseMeaning": "空港への最速のルート",
+    "wrongChoice1": "空港への最遅のルート",
+    "wrongChoice2": "空港への最速の根",
+    "wrongChoice3": "空港への最速の道"
   },
   {
     "id": 2470,
@@ -6107,7 +8452,12 @@
     "difficulty": -0.1,
     "ipa": "/ruːˈtiːn/",
     "examFrequency": 2,
-    "grade": 2
+    "grade": 2,
+    "phrase": "follows the same routine every morning",
+    "phraseMeaning": "毎朝同じ日課に従う",
+    "wrongChoice1": "毎朝違う日課に従う",
+    "wrongChoice2": "毎朝同じルートに従う",
+    "wrongChoice3": "毎朝同じ習慣に従う"
   },
   {
     "id": 2471,
@@ -6120,7 +8470,12 @@
     "difficulty": -0.7,
     "ipa": "/roʊ/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "sat in the front row",
+    "phraseMeaning": "最前列に座った",
+    "wrongChoice1": "最後列に座った",
+    "wrongChoice2": "最前の漕ぎに座った",
+    "wrongChoice3": "一番前の席に座った"
   },
   {
     "id": 2472,
@@ -6133,7 +8488,12 @@
     "difficulty": 0.6,
     "ipa": "/ˈsækrɪˌfaɪst/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "sacrificed her free time to help",
+    "phraseMeaning": "助けるために自由時間を犠牲にした",
+    "wrongChoice1": "助けるために自由時間を楽しんだ",
+    "wrongChoice2": "助けるために自由時間を聖なるものにした",
+    "wrongChoice3": "助けるために自由時間を費やした"
   },
   {
     "id": 2473,
@@ -6146,7 +8506,12 @@
     "difficulty": -0.1,
     "ipa": "/ˈsætɪsˌfaɪ/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the meal was enough to satisfy",
+    "phraseMeaning": "食事はみんなを満足させるのに十分だった",
+    "wrongChoice1": "食事はみんなを不満にさせるのに十分だった",
+    "wrongChoice2": "食事はみんなを土曜日にさせるのに十分だった",
+    "wrongChoice3": "食事はみんなを満たすのに十分だった"
   },
   {
     "id": 2474,
@@ -6159,7 +8524,12 @@
     "difficulty": 0.8,
     "ipa": "/ˌsaɪənˈtɪfɪkli/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the theory was scientifically proven",
+    "phraseMeaning": "理論は科学的に証明された",
+    "wrongChoice1": "理論は科学的に否定された",
+    "wrongChoice2": "理論は犠牲的に証明された",
+    "wrongChoice3": "理論は科学的に立証された"
   },
   {
     "id": 2475,
@@ -6172,7 +8542,12 @@
     "difficulty": 0.3,
     "ipa": "/sɪˈkjʊrd/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the company secured a large contract",
+    "phraseMeaning": "会社は大きな契約を獲得した",
+    "wrongChoice1": "会社は大きな契約を失った",
+    "wrongChoice2": "会社は大きな契約を安全にした",
+    "wrongChoice3": "会社は大きな契約を確保した"
   },
   {
     "id": 2476,
@@ -6185,7 +8560,12 @@
     "difficulty": -0.1,
     "ipa": "/sɪˈkjʊrɪti/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "airport security has been tightened",
+    "phraseMeaning": "空港の警備が強化された",
+    "wrongChoice1": "空港の警備が緩和された",
+    "wrongChoice2": "空港の証券が強化された",
+    "wrongChoice3": "空港の安全対策が強化された"
   },
   {
     "id": 2477,
@@ -6198,7 +8578,12 @@
     "difficulty": 0.6,
     "ipa": "/siːz/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "police seized illegal goods",
+    "phraseMeaning": "警察は違法な商品を押収した",
+    "wrongChoice1": "警察は違法な商品を見逃した",
+    "wrongChoice2": "警察は違法な商品をくしゃみした",
+    "wrongChoice3": "警察は違法な商品を没収した"
   },
   {
     "id": 2478,
@@ -6211,7 +8596,12 @@
     "difficulty": 0.6,
     "ipa": "/sɛnˈseɪʃən/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the movie became a worldwide sensation",
+    "phraseMeaning": "映画は世界的な大騒ぎとなった",
+    "wrongChoice1": "映画は世界的に無視された",
+    "wrongChoice2": "映画は世界的な感覚となった",
+    "wrongChoice3": "映画は世界的な話題となった"
   },
   {
     "id": 2479,
@@ -6224,7 +8614,12 @@
     "difficulty": 0.3,
     "ipa": "/ˈsɛpərɪtli/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the twins were educated separately",
+    "phraseMeaning": "双子は別々に教育された",
+    "wrongChoice1": "双子は一緒に教育された",
+    "wrongChoice2": "双子は分離して教育された",
+    "wrongChoice3": "双子は個別に教育された"
   },
   {
     "id": 2480,
@@ -6237,7 +8632,12 @@
     "difficulty": 0.3,
     "ipa": "/sɪˈvɪr/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the storm caused severe damage",
+    "phraseMeaning": "嵐は深刻な被害を与えた",
+    "wrongChoice1": "嵐は軽微な被害を与えた",
+    "wrongChoice2": "嵐はサービス的な被害を与えた",
+    "wrongChoice3": "嵐は甚大な被害を与えた"
   },
   {
     "id": 2481,
@@ -6250,7 +8650,12 @@
     "difficulty": 0.6,
     "ipa": "/sɪˈvɪrli/",
     "examFrequency": 3,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the town was severely affected",
+    "phraseMeaning": "その町は深刻な影響を受けた",
+    "wrongChoice1": "その町はわずかな影響を受けた",
+    "wrongChoice2": "その町はサービス的に影響を受けた",
+    "wrongChoice3": "その町は大きな影響を受けた"
   },
   {
     "id": 2482,
@@ -6263,7 +8668,12 @@
     "difficulty": -0.1,
     "ipa": "/ʃeɪd/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "let's sit in the shade",
+    "phraseMeaning": "日陰に座ろう",
+    "wrongChoice1": "日なたに座ろう",
+    "wrongChoice2": "影に座ろう",
+    "wrongChoice3": "木陰に座ろう"
   },
   {
     "id": 2483,
@@ -6276,7 +8686,12 @@
     "difficulty": 0.1,
     "ipa": "/ˈsaɪləntli/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "she silently read the letter",
+    "phraseMeaning": "彼女は黙って手紙を読んだ",
+    "wrongChoice1": "彼女は声に出して手紙を読んだ",
+    "wrongChoice2": "彼女は銀色に手紙を読んだ",
+    "wrongChoice3": "彼女は静かに手紙を読んだ"
   },
   {
     "id": 2484,
@@ -6289,7 +8704,12 @@
     "difficulty": 0.6,
     "ipa": "/ˌsɪmɪˈlærɪti/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "a strong similarity between the two",
+    "phraseMeaning": "二つの間の強い類似性",
+    "wrongChoice1": "二つの間の強い相違性",
+    "wrongChoice2": "二つの間の強い模擬",
+    "wrongChoice3": "二つの間の強い類似点"
   },
   {
     "id": 2485,
@@ -6302,7 +8722,12 @@
     "difficulty": -0.4,
     "ipa": "/slaɪs/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "would you like a slice of pizza",
+    "phraseMeaning": "ピザを一切れいかがですか",
+    "wrongChoice1": "ピザを丸ごといかがですか",
+    "wrongChoice2": "ピザを一滑りいかがですか",
+    "wrongChoice3": "ピザを一枚いかがですか"
   },
   {
     "id": 2486,
@@ -6315,7 +8740,12 @@
     "difficulty": -0.1,
     "ipa": "/ˈslaɪtli/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the temperature dropped slightly",
+    "phraseMeaning": "気温がわずかに下がった",
+    "wrongChoice1": "気温が大幅に下がった",
+    "wrongChoice2": "気温がスライド的に下がった",
+    "wrongChoice3": "気温が少し下がった"
   },
   {
     "id": 2487,
@@ -6328,7 +8758,12 @@
     "difficulty": 0.6,
     "ipa": "/ˈsoʊʃəli/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "he is socially active",
+    "phraseMeaning": "彼は社会的に活動的だ",
+    "wrongChoice1": "彼は社会的に孤立している",
+    "wrongChoice2": "彼は靴下的に活動的だ",
+    "wrongChoice3": "彼は社交的に活動的だ"
   },
   {
     "id": 2488,
@@ -6341,7 +8776,12 @@
     "difficulty": 0.3,
     "ipa": "/səˈsaɪɪtiz/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "different societies have different customs",
+    "phraseMeaning": "異なる社会には異なる習慣がある",
+    "wrongChoice1": "同じ社会には同じ習慣がある",
+    "wrongChoice2": "異なる結社には異なる習慣がある",
+    "wrongChoice3": "異なる文化には異なる習慣がある"
   },
   {
     "id": 2489,
@@ -6354,7 +8794,12 @@
     "difficulty": 0.6,
     "ipa": "/ˈspɛsɪfaɪd/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "within the specified time",
+    "phraseMeaning": "指定された時間内に",
+    "wrongChoice1": "指定された時間外に",
+    "wrongChoice2": "種類の時間内に",
+    "wrongChoice3": "決められた時間内に"
   },
   {
     "id": 2490,
@@ -6367,7 +8812,12 @@
     "difficulty": 0.8,
     "ipa": "/ˈspɛkˌteɪtər/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "thousands of spectators watched",
+    "phraseMeaning": "何千人もの観客が見た",
+    "wrongChoice1": "ほとんど観客がいなかった",
+    "wrongChoice2": "何千人もの眼鏡が見た",
+    "wrongChoice3": "何千人もの見物人が見た"
   },
   {
     "id": 2491,
@@ -6380,7 +8830,12 @@
     "difficulty": 0.1,
     "ipa": "/ˈspɪlɪŋ/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "be careful to avoid spilling",
+    "phraseMeaning": "こぼさないように気をつけて",
+    "wrongChoice1": "こぼすように気をつけて",
+    "wrongChoice2": "回転しないように気をつけて",
+    "wrongChoice3": "零さないように気をつけて"
   },
   {
     "id": 2492,
@@ -6393,7 +8848,12 @@
     "difficulty": 0.8,
     "ipa": "/ˈspɪrɪtʃuəli/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the trip was spiritually enriching",
+    "phraseMeaning": "その旅は精神的に豊かだった",
+    "wrongChoice1": "その旅は精神的に貧しかった",
+    "wrongChoice2": "その旅はスパイラル的に豊かだった",
+    "wrongChoice3": "その旅は心霊的に豊かだった"
   },
   {
     "id": 2493,
@@ -6406,7 +8866,12 @@
     "difficulty": 0.1,
     "ipa": "/splɪt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "let's split the bill equally",
+    "phraseMeaning": "勘定を均等に分けよう",
+    "wrongChoice1": "勘定を一人で払おう",
+    "wrongChoice2": "勘定を唾を吐いて分けよう",
+    "wrongChoice3": "勘定を割り勘にしよう"
   },
   {
     "id": 2494,
@@ -6419,7 +8884,12 @@
     "difficulty": 0.3,
     "ipa": "/spɔɪld/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the rain spoiled our picnic plans",
+    "phraseMeaning": "雨がピクニック計画を台無しにした",
+    "wrongChoice1": "雨がピクニック計画を盛り上げた",
+    "wrongChoice2": "雨がピクニック計画をスポーツにした",
+    "wrongChoice3": "雨がピクニック計画をダメにした"
   },
   {
     "id": 2495,
@@ -6432,7 +8902,12 @@
     "difficulty": 0.1,
     "ipa": "/spreɪd/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "sprayed perfume on her wrists",
+    "phraseMeaning": "手首に香水を吹きかけた",
+    "wrongChoice1": "手首から香水を拭き取った",
+    "wrongChoice2": "手首に香水を広げた",
+    "wrongChoice3": "手首に香水をつけた"
   },
   {
     "id": 2496,
@@ -6445,7 +8920,12 @@
     "difficulty": 0.1,
     "ipa": "/ˈstɛdi/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the economy showed steady growth",
+    "phraseMeaning": "経済は着実な成長を示した",
+    "wrongChoice1": "経済は不安定な成長を示した",
+    "wrongChoice2": "経済はすでに成長を示した",
+    "wrongChoice3": "経済は安定した成長を示した"
   },
   {
     "id": 2497,
@@ -6458,7 +8938,12 @@
     "difficulty": 0.6,
     "ipa": "/ˈstɪmjuˌleɪtɪd/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the discussion stimulated new ideas",
+    "phraseMeaning": "議論が新しいアイデアを刺激した",
+    "wrongChoice1": "議論が新しいアイデアを抑制した",
+    "wrongChoice2": "議論が新しいアイデアを模擬した",
+    "wrongChoice3": "議論が新しいアイデアを生んだ"
   },
   {
     "id": 2498,
@@ -6471,7 +8956,12 @@
     "difficulty": -0.1,
     "ipa": "/ˈstɔːrɪdʒ/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "need more storage space",
+    "phraseMeaning": "もっと保管スペースが必要だ",
+    "wrongChoice1": "もっと保管スペースを減らす必要がある",
+    "wrongChoice2": "もっと物語スペースが必要だ",
+    "wrongChoice3": "もっと収納スペースが必要だ"
   },
   {
     "id": 2499,
@@ -6484,7 +8974,12 @@
     "difficulty": -0.1,
     "ipa": "/strɛst/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "felt stressed about the deadline",
+    "phraseMeaning": "締め切りにストレスを感じた",
+    "wrongChoice1": "締め切りにリラックスを感じた",
+    "wrongChoice2": "締め切りに伸びを感じた",
+    "wrongChoice3": "締め切りにプレッシャーを感じた"
   },
   {
     "id": 2500,
@@ -6497,7 +8992,12 @@
     "difficulty": 0.1,
     "ipa": "/ˈstrʌktʃər/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the bridge is an impressive structure",
+    "phraseMeaning": "その橋は印象的な建造物だ",
+    "wrongChoice1": "その橋は取るに足らない建造物だ",
+    "wrongChoice2": "その橋は印象的な構造だ",
+    "wrongChoice3": "その橋は見事な建造物だ"
   },
   {
     "id": 2501,
@@ -6510,7 +9010,12 @@
     "difficulty": 0.3,
     "ipa": "/ˈstrʌɡld/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "struggled to climb the mountain",
+    "phraseMeaning": "山を登るのに苦闘した",
+    "wrongChoice1": "山を登るのに楽だった",
+    "wrongChoice2": "山を登るのに密輸した",
+    "wrongChoice3": "山を登るのに苦労した"
   },
   {
     "id": 2502,
@@ -6523,7 +9028,12 @@
     "difficulty": 0.1,
     "ipa": "/səbˈmɪt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "please submit your report by Friday",
+    "phraseMeaning": "金曜日までにレポートを提出してください",
+    "wrongChoice1": "金曜日までにレポートを撤回してください",
+    "wrongChoice2": "金曜日までにレポートを服従してください",
+    "wrongChoice3": "金曜日までにレポートを出してください"
   },
   {
     "id": 2503,
@@ -6536,7 +9046,12 @@
     "difficulty": 0.6,
     "ipa": "/səbˈskrɪpʃən/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "cancelled my magazine subscription",
+    "phraseMeaning": "雑誌の定期購読を解約した",
+    "wrongChoice1": "雑誌の定期購読を始めた",
+    "wrongChoice2": "雑誌の記述を解約した",
+    "wrongChoice3": "雑誌の購読を解約した"
   },
   {
     "id": 2504,
@@ -6549,7 +9064,12 @@
     "difficulty": 0.3,
     "ipa": "/ˈsʌbstəns/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "this substance is harmful",
+    "phraseMeaning": "この物質は有害だ",
+    "wrongChoice1": "この物質は無害だ",
+    "wrongChoice2": "この実質は有害だ",
+    "wrongChoice3": "この化学物質は有害だ"
   },
   {
     "id": 2505,
@@ -6562,7 +9082,12 @@
     "difficulty": -0.7,
     "ipa": "/ˈsʌdənli/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the lights suddenly went out",
+    "phraseMeaning": "突然電気が消えた",
+    "wrongChoice1": "徐々に電気が消えた",
+    "wrongChoice2": "日曜日に電気が消えた",
+    "wrongChoice3": "急に電気が消えた"
   },
   {
     "id": 2506,
@@ -6575,7 +9100,12 @@
     "difficulty": 0.1,
     "ipa": "/ˈsʌfərd/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "suffered heavy damage from the typhoon",
+    "phraseMeaning": "台風で甚大な被害を受けた",
+    "wrongChoice1": "台風で軽微な被害を受けた",
+    "wrongChoice2": "台風で十分な被害を受けた",
+    "wrongChoice3": "台風で大きな被害を受けた"
   },
   {
     "id": 2507,
@@ -6588,7 +9118,12 @@
     "difficulty": 0.6,
     "ipa": "/səˈfɪʃənt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "we have sufficient evidence",
+    "phraseMeaning": "十分な証拠がある",
+    "wrongChoice1": "不十分な証拠がある",
+    "wrongChoice2": "効率的な証拠がある",
+    "wrongChoice3": "十分な根拠がある"
   },
   {
     "id": 2508,
@@ -6601,7 +9136,12 @@
     "difficulty": -0.4,
     "ipa": "/ˈsuːtˌkeɪsɪz/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "packed our suitcases before the trip",
+    "phraseMeaning": "旅行前にスーツケースを詰めた",
+    "wrongChoice1": "旅行前にスーツケースを空にした",
+    "wrongChoice2": "旅行前にスーツを着た",
+    "wrongChoice3": "旅行前に荷物を詰めた"
   },
   {
     "id": 2509,
@@ -6614,7 +9154,12 @@
     "difficulty": -0.1,
     "ipa": "/səˈplaɪ/",
     "examFrequency": 2,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the factory supplies parts to",
+    "phraseMeaning": "工場は～に部品を供給している",
+    "wrongChoice1": "工場は～から部品を受け取っている",
+    "wrongChoice2": "工場は～に驚きを供給している",
+    "wrongChoice3": "工場は～に部品を提供している"
   },
   {
     "id": 2510,
@@ -6627,7 +9172,12 @@
     "difficulty": 0.3,
     "ipa": "/ˈsɜːrdʒəri/",
     "examFrequency": 2,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the doctor recommended surgery",
+    "phraseMeaning": "医者は手術を勧めた",
+    "wrongChoice1": "医者は手術を拒否した",
+    "wrongChoice2": "医者は外科学を勧めた",
+    "wrongChoice3": "医者は手術を提案した"
   },
   {
     "id": 2511,
@@ -6640,7 +9190,12 @@
     "difficulty": 0.1,
     "ipa": "/sərˈpraɪzɪŋli/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the test was surprisingly easy",
+    "phraseMeaning": "テストは意外にも簡単だった",
+    "wrongChoice1": "テストは予想通り難しかった",
+    "wrongChoice2": "テストは調査的に簡単だった",
+    "wrongChoice3": "テストは驚くほど簡単だった"
   },
   {
     "id": 2512,
@@ -6653,7 +9208,12 @@
     "difficulty": 0.3,
     "ipa": "/sərˈvaɪvəl/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "survival in the wilderness requires skills",
+    "phraseMeaning": "荒野での生存には技術が必要だ",
+    "wrongChoice1": "荒野での生存には技術が不要だ",
+    "wrongChoice2": "荒野での調査には技術が必要だ",
+    "wrongChoice3": "荒野でのサバイバルには技術が必要だ"
   },
   {
     "id": 2513,
@@ -6666,7 +9226,12 @@
     "difficulty": 0.1,
     "ipa": "/ˈsʌspɛkt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "police arrested the main suspect",
+    "phraseMeaning": "警察は主要容疑者を逮捕した",
+    "wrongChoice1": "警察は主要容疑者を釈放した",
+    "wrongChoice2": "警察は主要な中断を逮捕した",
+    "wrongChoice3": "警察は主要容疑者を拘束した"
   },
   {
     "id": 2514,
@@ -6679,7 +9244,12 @@
     "difficulty": 0.6,
     "ipa": "/səˈspɪʃən/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "arrested on suspicion of theft",
+    "phraseMeaning": "窃盗の疑いで逮捕された",
+    "wrongChoice1": "窃盗の疑いで釈放された",
+    "wrongChoice2": "窃盗の中止で逮捕された",
+    "wrongChoice3": "窃盗の容疑で逮捕された"
   },
   {
     "id": 2515,
@@ -6692,7 +9262,12 @@
     "difficulty": -0.4,
     "ipa": "/swiːp/",
     "examFrequency": 2,
-    "grade": 2
+    "grade": 2,
+    "phrase": "please sweep the floor",
+    "phraseMeaning": "床を掃いてください",
+    "wrongChoice1": "床を汚してください",
+    "wrongChoice2": "床を甘くしてください",
+    "wrongChoice3": "床をきれいにしてください"
   },
   {
     "id": 2516,
@@ -6705,7 +9280,12 @@
     "difficulty": -0.9,
     "ipa": "/swɪm/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "she likes to swim in the ocean",
+    "phraseMeaning": "彼女は海で泳ぐのが好きだ",
+    "wrongChoice1": "彼女は海で泳ぐのが嫌いだ",
+    "wrongChoice2": "彼女は海で振るのが好きだ",
+    "wrongChoice3": "彼女は海で泳ぐのを楽しむ"
   },
   {
     "id": 2517,
@@ -6718,7 +9298,12 @@
     "difficulty": 0.6,
     "ipa": "/ˈsɪmfəni/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "composed nine symphonies",
+    "phraseMeaning": "9つの交響曲を作曲した",
+    "wrongChoice1": "9つの交響曲を破棄した",
+    "wrongChoice2": "9つの同情を作曲した",
+    "wrongChoice3": "9つの交響曲を演奏した"
   },
   {
     "id": 2518,
@@ -6731,7 +9316,12 @@
     "difficulty": 0.3,
     "ipa": "/ˈsɪmptəm/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "a common symptom of the flu",
+    "phraseMeaning": "インフルエンザの一般的な症状",
+    "wrongChoice1": "インフルエンザの珍しい症状",
+    "wrongChoice2": "インフルエンザの一般的な同情",
+    "wrongChoice3": "インフルエンザの典型的な症状"
   },
   {
     "id": 2519,
@@ -6744,7 +9334,12 @@
     "difficulty": 0.6,
     "ipa": "/ˌtɛmpəˈrɛrɪli/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the road is temporarily closed",
+    "phraseMeaning": "道路は一時的に閉鎖されている",
+    "wrongChoice1": "道路は永久に閉鎖されている",
+    "wrongChoice2": "道路は気性的に閉鎖されている",
+    "wrongChoice3": "道路は当面閉鎖されている"
   },
   {
     "id": 2520,
@@ -6757,7 +9352,12 @@
     "difficulty": 0.3,
     "ipa": "/ˈtɛnʃən/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "growing tension between the two countries",
+    "phraseMeaning": "二国間の緊張が高まっている",
+    "wrongChoice1": "二国間の緊張が和らいでいる",
+    "wrongChoice2": "二国間の傾向が高まっている",
+    "wrongChoice3": "二国間の対立が高まっている"
   },
   {
     "id": 2521,
@@ -6770,7 +9370,12 @@
     "difficulty": 0.1,
     "ipa": "/ˈtɛrɪbli/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "I'm terribly sorry for",
+    "phraseMeaning": "～について大変申し訳ない",
+    "wrongChoice1": "～について全く申し訳なくない",
+    "wrongChoice2": "～について恐ろしく申し訳ない",
+    "wrongChoice3": "～についてとても申し訳ない"
   },
   {
     "id": 2522,
@@ -6783,7 +9388,12 @@
     "difficulty": 0.3,
     "ipa": "/ˈθæŋkfəli/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "thankfully no one was hurt",
+    "phraseMeaning": "ありがたいことに誰もけがをしなかった",
+    "wrongChoice1": "残念ながら誰もけがをしなかった",
+    "wrongChoice2": "感謝的に誰もけがをしなかった",
+    "wrongChoice3": "幸いにも誰もけがをしなかった"
   },
   {
     "id": 2523,
@@ -6796,7 +9406,12 @@
     "difficulty": -0.4,
     "ipa": "/taɪ/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "learned how to tie his shoes",
+    "phraseMeaning": "靴ひもの結び方を覚えた",
+    "wrongChoice1": "靴ひもの解き方を覚えた",
+    "wrongChoice2": "靴ひものネクタイ方を覚えた",
+    "wrongChoice3": "靴ひもの締め方を覚えた"
   },
   {
     "id": 2524,
@@ -6809,7 +9424,12 @@
     "difficulty": -0.1,
     "ipa": "/ˈtaɪmˌteɪblz/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "train timetables are available online",
+    "phraseMeaning": "列車の時刻表はオンラインで見られる",
+    "wrongChoice1": "列車の時刻表はオンラインで見られない",
+    "wrongChoice2": "列車のタイムテーブルはオンラインで見られる",
+    "wrongChoice3": "列車のスケジュールはオンラインで見られる"
   },
   {
     "id": 2525,
@@ -6822,7 +9442,12 @@
     "difficulty": 0.3,
     "ipa": "/trəˈdɪʃənəli/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "traditionally served at New Year",
+    "phraseMeaning": "伝統的に正月に出される",
+    "wrongChoice1": "最近になって正月に出される",
+    "wrongChoice2": "取引的に正月に出される",
+    "wrongChoice3": "慣例的に正月に出される"
   },
   {
     "id": 2526,
@@ -6835,7 +9460,12 @@
     "difficulty": 0.3,
     "ipa": "/ˈtrædʒɪdi/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the earthquake was a terrible tragedy",
+    "phraseMeaning": "地震はひどい悲劇だった",
+    "wrongChoice1": "地震は素晴らしい祝福だった",
+    "wrongChoice2": "地震はひどい軌道だった",
+    "wrongChoice3": "地震はひどい惨事だった"
   },
   {
     "id": 2527,
@@ -6848,7 +9478,12 @@
     "difficulty": 0.3,
     "ipa": "/trænsˈfɔːrm/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "technology has transformed communication",
+    "phraseMeaning": "テクノロジーはコミュニケーションを一変させた",
+    "wrongChoice1": "テクノロジーはコミュニケーションを変えなかった",
+    "wrongChoice2": "テクノロジーはコミュニケーションを輸送させた",
+    "wrongChoice3": "テクノロジーはコミュニケーションを変革した"
   },
   {
     "id": 2528,
@@ -6861,7 +9496,12 @@
     "difficulty": -0.1,
     "ipa": "/trænsˈleɪt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "translate this sentence into English",
+    "phraseMeaning": "この文を英語に翻訳する",
+    "wrongChoice1": "この文を英語から翻訳する",
+    "wrongChoice2": "この文を英語に移転する",
+    "wrongChoice3": "この文を英語に訳す"
   },
   {
     "id": 2529,
@@ -6874,7 +9514,12 @@
     "difficulty": -0.1,
     "ipa": "/trænsˈleɪʃən/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the translation of the novel",
+    "phraseMeaning": "その小説の翻訳",
+    "wrongChoice1": "その小説の原作",
+    "wrongChoice2": "その小説の移転",
+    "wrongChoice3": "その小説の訳"
   },
   {
     "id": 2530,
@@ -6887,7 +9532,12 @@
     "difficulty": -0.1,
     "ipa": "/ˈtraɪˌæŋɡlz/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the children drew triangles",
+    "phraseMeaning": "子どもたちは三角形を描いた",
+    "wrongChoice1": "子どもたちは三角形を消した",
+    "wrongChoice2": "子どもたちは試験を描いた",
+    "wrongChoice3": "子どもたちは三角を描いた"
   },
   {
     "id": 2531,
@@ -6900,7 +9550,12 @@
     "difficulty": 0.1,
     "ipa": "/trɪkt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "tricked into giving away his password",
+    "phraseMeaning": "だまされてパスワードを教えた",
+    "wrongChoice1": "自らパスワードを教えた",
+    "wrongChoice2": "騙されてパスワードを治療した",
+    "wrongChoice3": "騙されてパスワードを渡した"
   },
   {
     "id": 2532,
@@ -6913,7 +9568,12 @@
     "difficulty": 0.6,
     "ipa": "/ˈtraɪəmf/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "a great triumph for the team",
+    "phraseMeaning": "チームにとって大きな勝利",
+    "wrongChoice1": "チームにとって大きな敗北",
+    "wrongChoice2": "チームにとって大きなトランペット",
+    "wrongChoice3": "チームにとって大きな成功"
   },
   {
     "id": 2533,
@@ -6926,7 +9586,12 @@
     "difficulty": 0.3,
     "ipa": "/truːp/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "a troop of soldiers marched",
+    "phraseMeaning": "一隊の兵士が行進した",
+    "wrongChoice1": "一隊の兵士が退却した",
+    "wrongChoice2": "一つの騙しが行進した",
+    "wrongChoice3": "一団の兵士が行進した"
   },
   {
     "id": 2534,
@@ -6939,7 +9604,12 @@
     "difficulty": -0.1,
     "ipa": "/tjuːbz/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the experiment required glass tubes",
+    "phraseMeaning": "実験にはガラス管が必要だった",
+    "wrongChoice1": "実験にはガラス管が不要だった",
+    "wrongChoice2": "実験にはガラスチューブが必要だった",
+    "wrongChoice3": "実験にはガラス容器が必要だった"
   },
   {
     "id": 2535,
@@ -6952,7 +9622,12 @@
     "difficulty": -0.1,
     "ipa": "/ʌnˈkʌmftəbl/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the chair was very uncomfortable",
+    "phraseMeaning": "その椅子はとても座り心地が悪かった",
+    "wrongChoice1": "その椅子はとても座り心地が良かった",
+    "wrongChoice2": "その椅子はとても異常だった",
+    "wrongChoice3": "その椅子はとても不快だった"
   },
   {
     "id": 2536,
@@ -6965,7 +9640,12 @@
     "difficulty": 0.1,
     "ipa": "/ˌʌndərˈniːθ/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the cat was hiding underneath the bed",
+    "phraseMeaning": "猫はベッドの下に隠れていた",
+    "wrongChoice1": "猫はベッドの上に隠れていた",
+    "wrongChoice2": "猫はベッドの下着に隠れていた",
+    "wrongChoice3": "猫はベッドの下に潜んでいた"
   },
   {
     "id": 2537,
@@ -6978,7 +9658,12 @@
     "difficulty": 0.1,
     "ipa": "/juːˈnaɪt/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "we must unite to fight injustice",
+    "phraseMeaning": "不正義と戦うために団結しなければならない",
+    "wrongChoice1": "不正義と戦うために分裂しなければならない",
+    "wrongChoice2": "不正義と戦うために単位にならなければならない",
+    "wrongChoice3": "不正義と戦うために結束しなければならない"
   },
   {
     "id": 2538,
@@ -6991,7 +9676,12 @@
     "difficulty": -0.4,
     "ipa": "/ˈʌpər/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the upper floors have a great view",
+    "phraseMeaning": "上層階は素晴らしい眺めだ",
+    "wrongChoice1": "下層階は素晴らしい眺めだ",
+    "wrongChoice2": "アッパーの階は素晴らしい眺めだ",
+    "wrongChoice3": "高層階は素晴らしい眺めだ"
   },
   {
     "id": 2539,
@@ -7004,7 +9694,12 @@
     "difficulty": -0.7,
     "ipa": "/ˌʌpˈstɛrz/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the bedroom is upstairs",
+    "phraseMeaning": "寝室は二階にある",
+    "wrongChoice1": "寝室は一階にある",
+    "wrongChoice2": "寝室は階段の上にある",
+    "wrongChoice3": "寝室は上の階にある"
   },
   {
     "id": 2540,
@@ -7017,7 +9712,12 @@
     "difficulty": 0.8,
     "ipa": "/ˈɜːrdʒənsi/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "a sense of urgency about this matter",
+    "phraseMeaning": "この問題に緊急性がある",
+    "wrongChoice1": "この問題に余裕がある",
+    "wrongChoice2": "この問題に衝動がある",
+    "wrongChoice3": "この問題に切迫感がある"
   },
   {
     "id": 2541,
@@ -7030,7 +9730,12 @@
     "difficulty": 0.8,
     "ipa": "/veɪɡ/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "his answer was very vague",
+    "phraseMeaning": "彼の答えは非常に曖昧だった",
+    "wrongChoice1": "彼の答えは非常に明確だった",
+    "wrongChoice2": "彼の答えは非常に流行だった",
+    "wrongChoice3": "彼の答えは非常に漠然としていた"
   },
   {
     "id": 2542,
@@ -7043,7 +9748,12 @@
     "difficulty": 0.1,
     "ipa": "/ˈviːɪklz/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "electric vehicles are becoming popular",
+    "phraseMeaning": "電気自動車がますます人気になっている",
+    "wrongChoice1": "電気自動車がますます不人気になっている",
+    "wrongChoice2": "電気の乗り物がますます人気になっている",
+    "wrongChoice3": "電気自動車がますます普及している"
   },
   {
     "id": 2543,
@@ -7056,7 +9766,12 @@
     "difficulty": 0.1,
     "ipa": "/ˈvɪktɪm/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the victim was taken to hospital",
+    "phraseMeaning": "被害者は病院に運ばれた",
+    "wrongChoice1": "加害者は病院に運ばれた",
+    "wrongChoice2": "勝利者は病院に運ばれた",
+    "wrongChoice3": "けが人は病院に運ばれた"
   },
   {
     "id": 2544,
@@ -7069,7 +9784,12 @@
     "difficulty": 0.1,
     "ipa": "/ˈvɪktɪmz/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "aid was sent to the victims",
+    "phraseMeaning": "被災者に援助が送られた",
+    "wrongChoice1": "被災者から援助が奪われた",
+    "wrongChoice2": "勝利者に援助が送られた",
+    "wrongChoice3": "被災者に支援が送られた"
   },
   {
     "id": 2545,
@@ -7082,7 +9802,12 @@
     "difficulty": 0.1,
     "ipa": "/ˈvaɪələns/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "violence is never the answer",
+    "phraseMeaning": "暴力は決して解決策にならない",
+    "wrongChoice1": "暴力は常に解決策になる",
+    "wrongChoice2": "バイオリンは決して解決策にならない",
+    "wrongChoice3": "暴力は決して正解ではない"
   },
   {
     "id": 2546,
@@ -7095,7 +9820,12 @@
     "difficulty": 0.6,
     "ipa": "/ˈvaɪələntli/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the wind blew violently",
+    "phraseMeaning": "風が激しく吹いた",
+    "wrongChoice1": "風が穏やかに吹いた",
+    "wrongChoice2": "風がバイオリン的に吹いた",
+    "wrongChoice3": "風が猛烈に吹いた"
   },
   {
     "id": 2547,
@@ -7108,7 +9838,12 @@
     "difficulty": 0.1,
     "ipa": "/ˈvɪzɪbl/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the stars are clearly visible",
+    "phraseMeaning": "星がはっきりと見える",
+    "wrongChoice1": "星が全く見えない",
+    "wrongChoice2": "星がはっきりと訪問できる",
+    "wrongChoice3": "星がくっきりと見える"
   },
   {
     "id": 2548,
@@ -7121,7 +9856,12 @@
     "difficulty": 0.1,
     "ipa": "/wɛlθ/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "his wealth grew through investments",
+    "phraseMeaning": "投資により彼の財産が増えた",
+    "wrongChoice1": "投資により彼の財産が減った",
+    "wrongChoice2": "投資により彼の健康が増えた",
+    "wrongChoice3": "投資により彼の資産が増えた"
   },
   {
     "id": 2549,
@@ -7134,7 +9874,12 @@
     "difficulty": 0.1,
     "ipa": "/weɪd/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "weighed the ingredients carefully",
+    "phraseMeaning": "材料の重さを注意深く量った",
+    "wrongChoice1": "材料の重さを無頓着に量った",
+    "wrongChoice2": "材料の重さを注意深く待った",
+    "wrongChoice3": "材料の分量を注意深く量った"
   },
   {
     "id": 2550,
@@ -7147,7 +9892,12 @@
     "difficulty": 0.3,
     "ipa": "/ˈwɛlˌfɛr/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "provides welfare services to the poor",
+    "phraseMeaning": "貧困者に福祉サービスを提供する",
+    "wrongChoice1": "貧困者から福祉サービスを奪う",
+    "wrongChoice2": "貧困者に富裕サービスを提供する",
+    "wrongChoice3": "貧困者に社会サービスを提供する"
   },
   {
     "id": 2551,
@@ -7160,7 +9910,12 @@
     "difficulty": -0.4,
     "ipa": "/waɪp/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "please wipe the table after eating",
+    "phraseMeaning": "食事の後にテーブルを拭いてください",
+    "wrongChoice1": "食事の後にテーブルを汚してください",
+    "wrongChoice2": "食事の後にテーブルを鞭打ってください",
+    "wrongChoice3": "食事の後にテーブルをきれいにしてください"
   },
   {
     "id": 2552,
@@ -7173,7 +9928,12 @@
     "difficulty": 0.8,
     "ipa": "/ˈjiːldɪd/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the experiment yielded interesting results",
+    "phraseMeaning": "実験は興味深い結果をもたらした",
+    "wrongChoice1": "実験は興味深い結果を隠した",
+    "wrongChoice2": "実験は興味深い結果を叫んだ",
+    "wrongChoice3": "実験は興味深い結果を生んだ"
   },
   {
     "id": 2553,
@@ -7186,7 +9946,12 @@
     "difficulty": 0.1,
     "ipa": "/ɪnˈdʌstriəl/",
     "examFrequency": 2,
-    "grade": 2
+    "grade": 2,
+    "phrase": "the industrial revolution changed society",
+    "phraseMeaning": "産業革命は社会を変えた",
+    "wrongChoice1": "産業革命は社会を変えなかった",
+    "wrongChoice2": "勤勉な革命は社会を変えた",
+    "wrongChoice3": "産業革命は社会を一変させた"
   },
   {
     "id": 2554,
@@ -7199,6 +9964,11 @@
     "difficulty": -0.1,
     "ipa": "/ɪmˈprɛʃən/",
     "examFrequency": 1,
-    "grade": 2
+    "grade": 2,
+    "phrase": "first impressions are very important",
+    "phraseMeaning": "第一印象は非常に重要だ",
+    "wrongChoice1": "第一印象は全く重要でない",
+    "wrongChoice2": "第一圧力は非常に重要だ",
+    "wrongChoice3": "第一印象はとても大切だ"
   }
 ]
