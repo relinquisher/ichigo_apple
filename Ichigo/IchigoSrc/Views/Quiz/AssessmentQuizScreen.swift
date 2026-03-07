@@ -7,6 +7,9 @@ struct AssessmentQuizScreen: View {
     @State private var timerTask: Task<Void, Never>?
     @State private var exampleRevealed: Bool
     @State private var showExample = false
+    @State private var showDeltaEffect = false
+    @State private var deltaText = ""
+    @State private var deltaIsPositive = true
     @Binding var path: NavigationPath
 
     @AppStorage("timer_seconds") private var timerSeconds: Int = 10
@@ -36,10 +39,24 @@ struct AssessmentQuizScreen: View {
                 exampleOverlay(question: question)
                     .transition(.opacity.combined(with: .move(edge: .bottom)))
             }
+
+            // Delta probability effect
+            if showDeltaEffect {
+                Text(deltaText)
+                    .font(.system(size: 48, weight: .bold))
+                    .foregroundColor(deltaIsPositive ? .correctBlue : .incorrectOrange)
+                    .transition(.asymmetric(
+                        insertion: .opacity,
+                        removal: .opacity.combined(with: .offset(y: deltaIsPositive ? -80 : 80))
+                    ))
+                    .allowsHitTesting(false)
+            }
         }
         .animation(.easeInOut(duration: 0.3), value: showExample)
+        .animation(.easeOut(duration: 1.0), value: showDeltaEffect)
         .navigationTitle(viewModel.isReviewPhase ? "復習" : "クイズ")
         .navigationBarTitleDisplayMode(.inline)
+        .navigationBarBackButtonHidden(true)
         .toolbar {
             ToolbarItem(placement: .navigationBarTrailing) {
                 NavigationLink(value: SettingsRoute()) {
@@ -48,6 +65,7 @@ struct AssessmentQuizScreen: View {
             }
         }
         .onChange(of: viewModel.currentIndex) {
+            showDeltaEffect = false
             showExample = showExampleByDefault
             startTimer()
             if let q = viewModel.question {
@@ -59,6 +77,7 @@ struct AssessmentQuizScreen: View {
             if viewModel.isAnswered {
                 timerTask?.cancel()
                 playAnswerSound()
+                triggerDeltaEffect()
             }
         }
         .onChange(of: viewModel.isFinished) {
@@ -379,6 +398,22 @@ struct AssessmentQuizScreen: View {
                 if let q = viewModel.question {
                     ttsManager.speak(q.word.exampleEn)
                 }
+            }
+        }
+    }
+
+    private func triggerDeltaEffect() {
+        guard !viewModel.isBeginnerMode, !viewModel.isReviewPhase else { return }
+        let delta = viewModel.deltaPassProbability
+        guard abs(delta) > 0.001 else { return }
+        deltaIsPositive = delta > 0
+        deltaText = String(format: "%@%.1f%%", delta > 0 ? "+" : "", delta * 100)
+        withAnimation(.easeIn(duration: 0.2)) {
+            showDeltaEffect = true
+        }
+        DispatchQueue.main.asyncAfter(deadline: .now() + 0.8) {
+            withAnimation(.easeOut(duration: 1.0)) {
+                showDeltaEffect = false
             }
         }
     }

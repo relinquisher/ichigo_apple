@@ -254,7 +254,7 @@ ContentView (NavigationStack)
 │   ├── → SettingsRoute → SettingsScreen
 │   └── → ResultsRoute → AssessmentResultsScreen
 ├── AssessmentResultsScreen
-│   ├── 「続ける」→ path.append(QuizRoute) ※ホームを経由しない
+│   ├── 「続ける」→ pathを[QuizRoute]に差し替え（スタック蓄積防止、ホーム非表示）
 │   └── 「ホームに戻る」→ path = NavigationPath()
 └── SettingsScreen → dismiss
 ```

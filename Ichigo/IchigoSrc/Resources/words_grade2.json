@@ -13,7 +13,7 @@
     "grade": 2,
     "phrase": "abandon the sinking ship",
     "phrase_meaning": "沈みゆく船を放棄する",
-    "dummy1": "沈みゆく船を守護する",
+    "dummy1": "沈みゆく船を維持する",
     "dummy2": "沈みゆく船を豊富にする",
     "dummy3": "沈みゆく船を修理する"
   },
@@ -139,9 +139,9 @@
     "grade": 2,
     "phrase": "accompany you to the station",
     "phrase_meaning": "駅まで同行する",
-    "dummy1": "駅まで同行しない",
+    "dummy1": "駅まで保管する",
     "dummy2": "駅まで演奏する",
-    "dummy3": "駅まで案内する"
+    "dummy3": "駅まで測定する"
   },
   {
     "id": 2009,
@@ -337,8 +337,8 @@
     "grade": 2,
     "phrase": "alter our strategy",
     "phrase_meaning": "戦略を変更する",
-    "dummy1": "戦略を維持する",
-    "dummy2": "戦略を祭壇に置く",
+    "dummy1": "戦略を構築する",
+    "dummy2": "戦略を議論する",
     "dummy3": "戦略を実行する"
   },
   {
@@ -391,7 +391,7 @@
     "grade": 2,
     "phrase": "dressed up as angels",
     "phrase_meaning": "天使の衣装を着た",
-    "dummy1": "悪魔の衣装を着た",
+    "dummy1": "動物の衣装を着た",
     "dummy2": "角度の衣装を着た",
     "dummy3": "騎士の衣装を着た"
   },
@@ -499,7 +499,7 @@
     "grade": 2,
     "phrase": "a huge appetite",
     "phrase_meaning": "旺盛な食欲",
-    "dummy1": "食欲の喪失",
+    "dummy1": "旺盛な体力",
     "dummy2": "旺盛な適性",
     "dummy3": "旺盛な好奇心"
   },
@@ -571,7 +571,7 @@
     "grade": 2,
     "phrase": "this area is known for",
     "phrase_meaning": "この地域は〜で知られている",
-    "dummy1": "この地域以外は〜で知られていない",
+    "dummy1": "この季節は〜で知られている",
     "dummy2": "この空気は〜で知られている",
     "dummy3": "この施設は〜で知られている"
   },
@@ -733,9 +733,9 @@
     "grade": 2,
     "phrase": "collect your baggage",
     "phrase_meaning": "手荷物を受け取る",
-    "dummy1": "手荷物を預ける",
-    "dummy2": "手荷物を包帯する",
-    "dummy3": "手荷物を検査する"
+    "dummy1": "手紙を受け取る",
+    "dummy2": "手続きを受け取る",
+    "dummy3": "手帳を受け取る"
   },
   {
     "id": 2042,
@@ -751,7 +751,7 @@
     "grade": 2,
     "phrase": "maintain a balance",
     "phrase_meaning": "バランスを保つ",
-    "dummy1": "バランスを崩す",
+    "dummy1": "ボリュームを保つ",
     "dummy2": "風船を保つ",
     "dummy3": "距離を保つ"
   },
@@ -825,7 +825,7 @@
     "phrase_meaning": "アインシュタインの伝記",
     "dummy1": "アインシュタインの空想",
     "dummy2": "アインシュタインの生物学",
-    "dummy3": "アインシュタインの自叙伝"
+    "dummy3": "アインシュタインの研究"
   },
   {
     "id": 2047,
@@ -877,7 +877,7 @@
     "grade": 2,
     "phrase": "campaign to save the forest",
     "phrase_meaning": "森を守るキャンペーン",
-    "dummy1": "森を破壊するキャンペーン",
+    "dummy1": "森を守る計画書",
     "dummy2": "森を野営する活動",
     "dummy3": "森を調査する事業"
   },
@@ -949,9 +949,9 @@
     "grade": 2,
     "phrase": "ten carriages full of passengers",
     "phrase_meaning": "乗客でいっぱいの車両が10両",
-    "dummy1": "乗客のいない車両が10両",
+    "dummy1": "乗客でいっぱいの荷物が10両",
     "dummy2": "乗客でいっぱいの運搬が10回",
-    "dummy3": "乗客でいっぱいの客室が10室"
+    "dummy3": "乗客でいっぱいの建物が10棟"
   },
   {
     "id": 2054,
@@ -985,9 +985,9 @@
     "grade": 2,
     "phrase": "cautiously opened the door",
     "phrase_meaning": "慎重にドアを開けた",
-    "dummy1": "大胆にドアを開けた",
+    "dummy1": "無造作にドアを開けた",
     "dummy2": "原因としてドアを開けた",
-    "dummy3": "急いでドアを開けた"
+    "dummy3": "永遠にドアを開けた"
   },
   {
     "id": 2056,
@@ -1021,9 +1021,9 @@
     "grade": 2,
     "phrase": "I am certain that",
     "phrase_meaning": "～は確かだ",
-    "dummy1": "～は疑わしい",
+    "dummy1": "～は虚偽だ",
     "dummy2": "～は認定された",
-    "dummy3": "～は不明だ"
+    "dummy3": "～は流動的だ"
   },
   {
     "id": 2058,
@@ -1093,9 +1093,9 @@
     "grade": 2,
     "phrase": "classified as top secret",
     "phrase_meaning": "極秘に分類された",
-    "dummy1": "公開として分類された",
-    "dummy2": "古典的に分類された",
-    "dummy3": "重要として分類された"
+    "dummy1": "極秘に暗号化された",
+    "dummy2": "極秘に送信された",
+    "dummy3": "極秘に放送された"
   },
   {
     "id": 2062,
@@ -1129,7 +1129,7 @@
     "grade": 2,
     "phrase": "the climate in this region",
     "phrase_meaning": "この地域の気候",
-    "dummy1": "この地域の異常気象",
+    "dummy1": "この地域の文化",
     "dummy2": "この地域の登山",
     "dummy3": "この地域の人口"
   },
@@ -1221,7 +1221,7 @@
     "phrase_meaning": "商業地区",
     "dummy1": "住宅地区",
     "dummy2": "宣伝地区",
-    "dummy3": "工業地区"
+    "dummy3": "教育地区"
   },
   {
     "id": 2069,
@@ -1273,7 +1273,7 @@
     "grade": 2,
     "phrase": "compact camera",
     "phrase_meaning": "小型のカメラ",
-    "dummy1": "巨大なカメラ",
+    "dummy1": "特別なカメラ",
     "dummy2": "契約のカメラ",
     "dummy3": "防水のカメラ"
   },
@@ -1309,9 +1309,9 @@
     "grade": 2,
     "phrase": "compared to last year",
     "phrase_meaning": "昨年と比較して",
-    "dummy1": "昨年と無関係に",
+    "dummy1": "昨年と分離して",
     "dummy2": "昨年と比例して",
-    "dummy3": "昨年と対照的に"
+    "dummy3": "昨年と結合して"
   },
   {
     "id": 2074,
@@ -1381,7 +1381,7 @@
     "grade": 2,
     "phrase": "composed of experts",
     "phrase_meaning": "専門家で構成された",
-    "dummy1": "専門家を排除された",
+    "dummy1": "専門家で解体された",
     "dummy2": "専門家で落ち着いた",
     "dummy3": "専門家を募集した"
   },
@@ -1435,7 +1435,7 @@
     "grade": 2,
     "phrase": "requires a lot of concentration",
     "phrase_meaning": "多くの集中力が必要だ",
-    "dummy1": "多くの怠慢が必要だ",
+    "dummy1": "多くの記憶力が必要だ",
     "dummy2": "多くの凝縮が必要だ",
     "dummy3": "多くの忍耐が必要だ"
   },
@@ -1471,7 +1471,7 @@
     "grade": 2,
     "phrase": "conduct a survey",
     "phrase_meaning": "アンケートを実施する",
-    "dummy1": "アンケートを中止する",
+    "dummy1": "アンケートを偽造する",
     "dummy2": "アンケートを指揮する",
     "dummy3": "アンケートを配布する"
   },
@@ -1489,7 +1489,7 @@
     "grade": 2,
     "phrase": "the conductor raised his baton",
     "phrase_meaning": "指揮者がタクトを上げた",
-    "dummy1": "演奏者がタクトを上げた",
+    "dummy1": "観客がタクトを上げた",
     "dummy2": "導体がタクトを上げた",
     "dummy3": "車掌がタクトを上げた"
   },
@@ -1507,7 +1507,7 @@
     "grade": 2,
     "phrase": "spoke with confidence",
     "phrase_meaning": "自信を持って話した",
-    "dummy1": "不安を持って話した",
+    "dummy1": "好奇心を持って話した",
     "dummy2": "秘密を持って話した",
     "dummy3": "遠慮を持って話した"
   },
@@ -1687,7 +1687,7 @@
     "grade": 2,
     "phrase": "put the leftovers in a container",
     "phrase_meaning": "残り物を容器に入れる",
-    "dummy1": "残り物を容器なしで置く",
+    "dummy1": "残り物を棚に入れる",
     "dummy2": "残り物を封筒に入れる",
     "dummy3": "残り物を袋に入れる"
   },
@@ -1759,9 +1759,9 @@
     "grade": 2,
     "phrase": "the annual convention",
     "phrase_meaning": "年次大会",
-    "dummy1": "年次解散",
+    "dummy1": "年次祝祭",
     "dummy2": "年次慣習",
-    "dummy3": "年次会議"
+    "dummy3": "年次調査"
   },
   {
     "id": 2099,
@@ -1886,7 +1886,7 @@
     "phrase": "a strange creature in the sea",
     "phrase_meaning": "海にいる奇妙な生き物",
     "dummy1": "海にいる無生物",
-    "dummy2": "海にいる奇妙な創造物",
+    "dummy2": "海にいる奇妙な風景",
     "dummy3": "海にいる奇妙な植物"
   },
   {
@@ -1975,9 +1975,9 @@
     "grade": 2,
     "phrase": "currently studying abroad",
     "phrase_meaning": "現在留学中だ",
-    "dummy1": "以前留学中だった",
+    "dummy1": "永遠に留学中だ",
     "dummy2": "通貨で留学中だ",
-    "dummy3": "最近留学中だ"
+    "dummy3": "突然留学中だ"
   },
   {
     "id": 2111,
@@ -1993,9 +1993,9 @@
     "grade": 2,
     "phrase": "woke up at dawn",
     "phrase_meaning": "夜明けに起きた",
-    "dummy1": "日没に起きた",
-    "dummy2": "夜明けに寝た",
-    "dummy3": "日の出に起きた"
+    "dummy1": "深夜に起きた",
+    "dummy2": "真昼に起きた",
+    "dummy3": "夕方に起きた"
   },
   {
     "id": 2112,
@@ -2047,9 +2047,9 @@
     "grade": 2,
     "phrase": "appearances can be deceiving",
     "phrase_meaning": "外見は人を欺くことがある",
-    "dummy1": "外見は人を正すことがある",
-    "dummy2": "外見は人を決定することがある",
-    "dummy3": "外見は人を誤解させることがある"
+    "dummy1": "外見は人を鼓舞することがある",
+    "dummy2": "外見は人を評価することがある",
+    "dummy3": "外見は人を導くことがある"
   },
   {
     "id": 2115,
@@ -2119,9 +2119,9 @@
     "grade": 2,
     "phrase": "defended his client passionately",
     "phrase_meaning": "依頼人を情熱的に弁護した",
-    "dummy1": "依頼人を情熱的に攻撃した",
-    "dummy2": "依頼人を情熱的に拒否した",
-    "dummy3": "依頼人を情熱的に支援した"
+    "dummy1": "依頼人を情熱的に告発した",
+    "dummy2": "依頼人を情熱的に無視した",
+    "dummy3": "依頼人を情熱的に指示した"
   },
   {
     "id": 2119,
@@ -2137,9 +2137,9 @@
     "grade": 2,
     "phrase": "define success clearly",
     "phrase_meaning": "成功を明確に定義する",
-    "dummy1": "成功を明確に混同する",
-    "dummy2": "成功を明確に拒否する",
-    "dummy3": "成功を明確に説明する"
+    "dummy1": "成功を明確に隠蔽する",
+    "dummy2": "成功を明確に疑問視する",
+    "dummy3": "成功を明確に否定する"
   },
   {
     "id": 2120,
@@ -2155,9 +2155,9 @@
     "grade": 2,
     "phrase": "will definitely attend",
     "phrase_meaning": "間違いなく出席する",
-    "dummy1": "おそらく出席しない",
-    "dummy2": "明確に出席する",
-    "dummy3": "確かに主席する"
+    "dummy1": "恐らく出席する",
+    "dummy2": "無理に出席する",
+    "dummy3": "一時的に出席する"
   },
   {
     "id": 2121,
@@ -2227,9 +2227,9 @@
     "grade": 2,
     "phrase": "democracy allows citizens to vote",
     "phrase_meaning": "民主主義は市民の投票を可能にする",
-    "dummy1": "独裁は市民の投票を可能にする",
-    "dummy2": "人口統計は市民の投票を可能にする",
-    "dummy3": "共和制は市民の投票を可能にする"
+    "dummy1": "無政府状態は市民の投票を可能にする",
+    "dummy2": "封建制度は市民の投票を可能にする",
+    "dummy3": "資本主義は市民の投票を可能にする"
   },
   {
     "id": 2125,
@@ -2281,9 +2281,9 @@
     "grade": 2,
     "phrase": "gave a detailed description",
     "phrase_meaning": "詳しい描写をした",
-    "dummy1": "曖昧な描写をした",
-    "dummy2": "詳しい処方箋をした",
-    "dummy3": "詳しい説明をした"
+    "dummy1": "詳しい推測をした",
+    "dummy2": "詳しい要求をした",
+    "dummy3": "詳しい命令をした"
   },
   {
     "id": 2128,
@@ -2299,9 +2299,9 @@
     "grade": 2,
     "phrase": "well adapted to living in deserts",
     "phrase_meaning": "砂漠での生活によく適応した",
-    "dummy1": "砂漠での生活に適応できない",
+    "dummy1": "森林での生活によく適応した",
     "dummy2": "デザートでの生活によく適応した",
-    "dummy3": "砂漠での生活に慣れた"
+    "dummy3": "海岸での生活によく適応した"
   },
   {
     "id": 2129,
@@ -2335,9 +2335,9 @@
     "grade": 2,
     "phrase": "filled with despair",
     "phrase_meaning": "絶望に満たされた",
-    "dummy1": "希望に満たされた",
-    "dummy2": "修理に満たされた",
-    "dummy3": "悲しみに満たされた"
+    "dummy1": "好奇心に満たされた",
+    "dummy2": "傲慢に満たされた",
+    "dummy3": "無関心に満たされた"
   },
   {
     "id": 2131,
@@ -2371,9 +2371,9 @@
     "grade": 2,
     "phrase": "capable of detecting small changes",
     "phrase_meaning": "小さな変化を検出できる",
-    "dummy1": "小さな変化を見逃す",
-    "dummy2": "小さな変化を探偵できる",
-    "dummy3": "小さな変化を記録できる"
+    "dummy1": "小さな変化を無視できる",
+    "dummy2": "小さな変化を偽造できる",
+    "dummy3": "小さな変化を引き起こせる"
   },
   {
     "id": 2133,
@@ -2389,9 +2389,9 @@
     "grade": 2,
     "phrase": "determine the cause of the problem",
     "phrase_meaning": "問題の原因を特定する",
-    "dummy1": "問題の原因を隠蔽する",
-    "dummy2": "問題の原因を決心する",
-    "dummy3": "問題の原因を調査する"
+    "dummy1": "問題の原因を誤解する",
+    "dummy2": "問題の原因を創作する",
+    "dummy3": "問題の原因を推奨する"
   },
   {
     "id": 2134,
@@ -2407,9 +2407,9 @@
     "grade": 2,
     "phrase": "a device that measures air quality",
     "phrase_meaning": "空気の質を測定する装置",
-    "dummy1": "空気の質を悪化させる装置",
-    "dummy2": "空気の質を考案する装置",
-    "dummy3": "空気の質を改善する装置"
+    "dummy1": "空気の質を測定する方法",
+    "dummy2": "空気の質を測定する理論",
+    "dummy3": "空気の質を測定する資格"
   },
   {
     "id": 2135,
@@ -2425,9 +2425,9 @@
     "grade": 2,
     "phrase": "a devoted mother",
     "phrase_meaning": "献身的な母親",
-    "dummy1": "無関心な母親",
-    "dummy2": "投票された母親",
-    "dummy3": "愛情深い母親"
+    "dummy1": "気まぐれな母親",
+    "dummy2": "怠惰な母親",
+    "dummy3": "要求の多い母親"
   },
   {
     "id": 2136,
@@ -2461,9 +2461,9 @@
     "grade": 2,
     "phrase": "go directly to the reception",
     "phrase_meaning": "受付に直接行く",
-    "dummy1": "受付に遠回りして行く",
-    "dummy2": "受付に方向を決めて行く",
-    "dummy3": "受付にすぐ行く"
+    "dummy1": "受付に迂回して行く",
+    "dummy2": "受付に偶然行く",
+    "dummy3": "受付に渋々行く"
   },
   {
     "id": 2138,
@@ -2479,9 +2479,9 @@
     "grade": 2,
     "phrase": "the main disadvantage of the plan",
     "phrase_meaning": "その計画の主な不利な点",
-    "dummy1": "その計画の主な利益の点",
-    "dummy2": "その計画の主な消失点",
-    "dummy3": "その計画の主な問題点"
+    "dummy1": "その計画の主な中心点",
+    "dummy2": "その計画の主な成功点",
+    "dummy3": "その計画の主な起源点"
   },
   {
     "id": 2139,
@@ -2497,9 +2497,9 @@
     "grade": 2,
     "phrase": "made the rabbit disappear",
     "phrase_meaning": "ウサギを消した",
-    "dummy1": "ウサギを出現させた",
-    "dummy2": "ウサギを不賛成にした",
-    "dummy3": "ウサギを見えなくした"
+    "dummy1": "ウサギを描いた",
+    "dummy2": "ウサギを捕らえた",
+    "dummy3": "ウサギを訓練した"
   },
   {
     "id": 2140,
@@ -2515,9 +2515,9 @@
     "grade": 2,
     "phrase": "disappeared and was never found",
     "phrase_meaning": "姿を消し二度と見つからなかった",
-    "dummy1": "声を出し二度と見つからなかった",
-    "dummy2": "姿を不承認にされ二度と見つからなかった",
-    "dummy3": "逃げ出し二度と見つからなかった"
+    "dummy1": "姿を現し二度と見つからなかった",
+    "dummy2": "姿を記録し二度と見つからなかった",
+    "dummy3": "姿を固定し二度と見つからなかった"
   },
   {
     "id": 2141,
@@ -2533,9 +2533,9 @@
     "grade": 2,
     "phrase": "a big disappointment",
     "phrase_meaning": "大きな失望",
-    "dummy1": "大きな喜び",
-    "dummy2": "大きな解任",
-    "dummy3": "大きな不満"
+    "dummy1": "大きな期待",
+    "dummy2": "大きな満足",
+    "dummy3": "大きな驚き"
   },
   {
     "id": 2142,
@@ -2587,9 +2587,9 @@
     "grade": 2,
     "phrase": "an important distinction between",
     "phrase_meaning": "～の間の重要な区別",
-    "dummy1": "～の間の重要な混同",
-    "dummy2": "～の間の重要な消滅",
-    "dummy3": "～の間の重要な相違点"
+    "dummy1": "～の間の重要な結合",
+    "dummy2": "～の間の重要な類似点",
+    "dummy3": "～の間の重要な起源"
   },
   {
     "id": 2145,
@@ -2605,9 +2605,9 @@
     "grade": 2,
     "phrase": "don't let it distract you",
     "phrase_meaning": "気をそらされないように",
-    "dummy1": "集中させるように",
-    "dummy2": "破壊されないように",
-    "dummy3": "集中できるように"
+    "dummy1": "励まされないように",
+    "dummy2": "混乱させられないように",
+    "dummy3": "監視されないように"
   },
   {
     "id": 2146,
@@ -2623,9 +2623,9 @@
     "grade": 2,
     "phrase": "distribute food to the victims",
     "phrase_meaning": "被災者に食料を配布する",
-    "dummy1": "被災者から食料を回収する",
-    "dummy2": "被災者に食料を流通する",
-    "dummy3": "被災者に食料を供給する"
+    "dummy1": "被災者に食料を隠す",
+    "dummy2": "被災者に食料を拒否する",
+    "dummy3": "被災者に食料を破壊する"
   },
   {
     "id": 2147,
@@ -2641,9 +2641,9 @@
     "grade": 2,
     "phrase": "please do not disturb",
     "phrase_meaning": "邪魔しないでください",
-    "dummy1": "邪魔してください",
-    "dummy2": "配布しないでください",
-    "dummy3": "騒がないでください"
+    "dummy1": "励まさないでください",
+    "dummy2": "集中しないでください",
+    "dummy3": "歓迎しないでください"
   },
   {
     "id": 2148,
@@ -2677,9 +2677,9 @@
     "grade": 2,
     "phrase": "the number of divorces increased",
     "phrase_meaning": "離婚の数が増加した",
-    "dummy1": "結婚の数が増加した",
+    "dummy1": "入学の数が増加した",
     "dummy2": "多様性の数が増加した",
-    "dummy3": "離婚の数が減少した"
+    "dummy3": "結婚の数が増加した"
   },
   {
     "id": 2150,
@@ -2696,7 +2696,7 @@
     "phrase": "domestic flights are cheaper",
     "phrase_meaning": "国内線はより安い",
     "dummy1": "国際線はより安い",
-    "dummy2": "家庭用飛行機はより安い",
+    "dummy2": "貨物便はより安い",
     "dummy3": "短距離便はより安い"
   },
   {
@@ -2713,9 +2713,9 @@
     "grade": 2,
     "phrase": "a generous donation",
     "phrase_meaning": "寛大な寄付",
-    "dummy1": "寛大な徴収",
-    "dummy2": "寛大な支配",
-    "dummy3": "寛大な支援"
+    "dummy1": "寛大な要求",
+    "dummy2": "寛大な窃盗",
+    "dummy3": "寛大な破壊"
   },
   {
     "id": 2152,
@@ -2731,7 +2731,7 @@
     "grade": 2,
     "phrase": "stood in the doorway",
     "phrase_meaning": "戸口に立った",
-    "dummy1": "戸口から離れて立った",
+    "dummy1": "屋上に立った",
     "dummy2": "車道に立った",
     "dummy3": "廊下に立った"
   },
@@ -2749,7 +2749,7 @@
     "grade": 2,
     "phrase": "no doubt that",
     "phrase_meaning": "疑いなく",
-    "dummy1": "疑いをもって",
+    "dummy1": "希望なく",
     "dummy2": "負債なく",
     "dummy3": "不安なく"
   },
@@ -2821,9 +2821,9 @@
     "grade": 2,
     "phrase": "drift away from",
     "phrase_meaning": "～から漂い離れる",
-    "dummy1": "～から固定される",
-    "dummy2": "～から移動する",
-    "dummy3": "～から沈んでいく"
+    "dummy1": "～から固定され離れる",
+    "dummy2": "～から急進し離れる",
+    "dummy3": "～から沈み込み離れる"
   },
   {
     "id": 2158,
@@ -2840,8 +2840,8 @@
     "phrase": "not to drop the glass",
     "phrase_meaning": "グラスを落とさないように",
     "dummy1": "グラスを拾わないように",
-    "dummy2": "グラスを滴らせないように",
-    "dummy3": "グラスを割らないように"
+    "dummy2": "グラスを持ち上げないように",
+    "dummy3": "グラスを固定しないように"
   },
   {
     "id": 2159,
@@ -2930,7 +2930,7 @@
     "phrase": "eagerly opened their presents",
     "phrase_meaning": "待ちかねてプレゼントを開けた",
     "dummy1": "嫌々プレゼントを開けた",
-    "dummy2": "早々にプレゼントを開けた",
+    "dummy2": "無関心にプレゼントを開けた",
     "dummy3": "慎重にプレゼントを開けた"
   },
   {
@@ -2949,7 +2949,7 @@
     "phrase_meaning": "生計を稼ぐ",
     "dummy1": "生計を失う",
     "dummy2": "生計を学ぶ",
-    "dummy3": "生計を立てる"
+    "dummy3": "生計を浪費する"
   },
   {
     "id": 2165,
@@ -2985,7 +2985,7 @@
     "phrase_meaning": "若者を教育すること",
     "dummy1": "若者を無視すること",
     "dummy2": "若者を避難させること",
-    "dummy3": "若者を支援すること"
+    "dummy3": "若者を搾取すること"
   },
   {
     "id": 2167,
@@ -3021,7 +3021,7 @@
     "phrase_meaning": "新しい大統領を選出する",
     "dummy1": "新しい大統領を解任する",
     "dummy2": "新しい大統領を建設する",
-    "dummy3": "新しい大統領を任命する"
+    "dummy3": "新しい大統領を追放する"
   },
   {
     "id": 2169,
@@ -3037,9 +3037,9 @@
     "grade": 2,
     "phrase": "composed of two elements",
     "phrase_meaning": "二つの元素から成る",
-    "dummy1": "二つの混合物から成る",
+    "dummy1": "二つの建物から成る",
     "dummy2": "二つの象から成る",
-    "dummy3": "二つの成分から成る"
+    "dummy3": "二つの惑星から成る"
   },
   {
     "id": 2170,
@@ -3057,7 +3057,7 @@
     "phrase_meaning": "初戦で敗退した",
     "dummy1": "初戦で勝ち進んだ",
     "dummy2": "初戦で照らされた",
-    "dummy3": "初戦で棄権した"
+    "dummy3": "初戦で統合された"
   },
   {
     "id": 2171,
@@ -3075,7 +3075,7 @@
     "phrase_meaning": "緊急時に",
     "dummy1": "平常時に",
     "dummy2": "出現時に",
-    "dummy3": "災害時に"
+    "dummy3": "休憩時に"
   },
   {
     "id": 2172,
@@ -3093,7 +3093,7 @@
     "phrase_meaning": "皇帝が治めた",
     "dummy1": "奴隷が治めた",
     "dummy2": "雇用者が治めた",
-    "dummy3": "将軍が治めた"
+    "dummy3": "農民が治めた"
   },
   {
     "id": 2173,
@@ -3111,7 +3111,7 @@
     "phrase_meaning": "ローマ帝国",
     "dummy1": "ローマ共和国",
     "dummy2": "ローマ炎",
-    "dummy3": "ローマ王国"
+    "dummy3": "ローマ村落"
   },
   {
     "id": 2174,
@@ -3147,7 +3147,7 @@
     "phrase_meaning": "砂漠は果てしなく見えた",
     "dummy1": "砂漠は限りあるように見えた",
     "dummy2": "砂漠は目的なく見えた",
-    "dummy3": "砂漠は広大に見えた"
+    "dummy3": "砂漠は狭く見えた"
   },
   {
     "id": 2176,
@@ -3165,7 +3165,7 @@
     "phrase_meaning": "長年敵同士だった",
     "dummy1": "長年味方同士だった",
     "dummy2": "長年エネルギー源だった",
-    "dummy3": "長年競争相手だった"
+    "dummy3": "長年家族同士だった"
   },
   {
     "id": 2177,
@@ -3183,7 +3183,7 @@
     "phrase_meaning": "昨夏婚約した",
     "dummy1": "昨夏離婚した",
     "dummy2": "昨夏参加した",
-    "dummy3": "昨夏結婚した"
+    "dummy3": "昨夏別れた"
   },
   {
     "id": 2178,
@@ -3201,7 +3201,7 @@
     "phrase_meaning": "～とはまったく異なる",
     "dummy1": "～とはわずかに異なる",
     "dummy2": "～とは内面的に異なる",
-    "dummy3": "～とはほぼ異なる"
+    "dummy3": "～とは部分的に異なる"
   },
   {
     "id": 2179,
@@ -3218,7 +3218,7 @@
     "phrase": "entry to the park",
     "phrase_meaning": "公園への入場",
     "dummy1": "公園からの退場",
-    "dummy2": "公園への記入",
+    "dummy2": "公園への参加",
     "dummy3": "公園への案内"
   },
   {
@@ -3291,7 +3291,7 @@
     "phrase_meaning": "～で証拠を見つけた",
     "dummy1": "～で隠蔽を見つけた",
     "dummy2": "～で悪意を見つけた",
-    "dummy3": "～で手がかりを見つけた"
+    "dummy3": "～で噂を見つけた"
   },
   {
     "id": 2184,
@@ -3344,8 +3344,8 @@
     "phrase": "the final examination",
     "phrase_meaning": "期末試験",
     "dummy1": "期末休暇",
-    "dummy2": "期末審査",
-    "dummy3": "期末発表"
+    "dummy2": "期末会議",
+    "dummy3": "期末娯楽"
   },
   {
     "id": 2187,
@@ -3381,7 +3381,7 @@
     "phrase_meaning": "～の間にプレゼントを交換した",
     "dummy1": "～の間にプレゼントを独占した",
     "dummy2": "～の間にプレゼントを排除した",
-    "dummy3": "～の間にプレゼントを配った"
+    "dummy3": "～の間にプレゼントを破棄した"
   },
   {
     "id": 2189,
@@ -3399,7 +3399,7 @@
     "phrase_meaning": "～についてアイデアを交換していた",
     "dummy1": "～についてアイデアを削除していた",
     "dummy2": "～についてアイデアを消耗していた",
-    "dummy3": "～についてアイデアを発表していた"
+    "dummy3": "～についてアイデアを隠匿していた"
   },
   {
     "id": 2190,
@@ -3417,7 +3417,7 @@
     "phrase_meaning": "正当な言い訳ではない",
     "dummy1": "正当な告発ではない",
     "dummy2": "正当な実行ではない",
-    "dummy3": "正当な口実ではない"
+    "dummy3": "正当な要求ではない"
   },
   {
     "id": 2191,
@@ -3435,7 +3435,7 @@
     "phrase_meaning": "珍しい絵画を展示する",
     "dummy1": "珍しい絵画を隠す",
     "dummy2": "珍しい絵画を禁止する",
-    "dummy3": "珍しい絵画を収集する"
+    "dummy3": "珍しい絵画を破壊する"
   },
   {
     "id": 2192,
@@ -3489,7 +3489,7 @@
     "phrase_meaning": "新しい市場に拡大する",
     "dummy1": "新しい市場から撤退する",
     "dummy2": "新しい市場に輸出する",
-    "dummy3": "新しい市場に進出する"
+    "dummy3": "新しい市場を維持する"
   },
   {
     "id": 2195,
@@ -3525,7 +3525,7 @@
     "phrase_meaning": "荷物が届くと予期する",
     "dummy1": "荷物が届くと諦める",
     "dummy2": "荷物が届くと調査する",
-    "dummy3": "荷物が届くと確認する"
+    "dummy3": "荷物が届くと否定する"
   },
   {
     "id": 2197,
@@ -3543,7 +3543,7 @@
     "phrase_meaning": "旅費は～になる",
     "dummy1": "旅の収入は～になる",
     "dummy2": "旅の経験は～になる",
-    "dummy3": "旅の予算は～になる"
+    "dummy3": "旅の記録は～になる"
   },
   {
     "id": 2198,
@@ -3579,7 +3579,7 @@
     "phrase_meaning": "汚職を暴露した",
     "dummy1": "汚職を隠蔽した",
     "dummy2": "汚職を放置した",
-    "dummy3": "汚職を調査した"
+    "dummy3": "汚職を無視した"
   },
   {
     "id": 2200,
@@ -3597,7 +3597,7 @@
     "phrase_meaning": "延長された営業時間",
     "dummy1": "短縮された営業時間",
     "dummy2": "消滅した営業時間",
-    "dummy3": "変更された営業時間"
+    "dummy3": "中止された営業時間"
   },
   {
     "id": 2201,
@@ -3633,7 +3633,7 @@
     "phrase_meaning": "～を大いに信頼している",
     "dummy1": "～を大いに不信に思っている",
     "dummy2": "～を大いに運命づけている",
-    "dummy3": "～を大いに期待している"
+    "dummy3": "～を大いに疑問視している"
   },
   {
     "id": 2203,
@@ -3651,7 +3651,7 @@
     "phrase_meaning": "毎日忠実に待っていた",
     "dummy1": "毎日偶然に待っていた",
     "dummy2": "毎日偽って待っていた",
-    "dummy3": "毎日辛抱強く待っていた"
+    "dummy3": "毎日気まぐれに待っていた"
   },
   {
     "id": 2204,
@@ -3669,7 +3669,7 @@
     "phrase_meaning": "～の後に名声を得た",
     "dummy1": "～の後に汚名を得た",
     "dummy2": "～の後に炎を得た",
-    "dummy3": "～の後に評判を得た"
+    "dummy3": "～の後に匿名を得た"
   },
   {
     "id": 2205,
@@ -3687,7 +3687,7 @@
     "phrase_meaning": "ヒーローになる空想",
     "dummy1": "ヒーローになる現実",
     "dummy2": "ヒーローになるファン意識",
-    "dummy3": "ヒーローになる願望"
+    "dummy3": "ヒーローになる事実"
   },
   {
     "id": 2206,
@@ -3705,7 +3705,7 @@
     "phrase_meaning": "この電話の主な特徴",
     "dummy1": "この電話の主な欠陥",
     "dummy2": "この電話の主な偉業",
-    "dummy3": "この電話の主な利点"
+    "dummy3": "この電話の主な目的"
   },
   {
     "id": 2207,
@@ -3722,7 +3722,7 @@
     "phrase": "passes through a filter",
     "phrase_meaning": "フィルターを通る",
     "dummy1": "障害物を通る",
-    "dummy2": "フィルターを満たす",
+    "dummy2": "ハンドルを通る",
     "dummy3": "センサーを通る"
   },
   {
@@ -3741,7 +3741,7 @@
     "phrase_meaning": "深刻な財政問題",
     "dummy1": "深刻な個人的問題",
     "dummy2": "深刻な最終問題",
-    "dummy3": "深刻な金銭問題"
+    "dummy3": "深刻な環境問題"
   },
   {
     "id": 2209,
@@ -3759,7 +3759,7 @@
     "phrase_meaning": "財政的に実行不可能だ",
     "dummy1": "感情的に実行不可能だ",
     "dummy2": "最終的に実行不可能だ",
-    "dummy3": "金銭的に実行不可能だ"
+    "dummy3": "技術的に実行不可能だ"
   },
   {
     "id": 2210,
@@ -3777,7 +3777,7 @@
     "phrase_meaning": "暖炉のそばに座った",
     "dummy1": "冷蔵庫のそばに座った",
     "dummy2": "火事場のそばに座った",
-    "dummy3": "ストーブのそばに座った"
+    "dummy3": "本棚のそばに座った"
   },
   {
     "id": 2211,
@@ -3813,7 +3813,7 @@
     "phrase_meaning": "リサイクルのために平らにされた",
     "dummy1": "リサイクルのために膨らまされた",
     "dummy2": "リサイクルのためにお世辞を言われた",
-    "dummy3": "リサイクルのために圧縮された"
+    "dummy3": "リサイクルのために粉砕された"
   },
   {
     "id": 2213,
@@ -3831,7 +3831,7 @@
     "phrase_meaning": "多くのお世辞の言葉をもらった",
     "dummy1": "多くの批判的な言葉をもらった",
     "dummy2": "多くの平坦な言葉をもらった",
-    "dummy3": "多くの好意的な言葉をもらった"
+    "dummy3": "多くの真実の言葉をもらった"
   },
   {
     "id": 2214,
@@ -3849,7 +3849,7 @@
     "phrase_meaning": "洪水から逃げなければならなかった",
     "dummy1": "洪水に留まらなければならなかった",
     "dummy2": "洪水から自由にならなければならなかった",
-    "dummy3": "洪水から退避しなければならなかった"
+    "dummy3": "洪水に立ち向かわなければならなかった"
   },
   {
     "id": 2215,
@@ -3867,7 +3867,7 @@
     "phrase_meaning": "かなりの柔軟性がある",
     "dummy1": "かなりの硬直性がある",
     "dummy2": "かなりの反射がある",
-    "dummy3": "かなりの自由度がある"
+    "dummy3": "かなりの耐久性がある"
   },
   {
     "id": 2216,
@@ -3885,7 +3885,7 @@
     "phrase_meaning": "フランス語を流暢に話す",
     "dummy1": "フランス語をたどたどしく話す",
     "dummy2": "フランス語を流動的に話す",
-    "dummy3": "フランス語をぺらぺら話す"
+    "dummy3": "フランス語を不正確に話す"
   },
   {
     "id": 2217,
@@ -3902,8 +3902,8 @@
     "phrase": "birds fly thousands of miles",
     "phrase_meaning": "鳥は何千マイルも飛ぶ",
     "dummy1": "鳥は何千マイルも歩く",
-    "dummy2": "鳥は何千マイルもハエになる",
-    "dummy3": "鳥は何千マイルも移動する"
+    "dummy2": "鳥は何千マイルも滞在する",
+    "dummy3": "鳥は何千マイルも泳ぐ"
   },
   {
     "id": 2218,
@@ -3956,8 +3956,8 @@
     "phrase": "made a fortune in",
     "phrase_meaning": "～で財産を築いた",
     "dummy1": "～で負債を築いた",
-    "dummy2": "～で要塞を築いた",
-    "dummy3": "～で成功を収めた"
+    "dummy2": "～で権力を築いた",
+    "dummy3": "～で評判を築いた"
   },
   {
     "id": 2221,
@@ -3974,8 +3974,8 @@
     "phrase": "the foundation of a career",
     "phrase_meaning": "キャリアの基礎",
     "dummy1": "キャリアの崩壊",
-    "dummy2": "キャリアの噴水",
-    "dummy3": "キャリアの基盤"
+    "dummy2": "キャリアの障害",
+    "dummy3": "キャリアの目標"
   },
   {
     "id": 2222,
@@ -3992,8 +3992,8 @@
     "phrase": "frequent exercise is good",
     "phrase_meaning": "頻繁な運動は良い",
     "dummy1": "まれな運動は良い",
-    "dummy2": "自由な運動は良い",
-    "dummy3": "定期的な運動は良い"
+    "dummy2": "不規則な運動は良い",
+    "dummy3": "偶然の運動は良い"
   },
   {
     "id": 2223,
@@ -4009,9 +4009,9 @@
     "grade": 2,
     "phrase": "frequently visits his grandparents",
     "phrase_meaning": "頻繁に祖父母を訪ねる",
-    "dummy1": "めったに祖父母を訪ねない",
-    "dummy2": "自由に祖父母を訪ねる",
-    "dummy3": "定期的に祖父母を訪ねる"
+    "dummy1": "めったに祖父母を訪ねる",
+    "dummy2": "不意に祖父母を訪ねる",
+    "dummy3": "強制的に祖父母を訪ねる"
   },
   {
     "id": 2224,
@@ -4029,7 +4029,7 @@
     "phrase_meaning": "大きな音が子どもを怖がらせる",
     "dummy1": "大きな音が子どもを安心させる",
     "dummy2": "大きな音が子どもを強くさせる",
-    "dummy3": "大きな音が子どもを驚かせる"
+    "dummy3": "大きな音が子どもを楽しませる"
   },
   {
     "id": 2225,
@@ -4046,7 +4046,7 @@
     "phrase": "worked hard to fulfill his dream",
     "phrase_meaning": "夢を実現するために懸命に働いた",
     "dummy1": "夢を放棄するために懸命に働いた",
-    "dummy2": "夢を満タンにするために懸命に働いた",
+    "dummy2": "夢を妨害するために懸命に働いた",
     "dummy3": "夢を追うために懸命に働いた"
   },
   {
@@ -4063,9 +4063,9 @@
     "grade": 2,
     "phrase": "the younger generation",
     "phrase_meaning": "若い世代",
-    "dummy1": "古い世代",
-    "dummy2": "若い発電",
-    "dummy3": "若い集団"
+    "dummy1": "若い精神",
+    "dummy2": "若い伝統",
+    "dummy3": "若い知識"
   },
   {
     "id": 2227,
@@ -4136,8 +4136,8 @@
     "phrase": "govern the country wisely",
     "phrase_meaning": "国を賢く統治する",
     "dummy1": "国を賢く放棄する",
-    "dummy2": "国を賢く管理する",
-    "dummy3": "国を賢く治める"
+    "dummy2": "国を賢く無視する",
+    "dummy3": "国を賢く破壊する"
   },
   {
     "id": 2231,
@@ -4154,8 +4154,8 @@
     "phrase": "grabbed her bag and rushed out",
     "phrase_meaning": "バッグをつかんで飛び出した",
     "dummy1": "バッグを手放して飛び出した",
-    "dummy2": "バッグを墓場に飛び出した",
-    "dummy3": "バッグを拾って飛び出した"
+    "dummy2": "バッグを落として飛び出した",
+    "dummy3": "バッグを忘れて飛び出した"
   },
   {
     "id": 2232,
@@ -4171,9 +4171,9 @@
     "grade": 2,
     "phrase": "granted a research grant",
     "phrase_meaning": "研究助成金を与えた",
-    "dummy1": "研究助成金を拒否した",
-    "dummy2": "研究を祖父に与えた",
-    "dummy3": "研究助成金を申請した"
+    "dummy1": "研究許可証を与えた",
+    "dummy2": "研究義務を与えた",
+    "dummy3": "研究報告書を与えた"
   },
   {
     "id": 2233,
@@ -4190,8 +4190,8 @@
     "phrase": "could not grasp the meaning",
     "phrase_meaning": "意味を理解できなかった",
     "dummy1": "意味を誤解した",
-    "dummy2": "意味を草で覆った",
-    "dummy3": "意味を記憶できなかった"
+    "dummy2": "意味を分析できなかった",
+    "dummy3": "意味を表現できなかった"
   },
   {
     "id": 2234,
@@ -4208,8 +4208,8 @@
     "phrase": "gravity keeps us on the ground",
     "phrase_meaning": "重力が私たちを地面にとどめている",
     "dummy1": "浮力が私たちを地面にとどめている",
-    "dummy2": "墓場が私たちを地面にとどめている",
-    "dummy3": "万有引力が私たちを地面にとどめている"
+    "dummy2": "風圧が私たちを地面にとどめている",
+    "dummy3": "地磁気が私たちを地面にとどめている"
   },
   {
     "id": 2235,
@@ -4226,8 +4226,8 @@
     "phrase": "greeted the guests with a smile",
     "phrase_meaning": "笑顔で客を迎えた",
     "dummy1": "笑顔で客を追い返した",
-    "dummy2": "笑顔で客を貪った",
-    "dummy3": "笑顔で客を追い返した"
+    "dummy2": "笑顔で客を無視した",
+    "dummy3": "笑顔で客を撮影した"
   },
   {
     "id": 2236,
@@ -4244,8 +4244,8 @@
     "phrase": "gripped the rope tightly",
     "phrase_meaning": "ロープをしっかりつかんだ",
     "dummy1": "ロープを緩く放した",
-    "dummy2": "ロープを不平を言った",
-    "dummy3": "ロープを強く握った"
+    "dummy2": "ロープを乱暴に投げた",
+    "dummy3": "ロープをそっと置いた"
   },
   {
     "id": 2237,
@@ -4263,7 +4263,7 @@
     "phrase_meaning": "警備員が入口に立っていた",
     "dummy1": "侵入者が入口に立っていた",
     "dummy2": "案内人が入口に立っていた",
-    "dummy3": "守衛が入口に立っていた"
+    "dummy3": "客が入口に立っていた"
   },
   {
     "id": 2238,
@@ -4280,8 +4280,8 @@
     "phrase": "reading before bed is a good habit",
     "phrase_meaning": "寝る前の読書は良い習慣だ",
     "dummy1": "寝る前の読書は良い例外だ",
-    "dummy2": "寝る前の読書は良い生息地だ",
-    "dummy3": "寝る前の読書は良い決まりだ"
+    "dummy2": "寝る前の読書は良い偶然だ",
+    "dummy3": "寝る前の読書は良い障害だ"
   },
   {
     "id": 2239,
@@ -4298,8 +4298,8 @@
     "phrase": "used a hammer to nail",
     "phrase_meaning": "ハンマーを使って釘を打った",
     "dummy1": "ペンチを使って釘を打った",
-    "dummy2": "妨害者を使って釘を打った",
-    "dummy3": "道具を使って釘を打った"
+    "dummy2": "スパナを使って釘を打った",
+    "dummy3": "電動ドリルを使って釘を打った"
   },
   {
     "id": 2240,
@@ -4316,8 +4316,8 @@
     "phrase": "faced many hardships during the war",
     "phrase_meaning": "戦争中に多くの苦難に直面した",
     "dummy1": "戦争中に多くの幸運に直面した",
-    "dummy2": "戦争中に多くの硬さに直面した",
-    "dummy3": "戦争中に多くの祝福に直面した"
+    "dummy2": "戦争中に多くの喜びに直面した",
+    "dummy3": "戦争中に多くの機会に直面した"
   },
   {
     "id": 2241,
@@ -4352,8 +4352,8 @@
     "phrase": "exposure can be harmful",
     "phrase_meaning": "さらされることは有害になり得る",
     "dummy1": "さらされることは有益になり得る",
-    "dummy2": "さらされることは調和的になり得る",
-    "dummy3": "さらされることは不健康になり得る"
+    "dummy2": "さらされることは無関係になり得る",
+    "dummy3": "さらされることは不確実になり得る"
   },
   {
     "id": 2243,
@@ -4370,8 +4370,8 @@
     "phrase": "lives in harmony with nature",
     "phrase_meaning": "自然と調和して暮らしている",
     "dummy1": "自然と対立して暮らしている",
-    "dummy2": "自然と薬局で暮らしている",
-    "dummy3": "自然と一体となって暮らしている"
+    "dummy2": "自然を無視して暮らしている",
+    "dummy3": "自然と競争して暮らしている"
   },
   {
     "id": 2244,
@@ -4388,8 +4388,8 @@
     "phrase": "the wound will heal soon",
     "phrase_meaning": "傷はすぐに治る",
     "dummy1": "傷はすぐに悪化する",
-    "dummy2": "傷はすぐにかかとになる",
-    "dummy3": "傷はすぐに良くなる"
+    "dummy2": "傷はすぐに感染する",
+    "dummy3": "傷はすぐに広がる"
   },
   {
     "id": 2245,
@@ -4406,8 +4406,8 @@
     "phrase": "believes she is in heaven",
     "phrase_meaning": "天国にいると信じている",
     "dummy1": "地獄にいると信じている",
-    "dummy2": "重いものにいると信じている",
-    "dummy3": "極楽にいると信じている"
+    "dummy2": "混乱にいると信じている",
+    "dummy3": "噂にいると信じている"
   },
   {
     "id": 2246,
@@ -4423,9 +4423,9 @@
     "grade": 2,
     "phrase": "hesitantly raised her hand",
     "phrase_meaning": "ためらいがちに手を挙げた",
-    "dummy1": "迷いなく手を挙げた",
-    "dummy2": "温かく手を挙げた",
-    "dummy3": "おずおずと手を挙げた"
+    "dummy1": "素早く手を挙げた",
+    "dummy2": "無造作に手を挙げた",
+    "dummy3": "力強く手を挙げた"
   },
   {
     "id": 2247,
@@ -4441,9 +4441,9 @@
     "grade": 2,
     "phrase": "without any hesitation",
     "phrase_meaning": "一瞬のためらいもなく",
-    "dummy1": "多くのためらいをもって",
-    "dummy2": "一瞬の暖房もなく",
-    "dummy3": "一瞬の躊躇もなく"
+    "dummy1": "一瞬の混乱もなく",
+    "dummy2": "一瞬の希望もなく",
+    "dummy3": "一瞬の静けさもなく"
   },
   {
     "id": 2248,
@@ -4459,9 +4459,9 @@
     "grade": 2,
     "phrase": "decided to hire ten employees",
     "phrase_meaning": "10人の社員を雇うことにした",
-    "dummy1": "10人の社員を解雇することにした",
-    "dummy2": "10人の社員をより高くすることにした",
-    "dummy3": "10人の社員を雇用することにした"
+    "dummy1": "10人の社員を訪問することにした",
+    "dummy2": "10人の社員を教育することにした",
+    "dummy3": "10人の社員を評価することにした"
   },
   {
     "id": 2249,
@@ -4477,9 +4477,9 @@
     "grade": 2,
     "phrase": "the ball hit the window",
     "phrase_meaning": "ボールが窓に当たった",
-    "dummy1": "ボールが窓を避けた",
-    "dummy2": "ボールが窓を暑くした",
-    "dummy3": "ボールが窓に衝突した"
+    "dummy1": "ボールが窓を通過した",
+    "dummy2": "ボールが窓を見た",
+    "dummy3": "ボールが窓を飾った"
   },
   {
     "id": 2250,
@@ -4495,9 +4495,9 @@
     "grade": 2,
     "phrase": "a great honor to receive",
     "phrase_meaning": "受けることは大変光栄だ",
-    "dummy1": "受けることは大変不名誉だ",
-    "dummy2": "受けることは大変時間だ",
-    "dummy3": "受けることは大変誇りだ"
+    "dummy1": "受けることは大変困難だ",
+    "dummy2": "受けることは大変奇妙だ",
+    "dummy3": "受けることは大変危険だ"
   },
   {
     "id": 2251,
@@ -4513,9 +4513,9 @@
     "grade": 2,
     "phrase": "honored to be invited",
     "phrase_meaning": "招待されて光栄だ",
-    "dummy1": "招待されて不名誉だ",
-    "dummy2": "招待されて時間通りだ",
-    "dummy3": "招待されて名誉だ"
+    "dummy1": "招待されて驚いた",
+    "dummy2": "招待されて退屈だ",
+    "dummy3": "招待されて戸惑った"
   },
   {
     "id": 2252,
@@ -4531,9 +4531,9 @@
     "grade": 2,
     "phrase": "remained humble despite success",
     "phrase_meaning": "成功にもかかわらず謙虚なままだった",
-    "dummy1": "成功にもかかわらず傲慢なままだった",
-    "dummy2": "成功にもかかわらず口ごもったままだった",
-    "dummy3": "成功にもかかわらず腰が低いままだった"
+    "dummy1": "成功にもかかわらず疑り深いままだった",
+    "dummy2": "成功にもかかわらず用心深いままだった",
+    "dummy3": "成功にもかかわらず怒りっぽいままだった"
   },
   {
     "id": 2253,
@@ -4549,9 +4549,9 @@
     "grade": 2,
     "phrase": "protect the future of humanity",
     "phrase_meaning": "人類の未来を守る",
-    "dummy1": "動物の未来を守る",
-    "dummy2": "湿度の未来を守る",
-    "dummy3": "人々の未来を守る"
+    "dummy1": "知識の未来を守る",
+    "dummy2": "芸術の未来を守る",
+    "dummy3": "機械の未来を守る"
   },
   {
     "id": 2254,
@@ -4567,9 +4567,9 @@
     "grade": 2,
     "phrase": "identify the person in the photo",
     "phrase_meaning": "写真の人物を特定する",
-    "dummy1": "写真の人物を隠す",
-    "dummy2": "写真の人物を理想化する",
-    "dummy3": "写真の人物が誰か見分ける"
+    "dummy1": "写真の人物を避ける",
+    "dummy2": "写真の人物を称賛する",
+    "dummy3": "写真の人物を複製する"
   },
   {
     "id": 2255,
@@ -4585,9 +4585,9 @@
     "grade": 2,
     "phrase": "confirmed the identity of",
     "phrase_meaning": "～の身元を確認した",
-    "dummy1": "～の匿名性を確認した",
-    "dummy2": "～の同一性を確認した",
-    "dummy3": "～の個人情報を確認した"
+    "dummy1": "～の価値を確認した",
+    "dummy2": "～の能力を確認した",
+    "dummy3": "～の場所を確認した"
   },
   {
     "id": 2256,
@@ -4603,9 +4603,9 @@
     "grade": 2,
     "phrase": "his ignorance of the law",
     "phrase_meaning": "法律を知らないこと",
-    "dummy1": "法律に精通していること",
-    "dummy2": "法律を無視すること",
-    "dummy3": "法律に無知なこと"
+    "dummy1": "法律を変更すること",
+    "dummy2": "法律を遵守すること",
+    "dummy3": "法律を議論すること"
   },
   {
     "id": 2257,
@@ -4621,9 +4621,9 @@
     "grade": 2,
     "phrase": "ignorant of the dangers ahead",
     "phrase_meaning": "前方の危険を知らなかった",
-    "dummy1": "前方の危険を熟知していた",
-    "dummy2": "前方の危険を無視した",
-    "dummy3": "前方の危険を認識していなかった"
+    "dummy1": "前方の危険を歓迎した",
+    "dummy2": "前方の危険を作り出した",
+    "dummy3": "前方の危険を分析した"
   },
   {
     "id": 2258,
@@ -4639,9 +4639,9 @@
     "grade": 2,
     "phrase": "recovered from a serious illness",
     "phrase_meaning": "重い病気から回復した",
-    "dummy1": "重い怪我から回復した",
-    "dummy2": "重い不法行為から回復した",
-    "dummy3": "重い怪我から回復した"
+    "dummy1": "重い秘密から回復した",
+    "dummy2": "重い混乱から回復した",
+    "dummy3": "重い誤解から回復した"
   },
   {
     "id": 2259,
@@ -4657,9 +4657,9 @@
     "grade": 2,
     "phrase": "beautifully illustrated with pictures",
     "phrase_meaning": "絵で美しく図解された",
-    "dummy1": "絵で美しく説明された",
-    "dummy2": "絵で美しく照らされた",
-    "dummy3": "絵で美しく装飾された"
+    "dummy1": "絵で美しく隠された",
+    "dummy2": "絵で美しく無視された",
+    "dummy3": "絵で美しく汚された"
   },
   {
     "id": 2260,
@@ -4677,7 +4677,7 @@
     "phrase_meaning": "多くの美しい挿絵",
     "dummy1": "多くの美しい文章",
     "dummy2": "多くの美しい幻想",
-    "dummy3": "多くの美しいイラスト"
+    "dummy3": "多くの美しい彫刻"
   },
   {
     "id": 2261,
@@ -4693,9 +4693,9 @@
     "grade": 2,
     "phrase": "children often imitate their parents",
     "phrase_meaning": "子どもはよく親をまねる",
-    "dummy1": "子どもはよく親に反抗する",
-    "dummy2": "子どもはよく親を刺激する",
-    "dummy3": "子どもはよく親を模倣する"
+    "dummy1": "子どもはよく親を指導する",
+    "dummy2": "子どもはよく親を世話する",
+    "dummy3": "子どもはよく親を忘れる"
   },
   {
     "id": 2262,
@@ -4711,9 +4711,9 @@
     "grade": 2,
     "phrase": "many immigrants came seeking",
     "phrase_meaning": "多くの移民が求めてやって来た",
-    "dummy1": "多くの帰国者が求めてやって来た",
-    "dummy2": "多くの模倣者が求めてやって来た",
-    "dummy3": "多くの外国人が求めてやって来た"
+    "dummy1": "多くの探偵が求めてやって来た",
+    "dummy2": "多くの芸術家が求めてやって来た",
+    "dummy3": "多くのロボットが求めてやって来た"
   },
   {
     "id": 2263,
@@ -4747,9 +4747,9 @@
     "grade": 2,
     "phrase": "had a huge impact on",
     "phrase_meaning": "～に大きな影響を与えた",
-    "dummy1": "～に大きな原因を与えた",
-    "dummy2": "～に大きな衝突を与えた",
-    "dummy3": "～に大きな刺激を与えた"
+    "dummy1": "～に大きな疑問を与えた",
+    "dummy2": "～に大きな平和を与えた",
+    "dummy3": "～に大きな遅延を与えた"
   },
   {
     "id": 2265,
@@ -4765,9 +4765,9 @@
     "grade": 2,
     "phrase": "his silence implied agreement",
     "phrase_meaning": "彼の沈黙は同意を暗示した",
-    "dummy1": "彼の沈黙は同意を明言した",
-    "dummy2": "彼の沈黙は同意を適用した",
-    "dummy3": "彼の沈黙は同意をほのめかした"
+    "dummy1": "彼の沈黙は同意を妨害した",
+    "dummy2": "彼の沈黙は同意を修正した",
+    "dummy3": "彼の沈黙は同意を否定した"
   },
   {
     "id": 2266,
@@ -4783,9 +4783,9 @@
     "grade": 2,
     "phrase": "trying to imply that",
     "phrase_meaning": "～をほのめかそうとしている",
-    "dummy1": "～を明言しようとしている",
-    "dummy2": "～を実行しようとしている",
-    "dummy3": "～を暗示しようとしている"
+    "dummy1": "～を命令しようとしている",
+    "dummy2": "～を削除しようとしている",
+    "dummy3": "～を観察しようとしている"
   },
   {
     "id": 2267,
@@ -4801,9 +4801,9 @@
     "grade": 2,
     "phrase": "sells imported goods from Italy",
     "phrase_meaning": "イタリアからの輸入品を販売している",
-    "dummy1": "イタリアへの輸出品を販売している",
+    "dummy1": "イタリアからの輸出品を販売している",
     "dummy2": "イタリアからの重要品を販売している",
-    "dummy3": "イタリアからの特産品を販売している"
+    "dummy3": "イタリアからの国産品を販売している"
   },
   {
     "id": 2268,
@@ -4821,7 +4821,7 @@
     "phrase_meaning": "～で良い印象を与えた",
     "dummy1": "～で良い無関心を与えた",
     "dummy2": "～で良い圧迫を与えた",
-    "dummy3": "～で良い評価を与えた"
+    "dummy3": "～で良い錯覚を与えた"
   },
   {
     "id": 2269,
@@ -4857,7 +4857,7 @@
     "phrase_meaning": "衝動的にその靴を買った",
     "dummy1": "計画的にその靴を買った",
     "dummy2": "脈拍的にその靴を買った",
-    "dummy3": "深く考えずにその靴を買った"
+    "dummy3": "義務的にその靴を買った"
   },
   {
     "id": 2271,
@@ -4874,8 +4874,8 @@
     "phrase": "several incidents of theft",
     "phrase_meaning": "いくつかの窃盗事件",
     "dummy1": "いくつかの窃盗防止",
-    "dummy2": "いくつかの偶然の窃盗",
-    "dummy3": "いくつかの窃盗の件"
+    "dummy2": "いくつかの窃盗の原因",
+    "dummy3": "いくつかの窃盗対策"
   },
   {
     "id": 2272,
@@ -4893,7 +4893,7 @@
     "phrase_meaning": "彼女の月収は出費をまかなう",
     "dummy1": "彼女の月々の支出は出費をまかなう",
     "dummy2": "彼女の月の到着は出費をまかなう",
-    "dummy3": "彼女の月収は生活費をまかなう"
+    "dummy3": "彼女の月々の負担は出費をまかなう"
   },
   {
     "id": 2273,
@@ -4911,7 +4911,7 @@
     "phrase_meaning": "信じられないほど美しい眺め",
     "dummy1": "そこそこに美しい眺め",
     "dummy2": "段階的に美しい眺め",
-    "dummy3": "驚くほど美しい眺め"
+    "dummy3": "ごく普通に美しい眺め"
   },
   {
     "id": 2274,
@@ -4946,8 +4946,8 @@
     "phrase": "assessed individually",
     "phrase_meaning": "個別に評価される",
     "dummy1": "集団で評価される",
-    "dummy2": "個人的に未評価のまま",
-    "dummy3": "一人一人評価される"
+    "dummy2": "一律に評価される",
+    "dummy3": "全体で評価される"
   },
   {
     "id": 2276,
@@ -4965,7 +4965,7 @@
     "phrase_meaning": "日本文化の影響を強く受けた",
     "dummy1": "日本文化の抵抗を強く受けた",
     "dummy2": "日本文化の流感を強く受けた",
-    "dummy3": "日本文化に強く染まった"
+    "dummy3": "日本文化を強く批判した"
   },
   {
     "id": 2277,
@@ -4983,7 +4983,7 @@
     "phrase_meaning": "多額の遺産を受け取った",
     "dummy1": "多額の負債を受け取った",
     "dummy2": "多額の相続人を受け取った",
-    "dummy3": "多額の借金を受け取った"
+    "dummy3": "多額の費用を受け取った"
   },
   {
     "id": 2278,
@@ -5001,7 +5001,7 @@
     "phrase_meaning": "依頼人の無罪を証明した",
     "dummy1": "依頼人の出席を証明した",
     "dummy2": "依頼人の革新を証明した",
-    "dummy3": "依頼人が無実であることを証明した"
+    "dummy3": "依頼人の有罪を証明した"
   },
   {
     "id": 2279,
@@ -5019,7 +5019,7 @@
     "phrase_meaning": "その子どもは無邪気に微笑んだ",
     "dummy1": "その子どもは悪意をもって微笑んだ",
     "dummy2": "その子どもは革新的に微笑んだ",
-    "dummy3": "その子どもは屈託なく微笑んだ"
+    "dummy3": "その子どもは不機嫌そうに微笑んだ"
   },
   {
     "id": 2280,
@@ -5037,7 +5037,7 @@
     "phrase_meaning": "～の調査を開始した",
     "dummy1": "～の隠蔽を開始した",
     "dummy2": "～の不平等を開始した",
-    "dummy3": "～の究明を開始した"
+    "dummy3": "～の放置を開始した"
   },
   {
     "id": 2281,
@@ -5055,7 +5055,7 @@
     "phrase_meaning": "即座にエネルギーを与える",
     "dummy1": "遅れてエネルギーを与える",
     "dummy2": "本能的にエネルギーを与える",
-    "dummy3": "瞬時にエネルギーを与える"
+    "dummy3": "徐々にエネルギーを与える"
   },
   {
     "id": 2282,
@@ -5073,7 +5073,7 @@
     "phrase_meaning": "動物は本能に頼る",
     "dummy1": "動物は理性に頼る",
     "dummy2": "動物は教育に頼る",
-    "dummy3": "動物は生来の感覚に頼る"
+    "dummy3": "動物は迷信に頼る"
   },
   {
     "id": 2283,
@@ -5091,7 +5091,7 @@
     "phrase_meaning": "生徒に～するよう指示した",
     "dummy1": "生徒に～するよう任せた",
     "dummy2": "生徒に～するよう建設した",
-    "dummy3": "生徒に～するよう伝えた"
+    "dummy3": "生徒に～するよう禁じた"
   },
   {
     "id": 2284,
@@ -5126,8 +5126,8 @@
     "phrase": "do you have health insurance",
     "phrase_meaning": "健康保険に入っていますか",
     "dummy1": "健康診断に入っていますか",
-    "dummy2": "健康の保証に入っていますか",
-    "dummy3": "生命保険に入っていますか"
+    "dummy2": "健康負担に入っていますか",
+    "dummy3": "健康補助に入っていますか"
   },
   {
     "id": 2286,
@@ -5145,7 +5145,7 @@
     "phrase_meaning": "すべての質問に知的に答えた",
     "dummy1": "すべての質問に愚かに答えた",
     "dummy2": "すべての質問に情報的に答えた",
-    "dummy3": "すべての質問に理路整然と答えた"
+    "dummy3": "すべての質問に感情的に答えた"
   },
   {
     "id": 2287,
@@ -5163,7 +5163,7 @@
     "phrase_meaning": "暑さが非常に激しかった",
     "dummy1": "暑さが非常に穏やかだった",
     "dummy2": "暑さが非常に意図的だった",
-    "dummy3": "暑さが非常に強かった"
+    "dummy3": "暑さが非常に微弱だった"
   },
   {
     "id": 2288,
@@ -5181,7 +5181,7 @@
     "phrase_meaning": "子どもは交流することで学ぶ",
     "dummy1": "子どもは孤立することで学ぶ",
     "dummy2": "子どもは妨害することで学ぶ",
-    "dummy3": "子どもは対話することで学ぶ"
+    "dummy3": "子どもは対立することで学ぶ"
   },
   {
     "id": 2289,
@@ -5253,7 +5253,7 @@
     "phrase_meaning": "火事の原因を調査している",
     "dummy1": "火事の原因を隠蔽している",
     "dummy2": "火事の原因を投資している",
-    "dummy3": "火事の原因を調べている"
+    "dummy3": "火事の原因を無視している"
   },
   {
     "id": 2293,
@@ -5271,7 +5271,7 @@
     "phrase_meaning": "調査により新しい証拠が明らかになった",
     "dummy1": "隠蔽により新しい証拠が明らかになった",
     "dummy2": "投資により新しい証拠が明らかになった",
-    "dummy3": "研究により新しい証拠が明らかになった"
+    "dummy3": "憶測により新しい証拠が明らかになった"
   },
   {
     "id": 2294,
@@ -5289,7 +5289,7 @@
     "phrase_meaning": "大音量の音楽は近所の人をいらだたせる",
     "dummy1": "大音量の音楽は近所の人を喜ばせる",
     "dummy2": "大音量の音楽は近所の人を灌漑する",
-    "dummy3": "大音量の音楽は近所の人を困らせる"
+    "dummy3": "大音量の音楽は近所の人を感銘させる"
   },
   {
     "id": 2295,
@@ -5307,7 +5307,7 @@
     "phrase_meaning": "絶え間ない騒音はうっとうしかった",
     "dummy1": "絶え間ない騒音は心地よかった",
     "dummy2": "絶え間ない騒音は灌漑的だった",
-    "dummy3": "絶え間ない騒音は不快だった"
+    "dummy3": "絶え間ない騒音は魅力的だった"
   },
   {
     "id": 2296,
@@ -5325,7 +5325,7 @@
     "phrase_meaning": "その国の刑務所は過密状態だ",
     "dummy1": "その国の学校は過密状態だ",
     "dummy2": "その国の宝石は過密状態だ",
-    "dummy3": "その国の拘置所は過密状態だ"
+    "dummy3": "その国の教会は過密状態だ"
   },
   {
     "id": 2297,
@@ -5343,7 +5343,7 @@
     "phrase_meaning": "彼の表情から判断すると",
     "dummy1": "彼の表情を無視すると",
     "dummy2": "彼の表情からジュースを作ると",
-    "dummy3": "彼の表情から推測すると"
+    "dummy3": "彼の表情から記録すると"
   },
   {
     "id": 2298,
@@ -5360,8 +5360,8 @@
     "phrase": "the court will make its judgment",
     "phrase_meaning": "裁判所は判決を下す",
     "dummy1": "裁判所は起訴を下す",
-    "dummy2": "裁判所は審判を下す",
-    "dummy3": "裁判所は決定を下す"
+    "dummy2": "裁判所は提案を下す",
+    "dummy3": "裁判所は命令を下す"
   },
   {
     "id": 2299,
@@ -5379,7 +5379,7 @@
     "phrase_meaning": "すべての人が正義を受ける資格がある",
     "dummy1": "すべての人が報酬を受ける資格がある",
     "dummy2": "すべての人がジュースを受ける資格がある",
-    "dummy3": "すべての人が平等を受ける資格がある"
+    "dummy3": "すべての人が名誉を受ける資格がある"
   },
   {
     "id": 2300,
@@ -5397,7 +5397,7 @@
     "phrase_meaning": "最新の科学実験室",
     "dummy1": "最新の体育施設",
     "dummy2": "最新の科学労働者",
-    "dummy3": "最新の科学施設"
+    "dummy3": "最新の科学博物館"
   },
   {
     "id": 2301,
@@ -5415,7 +5415,7 @@
     "phrase_meaning": "資金不足で失敗した",
     "dummy1": "資金過多で失敗した",
     "dummy2": "資金の湖で失敗した",
-    "dummy3": "資金不足で中断した"
+    "dummy3": "資金管理で失敗した"
   },
   {
     "id": 2302,
@@ -5433,7 +5433,7 @@
     "phrase_meaning": "田園地帯の風景",
     "dummy1": "田園地帯の騒音",
     "dummy2": "田園地帯の着陸",
-    "dummy3": "田園地帯の眺め"
+    "dummy3": "田園地帯の歴史"
   },
   {
     "id": 2303,
@@ -5451,7 +5451,7 @@
     "phrase_meaning": "部屋は笑い声で満たされた",
     "dummy1": "部屋は沈黙で満たされた",
     "dummy2": "部屋は洗濯で満たされた",
-    "dummy3": "部屋は歓声で満たされた"
+    "dummy3": "部屋は歌声で満たされた"
   },
   {
     "id": 2304,
@@ -5469,7 +5469,7 @@
     "phrase_meaning": "新しい衛星を打ち上げる",
     "dummy1": "新しい衛星を撤回する",
     "dummy2": "新しい衛星を昼食にする",
-    "dummy3": "新しい衛星を軌道に乗せる"
+    "dummy3": "新しい衛星を修理する"
   },
   {
     "id": 2305,
@@ -5523,7 +5523,7 @@
     "phrase_meaning": "自由の女神像",
     "dummy1": "束縛の女神像",
     "dummy2": "図書館の女神像",
-    "dummy3": "解放の女神像"
+    "dummy3": "平和の女神像"
   },
   {
     "id": 2308,
@@ -5541,7 +5541,7 @@
     "phrase_meaning": "ビーチの近くに位置する",
     "dummy1": "ビーチの近くに消失する",
     "dummy2": "ビーチの近くに施錠する",
-    "dummy3": "ビーチの近くに建てられている"
+    "dummy3": "ビーチの近くに隠されている"
   },
   {
     "id": 2309,
@@ -5595,7 +5595,7 @@
     "phrase_meaning": "～に大きな忠誠を示した",
     "dummy1": "～に大きな裏切りを示した",
     "dummy2": "～に大きな王族を示した",
-    "dummy3": "～に大きな献身を示した"
+    "dummy3": "～に大きな敵意を示した"
   },
   {
     "id": 2312,
@@ -5611,9 +5611,9 @@
     "grade": 2,
     "phrase": "luckily no one was injured",
     "phrase_meaning": "幸運にも誰もけがをしなかった",
-    "dummy1": "偶然にも誰もけがをしなかった",
-    "dummy2": "運悪くも誰もけがをしなかった",
-    "dummy3": "運良く誰もけがをしなかった"
+    "dummy1": "残念ながら誰もけがをしなかった",
+    "dummy2": "確実に誰もけがをしなかった",
+    "dummy3": "奇妙にも誰もけがをしなかった"
   },
   {
     "id": 2313,
@@ -5631,7 +5631,7 @@
     "phrase_meaning": "すべての手荷物を持って行く",
     "dummy1": "すべての貴重品を持って行く",
     "dummy2": "すべての言語を持って行く",
-    "dummy3": "すべての旅行かばんを持って行く"
+    "dummy3": "すべての書類を持って行く"
   },
   {
     "id": 2314,
@@ -5649,7 +5649,7 @@
     "phrase_meaning": "贅沢品を買う余裕がなかった",
     "dummy1": "必需品を買う余裕がなかった",
     "dummy2": "贅沢な光を買う余裕がなかった",
-    "dummy3": "高価な物を買う余裕がなかった"
+    "dummy3": "食料品を買う余裕がなかった"
   },
   {
     "id": 2315,
@@ -5667,7 +5667,7 @@
     "phrase_meaning": "健康的な生活を維持する",
     "dummy1": "健康的な生活を放棄する",
     "dummy2": "健康的な生活を主に行う",
-    "dummy3": "健康的な生活を計画する"
+    "dummy3": "健康的な生活を破壊する"
   },
   {
     "id": 2316,
@@ -5685,7 +5685,7 @@
     "phrase_meaning": "良い関係を維持すること",
     "dummy1": "良い関係を断つこと",
     "dummy2": "良い関係を主として行うこと",
-    "dummy3": "良い関係を構築すること"
+    "dummy3": "良い関係を破壊すること"
   },
   {
     "id": 2317,
@@ -5701,9 +5701,9 @@
     "grade": 2,
     "phrase": "this is a major issue",
     "phrase_meaning": "これは主要な問題だ",
-    "dummy1": "これは些細な問題だ",
-    "dummy2": "これは市長の問題だ",
-    "dummy3": "これは重大な問題だ"
+    "dummy1": "これは少佐の問題だ",
+    "dummy2": "これは個人的な問題だ",
+    "dummy3": "これは一般的な問題だ"
   },
   {
     "id": 2318,
@@ -5719,9 +5719,9 @@
     "grade": 2,
     "phrase": "the majority of students passed",
     "phrase_meaning": "大多数の学生が合格した",
-    "dummy1": "少数の学生が合格した",
-    "dummy2": "大佐の学生が合格した",
-    "dummy3": "学生の過半数が合格した"
+    "dummy1": "大佐の学生が合格した",
+    "dummy2": "少量の学生が合格した",
+    "dummy3": "いくつかの学生が合格した"
   },
   {
     "id": 2319,
@@ -5738,8 +5738,8 @@
     "phrase": "read the manual before operating",
     "phrase_meaning": "操作する前にマニュアルを読む",
     "dummy1": "操作する前に小説を読む",
-    "dummy2": "操作する前に製造をする",
-    "dummy3": "操作する前に手引書を読む"
+    "dummy2": "操作する前に作業計画を読む",
+    "dummy3": "操作する前に設計図を読む"
   },
   {
     "id": 2320,
@@ -5756,8 +5756,8 @@
     "phrase": "a collection of ancient manuscripts",
     "phrase_meaning": "古代の写本のコレクション",
     "dummy1": "古代の印刷物のコレクション",
-    "dummy2": "古代の製造物のコレクション",
-    "dummy3": "古代の文書のコレクション"
+    "dummy2": "古代の絵画のコレクション",
+    "dummy3": "古代の陶器のコレクション"
   },
   {
     "id": 2321,
@@ -5773,9 +5773,9 @@
     "grade": 2,
     "phrase": "the sunset was absolutely marvelous",
     "phrase_meaning": "夕日は本当に素晴らしかった",
-    "dummy1": "夕日は本当にひどかった",
-    "dummy2": "夕日は本当に大理石だった",
-    "dummy3": "夕日は本当に美しかった"
+    "dummy1": "夕日は本当に大理石だった",
+    "dummy2": "夕日は本当に普通の光景だった",
+    "dummy3": "夕日は本当に奇妙だった"
   },
   {
     "id": 2322,
@@ -5792,8 +5792,8 @@
     "phrase": "a massive earthquake struck",
     "phrase_meaning": "大規模な地震が襲った",
     "dummy1": "定期的な地震が襲った",
-    "dummy2": "集団的な地震が襲った",
-    "dummy3": "甚大な地震が襲った"
+    "dummy2": "局地的な地震が襲った",
+    "dummy3": "わずかな地震が襲った"
   },
   {
     "id": 2323,
@@ -5811,7 +5811,7 @@
     "phrase_meaning": "その間にテーブルを用意して",
     "dummy1": "その代わりにテーブルを用意して",
     "dummy2": "意地悪にテーブルを用意して",
-    "dummy3": "一方でテーブルを用意して"
+    "dummy3": "後でテーブルを用意して"
   },
   {
     "id": 2324,
@@ -5829,7 +5829,7 @@
     "phrase_meaning": "ジムの会員費がかかる",
     "dummy1": "ジムの入場料がかかる",
     "dummy2": "ジムの記憶力がかかる",
-    "dummy3": "ジムの入会金がかかる"
+    "dummy3": "ジムの運営費がかかる"
   },
   {
     "id": 2325,
@@ -5845,9 +5845,9 @@
     "grade": 2,
     "phrase": "the experience was mentally exhausting",
     "phrase_meaning": "その経験は精神的に疲れるものだった",
-    "dummy1": "その経験は肉体的に疲れるものだった",
+    "dummy1": "その経験は経済的に疲れるものだった",
     "dummy2": "その経験は金属的に疲れるものだった",
-    "dummy3": "その経験は精神的にきついものだった"
+    "dummy3": "その経験は表面上は疲れるものだった"
   },
   {
     "id": 2326,
@@ -5865,7 +5865,7 @@
     "phrase_meaning": "どんな方法を使っていますか",
     "dummy1": "どんな目的で使っていますか",
     "dummy2": "どんなメダルを使っていますか",
-    "dummy3": "どんな手段を使っていますか"
+    "dummy3": "どんな材料を使っていますか"
   },
   {
     "id": 2327,
@@ -5883,7 +5883,7 @@
     "phrase_meaning": "10年間軍に所属していた",
     "dummy1": "10年間民間企業に所属していた",
     "dummy2": "10年間工場に所属していた",
-    "dummy3": "10年間兵役に就いていた"
+    "dummy3": "10年間慈善団体に所属していた"
   },
   {
     "id": 2328,
@@ -5899,9 +5899,9 @@
     "grade": 2,
     "phrase": "this water is rich in minerals",
     "phrase_meaning": "この水はミネラルが豊富だ",
-    "dummy1": "この水はミネラルが不足している",
+    "dummy1": "この水はカロリーが豊富だ",
     "dummy2": "この水は鉱山が豊富だ",
-    "dummy3": "この水は栄養が豊富だ"
+    "dummy3": "この水は塩分が豊富だ"
   },
   {
     "id": 2329,
@@ -5917,9 +5917,9 @@
     "grade": 2,
     "phrase": "contains important vitamins and minerals",
     "phrase_meaning": "重要なビタミンとミネラルが含まれている",
-    "dummy1": "重要なビタミンとミネラルが欠けている",
-    "dummy2": "重要なビタミンと鉱物が含まれている",
-    "dummy3": "重要な栄養素とミネラルが含まれている"
+    "dummy1": "重要なビタミンと脂肪が含まれている",
+    "dummy2": "重要なビタミンとタンパク質が含まれている",
+    "dummy3": "重要なビタミンと炭水化物が含まれている"
   },
   {
     "id": 2330,
@@ -5935,9 +5935,9 @@
     "grade": 2,
     "phrase": "the prime minister addressed the nation",
     "phrase_meaning": "首相が国民に演説した",
-    "dummy1": "首相が国民を無視した",
-    "dummy2": "主要な牧師が国民に演説した",
-    "dummy3": "大臣が国民に演説した"
+    "dummy1": "大統領が国民に演説した",
+    "dummy2": "事務総長が国民に演説した",
+    "dummy3": "議長が国民に演説した"
   },
   {
     "id": 2331,
@@ -5953,9 +5953,9 @@
     "grade": 2,
     "phrase": "only a minority opposed",
     "phrase_meaning": "少数派だけが反対した",
-    "dummy1": "大多数が反対した",
-    "dummy2": "未成年者だけが反対した",
-    "dummy3": "わずかな人だけが反対した"
+    "dummy1": "未成年者だけが反対した",
+    "dummy2": "指導者だけが反対した",
+    "dummy3": "部外者だけが反対した"
   },
   {
     "id": 2332,
@@ -5989,9 +5989,9 @@
     "grade": 2,
     "phrase": "completed their mission successfully",
     "phrase_meaning": "任務を無事に完了した",
-    "dummy1": "計画を無事に完了した",
-    "dummy2": "使命を放棄した",
-    "dummy3": "任務を予定通りに終えた"
+    "dummy1": "旅行を無事に完了した",
+    "dummy2": "感情を無事に完了した",
+    "dummy3": "調査を無事に完了した"
   },
   {
     "id": 2334,
@@ -6007,9 +6007,9 @@
     "grade": 2,
     "phrase": "made from a mixture of",
     "phrase_meaning": "～の混合物から作られる",
-    "dummy1": "～の単一物から作られる",
-    "dummy2": "～の謎から作られる",
-    "dummy3": "～の組み合わせから作られる"
+    "dummy1": "～の謎から作られる",
+    "dummy2": "～の単一の物質から作られる",
+    "dummy3": "～の起源から作られる"
   },
   {
     "id": 2335,
@@ -6025,9 +6025,9 @@
     "grade": 2,
     "phrase": "could you wait a moment",
     "phrase_meaning": "少々お待ちいただけますか",
-    "dummy1": "長時間お待ちいただけますか",
-    "dummy2": "少々運動していただけますか",
-    "dummy3": "しばらくお待ちいただけますか"
+    "dummy1": "少々運動していただけますか",
+    "dummy2": "毎日お待ちいただけますか",
+    "dummy3": "すぐに待っていただけますか"
   },
   {
     "id": 2336,
@@ -6043,7 +6043,7 @@
     "grade": 2,
     "phrase": "built a monument to honor",
     "phrase_meaning": "～を称える記念碑を建てた",
-    "dummy1": "～を侮辱する記念碑を建てた",
+    "dummy1": "～を称える図書館を建てた",
     "dummy2": "～を称える瞬間を建てた",
     "dummy3": "～を称える美術館を建てた"
   },
@@ -6061,9 +6061,9 @@
     "grade": 2,
     "phrase": "the disappearance remains a mystery",
     "phrase_meaning": "失踪は謎のままだ",
-    "dummy1": "失踪は解決済みだ",
-    "dummy2": "失踪は省庁のままだ",
-    "dummy3": "失踪は未解決のままだ"
+    "dummy1": "失踪は省庁のままだ",
+    "dummy2": "失踪は現実のままだ",
+    "dummy3": "失踪は噂のままだ"
   },
   {
     "id": 2338,
@@ -6081,7 +6081,7 @@
     "phrase_meaning": "国民の祝日が祝われる",
     "dummy1": "個人の祝日が祝われる",
     "dummy2": "自然の祝日が祝われる",
-    "dummy3": "個人の祝日が祝われる"
+    "dummy3": "地方の祝日が祝われる"
   },
   {
     "id": 2339,
@@ -6097,9 +6097,9 @@
     "grade": 2,
     "phrase": "difficult to navigate through",
     "phrase_meaning": "～を進むのは難しい",
-    "dummy1": "～を戻るのは難しい",
-    "dummy2": "～を否定するのは難しい",
-    "dummy3": "～を通り抜けるのは難しい"
+    "dummy1": "～を否定するのは難しい",
+    "dummy2": "～を無視するのは難しい",
+    "dummy3": "～を理解するのは難しい"
   },
   {
     "id": 2340,
@@ -6115,9 +6115,9 @@
     "grade": 2,
     "phrase": "not necessarily better",
     "phrase_meaning": "必ずしも良いとは限らない",
-    "dummy1": "絶対に良いとは限らない",
-    "dummy2": "必要的に良いとは限らない",
-    "dummy3": "必ずしも優れているとは限らない"
+    "dummy1": "一時的に良いとは限らない",
+    "dummy2": "偶然に良いとは限らない",
+    "dummy3": "一般的に良いとは限らない"
   },
   {
     "id": 2341,
@@ -6133,9 +6133,9 @@
     "grade": 2,
     "phrase": "don't worry needlessly about",
     "phrase_meaning": "～を不必要に心配するな",
-    "dummy1": "～を必要以上に心配するな",
-    "dummy2": "～を針なしに心配するな",
-    "dummy3": "～を過度に心配するな"
+    "dummy1": "～を慎重に心配するな",
+    "dummy2": "～を意図的に心配するな",
+    "dummy3": "～を頻繁に心配するな"
   },
   {
     "id": 2342,
@@ -6151,9 +6151,9 @@
     "grade": 2,
     "phrase": "the neglected garden was full of weeds",
     "phrase_meaning": "放置された庭は雑草だらけだった",
-    "dummy1": "手入れされた庭は雑草だらけだった",
-    "dummy2": "交渉された庭は雑草だらけだった",
-    "dummy3": "手入れされていない庭は雑草だらけだった"
+    "dummy1": "造成された庭は雑草だらけだった",
+    "dummy2": "評価された庭は雑草だらけだった",
+    "dummy3": "研究された庭は雑草だらけだった"
   },
   {
     "id": 2343,
@@ -6169,9 +6169,9 @@
     "grade": 2,
     "phrase": "agreed to negotiate a peace deal",
     "phrase_meaning": "和平協定を交渉することに合意した",
-    "dummy1": "和平協定を拒否することに合意した",
-    "dummy2": "和平協定を否定することに合意した",
-    "dummy3": "和平協定を取り決めることに合意した"
+    "dummy1": "和平協定を破棄することに合意した",
+    "dummy2": "和平協定を隠蔽することに合意した",
+    "dummy3": "和平協定を記録することに合意した"
   },
   {
     "id": 2344,
@@ -6187,9 +6187,9 @@
     "grade": 2,
     "phrase": "nervously waited for the interview",
     "phrase_meaning": "緊張して面接を待った",
-    "dummy1": "落ち着いて面接を待った",
-    "dummy2": "勇敢に面接を待った",
-    "dummy3": "不安げに面接を待った"
+    "dummy1": "意図的に面接を待った",
+    "dummy2": "無表情で面接を待った",
+    "dummy3": "忍耐強く面接を待った"
   },
   {
     "id": 2345,
@@ -6205,9 +6205,9 @@
     "grade": 2,
     "phrase": "remained neutral during the war",
     "phrase_meaning": "戦争中中立を保った",
-    "dummy1": "戦争中敵対した",
-    "dummy2": "戦争中自然に振る舞った",
-    "dummy3": "戦争中公平を保った"
+    "dummy1": "戦争中混乱を保った",
+    "dummy2": "戦争中沈黙を保った",
+    "dummy3": "戦争中優位を保った"
   },
   {
     "id": 2346,
@@ -6223,9 +6223,9 @@
     "grade": 2,
     "phrase": "I have no notion of",
     "phrase_meaning": "～の見当もつかない",
-    "dummy1": "～を完全に理解している",
-    "dummy2": "～のメモもつかない",
-    "dummy3": "～の想像もつかない"
+    "dummy1": "～の存在もつかない",
+    "dummy2": "～の記録もつかない",
+    "dummy3": "～の意図もつかない"
   },
   {
     "id": 2347,
@@ -6259,9 +6259,9 @@
     "grade": 2,
     "phrase": "fruits and vegetables are nutritious",
     "phrase_meaning": "果物と野菜は栄養がある",
-    "dummy1": "果物と野菜は栄養がない",
+    "dummy1": "果物と野菜は高価だ",
     "dummy2": "果物と野菜は有名だ",
-    "dummy3": "果物と野菜は体に良い"
+    "dummy3": "果物と野菜は危険だ"
   },
   {
     "id": 2349,
@@ -6277,9 +6277,9 @@
     "grade": 2,
     "phrase": "obeyed the commander's orders",
     "phrase_meaning": "指揮官の命令に従った",
-    "dummy1": "指揮官の命令に逆らった",
+    "dummy1": "指揮官の命令を無視した",
     "dummy2": "指揮官の命令を妨害した",
-    "dummy3": "指揮官の命令を聞き入れた"
+    "dummy3": "指揮官の命令を分析した"
   },
   {
     "id": 2350,
@@ -6295,9 +6295,9 @@
     "grade": 2,
     "phrase": "careful observation is essential",
     "phrase_meaning": "注意深い観察は不可欠だ",
-    "dummy1": "注意深い無視は不可欠だ",
+    "dummy1": "注意深い記憶は不可欠だ",
     "dummy2": "注意深い妨害は不可欠だ",
-    "dummy3": "注意深い監視は不可欠だ"
+    "dummy3": "注意深い計画は不可欠だ"
   },
   {
     "id": 2351,
@@ -6313,9 +6313,9 @@
     "grade": 2,
     "phrase": "he was obviously tired",
     "phrase_meaning": "彼は明らかに疲れていた",
-    "dummy1": "彼は密かに疲れていた",
-    "dummy2": "彼は忘却的に疲れていた",
-    "dummy3": "彼は間違いなく疲れていた"
+    "dummy1": "彼は意図的に疲れていた",
+    "dummy2": "彼は一時的に疲れていた",
+    "dummy3": "彼は奇妙に疲れていた"
   },
   {
     "id": 2352,
@@ -6333,7 +6333,7 @@
     "phrase_meaning": "家族にとって特別な機会",
     "dummy1": "家族にとって特別な負担",
     "dummy2": "家族にとって特別な場所",
-    "dummy3": "家族にとって特別な行事"
+    "dummy3": "家族にとって特別な義務"
   },
   {
     "id": 2353,
@@ -6351,7 +6351,7 @@
     "phrase_meaning": "あなたの職業は何ですか",
     "dummy1": "あなたの趣味は何ですか",
     "dummy2": "あなたの強迫観念は何ですか",
-    "dummy3": "あなたの専門は何ですか"
+    "dummy3": "あなたの目標は何ですか"
   },
   {
     "id": 2354,
@@ -6369,7 +6369,7 @@
     "phrase_meaning": "誰の気分も害するつもりはなかった",
     "dummy1": "誰の記録も消すつもりはなかった",
     "dummy2": "誰の防御も害するつもりはなかった",
-    "dummy3": "誰も怒らせるつもりはなかった"
+    "dummy3": "誰の評価も下げるつもりはなかった"
   },
   {
     "id": 2355,
@@ -6385,9 +6385,9 @@
     "grade": 2,
     "phrase": "the mother protects her offspring",
     "phrase_meaning": "母親は子孫を守る",
-    "dummy1": "母親は先祖を守る",
+    "dummy1": "母親は資産を守る",
     "dummy2": "母親は提供物を守る",
-    "dummy3": "母親は子どもを守る"
+    "dummy3": "母親は環境を守る"
   },
   {
     "id": 2356,
@@ -6405,7 +6405,7 @@
     "phrase_meaning": "訓練を受けたスタッフのみが操作できる",
     "dummy1": "訓練を受けたスタッフのみが修理できる",
     "dummy2": "訓練を受けたスタッフのみが手術できる",
-    "dummy3": "訓練を受けたスタッフのみが扱える"
+    "dummy3": "訓練を受けたスタッフのみが設計できる"
   },
   {
     "id": 2357,
@@ -6423,7 +6423,7 @@
     "phrase_meaning": "手術は成功した",
     "dummy1": "検査は成功した",
     "dummy2": "意見は成功した",
-    "dummy3": "処置は成功した"
+    "dummy3": "発表は成功した"
   },
   {
     "id": 2358,
@@ -6441,7 +6441,7 @@
     "phrase_meaning": "軍事作戦は中止された",
     "dummy1": "軍事訓練は中止された",
     "dummy2": "軍事意見は中止された",
-    "dummy3": "軍事行動は中止された"
+    "dummy3": "軍事会議は中止された"
   },
   {
     "id": 2359,
@@ -6476,7 +6476,7 @@
     "phrase": "a great opportunity for growth",
     "phrase_meaning": "成長の絶好の機会",
     "dummy1": "成長の最悪の障害",
-    "dummy2": "成長の反対の機会",
+    "dummy2": "成長の絶好の試練",
     "dummy3": "成長の絶好の障壁"
   },
   {
@@ -6493,9 +6493,9 @@
     "grade": 2,
     "phrase": "works for a non-profit organization",
     "phrase_meaning": "非営利団体で働いている",
-    "dummy1": "営利企業で働いている",
-    "dummy2": "非営利の器官で働いている",
-    "dummy3": "非営利法人で働いている"
+    "dummy1": "非営利の研究所で働いている",
+    "dummy2": "非営利の施設で働いている",
+    "dummy3": "非営利の計画で働いている"
   },
   {
     "id": 2362,
@@ -6511,9 +6511,9 @@
     "grade": 2,
     "phrase": "the origin of this tradition",
     "phrase_meaning": "この伝統の起源",
-    "dummy1": "この伝統の終焉",
-    "dummy2": "この伝統のオリジナル",
-    "dummy3": "この伝統の始まり"
+    "dummy1": "この伝統の目的",
+    "dummy2": "この伝統の維持",
+    "dummy3": "この伝統の普及"
   },
   {
     "id": 2363,
@@ -6531,7 +6531,7 @@
     "phrase_meaning": "選挙の結果",
     "dummy1": "選挙の原因",
     "dummy2": "選挙の外出",
-    "dummy3": "選挙の成果"
+    "dummy3": "選挙の過程"
   },
   {
     "id": 2364,
@@ -6549,7 +6549,7 @@
     "phrase_meaning": "恐怖を克服することができた",
     "dummy1": "恐怖に屈することができた",
     "dummy2": "恐怖を超過することができた",
-    "dummy3": "恐怖を乗り越えることができた"
+    "dummy3": "恐怖を避けることができた"
   },
   {
     "id": 2365,
@@ -6566,8 +6566,8 @@
     "phrase": "the two courses overlap in content",
     "phrase_meaning": "二つのコースは内容が重複している",
     "dummy1": "二つのコースは内容が異なっている",
-    "dummy2": "二つのコースは内容を上に重ねている",
-    "dummy3": "二つのコースは内容が似ている"
+    "dummy2": "二つのコースは内容が分離している",
+    "dummy3": "二つのコースは内容が対立している"
   },
   {
     "id": 2366,
@@ -6584,8 +6584,8 @@
     "phrase": "the workload can overwhelm employees",
     "phrase_meaning": "仕事量が社員を圧倒することがある",
     "dummy1": "仕事量が社員を活気づけることがある",
-    "dummy2": "仕事量が社員を覆い尽くすことがある",
-    "dummy3": "仕事量が社員を打ちのめすことがある"
+    "dummy2": "仕事量が社員を励ますことがある",
+    "dummy3": "仕事量が社員を管理することがある"
   },
   {
     "id": 2367,
@@ -6602,8 +6602,8 @@
     "phrase": "received a package in the mail",
     "phrase_meaning": "郵便で小包を受け取った",
     "dummy1": "郵便で手紙を受け取った",
-    "dummy2": "郵便で手紙を受け取った",
-    "dummy3": "郵便で箱を受け取った"
+    "dummy2": "郵便で広告を受け取った",
+    "dummy3": "郵便で書類を受け取った"
   },
   {
     "id": 2368,
@@ -6621,7 +6621,7 @@
     "phrase_meaning": "古代の宮殿は観光客を引きつける",
     "dummy1": "古代の廃墟は観光客を引きつける",
     "dummy2": "古代の味覚は観光客を引きつける",
-    "dummy3": "古代の城は観光客を引きつける"
+    "dummy3": "古代の市場は観光客を引きつける"
   },
   {
     "id": 2369,
@@ -6639,7 +6639,7 @@
     "phrase_meaning": "警報が～の間にパニックを引き起こした",
     "dummy1": "警報が～の間に安心を引き起こした",
     "dummy2": "警報が～の間に沈黙を引き起こした",
-    "dummy3": "警報が～の間に混乱を引き起こした"
+    "dummy3": "警報が～の間に喜びを引き起こした"
   },
   {
     "id": 2370,
@@ -6656,8 +6656,8 @@
     "phrase": "I beg your pardon",
     "phrase_meaning": "すみません（許しを請う）",
     "dummy1": "ありがとう",
-    "dummy2": "庭をお願いします",
-    "dummy3": "ごめんなさい"
+    "dummy2": "さようなら",
+    "dummy3": "こんにちは"
   },
   {
     "id": 2371,
@@ -6675,7 +6675,7 @@
     "phrase_meaning": "道路は部分的にふさがれていた",
     "dummy1": "道路は完全にふさがれていた",
     "dummy2": "道路はパーティーでふさがれていた",
-    "dummy3": "道路は半分ふさがれていた"
+    "dummy3": "道路は時折ふさがれていた"
   },
   {
     "id": 2372,
@@ -6693,7 +6693,7 @@
     "phrase_meaning": "医者は患者を診察した",
     "dummy1": "医者は健康な人を診察した",
     "dummy2": "医者は忍耐を診察した",
-    "dummy3": "医者は病人を診察した"
+    "dummy3": "医者は看護師を診察した"
   },
   {
     "id": 2373,
@@ -6729,7 +6729,7 @@
     "phrase_meaning": "正社員のポジションを得た",
     "dummy1": "一時的なポジションを得た",
     "dummy2": "パーマのポジションを得た",
-    "dummy3": "終身雇用のポジションを得た"
+    "dummy3": "季節限定のポジションを得た"
   },
   {
     "id": 2375,
@@ -6747,7 +6747,7 @@
     "phrase_meaning": "工場は永久に閉鎖された",
     "dummy1": "工場は一時的に閉鎖された",
     "dummy2": "工場はパーマで閉鎖された",
-    "dummy3": "工場は完全に閉鎖された"
+    "dummy3": "工場は頻繁に閉鎖された"
   },
   {
     "id": 2376,
@@ -6765,7 +6765,7 @@
     "phrase_meaning": "入るには許可が必要だ",
     "dummy1": "入るには禁止が必要だ",
     "dummy2": "入るには使命が必要だ",
-    "dummy3": "入るには同意が必要だ"
+    "dummy3": "入るには規則が必要だ"
   },
   {
     "id": 2377,
@@ -6783,7 +6783,7 @@
     "phrase_meaning": "建物内での喫煙は許可されていない",
     "dummy1": "建物内での喫煙は推奨されていない",
     "dummy2": "建物内での喫煙は持続されていない",
-    "dummy3": "建物内での喫煙は推奨されていない"
+    "dummy3": "建物内での喫煙は確認されていない"
   },
   {
     "id": 2378,
@@ -6837,7 +6837,7 @@
     "phrase_meaning": "大学で哲学を学んだ",
     "dummy1": "大学で無学を学んだ",
     "dummy2": "大学で写真を学んだ",
-    "dummy3": "大学で思想を学んだ"
+    "dummy3": "大学で体育を学んだ"
   },
   {
     "id": 2381,
@@ -6855,7 +6855,7 @@
     "phrase_meaning": "このフレーズを日本語に訳す",
     "dummy1": "この単語を日本語に訳す",
     "dummy2": "この段階を日本語に訳す",
-    "dummy3": "この表現を日本語に訳す"
+    "dummy3": "この物語を日本語に訳す"
   },
   {
     "id": 2382,
@@ -6873,7 +6873,7 @@
     "phrase_meaning": "磨かれた床が光を反射した",
     "dummy1": "汚れた床が光を反射した",
     "dummy2": "ポーランドの床が光を反射した",
-    "dummy3": "きれいな床が光を反射した"
+    "dummy3": "ひび割れた床が光を反射した"
   },
   {
     "id": 2383,
@@ -6891,7 +6891,7 @@
     "phrase_meaning": "丁寧に招待を辞退した",
     "dummy1": "無礼に招待を辞退した",
     "dummy2": "政治的に招待を辞退した",
-    "dummy3": "乱暴に招待を辞退した"
+    "dummy3": "急いで招待を辞退した"
   },
   {
     "id": 2384,
@@ -6909,7 +6909,7 @@
     "phrase_meaning": "その川はひどく汚染されている",
     "dummy1": "その川はきれいに浄化されている",
     "dummy2": "その川はひどく研磨されている",
-    "dummy3": "その川はひどく濁っている"
+    "dummy3": "その川はひどく乾燥している"
   },
   {
     "id": 2385,
@@ -6927,7 +6927,7 @@
     "phrase_meaning": "大気汚染は大きな問題だ",
     "dummy1": "大気浄化は大きな問題だ",
     "dummy2": "大気研磨は大きな問題だ",
-    "dummy3": "大気汚染は深刻な問題だ"
+    "dummy3": "大気循環は大きな問題だ"
   },
   {
     "id": 2386,
@@ -7017,7 +7017,7 @@
     "phrase_meaning": "多くの子どもが貧困の中で暮らしている",
     "dummy1": "多くの子どもが裕福の中で暮らしている",
     "dummy2": "多くの子どもが陶器の中で暮らしている",
-    "dummy3": "多くの子どもが貧しい暮らしをしている"
+    "dummy3": "多くの子どもが自由の中で暮らしている"
   },
   {
     "id": 2391,
@@ -7053,7 +7053,7 @@
     "phrase_meaning": "測定は正確でなければならない",
     "dummy1": "測定は大雑把でよい",
     "dummy2": "測定は貴重でなければならない",
-    "dummy3": "測定は厳密でなければならない"
+    "dummy3": "測定は芸術的でなければならない"
   },
   {
     "id": 2393,
@@ -7071,7 +7071,7 @@
     "phrase_meaning": "文化遺産を保存する",
     "dummy1": "文化遺産を破壊する",
     "dummy2": "文化遺産を大統領にする",
-    "dummy3": "文化遺産を守る"
+    "dummy3": "文化遺産を製造する"
   },
   {
     "id": 2394,
@@ -7087,9 +7087,9 @@
     "grade": 2,
     "phrase": "the president gave a speech",
     "phrase_meaning": "大統領がスピーチをした",
-    "dummy1": "国民がスピーチをした",
+    "dummy1": "市民がスピーチをした",
     "dummy2": "先例がスピーチをした",
-    "dummy3": "首相がスピーチをした"
+    "dummy3": "鉛筆がスピーチをした"
   },
   {
     "id": 2395,
@@ -7105,9 +7105,9 @@
     "grade": 2,
     "phrase": "stop pretending you don't know",
     "phrase_meaning": "知らないふりをするのはやめなさい",
-    "dummy1": "正直に話すのはやめなさい",
-    "dummy2": "知らない見せかけをするのはやめなさい",
-    "dummy3": "知らないふりをやめなさい"
+    "dummy1": "知らないことを学ぶのはやめなさい",
+    "dummy2": "知らないことを評価するのはやめなさい",
+    "dummy3": "知らないことを忘れるのはやめなさい"
   },
   {
     "id": 2396,
@@ -7125,7 +7125,7 @@
     "phrase_meaning": "シートベルトは重傷を防ぐことができる",
     "dummy1": "シートベルトは重傷を引き起こすことができる",
     "dummy2": "シートベルトは重傷を発明することができる",
-    "dummy3": "シートベルトは重傷を避けることができる"
+    "dummy3": "シートベルトは重傷を修理することができる"
   },
   {
     "id": 2397,
@@ -7141,9 +7141,9 @@
     "grade": 2,
     "phrase": "more experience than the previous employee",
     "phrase_meaning": "前任者より経験が豊富だ",
-    "dummy1": "指導者より経験が豊富だ",
-    "dummy2": "前任者より予防が豊富だ",
-    "dummy3": "前任者より経験が多い"
+    "dummy1": "後任者より経験が豊富だ",
+    "dummy2": "予防より経験が豊富だ",
+    "dummy3": "歴史より経験が豊富だ"
   },
   {
     "id": 2398,
@@ -7161,7 +7161,7 @@
     "phrase_meaning": "主要な目標は安全性だ",
     "dummy1": "副次的な目標は安全性だ",
     "dummy2": "霊長類の目標は安全性だ",
-    "dummy3": "第一の目標は安全性だ"
+    "dummy3": "偽りの目標は安全性だ"
   },
   {
     "id": 2399,
@@ -7179,7 +7179,7 @@
     "phrase_meaning": "常に自分の原則に従う",
     "dummy1": "常に自分の例外に従う",
     "dummy2": "常に自分の校長に従う",
-    "dummy3": "常に自分の信念に従う"
+    "dummy3": "常に自分の趣味に従う"
   },
   {
     "id": 2400,
@@ -7196,8 +7196,8 @@
     "phrase": "everyone has the right to privacy",
     "phrase_meaning": "すべての人にプライバシーの権利がある",
     "dummy1": "すべての人に公開の権利がある",
-    "dummy2": "すべての人に私的な権利がある",
-    "dummy3": "すべての人に個人情報保護の権利がある"
+    "dummy2": "すべての人に歴史の権利がある",
+    "dummy3": "すべての人に税金の権利がある"
   },
   {
     "id": 2401,
@@ -7213,9 +7213,9 @@
     "grade": 2,
     "phrase": "he will probably arrive late",
     "phrase_meaning": "彼はおそらく遅く到着する",
-    "dummy1": "彼は絶対に遅く到着しない",
-    "dummy2": "彼は問題的に遅く到着する",
-    "dummy3": "彼は意図的に遅く到着する"
+    "dummy1": "彼は確実に遅く到着する",
+    "dummy2": "彼は意図的に遅く到着する",
+    "dummy3": "彼は突然遅く到着する"
   },
   {
     "id": 2402,
@@ -7233,7 +7233,7 @@
     "phrase_meaning": "プレゼンを続けた",
     "dummy1": "プレゼンを中断した",
     "dummy2": "プレゼンを処理した",
-    "dummy3": "プレゼンを再開した"
+    "dummy3": "プレゼンを購入した"
   },
   {
     "id": 2403,
@@ -7250,8 +7250,8 @@
     "phrase": "promised to help with homework",
     "phrase_meaning": "宿題を手伝うと約束した",
     "dummy1": "宿題を手伝うと拒否した",
-    "dummy2": "宿題を促進すると約束した",
-    "dummy3": "宿題を手伝うと誓った"
+    "dummy2": "宿題を手伝うと主張した",
+    "dummy3": "宿題を手伝うと忘れた"
   },
   {
     "id": 2404,
@@ -7269,7 +7269,7 @@
     "phrase_meaning": "健康的な食習慣を促進する",
     "dummy1": "健康的な食習慣を妨害する",
     "dummy2": "健康的な食習慣を約束する",
-    "dummy3": "健康的な食習慣を奨励する"
+    "dummy3": "健康的な食習慣を隠す"
   },
   {
     "id": 2405,
@@ -7286,8 +7286,8 @@
     "phrase": "was promoted to manager",
     "phrase_meaning": "マネージャーに昇進した",
     "dummy1": "マネージャーから降格した",
-    "dummy2": "マネージャーに約束した",
-    "dummy3": "マネージャーに任命された"
+    "dummy2": "マネージャーに反対した",
+    "dummy3": "マネージャーに協力した"
   },
   {
     "id": 2406,
@@ -7304,7 +7304,7 @@
     "phrase": "they own several properties",
     "phrase_meaning": "彼らはいくつかの不動産を所有している",
     "dummy1": "彼らはいくつかの負債を所有している",
-    "dummy2": "彼らはいくつかの適切さを所有している",
+    "dummy2": "彼らはいくつかの問題を所有している",
     "dummy3": "彼らはいくつかの特許を所有している"
   },
   {
@@ -7323,7 +7323,7 @@
     "phrase_meaning": "予算の大きな割合",
     "dummy1": "予算の大きな固定費",
     "dummy2": "予算の大きな提案",
-    "dummy3": "予算の大きな部分"
+    "dummy3": "予算の大きな誤解"
   },
   {
     "id": 2408,
@@ -7340,8 +7340,8 @@
     "phrase": "proposing a new plan",
     "phrase_meaning": "新しい計画を提案している",
     "dummy1": "新しい計画を撤回している",
-    "dummy2": "新しい計画をプロポーズしている",
-    "dummy3": "新しい計画を延期している"
+    "dummy2": "新しい計画を隠している",
+    "dummy3": "新しい計画を放棄している"
   },
   {
     "id": 2409,
@@ -7359,7 +7359,7 @@
     "phrase_meaning": "～に対する抗議に参加した",
     "dummy1": "～に対する賛同に参加した",
     "dummy2": "～に対する保護に参加した",
-    "dummy3": "～に対するデモに参加した"
+    "dummy3": "～に対する祝賀会に参加した"
   },
   {
     "id": 2410,
@@ -7376,8 +7376,8 @@
     "phrase": "the experiment proved the theory",
     "phrase_meaning": "実験は理論が正しいと証明した",
     "dummy1": "実験は理論が正しいと否定した",
-    "dummy2": "実験は理論が改善されたと証明した",
-    "dummy3": "実験は理論が正しいと裏付けた"
+    "dummy2": "実験は理論が正しいと推測した",
+    "dummy3": "実験は理論が正しいと忘れた"
   },
   {
     "id": 2411,
@@ -7395,7 +7395,7 @@
     "phrase_meaning": "～ということわざがある",
     "dummy1": "～という作り話がある",
     "dummy2": "～という動詞がある",
-    "dummy3": "～という格言がある"
+    "dummy3": "～というレシピがある"
   },
   {
     "id": 2412,
@@ -7413,7 +7413,7 @@
     "phrase_meaning": "心理学を専攻している",
     "dummy1": "体育を専攻している",
     "dummy2": "経済学を専攻している",
-    "dummy3": "心理学を勉強している"
+    "dummy3": "生物学を専攻している"
   },
   {
     "id": 2413,
@@ -7430,8 +7430,8 @@
     "phrase": "should not punish children harshly",
     "phrase_meaning": "子どもを厳しく罰すべきではない",
     "dummy1": "子どもを厳しく褒めるべきではない",
-    "dummy2": "子どもを厳しくパンチすべきではない",
-    "dummy3": "子どもを厳しく叱るべきではない"
+    "dummy2": "子どもを厳しく監視すべきではない",
+    "dummy3": "子どもを厳しく教育すべきではない"
   },
   {
     "id": 2414,
@@ -7448,7 +7448,7 @@
     "phrase": "punished for cheating",
     "phrase_meaning": "不正行為で罰せられた",
     "dummy1": "不正行為で褒められた",
-    "dummy2": "不正行為でパンチされた",
+    "dummy2": "不正行為で許された",
     "dummy3": "不正行為で警告された"
   },
   {
@@ -7466,8 +7466,8 @@
     "phrase": "the punishment for the crime",
     "phrase_meaning": "その犯罪に対する刑罰",
     "dummy1": "その犯罪に対する報酬",
-    "dummy2": "その犯罪に対するパンチ",
-    "dummy3": "その犯罪に対する報酬"
+    "dummy2": "その犯罪に対する計画",
+    "dummy3": "その犯罪に対する証拠"
   },
   {
     "id": 2416,
@@ -7483,9 +7483,9 @@
     "grade": 2,
     "phrase": "enjoys solving crossword puzzles",
     "phrase_meaning": "クロスワードパズルを解くのが好きだ",
-    "dummy1": "クロスワードの問題を解くのが好きだ",
+    "dummy1": "クロスワードの装飾を解くのが好きだ",
     "dummy2": "クロスワードの困惑を解くのが好きだ",
-    "dummy3": "クロスワードパズルを楽しんでいる"
+    "dummy3": "クロスワードの家具を解くのが好きだ"
   },
   {
     "id": 2417,
@@ -7502,8 +7502,8 @@
     "phrase": "only qualified candidates",
     "phrase_meaning": "資格のある候補者のみ",
     "dummy1": "資格のない候補者のみ",
-    "dummy2": "品質のある候補者のみ",
-    "dummy3": "適任の候補者のみ"
+    "dummy2": "若い候補者のみ",
+    "dummy3": "疲れた候補者のみ"
   },
   {
     "id": 2418,
@@ -7519,9 +7519,9 @@
     "grade": 2,
     "phrase": "a large quantity of paper",
     "phrase_meaning": "大量の紙",
-    "dummy1": "少量の紙",
-    "dummy2": "大質の紙",
-    "dummy3": "数枚の紙"
+    "dummy1": "大質の紙",
+    "dummy2": "大種類の紙",
+    "dummy3": "大模様の紙"
   },
   {
     "id": 2419,
@@ -7538,7 +7538,7 @@
     "phrase": "filled with rage when he heard",
     "phrase_meaning": "聞いて激怒した",
     "dummy1": "聞いて落ち着いた",
-    "dummy2": "聞いて年齢を感じた",
+    "dummy2": "聞いて悲しんだ",
     "dummy3": "聞いて驚いた"
   },
   {
@@ -7556,7 +7556,7 @@
     "phrase": "how did she react to the news",
     "phrase_meaning": "彼女はその知らせにどう反応したか",
     "dummy1": "彼女はその知らせを無視したか",
-    "dummy2": "彼女はその知らせにどう再演したか",
+    "dummy2": "彼女はその知らせを分析したか",
     "dummy3": "彼女はその知らせにどう感謝したか"
   },
   {
@@ -7573,9 +7573,9 @@
     "grade": 2,
     "phrase": "several recent changes to the law",
     "phrase_meaning": "法律へのいくつかの最近の変更",
-    "dummy1": "法律へのいくつかの古い変更",
-    "dummy2": "法律へのいくつかの不在の変更",
-    "dummy3": "法律へのいくつかの過去の変更"
+    "dummy1": "法律へのいくつかの突然の変更",
+    "dummy2": "法律へのいくつかの架空の変更",
+    "dummy3": "法律へのいくつかの不可解な変更"
   },
   {
     "id": 2422,
@@ -7591,9 +7591,9 @@
     "grade": 2,
     "phrase": "received recognition for outstanding work",
     "phrase_meaning": "優れた仕事で表彰を受けた",
-    "dummy1": "優れた仕事で批判を受けた",
-    "dummy2": "優れた仕事で偵察を受けた",
-    "dummy3": "優れた仕事で評価を受けた"
+    "dummy1": "優れた仕事で報酬を受けた",
+    "dummy2": "優れた仕事で監視を受けた",
+    "dummy3": "優れた仕事で拒絶を受けた"
   },
   {
     "id": 2423,
@@ -7609,9 +7609,9 @@
     "grade": 2,
     "phrase": "took months to recover from surgery",
     "phrase_meaning": "手術から回復するのに数ヶ月かかった",
-    "dummy1": "手術から悪化するのに数ヶ月かかった",
-    "dummy2": "手術から覆うのに数ヶ月かかった",
-    "dummy3": "手術から立ち直るのに数ヶ月かかった"
+    "dummy1": "手術から中断するのに数ヶ月かかった",
+    "dummy2": "手術から完了するのに数ヶ月かかった",
+    "dummy3": "手術から忘れるのに数ヶ月かかった"
   },
   {
     "id": 2424,
@@ -7627,9 +7627,9 @@
     "grade": 2,
     "phrase": "fully recovered from his illness",
     "phrase_meaning": "病気から完全に回復した",
-    "dummy1": "病気から完全に悪化した",
-    "dummy2": "病気から完全に覆った",
-    "dummy3": "病気から少し良くなった"
+    "dummy1": "病気から完全に解雇された",
+    "dummy2": "病気から完全に破壊された",
+    "dummy3": "病気から完全に独立した"
   },
   {
     "id": 2425,
@@ -7681,9 +7681,9 @@
     "grade": 2,
     "phrase": "her success reflected years of effort",
     "phrase_meaning": "彼女の成功は何年もの努力を反映した",
-    "dummy1": "彼女の成功は何年もの努力と無関係だった",
-    "dummy2": "彼女の成功は何年もの努力を屈折させた",
-    "dummy3": "彼女の成功は何年もの努力を否定した"
+    "dummy1": "彼女の成功は何年もの努力を屈折させた",
+    "dummy2": "彼女の成功は何年もの努力を妨害した",
+    "dummy3": "彼女の成功は何年もの努力を構成した"
   },
   {
     "id": 2428,
@@ -7717,9 +7717,9 @@
     "grade": 2,
     "phrase": "only available regionally",
     "phrase_meaning": "地域限定で販売されている",
-    "dummy1": "全国で販売されている",
-    "dummy2": "登録的に販売されている",
-    "dummy3": "海外限定で販売されている"
+    "dummy1": "一時的に販売されている",
+    "dummy2": "定期的に販売されている",
+    "dummy3": "実験的に販売されている"
   },
   {
     "id": 2430,
@@ -7735,9 +7735,9 @@
     "grade": 2,
     "phrase": "please register for the course",
     "phrase_meaning": "講座に登録してください",
-    "dummy1": "講座から退会してください",
-    "dummy2": "講座にレジを打ってください",
-    "dummy3": "講座を見学してください"
+    "dummy1": "講座を評価してください",
+    "dummy2": "講座を報告してください",
+    "dummy3": "講座を設計してください"
   },
   {
     "id": 2431,
@@ -7755,7 +7755,7 @@
     "phrase_meaning": "登録されたメンバーのみがアクセスできる",
     "dummy1": "未登録のメンバーもアクセスできる",
     "dummy2": "招待されたメンバーのみがアクセスできる",
-    "dummy3": "認定されたメンバーのみがアクセスできる"
+    "dummy3": "選ばれたメンバーのみがアクセスできる"
   },
   {
     "id": 2432,
@@ -7771,9 +7771,9 @@
     "grade": 2,
     "phrase": "regretted not studying harder",
     "phrase_meaning": "もっと勉強しなかったことを後悔した",
-    "dummy1": "もっと勉強しなかったことを満足した",
-    "dummy2": "もっと勉強しなかったことを規制した",
-    "dummy3": "もっと勉強しなかったことを忘れた"
+    "dummy1": "もっと勉強しなかったことを指示した",
+    "dummy2": "もっと勉強しなかったことを隠蔽した",
+    "dummy3": "もっと勉強しなかったことを主張した"
   },
   {
     "id": 2433,
@@ -7789,9 +7789,9 @@
     "grade": 2,
     "phrase": "the government needs to regulate",
     "phrase_meaning": "政府は～を規制する必要がある",
-    "dummy1": "政府は～を放任する必要がある",
-    "dummy2": "政府は～を後悔する必要がある",
-    "dummy3": "政府は～を管理する必要がある"
+    "dummy1": "政府は～を祝う必要がある",
+    "dummy2": "政府は～を奨励する必要がある",
+    "dummy3": "政府は～を発見する必要がある"
   },
   {
     "id": 2434,
@@ -7807,9 +7807,9 @@
     "grade": 2,
     "phrase": "faced rejection from universities",
     "phrase_meaning": "大学から不合格を受けた",
-    "dummy1": "大学から案内を受けた",
-    "dummy2": "大学から注入を受けた",
-    "dummy3": "大学から通知を受けた"
+    "dummy1": "大学から昇格を受けた",
+    "dummy2": "大学から推薦を受けた",
+    "dummy3": "大学から監視を受けた"
   },
   {
     "id": 2435,
@@ -7843,9 +7843,9 @@
     "grade": 2,
     "phrase": "please remain seated",
     "phrase_meaning": "着席したままでいてください",
-    "dummy1": "すぐに立ち上がってください",
-    "dummy2": "名前を変えたままでいてください",
-    "dummy3": "静かなままでいてください"
+    "dummy1": "すぐに移動してください",
+    "dummy2": "すぐに記録してください",
+    "dummy3": "すぐに分析してください"
   },
   {
     "id": 2437,
@@ -7861,9 +7861,9 @@
     "grade": 2,
     "phrase": "made remarkable progress this year",
     "phrase_meaning": "今年目覚ましい進歩を遂げた",
-    "dummy1": "今年わずかな進歩しか遂げなかった",
-    "dummy2": "今年注目のマーケットを遂げた",
-    "dummy3": "今年大きな進歩を遂げた"
+    "dummy1": "今年無意味な進歩を遂げた",
+    "dummy2": "今年突然の進歩を遂げた",
+    "dummy3": "今年隠された進歩を遂げた"
   },
   {
     "id": 2438,
@@ -7879,9 +7879,9 @@
     "grade": 2,
     "phrase": "recovered remarkably quickly",
     "phrase_meaning": "驚くほど早く回復した",
-    "dummy1": "予想通り早く回復した",
-    "dummy2": "注目すべきほど早く回復した",
-    "dummy3": "非常に早く回復した"
+    "dummy1": "無謀にも早く回復した",
+    "dummy2": "規則正しく早く回復した",
+    "dummy3": "不安定に早く回復した"
   },
   {
     "id": 2439,
@@ -7897,9 +7897,9 @@
     "grade": 2,
     "phrase": "please remind me to call",
     "phrase_meaning": "電話するのを思い出させてください",
-    "dummy1": "電話するのを忘れさせてください",
-    "dummy2": "電話するのを精神を込めてください",
-    "dummy3": "電話するのを手伝ってください"
+    "dummy1": "電話するのを禁止してください",
+    "dummy2": "電話するのを中断してください",
+    "dummy3": "電話するのを設計してください"
   },
   {
     "id": 2440,
@@ -7934,7 +7934,7 @@
     "phrase": "the old furniture was removed",
     "phrase_meaning": "古い家具は取り除かれた",
     "dummy1": "古い家具は追加された",
-    "dummy2": "古い家具は引っ越された",
+    "dummy2": "古い家具は塗装された",
     "dummy3": "古い家具は修理された"
   },
   {
@@ -7969,9 +7969,9 @@
     "grade": 2,
     "phrase": "the flag represents the nation",
     "phrase_meaning": "旗は国を代表する",
-    "dummy1": "旗は国を裏切る",
-    "dummy2": "旗は国を再現する",
-    "dummy3": "旗は国を示している"
+    "dummy1": "旗は国を破壊する",
+    "dummy2": "旗は国を隠蔽する",
+    "dummy3": "旗は国を訪問する"
   },
   {
     "id": 2444,
@@ -7987,9 +7987,9 @@
     "grade": 2,
     "phrase": "elected a representative for council",
     "phrase_meaning": "議会の代表者を選出した",
-    "dummy1": "議会の反対者を選出した",
-    "dummy2": "議会の再現者を選出した",
-    "dummy3": "議会の代理人を選出した"
+    "dummy1": "議会の侵入者を選出した",
+    "dummy2": "議会の観察者を選出した",
+    "dummy3": "議会の放浪者を選出した"
   },
   {
     "id": 2445,
@@ -8005,9 +8005,9 @@
     "grade": 2,
     "phrase": "these animals reproduce rapidly",
     "phrase_meaning": "これらの動物は急速に繁殖する",
-    "dummy1": "これらの動物は急速に絶滅する",
-    "dummy2": "これらの動物は急速に再生産する",
-    "dummy3": "これらの動物は急速に移動する"
+    "dummy1": "これらの動物は急速に発見される",
+    "dummy2": "これらの動物は急速に学習する",
+    "dummy3": "これらの動物は急速に隠れる"
   },
   {
     "id": 2446,
@@ -8023,9 +8023,9 @@
     "grade": 2,
     "phrase": "has an excellent reputation",
     "phrase_meaning": "優れた評判がある",
-    "dummy1": "優れた悪評がある",
-    "dummy2": "優れた繰り返しがある",
-    "dummy3": "優れた名声がある"
+    "dummy1": "優れた欠点がある",
+    "dummy2": "優れた情報がある",
+    "dummy3": "優れた伝統がある"
   },
   {
     "id": 2447,
@@ -8043,7 +8043,7 @@
     "phrase_meaning": "多くの情報提供の依頼を受けた",
     "dummy1": "多くの情報提供の命令を受けた",
     "dummy2": "多くの情報提供の拒否を受けた",
-    "dummy3": "多くの情報提供の問い合わせを受けた"
+    "dummy3": "多くの情報提供の報告を受けた"
   },
   {
     "id": 2448,
@@ -8059,9 +8059,9 @@
     "grade": 2,
     "phrase": "a degree is a requirement for",
     "phrase_meaning": "学位は～の必要条件だ",
-    "dummy1": "学位は～の十分条件だ",
+    "dummy1": "学位は～の結果だ",
     "dummy2": "学位は～の引退だ",
-    "dummy3": "学位は～の推奨条件だ"
+    "dummy3": "学位は～の障害物だ"
   },
   {
     "id": 2449,
@@ -8078,7 +8078,7 @@
     "phrase": "rescuing survivors from the earthquake",
     "phrase_meaning": "地震の生存者を救助している",
     "dummy1": "地震の生存者を見捨てている",
-    "dummy2": "地震の生存者を再キューしている",
+    "dummy2": "地震の生存者を尋問している",
     "dummy3": "地震の生存者を励ましている"
   },
   {
@@ -8097,7 +8097,7 @@
     "phrase_meaning": "彼を恨めしそうに見た",
     "dummy1": "彼を好意的に見た",
     "dummy2": "彼を敬意をもって見た",
-    "dummy3": "彼を憤りをもって見た"
+    "dummy3": "彼を冷淡に見た"
   },
   {
     "id": 2451,
@@ -8169,7 +8169,7 @@
     "phrase_meaning": "ビーチリゾートに滞在した",
     "dummy1": "ビーチの自宅に滞在した",
     "dummy2": "ビーチの手段に滞在した",
-    "dummy3": "ビーチの宿泊施設に滞在した"
+    "dummy3": "ビーチの工場に滞在した"
   },
   {
     "id": 2455,
@@ -8186,8 +8186,8 @@
     "phrase": "water is a precious natural resource",
     "phrase_meaning": "水は貴重な天然資源だ",
     "dummy1": "水は貴重な天然の廃棄物だ",
-    "dummy2": "水は貴重な天然リゾートだ",
-    "dummy3": "水は貴重な天然の財産だ"
+    "dummy2": "水は貴重な天然の負担だ",
+    "dummy3": "水は貴重な天然の風景だ"
   },
   {
     "id": 2456,
@@ -8204,8 +8204,8 @@
     "phrase": "show respect for our elders",
     "phrase_meaning": "年長者に敬意を示す",
     "dummy1": "年長者に無礼を示す",
-    "dummy2": "年長者に再検査を示す",
-    "dummy3": "年長者に感謝を示す"
+    "dummy2": "年長者に嘲笑を示す",
+    "dummy3": "年長者に無関心を示す"
   },
   {
     "id": 2457,
@@ -8222,8 +8222,8 @@
     "phrase": "dressed respectably for the interview",
     "phrase_meaning": "面接のためにきちんとした服装をした",
     "dummy1": "面接のためにだらしない服装をした",
-    "dummy2": "面接のためにそれぞれ服装をした",
-    "dummy3": "面接のために立派な服装をした"
+    "dummy2": "面接のために奇抜な服装をした",
+    "dummy3": "面接のために普段着の服装をした"
   },
   {
     "id": 2458,
@@ -8239,9 +8239,9 @@
     "grade": 2,
     "phrase": "did not respond to my email",
     "phrase_meaning": "私のメールに返答しなかった",
-    "dummy1": "私のメールにすぐ返答した",
-    "dummy2": "私のメールに対応しなかった",
-    "dummy3": "私のメールを無視した"
+    "dummy1": "私のメールに報告しなかった",
+    "dummy2": "私のメールに指示しなかった",
+    "dummy3": "私のメールに同意しなかった"
   },
   {
     "id": 2459,
@@ -8312,8 +8312,8 @@
     "phrase": "the court reversed the decision",
     "phrase_meaning": "裁判所は判決を取り消した",
     "dummy1": "裁判所は判決を維持した",
-    "dummy2": "裁判所は判決をリハーサルした",
-    "dummy3": "裁判所は判決を支持した"
+    "dummy2": "裁判所は判決を延期した",
+    "dummy3": "裁判所は判決を公表した"
   },
   {
     "id": 2463,
@@ -8330,8 +8330,8 @@
     "phrase": "let's review the main points",
     "phrase_meaning": "要点を復習しましょう",
     "dummy1": "要点を忘れましょう",
-    "dummy2": "要点を再見しましょう",
-    "dummy3": "要点を確認しましょう"
+    "dummy2": "要点を発表しましょう",
+    "dummy3": "要点を議論しましょう"
   },
   {
     "id": 2464,
@@ -8348,8 +8348,8 @@
     "phrase": "needs to revise her essay",
     "phrase_meaning": "エッセイを修正する必要がある",
     "dummy1": "エッセイをそのまま出す必要がある",
-    "dummy2": "エッセイを再訪問する必要がある",
-    "dummy3": "エッセイを見直す必要がある"
+    "dummy2": "エッセイを印刷する必要がある",
+    "dummy3": "エッセイを破棄する必要がある"
   },
   {
     "id": 2465,
@@ -8366,8 +8366,8 @@
     "phrase": "moved to the rhythm of the music",
     "phrase_meaning": "音楽のリズムに合わせて動いた",
     "dummy1": "音楽の不協和音に合わせて動いた",
-    "dummy2": "音楽の韻に合わせて動いた",
-    "dummy3": "音楽のテンポに合わせて動いた"
+    "dummy2": "音楽の音量に合わせて動いた",
+    "dummy3": "音楽の音色に合わせて動いた"
   },
   {
     "id": 2466,
@@ -8384,8 +8384,8 @@
     "phrase": "the two companies have been rivals",
     "phrase_meaning": "二つの会社はライバルだった",
     "dummy1": "二つの会社は協力者だった",
-    "dummy2": "二つの会社は到着者だった",
-    "dummy3": "二つの会社は提携相手だった"
+    "dummy2": "二つの会社は監視者だった",
+    "dummy3": "二つの会社は顧客だった"
   },
   {
     "id": 2467,
@@ -8420,7 +8420,7 @@
     "phrase": "watched fireworks from the rooftop",
     "phrase_meaning": "屋上から花火を見た",
     "dummy1": "地下室から花火を見た",
-    "dummy2": "根っこから花火を見た",
+    "dummy2": "窓辺から花火を見た",
     "dummy3": "路上から花火を見た"
   },
   {
@@ -8438,8 +8438,8 @@
     "phrase": "the fastest route to the airport",
     "phrase_meaning": "空港への最速のルート",
     "dummy1": "空港への最速の迂回路",
-    "dummy2": "空港への最速の根",
-    "dummy3": "空港への最速の道"
+    "dummy2": "空港への最速の妨害",
+    "dummy3": "空港への最速の目的地"
   },
   {
     "id": 2470,
@@ -8456,8 +8456,8 @@
     "phrase": "follows the same routine every morning",
     "phrase_meaning": "毎朝同じ日課に従う",
     "dummy1": "毎朝同じ気まぐれに従う",
-    "dummy2": "毎朝同じルートに従う",
-    "dummy3": "毎朝同じ習慣に従う"
+    "dummy2": "毎朝同じ直感に従う",
+    "dummy3": "毎朝同じ例外に従う"
   },
   {
     "id": 2471,
@@ -8474,8 +8474,8 @@
     "phrase": "sat in the front row",
     "phrase_meaning": "最前列に座った",
     "dummy1": "最前の空間に座った",
-    "dummy2": "最前の漕ぎに座った",
-    "dummy3": "一番前の席に座った"
+    "dummy2": "最前の後方に座った",
+    "dummy3": "最前の塊に座った"
   },
   {
     "id": 2472,
@@ -8492,8 +8492,8 @@
     "phrase": "sacrificed her free time to help",
     "phrase_meaning": "助けるために自由時間を犠牲にした",
     "dummy1": "助けるために自由時間を楽しんだ",
-    "dummy2": "助けるために自由時間を聖なるものにした",
-    "dummy3": "助けるために自由時間を費やした"
+    "dummy2": "助けるために自由時間を無視した",
+    "dummy3": "助けるために自由時間を確保した"
   },
   {
     "id": 2473,
@@ -8528,8 +8528,8 @@
     "phrase": "the theory was scientifically proven",
     "phrase_meaning": "理論は科学的に証明された",
     "dummy1": "理論は迷信的に証明された",
-    "dummy2": "理論は犠牲的に証明された",
-    "dummy3": "理論は経験的に証明された"
+    "dummy2": "理論は直感的に証明された",
+    "dummy3": "理論は個人的に証明された"
   },
   {
     "id": 2475,
@@ -8565,7 +8565,7 @@
     "phrase_meaning": "空港の警備が強化された",
     "dummy1": "空港の危険が強化された",
     "dummy2": "空港の証券が強化された",
-    "dummy3": "空港の安全対策が強化された"
+    "dummy3": "空港の秘密が強化された"
   },
   {
     "id": 2477,
@@ -8600,8 +8600,8 @@
     "phrase": "the movie became a worldwide sensation",
     "phrase_meaning": "映画は世界的な大騒ぎとなった",
     "dummy1": "映画は世界的に無視された",
-    "dummy2": "映画は世界的な駅となった",
-    "dummy3": "映画は世界的な話題となった"
+    "dummy2": "映画は世界的な感覚となった",
+    "dummy3": "映画は世界的な誤解となった"
   },
   {
     "id": 2479,
@@ -8618,8 +8618,8 @@
     "phrase": "the twins were educated separately",
     "phrase_meaning": "双子は別々に教育された",
     "dummy1": "双子は一緒に教育された",
-    "dummy2": "双子は節約して教育された",
-    "dummy3": "双子は交互に教育された"
+    "dummy2": "双子は一時的に教育された",
+    "dummy3": "双子は公平に教育された"
   },
   {
     "id": 2480,
@@ -8654,8 +8654,8 @@
     "phrase": "the town was severely affected",
     "phrase_meaning": "その町は深刻な影響を受けた",
     "dummy1": "その町はわずかな影響を受けた",
-    "dummy2": "その町はサービス的に影響を受けた",
-    "dummy3": "その町は大きな影響を受けた"
+    "dummy2": "その町は穏やかに影響を受けた",
+    "dummy3": "その町は表面的な影響を受けた"
   },
   {
     "id": 2482,
@@ -8672,8 +8672,8 @@
     "phrase": "let's sit in the shade",
     "phrase_meaning": "日陰に座ろう",
     "dummy1": "日なたに座ろう",
-    "dummy2": "影に座ろう",
-    "dummy3": "砂浜に座ろう"
+    "dummy2": "暗闇に座ろう",
+    "dummy3": "明るい場所に座ろう"
   },
   {
     "id": 2483,
@@ -8708,8 +8708,8 @@
     "phrase": "a strong similarity between the two",
     "phrase_meaning": "二つの間の強い類似性",
     "dummy1": "二つの間の強い相違性",
-    "dummy2": "二つの間の強い模擬",
-    "dummy3": "二つの間の強い相違点"
+    "dummy2": "二つの間の強い関連性",
+    "dummy3": "二つの間の強い同一性"
   },
   {
     "id": 2485,
@@ -8726,8 +8726,8 @@
     "phrase": "would you like a slice of pizza",
     "phrase_meaning": "ピザを一切れいかがですか",
     "dummy1": "ピザを丸ごといかがですか",
-    "dummy2": "ピザを一滑りいかがですか",
-    "dummy3": "ピザを全部いかがですか"
+    "dummy2": "ピザを一口いかがですか",
+    "dummy3": "ピザを塊でいかがですか"
   },
   {
     "id": 2486,
@@ -8762,7 +8762,7 @@
     "phrase": "he is socially active",
     "phrase_meaning": "彼は社会的に活動的だ",
     "dummy1": "彼は個人的に活動的だ",
-    "dummy2": "彼は靴下的に活動的だ",
+    "dummy2": "彼は経済的に活動的だ",
     "dummy3": "彼は精神的に活動的だ"
   },
   {
@@ -8780,8 +8780,8 @@
     "phrase": "different societies have different customs",
     "phrase_meaning": "異なる社会には異なる習慣がある",
     "dummy1": "異なる個人には異なる習慣がある",
-    "dummy2": "異なる季節には異なる習慣がある",
-    "dummy3": "異なる文化には異なる習慣がある"
+    "dummy2": "異なる組織には異なる習慣がある",
+    "dummy3": "異なる世代には異なる習慣がある"
   },
   {
     "id": 2489,
@@ -8798,8 +8798,8 @@
     "phrase": "within the specified time",
     "phrase_meaning": "指定された時間内に",
     "dummy1": "任意の時間内に",
-    "dummy2": "種類の時間内に",
-    "dummy3": "決められた時間内に"
+    "dummy2": "不明瞭な時間内に",
+    "dummy3": "都合の良い時間内に"
   },
   {
     "id": 2490,
@@ -8817,7 +8817,7 @@
     "phrase_meaning": "何千人もの観客が見た",
     "dummy1": "何千人もの選手が見た",
     "dummy2": "何千人もの眼鏡が見た",
-    "dummy3": "何千人もの見物人が見た"
+    "dummy3": "何千人もの関係者が見た"
   },
   {
     "id": 2491,
@@ -8833,8 +8833,8 @@
     "grade": 2,
     "phrase": "be careful to avoid spilling",
     "phrase_meaning": "こぼさないように気をつけて",
-    "dummy1": "こぼすように気をつけて",
-    "dummy2": "回転しないように気をつけて",
+    "dummy1": "汚さないように気をつけて",
+    "dummy2": "壊さないように気をつけて",
     "dummy3": "飲み干さないように気をつけて"
   },
   {
@@ -8853,7 +8853,7 @@
     "phrase_meaning": "その旅は精神的に豊かだった",
     "dummy1": "その旅は物質的に豊かだった",
     "dummy2": "その旅はスパイラル的に豊かだった",
-    "dummy3": "その旅は心霊的に豊かだった"
+    "dummy3": "その旅は経済的に豊かだった"
   },
   {
     "id": 2493,
@@ -8871,7 +8871,7 @@
     "phrase_meaning": "勘定を均等に分けよう",
     "dummy1": "勘定を一人で払おう",
     "dummy2": "勘定を唾を吐いて分けよう",
-    "dummy3": "勘定を忘れないようにしよう"
+    "dummy3": "勘定をまとめて払おう"
   },
   {
     "id": 2494,
@@ -8906,8 +8906,8 @@
     "phrase": "sprayed perfume on her wrists",
     "phrase_meaning": "手首に香水を吹きかけた",
     "dummy1": "手首から香水を拭き取った",
-    "dummy2": "手首に香水を広げた",
-    "dummy3": "手首に時計をつけた"
+    "dummy2": "手首に香水を塗った",
+    "dummy3": "手首に香水を垂らした"
   },
   {
     "id": 2496,
@@ -8925,7 +8925,7 @@
     "phrase_meaning": "経済は着実な成長を示した",
     "dummy1": "経済は不安定な成長を示した",
     "dummy2": "経済はすでに成長を示した",
-    "dummy3": "経済は安定した成長を示した"
+    "dummy3": "経済は一時的な成長を示した"
   },
   {
     "id": 2497,
@@ -8943,7 +8943,7 @@
     "phrase_meaning": "議論が新しいアイデアを刺激した",
     "dummy1": "議論が新しいアイデアを抑制した",
     "dummy2": "議論が新しいアイデアを模擬した",
-    "dummy3": "議論が新しいアイデアを生んだ"
+    "dummy3": "議論が新しいアイデアを無視した"
   },
   {
     "id": 2498,
@@ -8960,8 +8960,8 @@
     "phrase": "need more storage space",
     "phrase_meaning": "もっと保管スペースが必要だ",
     "dummy1": "もっと展示スペースが必要だ",
-    "dummy2": "もっと物語スペースが必要だ",
-    "dummy3": "もっと収納スペースが必要だ"
+    "dummy2": "もっと作業スペースが必要だ",
+    "dummy3": "もっと販売スペースが必要だ"
   },
   {
     "id": 2499,
@@ -8995,8 +8995,8 @@
     "grade": 2,
     "phrase": "the bridge is an impressive structure",
     "phrase_meaning": "その橋は印象的な建造物だ",
-    "dummy1": "その橋は取るに足らない建造物だ",
-    "dummy2": "その橋は印象的な彫刻だ",
+    "dummy1": "その橋は印象的な彫刻だ",
+    "dummy2": "その橋は印象的な伝説だ",
     "dummy3": "その橋は印象的な絵画だ"
   },
   {
@@ -9049,8 +9049,8 @@
     "grade": 2,
     "phrase": "cancelled my magazine subscription",
     "phrase_meaning": "雑誌の定期購読を解約した",
-    "dummy1": "雑誌の定期購読を始めた",
-    "dummy2": "雑誌の記述を解約した",
+    "dummy1": "雑誌の販売を解約した",
+    "dummy2": "雑誌への寄付を解約した",
     "dummy3": "雑誌の広告を解約した"
   },
   {
@@ -9086,8 +9086,8 @@
     "phrase": "the lights suddenly went out",
     "phrase_meaning": "突然電気が消えた",
     "dummy1": "徐々に電気が消えた",
-    "dummy2": "日曜日に電気が消えた",
-    "dummy3": "ゆっくり電気が消えた"
+    "dummy2": "頻繁に電気が消えた",
+    "dummy3": "意図的に電気が消えた"
   },
   {
     "id": 2506,
@@ -9104,7 +9104,7 @@
     "phrase": "suffered heavy damage from the typhoon",
     "phrase_meaning": "台風で甚大な被害を受けた",
     "dummy1": "台風で甚大な被害を免れた",
-    "dummy2": "台風で十分な被害を受けた",
+    "dummy2": "台風で甚大な被害を予測した",
     "dummy3": "台風で甚大な恩恵を受けた"
   },
   {
@@ -9122,8 +9122,8 @@
     "phrase": "we have sufficient evidence",
     "phrase_meaning": "十分な証拠がある",
     "dummy1": "過剰な証拠がある",
-    "dummy2": "効率的な証拠がある",
-    "dummy3": "圧倒的な証拠がある"
+    "dummy2": "不確かな証拠がある",
+    "dummy3": "不適切な証拠がある"
   },
   {
     "id": 2508,
@@ -9139,7 +9139,7 @@
     "grade": 2,
     "phrase": "packed our suitcases before the trip",
     "phrase_meaning": "旅行前にスーツケースを詰めた",
-    "dummy1": "旅行前にスーツケースを空にした",
+    "dummy1": "旅行前にパスポートを詰めた",
     "dummy2": "旅行前にスーツを着た",
     "dummy3": "旅行前に地図を詰めた"
   },
@@ -9159,7 +9159,7 @@
     "phrase_meaning": "工場は～に部品を供給している",
     "dummy1": "工場は～から部品を受け取っている",
     "dummy2": "工場は～に部品を要求している",
-    "dummy3": "工場は～から部品を購入している"
+    "dummy3": "工場は～から部品を修理している"
   },
   {
     "id": 2510,
@@ -9176,8 +9176,8 @@
     "phrase": "the doctor recommended surgery",
     "phrase_meaning": "医者は手術を勧めた",
     "dummy1": "医者は薬物治療を勧めた",
-    "dummy2": "医者は外科学を勧めた",
-    "dummy3": "医者は手術を提案した"
+    "dummy2": "医者は安静を勧めた",
+    "dummy3": "医者は運動を勧めた"
   },
   {
     "id": 2511,
@@ -9194,8 +9194,8 @@
     "phrase": "the test was surprisingly easy",
     "phrase_meaning": "テストは意外にも簡単だった",
     "dummy1": "テストは予想通り簡単だった",
-    "dummy2": "テストは調査的に簡単だった",
-    "dummy3": "テストは案の定簡単だった"
+    "dummy2": "テストは残念ながら簡単だった",
+    "dummy3": "テストは必然的に簡単だった"
   },
   {
     "id": 2512,
@@ -9212,8 +9212,8 @@
     "phrase": "survival in the wilderness requires skills",
     "phrase_meaning": "荒野での生存には技術が必要だ",
     "dummy1": "荒野での絶滅には技術が必要だ",
-    "dummy2": "荒野での調査には技術が必要だ",
-    "dummy3": "荒野でのサバイバルには技術が必要だ"
+    "dummy2": "荒野での探索には技術が必要だ",
+    "dummy3": "荒野での移住には技術が必要だ"
   },
   {
     "id": 2513,
@@ -9230,8 +9230,8 @@
     "phrase": "police arrested the main suspect",
     "phrase_meaning": "警察は主要容疑者を逮捕した",
     "dummy1": "警察は主要な目撃者を逮捕した",
-    "dummy2": "警察は主要な中断を逮捕した",
-    "dummy3": "警察は主要容疑者を拘束した"
+    "dummy2": "警察は主要な被害者を逮捕した",
+    "dummy3": "警察は主要な警察官を逮捕した"
   },
   {
     "id": 2514,
@@ -9248,8 +9248,8 @@
     "phrase": "arrested on suspicion of theft",
     "phrase_meaning": "窃盗の疑いで逮捕された",
     "dummy1": "窃盗の確証で逮捕された",
-    "dummy2": "窃盗の中止で逮捕された",
-    "dummy3": "窃盗の証拠で逮捕された"
+    "dummy2": "窃盗の動機で逮捕された",
+    "dummy3": "窃盗の目撃で逮捕された"
   },
   {
     "id": 2515,
@@ -9266,8 +9266,8 @@
     "phrase": "please sweep the floor",
     "phrase_meaning": "床を掃いてください",
     "dummy1": "床を汚してください",
-    "dummy2": "床を甘くしてください",
-    "dummy3": "床をきれいにしてください"
+    "dummy2": "床を敷いてください",
+    "dummy3": "床を磨いてください"
   },
   {
     "id": 2516,
@@ -9284,7 +9284,7 @@
     "phrase": "she likes to swim in the ocean",
     "phrase_meaning": "彼女は海で泳ぐのが好きだ",
     "dummy1": "彼女は海で溺れるのが好きだ",
-    "dummy2": "彼女は海で振るのが好きだ",
+    "dummy2": "彼女は海で潜るのが好きだ",
     "dummy3": "彼女は海で散歩するのが好きだ"
   },
   {
@@ -9302,7 +9302,7 @@
     "phrase": "composed nine symphonies",
     "phrase_meaning": "9つの交響曲を作曲した",
     "dummy1": "9つの独奏曲を作曲した",
-    "dummy2": "9つの同情を作曲した",
+    "dummy2": "9つの合唱曲を作曲した",
     "dummy3": "9つのオペラを作曲した"
   },
   {
@@ -9320,8 +9320,8 @@
     "phrase": "a common symptom of the flu",
     "phrase_meaning": "インフルエンザの一般的な症状",
     "dummy1": "インフルエンザの一般的な治療法",
-    "dummy2": "インフルエンザの一般的な同情",
-    "dummy3": "インフルエンザの一般的な治療法"
+    "dummy2": "インフルエンザの一般的な予防法",
+    "dummy3": "インフルエンザの一般的な原因"
   },
   {
     "id": 2519,
@@ -9338,7 +9338,7 @@
     "phrase": "the road is temporarily closed",
     "phrase_meaning": "道路は一時的に閉鎖されている",
     "dummy1": "道路は永久に閉鎖されている",
-    "dummy2": "道路は気性的に閉鎖されている",
+    "dummy2": "道路は段階的に閉鎖されている",
     "dummy3": "道路は部分的に閉鎖されている"
   },
   {
@@ -9356,8 +9356,8 @@
     "phrase": "growing tension between the two countries",
     "phrase_meaning": "二国間の緊張が高まっている",
     "dummy1": "二国間の協力が高まっている",
-    "dummy2": "二国間の傾向が高まっている",
-    "dummy3": "二国間の対立が高まっている"
+    "dummy2": "二国間の理解が高まっている",
+    "dummy3": "二国間の平和が高まっている"
   },
   {
     "id": 2521,
@@ -9374,8 +9374,8 @@
     "phrase": "I'm terribly sorry for",
     "phrase_meaning": "～について大変申し訳ない",
     "dummy1": "～について全く申し訳なくない",
-    "dummy2": "～について奇妙に申し訳ない",
-    "dummy3": "～について少し申し訳ない"
+    "dummy2": "～についてほとんど申し訳なくない",
+    "dummy3": "～について適当に申し訳ない"
   },
   {
     "id": 2522,
@@ -9392,8 +9392,8 @@
     "phrase": "thankfully no one was hurt",
     "phrase_meaning": "ありがたいことに誰もけがをしなかった",
     "dummy1": "残念ながら誰もけがをしなかった",
-    "dummy2": "考え深く誰もけがをしなかった",
-    "dummy3": "案の定誰もけがをしなかった"
+    "dummy2": "意外にも誰もけがをしなかった",
+    "dummy3": "当然ながら誰もけがをしなかった"
   },
   {
     "id": 2523,
@@ -9410,8 +9410,8 @@
     "phrase": "learned how to tie his shoes",
     "phrase_meaning": "靴ひもの結び方を覚えた",
     "dummy1": "靴ひもの解き方を覚えた",
-    "dummy2": "靴ひもの染め方を覚えた",
-    "dummy3": "靴ひものほどき方を覚えた"
+    "dummy2": "靴ひもの通し方を覚えた",
+    "dummy3": "靴ひもの洗い方を覚えた"
   },
   {
     "id": 2524,
@@ -9428,8 +9428,8 @@
     "phrase": "train timetables are available online",
     "phrase_meaning": "列車の時刻表はオンラインで見られる",
     "dummy1": "列車の運賃表はオンラインで見られる",
-    "dummy2": "列車のタイムテーブルはオンラインで見られる",
-    "dummy3": "列車のスケジュールはオンラインで見られる"
+    "dummy2": "列車の座席表はオンラインで見られる",
+    "dummy3": "列車の路線図はオンラインで見られる"
   },
   {
     "id": 2525,
@@ -9446,8 +9446,8 @@
     "phrase": "traditionally served at New Year",
     "phrase_meaning": "伝統的に正月に出される",
     "dummy1": "最近になって正月に出される",
-    "dummy2": "取引的に正月に出される",
-    "dummy3": "特別に正月に出される"
+    "dummy2": "偶然に正月に出される",
+    "dummy3": "義務的に正月に出される"
   },
   {
     "id": 2526,
@@ -9464,8 +9464,8 @@
     "phrase": "the earthquake was a terrible tragedy",
     "phrase_meaning": "地震はひどい悲劇だった",
     "dummy1": "地震は素晴らしい祝福だった",
-    "dummy2": "地震はひどい軌道だった",
-    "dummy3": "地震はひどい出来事だった"
+    "dummy2": "地震はひどい喜劇だった",
+    "dummy3": "地震はひどい解決策だった"
   },
   {
     "id": 2527,
@@ -9499,9 +9499,9 @@
     "grade": 2,
     "phrase": "translate this sentence into English",
     "phrase_meaning": "この文を英語に翻訳する",
-    "dummy1": "この文を英語に変換する",
-    "dummy2": "この文を英語に移転する",
-    "dummy3": "この文を英語で音読する"
+    "dummy1": "この文を英語に加工する",
+    "dummy2": "この文を英語に移送する",
+    "dummy3": "この文を英語に分析する"
   },
   {
     "id": 2529,
@@ -9517,9 +9517,9 @@
     "grade": 2,
     "phrase": "the translation of the novel",
     "phrase_meaning": "その小説の翻訳",
-    "dummy1": "その小説の原作",
-    "dummy2": "その小説の移転",
-    "dummy3": "その小説の要約"
+    "dummy1": "その小説の創作",
+    "dummy2": "その小説の分解",
+    "dummy3": "その小説の装飾"
   },
   {
     "id": 2530,
@@ -9537,7 +9537,7 @@
     "phrase_meaning": "子どもたちは三角形を描いた",
     "dummy1": "子どもたちは円を描いた",
     "dummy2": "子どもたちは試験を描いた",
-    "dummy3": "子どもたちは長方形を描いた"
+    "dummy3": "子どもたちは楽器を描いた"
   },
   {
     "id": 2531,
@@ -9554,8 +9554,8 @@
     "phrase": "tricked into giving away his password",
     "phrase_meaning": "だまされてパスワードを教えた",
     "dummy1": "自らパスワードを教えた",
-    "dummy2": "騙されてパスワードを治療した",
-    "dummy3": "説得されてパスワードを教えた"
+    "dummy2": "脅されてパスワードを教えた",
+    "dummy3": "選ばれてパスワードを教えた"
   },
   {
     "id": 2532,
@@ -9571,9 +9571,9 @@
     "grade": 2,
     "phrase": "a great triumph for the team",
     "phrase_meaning": "チームにとって大きな勝利",
-    "dummy1": "チームにとって大きな敗北",
-    "dummy2": "チームにとって大きなトランペット",
-    "dummy3": "チームにとって大きな課題"
+    "dummy1": "チームにとって大きな休憩",
+    "dummy2": "チームにとって大きな幻覚",
+    "dummy3": "チームにとって大きな噂"
   },
   {
     "id": 2533,
@@ -9589,9 +9589,9 @@
     "grade": 2,
     "phrase": "a troop of soldiers marched",
     "phrase_meaning": "一隊の兵士が行進した",
-    "dummy1": "一組の兵士が行進した",
-    "dummy2": "一つの騙しが行進した",
-    "dummy3": "一名の兵士が行進した"
+    "dummy1": "一列の兵士が行進した",
+    "dummy2": "少数の兵士が行進した",
+    "dummy3": "若い兵士が行進した"
   },
   {
     "id": 2534,
@@ -9607,9 +9607,9 @@
     "grade": 2,
     "phrase": "the experiment required glass tubes",
     "phrase_meaning": "実験にはガラス管が必要だった",
-    "dummy1": "実験にはガラス瓶が必要だった",
-    "dummy2": "実験にはガラスチューブが必要だった",
-    "dummy3": "実験にはガラス容器が必要だった"
+    "dummy1": "実験にはガラス鏡が必要だった",
+    "dummy2": "実験にはガラス絵画が必要だった",
+    "dummy3": "実験にはガラス記録が必要だった"
   },
   {
     "id": 2535,
@@ -9627,7 +9627,7 @@
     "phrase_meaning": "その椅子はとても座り心地が悪かった",
     "dummy1": "その椅子はとても値段が高かった",
     "dummy2": "その椅子はとても異常だった",
-    "dummy3": "その椅子はとても高価だった"
+    "dummy3": "その椅子はとても軽かった"
   },
   {
     "id": 2536,
@@ -9644,8 +9644,8 @@
     "phrase": "the cat was hiding underneath the bed",
     "phrase_meaning": "猫はベッドの下に隠れていた",
     "dummy1": "猫はベッドの向こうに隠れていた",
-    "dummy2": "猫はベッドの中に隠れていた",
-    "dummy3": "猫はベッドの外に隠れていた"
+    "dummy2": "猫はベッドの隣に隠れていた",
+    "dummy3": "猫はベッドの上に隠れていた"
   },
   {
     "id": 2537,
@@ -9662,8 +9662,8 @@
     "phrase": "we must unite to fight injustice",
     "phrase_meaning": "不正義と戦うために団結しなければならない",
     "dummy1": "不正義と戦うために移住しなければならない",
-    "dummy2": "不正義と戦うために単位にならなければならない",
-    "dummy3": "不正義と戦うために降伏しなければならない"
+    "dummy2": "不正義と戦うために分散しなければならない",
+    "dummy3": "不正義と戦うために記憶しなければならない"
   },
   {
     "id": 2538,
@@ -9680,8 +9680,8 @@
     "phrase": "the upper floors have a great view",
     "phrase_meaning": "上層階は素晴らしい眺めだ",
     "dummy1": "地下階は素晴らしい眺めだ",
-    "dummy2": "アッパーの階は素晴らしい眺めだ",
-    "dummy3": "地下階は素晴らしい眺めだ"
+    "dummy2": "窓のない階は素晴らしい眺めだ",
+    "dummy3": "倉庫階は素晴らしい眺めだ"
   },
   {
     "id": 2539,
@@ -9697,8 +9697,8 @@
     "grade": 2,
     "phrase": "the bedroom is upstairs",
     "phrase_meaning": "寝室は二階にある",
-    "dummy1": "寝室は一階にある",
-    "dummy2": "寝室は階段の上にある",
+    "dummy1": "寝室は手前にある",
+    "dummy2": "寝室は屋外にある",
     "dummy3": "寝室は奥にある"
   },
   {
@@ -9715,7 +9715,7 @@
     "grade": 2,
     "phrase": "a sense of urgency about this matter",
     "phrase_meaning": "この問題に緊急性がある",
-    "dummy1": "この問題に余裕がある",
+    "dummy1": "この問題に偶然性がある",
     "dummy2": "この問題に衝動がある",
     "dummy3": "この問題に既視感がある"
   },
@@ -9752,8 +9752,8 @@
     "phrase": "electric vehicles are becoming popular",
     "phrase_meaning": "電気自動車がますます人気になっている",
     "dummy1": "電気毛布がますます人気になっている",
-    "dummy2": "電気の乗り物がますます人気になっている",
-    "dummy3": "電気自動車がますます普及している"
+    "dummy2": "電気照明がますます人気になっている",
+    "dummy3": "電気植物がますます人気になっている"
   },
   {
     "id": 2543,
@@ -9771,7 +9771,7 @@
     "phrase_meaning": "被害者は病院に運ばれた",
     "dummy1": "目撃者は病院に運ばれた",
     "dummy2": "勝利者は病院に運ばれた",
-    "dummy3": "目撃者は病院に運ばれた"
+    "dummy3": "関係者は病院に運ばれた"
   },
   {
     "id": 2544,
@@ -9787,9 +9787,9 @@
     "grade": 2,
     "phrase": "aid was sent to the victims",
     "phrase_meaning": "被災者に援助が送られた",
-    "dummy1": "加害者に援助が送られた",
+    "dummy1": "見物人に援助が送られた",
     "dummy2": "勝利者に援助が送られた",
-    "dummy3": "被災者に請求が送られた"
+    "dummy3": "支援者に援助が送られた"
   },
   {
     "id": 2545,
@@ -9841,9 +9841,9 @@
     "grade": 2,
     "phrase": "the stars are clearly visible",
     "phrase_meaning": "星がはっきりと見える",
-    "dummy1": "星が全く見えない",
+    "dummy1": "星がはっきりと聞こえる",
     "dummy2": "星がはっきりと訪問できる",
-    "dummy3": "星がぼんやりと見える"
+    "dummy3": "星がはっきりと感じる"
   },
   {
     "id": 2548,
@@ -9879,7 +9879,7 @@
     "phrase_meaning": "材料の重さを注意深く量った",
     "dummy1": "材料の重さを注意深く推測した",
     "dummy2": "材料の重さを注意深く隠した",
-    "dummy3": "材料の分量を注意深く量った"
+    "dummy3": "材料の重さを注意深く選択した"
   },
   {
     "id": 2550,
@@ -9895,9 +9895,9 @@
     "grade": 2,
     "phrase": "provides welfare services to the poor",
     "phrase_meaning": "貧困者に福祉サービスを提供する",
-    "dummy1": "貧困者に有料サービスを提供する",
+    "dummy1": "貧困者に娯楽サービスを提供する",
     "dummy2": "貧困者に富裕サービスを提供する",
-    "dummy3": "貧困者に社会サービスを提供する"
+    "dummy3": "貧困者に警備サービスを提供する"
   },
   {
     "id": 2551,
@@ -9913,9 +9913,9 @@
     "grade": 2,
     "phrase": "please wipe the table after eating",
     "phrase_meaning": "食事の後にテーブルを拭いてください",
-    "dummy1": "食事の後にテーブルを汚してください",
+    "dummy1": "食事の後にテーブルを飾ってください",
     "dummy2": "食事の後にテーブルを鞭打ってください",
-    "dummy3": "食事の後にテーブルをきれいにしてください"
+    "dummy3": "食事の後にテーブルを移動してください"
   },
   {
     "id": 2552,
@@ -9931,9 +9931,9 @@
     "grade": 2,
     "phrase": "the experiment yielded interesting results",
     "phrase_meaning": "実験は興味深い結果をもたらした",
-    "dummy1": "実験は興味深い結果を隠した",
+    "dummy1": "実験は興味深い結果を破壊した",
     "dummy2": "実験は興味深い結果を叫んだ",
-    "dummy3": "実験は予期せぬ結果をもたらした"
+    "dummy3": "実験は興味深い結果を隠した"
   },
   {
     "id": 2553,
@@ -9951,7 +9951,7 @@
     "phrase_meaning": "産業革命は社会を変えた",
     "dummy1": "娯楽革命は社会を変えた",
     "dummy2": "勤勉な革命は社会を変えた",
-    "dummy3": "産業革命は社会を一変させた"
+    "dummy3": "教育革命は社会を変えた"
   },
   {
     "id": 2554,
@@ -9969,6 +9969,6 @@
     "phrase_meaning": "第一印象は非常に重要だ",
     "dummy1": "第一無関心は非常に重要だ",
     "dummy2": "第一圧力は非常に重要だ",
-    "dummy3": "第一の見た目は非常に重要だ"
+    "dummy3": "第一情報は非常に重要だ"
   }
 ]

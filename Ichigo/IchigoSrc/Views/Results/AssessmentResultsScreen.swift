@@ -88,18 +88,9 @@ struct AssessmentResultsScreen: View {
                 // Buttons
                 Button {
                     if storeManager.isUnlocked {
-                        var t = Transaction()
-                        t.disablesAnimations = true
-                        withTransaction(t) {
-                            path = NavigationPath()
-                        }
-                        DispatchQueue.main.asyncAfter(deadline: .now() + 0.1) {
-                            var t2 = Transaction()
-                            t2.disablesAnimations = true
-                            withTransaction(t2) {
-                                path.append(QuizRoute(grade: grade))
-                            }
-                        }
+                        var newPath = NavigationPath()
+                        newPath.append(QuizRoute(grade: grade))
+                        path = newPath
                     } else {
                         showPaywall = true
                     }
@@ -146,11 +137,9 @@ struct AssessmentResultsScreen: View {
                 preloadedPlayer = AudioManager.shared.preload(soundName)
 
                 DispatchQueue.main.asyncAfter(deadline: .now() + 0.5) {
+                    preloadedPlayer?.play()
                     withAnimation(.spring(response: 0.8, dampingFraction: 0.55)) {
                         animatedProgress = passProbAfter
-                    }
-                    DispatchQueue.main.asyncAfter(deadline: .now() + 1.0) {
-                        preloadedPlayer?.play()
                     }
                     hasAnimated = true
                 }
