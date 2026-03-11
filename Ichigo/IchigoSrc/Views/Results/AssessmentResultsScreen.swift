@@ -88,9 +88,14 @@ struct AssessmentResultsScreen: View {
                 // Buttons
                 Button {
                     if storeManager.isUnlocked {
-                        var newPath = NavigationPath()
-                        newPath.append(QuizRoute(grade: grade))
-                        path = newPath
+                        var t = Transaction()
+                        t.disablesAnimations = true
+                        withTransaction(t) {
+                            path = NavigationPath()
+                        }
+                        DispatchQueue.main.asyncAfter(deadline: .now() + 0.05) {
+                            path.append(QuizRoute(grade: grade))
+                        }
                     } else {
                         showPaywall = true
                     }
