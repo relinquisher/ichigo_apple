@@ -1,7 +1,6 @@
 import SwiftUI
 
 struct SettingsScreen: View {
-    @Environment(StoreManager.self) private var storeManager
     @State private var viewModel: SettingsViewModel
     @AppStorage("timer_seconds") private var timerSeconds: Int = 10
     @AppStorage("show_example_default") private var showExampleByDefault: Bool = true
@@ -15,28 +14,6 @@ struct SettingsScreen: View {
 
     var body: some View {
         Form {
-            Section("アカウント") {
-                if storeManager.isPurchased {
-                    Label("フルバージョン購入済み", systemImage: "checkmark.seal.fill")
-                        .foregroundColor(.leafGreen)
-                } else if storeManager.isTrialActive {
-                    Label("トライアル中（のこり\(storeManager.trialDaysRemaining)日）", systemImage: "clock.fill")
-                        .foregroundColor(.strawberry)
-                } else {
-                    Label("トライアル期間終了", systemImage: "lock.fill")
-                        .foregroundColor(.secondary)
-                }
-
-                Button {
-                    Task { await storeManager.restore() }
-                } label: {
-                    HStack {
-                        Image(systemName: "arrow.clockwise")
-                        Text("購入を復元する")
-                    }
-                }
-            }
-
             Section("タイマー設定") {
                 VStack(alignment: .leading) {
                     Text("制限時間: \(timerSeconds)秒")

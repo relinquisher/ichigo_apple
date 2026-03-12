@@ -17,8 +17,6 @@ struct AssessmentResultsScreen: View {
     let repository: WordRepository
     @Binding var path: NavigationPath
 
-    @Environment(StoreManager.self) private var storeManager
-    @State private var showPaywall = false
     @State private var animatedProgress: Float
     @State private var hasAnimated = false
     @State private var preloadedPlayer: AVAudioPlayer?
@@ -87,17 +85,13 @@ struct AssessmentResultsScreen: View {
 
                 // Buttons
                 Button {
-                    if storeManager.isUnlocked {
-                        var t = Transaction()
-                        t.disablesAnimations = true
-                        withTransaction(t) {
-                            path = NavigationPath()
-                        }
-                        DispatchQueue.main.asyncAfter(deadline: .now() + 0.05) {
-                            path.append(QuizRoute(grade: grade))
-                        }
-                    } else {
-                        showPaywall = true
+                    var t = Transaction()
+                    t.disablesAnimations = true
+                    withTransaction(t) {
+                        path = NavigationPath()
+                    }
+                    DispatchQueue.main.asyncAfter(deadline: .now() + 0.05) {
+                        path.append(QuizRoute(grade: grade))
                     }
                 } label: {
                     Text("続ける")
@@ -126,9 +120,6 @@ struct AssessmentResultsScreen: View {
             .padding(32)
         }
         .navigationBarBackButtonHidden(true)
-        .fullScreenCover(isPresented: $showPaywall) {
-            PaywallView()
-        }
         .onAppear {
             AudioManager.shared.play("quiz_finish")
             if score == total && total > 0 {
