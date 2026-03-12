@@ -93,6 +93,9 @@ struct HomeScreen: View {
         .fullScreenCover(isPresented: $showPaywall) {
             PaywallView()
         }
+        .onAppear {
+            viewModel.loadData()
+        }
         .task {
             await storeManager.refreshStatus()
         }

@@ -1,7 +1,20 @@
 {
   "permissions": {
     "allow": [
-      "Bash(python:*)"
+      "Bash(python*)",
+      "Bash(xcodebuild*)",
+      "Bash(xcrun simctl*)",
+      "Bash(git *)",
+      "Bash(cd *)",
+      "Bash(ls*)",
+      "Bash(swift*)",
+      "Bash(cat *)",
+      "Bash(head *)",
+      "Bash(tail *)",
+      "Bash(find *)",
+      "Bash(grep *)",
+      "Bash(wc *)",
+      "Bash(mkdir *)"
     ]
   }
 }

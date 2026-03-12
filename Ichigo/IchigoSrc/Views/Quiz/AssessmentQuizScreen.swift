@@ -50,6 +50,7 @@ struct AssessmentQuizScreen: View {
                         removal: .opacity.combined(with: .offset(y: deltaIsPositive ? -80 : 80))
                     ))
                     .allowsHitTesting(false)
+                    .zIndex(10)
             }
         }
         .animation(.easeInOut(duration: 0.3), value: showExample)
